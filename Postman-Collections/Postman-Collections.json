@@ -97741,6 +97741,127 @@
 													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched categories.\",\n        \"categories\": [\n            {\n                \"id\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n                \"name\": \"Cereals\"\n            },\n            {\n                \"id\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n                \"name\": \"Laptops\"\n            },\n            {\n                \"id\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n                \"name\": \"Phones\"\n            },\n            {\n                \"id\": \"8ded4e42-0fae-495a-b32d-0699b89c5746\",\n                \"name\": \"Sports Memorabilia And Merchandise\"\n            },\n            {\n                \"id\": \"c2fa30b6-39d6-454b-acfb-a7fb794b10f7\",\n                \"name\": \"Fine Art And Collectible Paintings\"\n            },\n            {\n                \"id\": \"291a4ffc-4d7b-476a-8a2a-f4f296a91a0a\",\n                \"name\": \"Luxury And High-End Goods\"\n            },\n            {\n                \"id\": \"9f29bbb5-5746-4e82-a956-8924e3366afe\",\n                \"name\": \"Customized And Personalized Products\"\n            },\n            {\n                \"id\": \"a34ee11d-bc13-4d03-aff9-afeccd0744f9\",\n                \"name\": \"Educational Toys And Games\"\n            },\n            {\n                \"id\": \"7dc29ea0-c49b-471c-b473-82d155d0a8b0\",\n                \"name\": \"Home Entertainment Systems\"\n            },\n            {\n                \"id\": \"560478c6-934a-4f64-a552-a51e32678297\",\n                \"name\": \"Renewable Energy Solutions\"\n            },\n            {\n                \"id\": \"995d885d-8d0e-4983-9a34-f5073883fb78\",\n                \"name\": \"Home Security And Automation\"\n            },\n            {\n                \"id\": \"3abb0825-b00d-49b4-a8f9-a0e8d8c27688\",\n                \"name\": \"Event Planning And Decorations\"\n            },\n            {\n                \"id\": \"78cf441b-a13d-47c1-af7c-210b1b33bc47\",\n                \"name\": \"Party And Entertainment Services\"\n            },\n            {\n                \"id\": \"51d721f5-00be-44ba-8be7-9accff467f57\",\n                \"name\": \"Religious And Spiritual Items\"\n            },\n            {\n                \"id\": \"488eb4ed-9724-4190-b1e2-2848a21a7ba4\",\n                \"name\": \"Security And Surveillance Products\"\n            },\n            {\n                \"id\": \"f4ea982c-a1d9-4de4-9ac8-225f69dc17e4\",\n                \"name\": \"Scientific And Laboratory Equipment\"\n            },\n            {\n                \"id\": \"80378c00-4441-4503-93e3-2480792182cc\",\n                \"name\": \"Educational Supplies And Materials\"\n            },\n            {\n                \"id\": \"bcf708cf-0db1-49c3-bf90-b88b0fff03e7\",\n                \"name\": \"Environmental And Sustainability Products\"\n            },\n            {\n                \"id\": \"bdd2866f-a030-42bd-a00c-971903aa9de6\",\n                \"name\": \"Energy And Power Generation Equipment\"\n            },\n            {\n                \"id\": \"7ed03911-ebd6-434d-8194-deb6bb4325bc\",\n                \"name\": \"Marine Equipment And Supplies\"\n            }\n        ],\n        \"count\": 20,\n        \"total_categories\": 73\n    },\n    \"errors\": null\n}"
 												}
 											]
+										},
+										{
+											"name": "fetch categories available Copy",
+											"id": "c8eae456-161e-4503-a5d5-aaa6c7925a52",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_available_categories?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_available_categories"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "page",
+															"value": "1"
+														},
+														{
+															"key": "size",
+															"value": "20"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "b3938b95-0f8e-44e8-a6b1-3218c5ee8d69",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_available_categories?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_available_categories"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "page",
+																	"value": "1"
+																},
+																{
+																	"key": "size",
+																	"value": "20"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:13:02 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "1830"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched categories.\",\n        \"categories\": [\n            {\n                \"id\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n                \"name\": \"Cereals\"\n            },\n            {\n                \"id\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n                \"name\": \"Laptops\"\n            },\n            {\n                \"id\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n                \"name\": \"Phones\"\n            },\n            {\n                \"id\": \"8ded4e42-0fae-495a-b32d-0699b89c5746\",\n                \"name\": \"Sports Memorabilia And Merchandise\"\n            },\n            {\n                \"id\": \"c2fa30b6-39d6-454b-acfb-a7fb794b10f7\",\n                \"name\": \"Fine Art And Collectible Paintings\"\n            },\n            {\n                \"id\": \"291a4ffc-4d7b-476a-8a2a-f4f296a91a0a\",\n                \"name\": \"Luxury And High-End Goods\"\n            },\n            {\n                \"id\": \"9f29bbb5-5746-4e82-a956-8924e3366afe\",\n                \"name\": \"Customized And Personalized Products\"\n            },\n            {\n                \"id\": \"a34ee11d-bc13-4d03-aff9-afeccd0744f9\",\n                \"name\": \"Educational Toys And Games\"\n            },\n            {\n                \"id\": \"7dc29ea0-c49b-471c-b473-82d155d0a8b0\",\n                \"name\": \"Home Entertainment Systems\"\n            },\n            {\n                \"id\": \"560478c6-934a-4f64-a552-a51e32678297\",\n                \"name\": \"Renewable Energy Solutions\"\n            },\n            {\n                \"id\": \"995d885d-8d0e-4983-9a34-f5073883fb78\",\n                \"name\": \"Home Security And Automation\"\n            },\n            {\n                \"id\": \"3abb0825-b00d-49b4-a8f9-a0e8d8c27688\",\n                \"name\": \"Event Planning And Decorations\"\n            },\n            {\n                \"id\": \"78cf441b-a13d-47c1-af7c-210b1b33bc47\",\n                \"name\": \"Party And Entertainment Services\"\n            },\n            {\n                \"id\": \"51d721f5-00be-44ba-8be7-9accff467f57\",\n                \"name\": \"Religious And Spiritual Items\"\n            },\n            {\n                \"id\": \"488eb4ed-9724-4190-b1e2-2848a21a7ba4\",\n                \"name\": \"Security And Surveillance Products\"\n            },\n            {\n                \"id\": \"f4ea982c-a1d9-4de4-9ac8-225f69dc17e4\",\n                \"name\": \"Scientific And Laboratory Equipment\"\n            },\n            {\n                \"id\": \"80378c00-4441-4503-93e3-2480792182cc\",\n                \"name\": \"Educational Supplies And Materials\"\n            },\n            {\n                \"id\": \"bcf708cf-0db1-49c3-bf90-b88b0fff03e7\",\n                \"name\": \"Environmental And Sustainability Products\"\n            },\n            {\n                \"id\": \"bdd2866f-a030-42bd-a00c-971903aa9de6\",\n                \"name\": \"Energy And Power Generation Equipment\"\n            },\n            {\n                \"id\": \"7ed03911-ebd6-434d-8194-deb6bb4325bc\",\n                \"name\": \"Marine Equipment And Supplies\"\n            }\n        ],\n        \"count\": 20,\n        \"total_categories\": 73\n    },\n    \"errors\": null\n}"
+												}
+											]
 										}
 									],
 									"id": "4183cdb0-d160-4110-a8d3-89f8071c1e42"
