@@ -93987,6 +93987,28 @@
 									"item": [
 										{
 											"name": "Create webstore-Success",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "a991839d-052d-4903-a24d-c9c5938e4c8e",
+														"exec": [
+															"const jsonData = pm.response.json()\r",
+															"\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"pm.test('response body includes a message' , function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store already exists for this branch: Plainfield\")\r",
+															"})\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "e77fb837-57ca-416a-8319-11d677b8833f",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -94541,7 +94563,7 @@
 											]
 										},
 										{
-											"name": "Create webstore-Invalid Auth Copy",
+											"name": "Create webstore-Optional Branch ID",
 											"id": "e644b3ca-ab88-4e8b-b2ab-668db96f32b5",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
