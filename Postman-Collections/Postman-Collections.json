@@ -97976,6 +97976,117 @@
 												"disableBodyPruning": true
 											},
 											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{base_url}}/instant_web/company_available_stock?company_id={{company_Id}}",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_available_stock"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "{{company_Id}}"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "b1066700-29ec-46fd-9f1f-7d113acab11f",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_available_stock?company_id=3a90781c-621c-4857-91c2-515f5f798a9b",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_available_stock"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:11:05 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "1638"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"count\": 6,\n    \"next\": null,\n    \"previous\": null,\n    \"results\": [\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n            \"item\": \"0d17e08a-6ca6-4831-9c25-c059d543b138\",\n            \"item_name\": \"Iphone 11 Pro Max\",\n            \"quantity\": 60,\n            \"selling_price\": \"525900.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"baa39637-7e0b-4b25-9d07-d46a9903072e\",\n            \"item\": \"f9ba3703-4f08-4f04-8e30-332aa11238cf\",\n            \"item_name\": \"Toyota Camry\",\n            \"quantity\": 15,\n            \"selling_price\": \"10500780.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n            \"item\": \"49fa3066-9540-4fbd-8cc8-236a83863710\",\n            \"item_name\": \"Kelloggs Corn Flakes\",\n            \"quantity\": 300,\n            \"selling_price\": \"7450.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n            \"item\": \"15fd9ce4-7d4a-4fd7-b5d8-19524732bdb8\",\n            \"item_name\": \"Apple Macbook Air\",\n            \"quantity\": 360,\n            \"selling_price\": \"1350499.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n            \"item\": \"ff1bf0f7-9e43-4969-a8d7-3b2540b3c797\",\n            \"item_name\": \"Samsung Galaxy A35\",\n            \"quantity\": 75,\n            \"selling_price\": \"185500.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"b5232a48-77e8-451f-8c57-70d38278d0c4\",\n            \"item\": \"8a9f7359-8493-44da-aa5e-d00dd026f4c6\",\n            \"item_name\": \"Lg Touch Microwave Oven\",\n            \"quantity\": 150,\n            \"selling_price\": \"175255.00\",\n            \"image\": null\n        }\n    ]\n}"
+												}
+											]
+										},
+										{
+											"name": "fetch available stock-Invalid company ID",
+											"id": "89f3f4cc-61f6-431f-9aed-30c65bde67d8",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
 												"method": "GET",
 												"header": [],
 												"url": {
@@ -97997,7 +98108,7 @@
 											},
 											"response": [
 												{
-													"id": "b1066700-29ec-46fd-9f1f-7d113acab11f",
+													"id": "76564d38-ce83-4022-aff1-fc524a88279c",
 													"name": "success",
 													"originalRequest": {
 														"method": "GET",
