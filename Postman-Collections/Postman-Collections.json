@@ -94475,23 +94475,45 @@
 										},
 										{
 											"name": "Create webstore-Invalid Auth",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "6e7712d0-7591-4722-bbe7-d2f679fe0797",
+														"exec": [
+															"const jsonData = pm.response.json()\r",
+															"\r",
+															"pm.test(\"Status code is 401\", function () {\r",
+															"    pm.response.to.have.status(401);\r",
+															"});\r",
+															"\r",
+															"pm.test(\"message is an object\", function(){\r",
+															"    pm.expect(typeof jsonData.messages).to.eql(\"object\")\r",
+															"})\r",
+															"pm.test(\"code returned\", function(){\r",
+															"    pm.expect(jsonData.code).to.eql(\"token_not_valid\")\r",
+															"})"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "ea2a34ba-c81b-46ba-864d-b30aeb87d389",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
 											},
 											"request": {
 												"auth": {
-													"type": "bearer",
-													"bearer": {
-														"token": "{{accessToken}}"
-													}
+													"type": "noauth"
 												},
 												"method": "POST",
 												"header": [
 													{
 														"key": "Authorization",
-														"value": "Bearer {{live_token}}",
-														"type": "text"
+														"value": "",
+														"type": "text",
+														"disabled": true
 													}
 												],
 												"body": {
@@ -94586,6 +94608,40 @@
 										},
 										{
 											"name": "Create webstore-Empty Mandatory field",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "49066b87-15d7-4afa-83c0-85a3644b70b2",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"// Check for specific error messages\r",
+															"pm.test(\"Field 'company' should not be null\", function () {\r",
+															"    pm.expect(jsonData.company_id).to.include(\"This field may not be null.\");\r",
+															"});\r",
+															"\r",
+															"pm.test(\"Field 'branch' should not be null\", function () {\r",
+															"    pm.expect(jsonData.branch_id).to.include(\"This field may not be null.\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"pm.test(\"Field 'description' may not be blank\", function () {\r",
+															"    pm.expect(jsonData.description).to.include(\"This field may not be blank.\");\r",
+															"});\r",
+															"\r",
+															"pm.test(\"Field 'store url' may not be blank\", function () {\r",
+															"    pm.expect(jsonData.store_url).to.include(\"This field may not be blank.\");\r",
+															"});"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "e644b3ca-ab88-4e8b-b2ab-668db96f32b5",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -94607,7 +94663,7 @@
 												],
 												"body": {
 													"mode": "raw",
-													"raw": "{\n    \"company_id\": \"{{company_Id}}\",\n    \"branch_id\": \"{{branch_id2}}\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
+													"raw": "{\n    \"company_id\": \"\",\n    \"branch_id\": \"\", // optional\n    \"description\": \"\",\n    \"store_url\": \"\"\n}",
 													"options": {
 														"raw": {
 															"language": "json"
