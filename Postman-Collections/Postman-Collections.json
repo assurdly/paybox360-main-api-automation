@@ -94000,7 +94000,7 @@
 															"});\r",
 															"\r",
 															"pm.test('response body includes a message' , function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store already exists for this branch: Plainfield\")\r",
+															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store created successfully\")\r",
 															"})\r",
 															""
 														],
@@ -94120,6 +94120,28 @@
 										},
 										{
 											"name": "Create webstore-Duplicate branch",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "252f6198-ede4-4382-9c55-f6b5c0013b50",
+														"exec": [
+															"const jsonData = pm.response.json()\r",
+															"\r",
+															"pm.test(\"Status code is 200\", function () {\r",
+															"    pm.response.to.have.status(200);\r",
+															"});\r",
+															"\r",
+															"pm.test('response body includes a message' , function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store already exists for this branch: Plainfield\")\r",
+															"})\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "d842cf7b-b2e4-43d0-a9ba-ac68aedfb4cc",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
