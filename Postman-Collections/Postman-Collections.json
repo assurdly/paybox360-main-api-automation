@@ -98755,6 +98755,262 @@
 													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched product(s).\",\n        \"items\": [\n            {\n                \"name\": \"Kelloggs Corn Flakes\",\n                \"product_description\": \"500g\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            }\n        ],\n        \"count\": 1,\n        \"total_items\": 1\n    },\n    \"errors\": null\n}"
 												}
 											]
+										},
+										{
+											"name": "retrieve item details Copy",
+											"id": "eabc6f04-39e2-466d-8bf6-fdeb151c955a",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_item_details"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "item_id",
+															"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "ee7905b0-2483-464f-b6d9-14fa279c7fcf",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_item_details"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "item_id",
+																	"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:24:54 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "281"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched product(s).\",\n        \"items\": [\n            {\n                \"name\": \"Kelloggs Corn Flakes\",\n                \"product_description\": \"500g\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            }\n        ],\n        \"count\": 1,\n        \"total_items\": 1\n    },\n    \"errors\": null\n}"
+												}
+											]
+										},
+										{
+											"name": "retrieve item details Copy",
+											"id": "a09d4e70-7683-474f-a96e-b73745c1bac5",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_item_details"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "item_id",
+															"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "d2e0cac1-cb42-4fba-98f7-f98b8b194140",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_item_details"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "item_id",
+																	"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:24:54 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "281"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched product(s).\",\n        \"items\": [\n            {\n                \"name\": \"Kelloggs Corn Flakes\",\n                \"product_description\": \"500g\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            }\n        ],\n        \"count\": 1,\n        \"total_items\": 1\n    },\n    \"errors\": null\n}"
+												}
+											]
 										}
 									],
 									"id": "d091a511-eaa8-4d94-95ff-24cb24e40f08"
