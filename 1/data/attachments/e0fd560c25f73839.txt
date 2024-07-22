@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Handmade Fresh Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Cotton Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lebinoclard_128.jpg",    
+                    "item": "Ergonomic Cotton Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

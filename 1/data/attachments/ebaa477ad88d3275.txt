@@ -1,0 +1,10 @@
+{
+    "salary_name": "Hotel",
+    "calculation_type": "PERCENTAGE_GROSS",
+    "amount": 15,
+    "frequency": "MONTHLY",
+    "is_active": true,
+    "part_of_employee_structure": true,
+    "calculate_pay_schedule_basis": true,
+    "show_on_payslip": true
+}

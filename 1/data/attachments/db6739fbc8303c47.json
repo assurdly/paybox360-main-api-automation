@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "da07a4f2-7b09-4485-ac71-d4c3ffed1f73",
+    "Host": "api.youverify.co",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "94"
+}

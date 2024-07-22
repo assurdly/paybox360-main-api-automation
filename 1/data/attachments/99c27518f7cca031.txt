@@ -1,0 +1,7 @@
+{
+    "name": "Myron Wilderman",
+    "email": "Justice_Schumm50@mailinator.com",
+    "phone_number": "08034737061",
+    "address": "Idumota, Lagos",
+    "company": ""
+}
