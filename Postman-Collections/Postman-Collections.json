@@ -93975,6 +93975,1096 @@
 						}
 					],
 					"id": "739b62f4-f82e-42dc-973e-d83b392ab489"
+				},
+				{
+					"name": "Webstore management",
+					"item": [
+						{
+							"name": "store",
+							"item": [
+								{
+									"name": "Create webstore",
+									"item": [
+										{
+											"name": "Create webstore-Success",
+											"id": "e77fb837-57ca-416a-8319-11d677b8833f",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company_id\": \"{{company_Id}}\",\n    \"branch_id\": \"{{branch_id2}}\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/instant_web/instant_web/"
+											},
+											"response": [
+												{
+													"id": "84181bd2-0311-4b6f-a136-b9a026e1a617",
+													"name": "succcess",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company_id\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n    \"branch_id\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{live_base_url}}/instant_web/instant_web/"
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 14:10:36 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "40"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "POST, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": \"store created successfully\"\n}"
+												}
+											]
+										}
+									],
+									"id": "aff0ea75-8694-4d94-9f4e-ca04054b9987"
+								},
+								{
+									"name": "Retrieve webstore",
+									"item": [
+										{
+											"name": "retrieve webstore",
+											"id": "9b5a4c45-f3a4-40df-8298-f26776d00cf5",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"retrieve_instant_web",
+														""
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "branch_id",
+															"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "55e0ab1a-6ee1-46a3-9ed6-cd039eec067f",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"retrieve_instant_web",
+																""
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "branch_id",
+																	"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Wed, 17 Jul 2024 05:10:37 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "647"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"id\": \"2779949e-a1a7-4d50-9553-b86bd070b911\",\n    \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n    \"contact_visible\": false,\n    \"contact_phone_number\": null,\n    \"contact_email\": null,\n    \"contact_address\": null,\n    \"navigation_visible\": false,\n    \"navigation_set_menu\": [],\n    \"navigation_alignment\": \"TOP\",\n    \"header_description\": null,\n    \"header_image\": null,\n    \"header_logo\": null,\n    \"header_logo_text\": null,\n    \"store_brand_color\": null,\n    \"redirect_phone_number\": null,\n    \"order_completion_message\": null,\n    \"redirect_after_payment_url\": null,\n    \"success_message\": null,\n    \"notification\": null,\n    \"store_description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}"
+												}
+											]
+										}
+									],
+									"id": "eeca81df-126f-4cb6-8009-8adced4fd3a2"
+								},
+								{
+									"name": "Create category",
+									"item": [
+										{
+											"name": "create category",
+											"id": "0f3005b4-9e9b-437c-9bc2-aa57092a261c",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company\": \"{{company_Id}}\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/api/v1/stock/categories/"
+											},
+											"response": [
+												{
+													"id": "148d2651-b6cf-49d3-99fb-1c546a2a2b78",
+													"name": "success",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{live_base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Created",
+													"code": 201,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Wed, 17 Jul 2024 17:51:33 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "943"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, DELETE, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [\n            {\n                \"id\": \"afd400b8-6a92-456b-bd22-dfd098ebb1a8\",\n                \"created_at\": \"2024-07-17T18:51:33.028321+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"Oak Industries\",\n                \"has_products\": false,\n                \"stock_count\": 0\n            },\n            {\n                \"id\": \"07df4bb4-25d9-43a7-9672-f09e454f677e\",\n                \"created_at\": \"2024-07-17T18:51:33.037243+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"Oak Industries\",\n                \"has_products\": false,\n                \"stock_count\": 0\n            },\n            {\n                \"id\": \"296117f2-f549-453e-bf30-c17a80c25f1a\",\n                \"created_at\": \"2024-07-17T18:51:33.039452+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"Oak Industries\",\n                \"has_products\": false,\n                \"stock_count\": 0\n            }\n        ],\n        \"existing_categories\": []\n    },\n    \"errors\": null\n}"
+												}
+											]
+										}
+									],
+									"id": "c660dac4-585e-4381-a211-6b204e4e47c6"
+								},
+								{
+									"name": "Fetch category",
+									"item": [
+										{
+											"name": "fetch categories",
+											"id": "db0d1150-0e67-4b30-a73c-df86b9899e59",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{base_url}}/api/v1/stock/available_categories?company={{company_Id}}&page=1",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"api",
+														"v1",
+														"stock",
+														"available_categories"
+													],
+													"query": [
+														{
+															"key": "company",
+															"value": "{{company_Id}}"
+														},
+														{
+															"key": "page",
+															"value": "1"
+														},
+														{
+															"key": "size",
+															"value": "20",
+															"disabled": true
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "6fbe08b2-7e1b-4dc8-a2b5-e08dea951767",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/api/v1/stock/available_categories?company=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"api",
+																"v1",
+																"stock",
+																"available_categories"
+															],
+															"query": [
+																{
+																	"key": "company",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "page",
+																	"value": "1"
+																},
+																{
+																	"key": "size",
+																	"value": "20"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:27:45 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "879"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched categories.\",\n        \"categories\": [\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n                \"name\": \"Phones\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"b5232a48-77e8-451f-8c57-70d38278d0c4\",\n                \"name\": \"Electronics\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"baa39637-7e0b-4b25-9d07-d46a9903072e\",\n                \"name\": \"Automobiles\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n                \"name\": \"Cereals\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n                \"name\": \"Laptops\"\n            }\n        ],\n        \"count\": 5,\n        \"total_categories\": 5\n    },\n    \"errors\": null\n}"
+												}
+											]
+										}
+									],
+									"id": "2facadc7-467c-43c8-9427-f86380057d05"
+								},
+								{
+									"name": "Customize webstore",
+									"item": [
+										{
+											"name": "customize",
+											"id": "0d29787e-27dd-4e86-8c08-fb82fc3ec13a",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "PUT",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\r\n    \"store_brand_color\": \"#336699\",\r\n    \"store_description\": \"This is a sample store description.\",\r\n    \"header_description\": \"Welcome to our store!\",\r\n    \"header_image\": {\r\n        \"id\": \"1\",\r\n        \"url\": \"https://example.com/images/header.jpg\"\r\n    },\r\n    \"header_logo\": {\r\n        \"id\": \"1\",\r\n        \"url\": \"https://example.com/images/header.jpg\"\r\n    },\r\n    \"header_logo_text\": \"StoreName\",\r\n    \"navigation_visible\": true,\r\n    \"navigation_set_menu\": [\r\n        {\r\n            \"id\": \"a6845ea0-3f9a-41ac-b174-ab6aeeeb25d7\",\r\n            \"name\": \"Laptops\",\r\n            \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\r\n            \"created_by\": \"Augustine Jibunoh\",\r\n            \"company_name\": \"Oak Industries\",\r\n            \"has_products\": true,\r\n            \"stock_count\": 7\r\n        }\r\n    ],\r\n    \"navigation_alignment\": \"TOP\",\r\n    \"contact_visible\": true,\r\n    \"contact_phone_number\": \"1234567890\",\r\n    \"contact_email\": \"contact@example.com\",\r\n    \"contact_address\": \"123 Main St, City, Country\",\r\n    \"redirect_phone_number\": \"0987654321\",\r\n    \"interface_theme\": \"DARK\",\r\n    \"order_completion_message\": \"Your order has been successfully placed.\",\r\n    \"redirect_after_payment_url\": \"https://example.com/redirect\",\r\n    \"success_message\": \"It is a success message dummy\",\r\n    \"notification\": \"Notification of Life\"\r\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/update_instant_web/?id=2779949e-a1a7-4d50-9553-b86bd070b911",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"update_instant_web",
+														""
+													],
+													"query": [
+														{
+															"key": "id",
+															"value": "2779949e-a1a7-4d50-9553-b86bd070b911"
+														}
+													]
+												}
+											},
+											"response": []
+										}
+									],
+									"id": "a41b1875-6be6-49f4-95d8-27cad25a2de2"
+								}
+							],
+							"id": "85f5204a-66c7-4a81-95f4-c86d07aaf232"
+						},
+						{
+							"name": "store front",
+							"item": [
+								{
+									"name": "Fetch categories",
+									"item": [
+										{
+											"name": "fetch categories available",
+											"id": "57225f4d-91a4-462e-8f86-4e899f413c6f",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_available_categories?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_available_categories"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "page",
+															"value": "1"
+														},
+														{
+															"key": "size",
+															"value": "20"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "cb93a98c-56fc-4cd2-a7fe-1f411cf747ba",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_available_categories?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_available_categories"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "page",
+																	"value": "1"
+																},
+																{
+																	"key": "size",
+																	"value": "20"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:13:02 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "1830"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched categories.\",\n        \"categories\": [\n            {\n                \"id\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n                \"name\": \"Cereals\"\n            },\n            {\n                \"id\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n                \"name\": \"Laptops\"\n            },\n            {\n                \"id\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n                \"name\": \"Phones\"\n            },\n            {\n                \"id\": \"8ded4e42-0fae-495a-b32d-0699b89c5746\",\n                \"name\": \"Sports Memorabilia And Merchandise\"\n            },\n            {\n                \"id\": \"c2fa30b6-39d6-454b-acfb-a7fb794b10f7\",\n                \"name\": \"Fine Art And Collectible Paintings\"\n            },\n            {\n                \"id\": \"291a4ffc-4d7b-476a-8a2a-f4f296a91a0a\",\n                \"name\": \"Luxury And High-End Goods\"\n            },\n            {\n                \"id\": \"9f29bbb5-5746-4e82-a956-8924e3366afe\",\n                \"name\": \"Customized And Personalized Products\"\n            },\n            {\n                \"id\": \"a34ee11d-bc13-4d03-aff9-afeccd0744f9\",\n                \"name\": \"Educational Toys And Games\"\n            },\n            {\n                \"id\": \"7dc29ea0-c49b-471c-b473-82d155d0a8b0\",\n                \"name\": \"Home Entertainment Systems\"\n            },\n            {\n                \"id\": \"560478c6-934a-4f64-a552-a51e32678297\",\n                \"name\": \"Renewable Energy Solutions\"\n            },\n            {\n                \"id\": \"995d885d-8d0e-4983-9a34-f5073883fb78\",\n                \"name\": \"Home Security And Automation\"\n            },\n            {\n                \"id\": \"3abb0825-b00d-49b4-a8f9-a0e8d8c27688\",\n                \"name\": \"Event Planning And Decorations\"\n            },\n            {\n                \"id\": \"78cf441b-a13d-47c1-af7c-210b1b33bc47\",\n                \"name\": \"Party And Entertainment Services\"\n            },\n            {\n                \"id\": \"51d721f5-00be-44ba-8be7-9accff467f57\",\n                \"name\": \"Religious And Spiritual Items\"\n            },\n            {\n                \"id\": \"488eb4ed-9724-4190-b1e2-2848a21a7ba4\",\n                \"name\": \"Security And Surveillance Products\"\n            },\n            {\n                \"id\": \"f4ea982c-a1d9-4de4-9ac8-225f69dc17e4\",\n                \"name\": \"Scientific And Laboratory Equipment\"\n            },\n            {\n                \"id\": \"80378c00-4441-4503-93e3-2480792182cc\",\n                \"name\": \"Educational Supplies And Materials\"\n            },\n            {\n                \"id\": \"bcf708cf-0db1-49c3-bf90-b88b0fff03e7\",\n                \"name\": \"Environmental And Sustainability Products\"\n            },\n            {\n                \"id\": \"bdd2866f-a030-42bd-a00c-971903aa9de6\",\n                \"name\": \"Energy And Power Generation Equipment\"\n            },\n            {\n                \"id\": \"7ed03911-ebd6-434d-8194-deb6bb4325bc\",\n                \"name\": \"Marine Equipment And Supplies\"\n            }\n        ],\n        \"count\": 20,\n        \"total_categories\": 73\n    },\n    \"errors\": null\n}"
+												}
+											]
+										}
+									],
+									"id": "4183cdb0-d160-4110-a8d3-89f8071c1e42"
+								},
+								{
+									"name": "Fetch stock",
+									"item": [
+										{
+											"name": "fetch available stocks",
+											"id": "c4efeced-63bf-4ae1-9f93-c2ce7ba75199",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_available_stock?company_id=3a90781c-621c-4857-91c2-515f5f798a9b",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_available_stock"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "b1066700-29ec-46fd-9f1f-7d113acab11f",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_available_stock?company_id=3a90781c-621c-4857-91c2-515f5f798a9b",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_available_stock"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:11:05 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "1638"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"count\": 6,\n    \"next\": null,\n    \"previous\": null,\n    \"results\": [\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n            \"item\": \"0d17e08a-6ca6-4831-9c25-c059d543b138\",\n            \"item_name\": \"Iphone 11 Pro Max\",\n            \"quantity\": 60,\n            \"selling_price\": \"525900.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"baa39637-7e0b-4b25-9d07-d46a9903072e\",\n            \"item\": \"f9ba3703-4f08-4f04-8e30-332aa11238cf\",\n            \"item_name\": \"Toyota Camry\",\n            \"quantity\": 15,\n            \"selling_price\": \"10500780.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n            \"item\": \"49fa3066-9540-4fbd-8cc8-236a83863710\",\n            \"item_name\": \"Kelloggs Corn Flakes\",\n            \"quantity\": 300,\n            \"selling_price\": \"7450.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n            \"item\": \"15fd9ce4-7d4a-4fd7-b5d8-19524732bdb8\",\n            \"item_name\": \"Apple Macbook Air\",\n            \"quantity\": 360,\n            \"selling_price\": \"1350499.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n            \"item\": \"ff1bf0f7-9e43-4969-a8d7-3b2540b3c797\",\n            \"item_name\": \"Samsung Galaxy A35\",\n            \"quantity\": 75,\n            \"selling_price\": \"185500.00\",\n            \"image\": null\n        },\n        {\n            \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n            \"branch_name\": \"Head Office 1\",\n            \"category\": \"b5232a48-77e8-451f-8c57-70d38278d0c4\",\n            \"item\": \"8a9f7359-8493-44da-aa5e-d00dd026f4c6\",\n            \"item_name\": \"Lg Touch Microwave Oven\",\n            \"quantity\": 150,\n            \"selling_price\": \"175255.00\",\n            \"image\": null\n        }\n    ]\n}"
+												}
+											]
+										}
+									],
+									"id": "579656ac-1de3-4638-b6d8-d91ee893143f"
+								},
+								{
+									"name": "Fetch items",
+									"item": [
+										{
+											"name": "fetch item details",
+											"id": "7c2158e7-ff58-428f-8018-ed5881f97eec",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"method": "GET",
+												"header": [],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_item_details"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "page",
+															"value": "1"
+														},
+														{
+															"key": "size",
+															"value": "20"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "cfa3f747-9e33-48fd-a579-763b225dd792",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_item_details"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "page",
+																	"value": "1"
+																},
+																{
+																	"key": "size",
+																	"value": "20"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:19:08 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "1023"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched product(s).\",\n        \"items\": [\n            {\n                \"name\": \"Iphone 11 Pro Max\",\n                \"product_description\": \"White, 256GB, 4GB\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            },\n            {\n                \"name\": \"Toyota Camry\",\n                \"product_description\": \"Spider, 2010\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            },\n            {\n                \"name\": \"Kelloggs Corn Flakes\",\n                \"product_description\": \"500g\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            },\n            {\n                \"name\": \"Apple Macbook Air\",\n                \"product_description\": \"250GB, 8GB, Core i5\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            },\n            {\n                \"name\": \"Samsung Galaxy A35\",\n                \"product_description\": \"Gold, 128GB, 8GB\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            },\n            {\n                \"name\": \"Lg Touch Microwave Oven\",\n                \"product_description\": \"Black, 25 LItres\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            }\n        ],\n        \"count\": 6,\n        \"total_items\": 6\n    },\n    \"errors\": null\n}"
+												}
+											]
+										}
+									],
+									"id": "a09ddb2a-d91b-451a-ad2e-2fd87b74a6ae"
+								},
+								{
+									"name": "Retrieve Item",
+									"item": [
+										{
+											"name": "retrieve item details",
+											"id": "456e3a67-4a23-4f55-ad13-a13e726a39de",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+													"host": [
+														"{{live_base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"company_item_details"
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "item_id",
+															"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "3ff1ef99-089c-4491-983a-417e3327f4f1",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"company_item_details"
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "item_id",
+																	"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:24:54 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "281"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched product(s).\",\n        \"items\": [\n            {\n                \"name\": \"Kelloggs Corn Flakes\",\n                \"product_description\": \"500g\",\n                \"product_tag\": null,\n                \"selling_price\": \"0.00\",\n                \"images\": [\n                    null,\n                    null,\n                    null,\n                    null,\n                    null\n                ]\n            }\n        ],\n        \"count\": 1,\n        \"total_items\": 1\n    },\n    \"errors\": null\n}"
+												}
+											]
+										}
+									],
+									"id": "d091a511-eaa8-4d94-95ff-24cb24e40f08"
+								}
+							],
+							"id": "a6e41aaa-20d8-4bf5-bf27-234cca0b8c7d"
+						}
+					],
+					"id": "c5fb690e-ad50-47df-ab37-4eeada93ad60"
 				}
 			],
 			"id": "a0feec93-6f99-4d7a-92bb-04cc359213e9"
