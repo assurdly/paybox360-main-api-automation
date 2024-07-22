@@ -98986,6 +98986,55 @@
 										},
 										{
 											"name": "retrieve item details Copy",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "e441d85f-a4d8-4d69-ace7-14b6fe3019b5",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 200\", function () {\r",
+															"    pm.response.to.have.status(200);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'success'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"success\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 200\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 200);\r",
+															"});\r",
+															"\r",
+															"// Check the errors field\r",
+															"pm.test(\"Errors field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"errors\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the data field is an object\r",
+															"pm.test(\"Data field is an object\", function () {\r",
+															"    pm.expect(jsonData.data).to.have.property(\"message\").that.includes('successfully fetched product(s).');\r",
+															"});\r",
+															"\r",
+															"pm.test(\"Data field is an object\", function () {\r",
+															"    pm.expect(jsonData.data).to.have.property(\"items\").that.is.an('array').and.is.empty;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "a09d4e70-7683-474f-a96e-b73745c1bac5",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
