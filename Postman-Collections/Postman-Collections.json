@@ -96521,7 +96521,10 @@
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "POST",
 												"header": [
@@ -96792,7 +96795,10 @@
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "POST",
 												"header": [
