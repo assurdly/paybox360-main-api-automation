@@ -98630,26 +98630,77 @@
 									"item": [
 										{
 											"name": "retrieve item details",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "65a56804-163f-4592-aef2-158af9be3e13",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 200\", function () {\r",
+															"    pm.response.to.have.status(200);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'success'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"success\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 200\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 200);\r",
+															"});\r",
+															"\r",
+															"// Check the errors field\r",
+															"pm.test(\"Errors field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"errors\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the data field is an object\r",
+															"pm.test(\"Data field is an object\", function () {\r",
+															"    pm.expect(jsonData.data).to.have.property(\"message\").that.includes('successfully fetched product(s).');\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "456e3a67-4a23-4f55-ad13-a13e726a39de",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "GET",
 												"header": [
 													{
 														"key": "Authorization",
-														"value": "Bearer {{live_token}}",
-														"type": "text"
+														"value": "",
+														"type": "text",
+														"disabled": true
 													}
 												],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+													"raw": "{{base_url}}/instant_web/company_item_details?company_id={{company_Id}}&item_id=92a940c5-4b60-4bc1-9f6c-8c1c1d3c4011",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -98658,11 +98709,11 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "{{company_Id}}"
 														},
 														{
 															"key": "item_id",
-															"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+															"value": "92a940c5-4b60-4bc1-9f6c-8c1c1d3c4011"
 														}
 													]
 												}
