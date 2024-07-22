@@ -94804,6 +94804,46 @@
 									"item": [
 										{
 											"name": "Retrieve webstore-Success",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "08a7fd01-0a7c-4dbf-a1d5-0d1d5ccc426a",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 200\", function () {\r",
+															"    pm.response.to.have.status(200);\r",
+															"});\r",
+															"\r",
+															"// Check the id field\r",
+															"pm.test(\"Id field 'exists'\", function () {\r",
+															"    pm.expect(jsonData.id).to.exist.and.to.be.a('string');\r",
+															"});\r",
+															"\r",
+															"// Check the branch field exist\r",
+															"pm.test(\"branch field 'exists'\", function () {\r",
+															"    pm.expect(jsonData.branch).to.exist.and.to.be.a('string');\r",
+															"});\r",
+															"\r",
+															"// Check the store description field\r",
+															"pm.test(\"contact visible field 'exists'\", function () {\r",
+															"    pm.expect(jsonData.store_description).to.exist.and.to.be.a('string');\r",
+															"});\r",
+															"\r",
+															"// Check the store url field exist\r",
+															"pm.test(\"store field 'exists'\", function () {\r",
+															"    pm.expect(jsonData.store_url).to.exist.and.to.be.a('string');\r",
+															"});\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "9b5a4c45-f3a4-40df-8298-f26776d00cf5",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -94824,7 +94864,7 @@
 													}
 												],
 												"url": {
-													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id={{company_Id}}&branch_id={{branch_id2}}",
 													"host": [
 														"{{base_url}}"
 													],
@@ -94836,11 +94876,11 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "{{company_Id}}"
 														},
 														{
 															"key": "branch_id",
-															"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+															"value": "{{branch_id2}}"
 														}
 													]
 												}
