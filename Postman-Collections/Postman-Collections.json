@@ -96018,7 +96018,10 @@
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "PUT",
 												"header": [
@@ -96030,7 +96033,7 @@
 												],
 												"body": {
 													"mode": "raw",
-													"raw": "{\r\n    \"store_brand_color\": \"#336699\",\r\n    \"store_description\": \"This is a sample store description.\",\r\n    \"header_description\": \"Welcome to our store!\",\r\n    \"header_image\": {\r\n        \"id\": \"1\",\r\n        \"url\": \"https://example.com/images/header.jpg\"\r\n    },\r\n    \"header_logo\": {\r\n        \"id\": \"1\",\r\n        \"url\": \"https://example.com/images/header.jpg\"\r\n    },\r\n    \"header_logo_text\": \"StoreName\",\r\n    \"navigation_visible\": true,\r\n    \"navigation_set_menu\": [\r\n        {\r\n            \"id\": \"a6845ea0-3f9a-41ac-b174-ab6aeeeb25d7\",\r\n            \"name\": \"Laptops\",\r\n            \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\r\n            \"created_by\": \"Augustine Jibunoh\",\r\n            \"company_name\": \"Oak Industries\",\r\n            \"has_products\": true,\r\n            \"stock_count\": 7\r\n        }\r\n    ],\r\n    \"navigation_alignment\": \"TOP\",\r\n    \"contact_visible\": true,\r\n    \"contact_phone_number\": \"1234567890\",\r\n    \"contact_email\": \"contact@example.com\",\r\n    \"contact_address\": \"123 Main St, City, Country\",\r\n    \"redirect_phone_number\": \"0987654321\",\r\n    \"interface_theme\": \"DARK\",\r\n    \"order_completion_message\": \"Your order has been successfully placed.\",\r\n    \"redirect_after_payment_url\": \"https://example.com/redirect\",\r\n    \"success_message\": \"It is a success message dummy\",\r\n    \"notification\": \"Notification of Life\"\r\n}",
+													"raw": "{\r\n    \"store_brand_color\": \"#336699\",\r\n    \"store_description\": \"This is a sample store description.\",\r\n    \"header_description\": \"Welcome to our store!\",\r\n    \"header_image\": {\r\n        \"id\": \"1\",\r\n        \"url\": \"https://example.com/images/header.jpg\"\r\n    },\r\n    \"header_logo\": {\r\n        \"id\": \"1\",\r\n        \"url\": \"https://example.com/images/header.jpg\"\r\n    },\r\n    \"header_logo_text\": \"StoreName\",\r\n    \"navigation_visible\": true,\r\n    \"navigation_set_menu\": [\r\n        {\r\n            \"id\": \"a6845ea0-3f9a-41ac-b174-ab6aeeeb25d7\",\r\n            \"name\": \"Laptops\",\r\n            \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\r\n            \"created_by\": \"Augustine Jibunoh\",\r\n            \"company_name\": \"Oak Industries\",\r\n            \"has_products\": true,\r\n            \"stock_count\": 5000\r\n        }\r\n    ],\r\n    \"navigation_alignment\": \"TOP\",\r\n    \"contact_visible\": true,\r\n    \"contact_phone_number\": \"1234567890\",\r\n    \"contact_email\": \"contact@example.com\",\r\n    \"contact_address\": \"123 Main St, City, Country\",\r\n    \"redirect_phone_number\": \"0987654321\",\r\n    \"interface_theme\": \"DARK\",\r\n    \"order_completion_message\": \"Your order has been successfully placed.\",\r\n    \"redirect_after_payment_url\": \"https://example.com/redirect\",\r\n    \"success_message\": \"It is a success message dummy\",\r\n    \"notification\": \"Notification of Life\"\r\n}",
 													"options": {
 														"raw": {
 															"language": "json"
@@ -96038,9 +96041,9 @@
 													}
 												},
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/update_instant_web/?id=2779949e-a1a7-4d50-9553-b86bd070b911",
+													"raw": "{{base_url}}/instant_web/update_instant_web/?id=be0e1e4f-57ba-4156-a6ac-e4b88d2b9c86",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -96050,7 +96053,7 @@
 													"query": [
 														{
 															"key": "id",
-															"value": "2779949e-a1a7-4d50-9553-b86bd070b911"
+															"value": "be0e1e4f-57ba-4156-a6ac-e4b88d2b9c86"
 														}
 													]
 												}
