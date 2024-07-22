@@ -1,0 +1,10 @@
+{
+    "Authorization": "{{Token}}",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "4a4b1adb-30ab-419a-8c8c-c86a839511f5",
+    "Host": "{{baseurl}}",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}
