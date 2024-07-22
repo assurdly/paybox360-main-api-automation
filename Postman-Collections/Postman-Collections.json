@@ -98082,6 +98082,52 @@
 										},
 										{
 											"name": "fetch available stock-Invalid company ID",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "77089ef9-9c4f-4df8-b306-29f22240ee34",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'failure'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"failure\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 400\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 400);\r",
+															"});\r",
+															"\r",
+															"// Check the data field is null\r",
+															"pm.test(\"data field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"data\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the error field is an object\r",
+															"pm.test(\"error field is an object\", function () {\r",
+															"    pm.expect(jsonData.errors).to.have.property(\"message\").that.contains(\"invalid company ID provided.\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "89f3f4cc-61f6-431f-9aed-30c65bde67d8",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -98090,9 +98136,9 @@
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/company_available_stock?company_id=3a90781c-621c-4857-91c2-515f5f798a9b",
+													"raw": "{{base_url}}/instant_web/company_available_stock?company_id=2cd53e01-c9cb-4d69-8c29-1bd4d9fb84f2",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -98101,7 +98147,7 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "2cd53e01-c9cb-4d69-8c29-1bd4d9fb84f2"
 														}
 													]
 												}
