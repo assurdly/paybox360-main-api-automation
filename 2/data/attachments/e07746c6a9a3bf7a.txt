@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Small Rubber Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Soft Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/antjanus_128.jpg",    
+                    "item": "Licensed Plastic Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

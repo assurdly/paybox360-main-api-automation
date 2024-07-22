@@ -1,0 +1,7 @@
+{
+    "company": "1",
+    "name": "East Lloyd",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Practical Concrete Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Concrete Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/charliegann_128.jpg",    
+                    "item": "Unbranded Cotton Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

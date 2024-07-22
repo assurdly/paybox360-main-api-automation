@@ -1,0 +1,7 @@
+{
+    "name": "Emmett Jenkins",
+    "email": "Norris40@mailinator.com",
+    "phone_number": "08083892340",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}
