@@ -94095,6 +94095,117 @@
 													"body": "{\n    \"message\": \"store created successfully\"\n}"
 												}
 											]
+										},
+										{
+											"name": "Create webstore-Success Copy",
+											"id": "d842cf7b-b2e4-43d0-a9ba-ac68aedfb4cc",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company_id\": \"{{company_Id}}\",\n    \"branch_id\": \"{{branch_id2}}\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/instant_web/instant_web/"
+											},
+											"response": [
+												{
+													"id": "09dd1b9d-9f1c-48ce-9e59-9c11ed08f9a5",
+													"name": "succcess",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company_id\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n    \"branch_id\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{live_base_url}}/instant_web/instant_web/"
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 14:10:36 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "40"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "POST, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": \"store created successfully\"\n}"
+												}
+											]
 										}
 									],
 									"id": "aff0ea75-8694-4d94-9f4e-ca04054b9987"
