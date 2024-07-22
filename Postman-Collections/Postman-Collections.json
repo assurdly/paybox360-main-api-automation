@@ -97623,17 +97623,70 @@
 									"item": [
 										{
 											"name": "fetch categories available",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "5902cdba-94ee-4b87-a6b5-e9ae7f90cee7",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 200\", function () {\r",
+															"    pm.response.to.have.status(200);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'success'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"success\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 200\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 200);\r",
+															"});\r",
+															"\r",
+															"// Check the errors field\r",
+															"pm.test(\"Errors field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"errors\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the data field is an object\r",
+															"pm.test(\"Data field is an object\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"data\").that.is.an('object');\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "57225f4d-91a4-462e-8f86-4e899f413c6f",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
 											},
 											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/company_available_categories?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+													"raw": "{{base_url}}/instant_web/company_available_categories?company_id={{company_Id}}&page=1",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -97642,7 +97695,7 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "{{company_Id}}"
 														},
 														{
 															"key": "page",
@@ -97650,7 +97703,8 @@
 														},
 														{
 															"key": "size",
-															"value": "20"
+															"value": "20",
+															"disabled": true
 														}
 													]
 												}
@@ -97743,7 +97797,53 @@
 											]
 										},
 										{
-											"name": "fetch categories available Copy",
+											"name": "fetch categories-Invalid company ID",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "c95176c7-b2b2-4eef-827c-bbdd3f29a27c",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'failure'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"failure\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 400\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 400);\r",
+															"});\r",
+															"\r",
+															"// Check the data field is null\r",
+															"pm.test(\"data field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"data\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the error field is an object\r",
+															"pm.test(\"error field is an object\", function () {\r",
+															"    pm.expect(jsonData.errors).to.have.property(\"message\").that.contains(\"invalid company ID provided.\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "c8eae456-161e-4503-a5d5-aaa6c7925a52",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -97752,9 +97852,9 @@
 												"method": "GET",
 												"header": [],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/company_available_categories?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+													"raw": "{{base_url}}/instant_web/company_available_categories?company_id=2cd53e01-c9cb-4d69-8c29-1bd4d9fb84f3&page=1&size=20",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -97763,7 +97863,7 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "2cd53e01-c9cb-4d69-8c29-1bd4d9fb84f3"
 														},
 														{
 															"key": "page",
