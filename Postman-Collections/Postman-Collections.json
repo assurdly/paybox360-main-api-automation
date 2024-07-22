@@ -94585,7 +94585,7 @@
 											]
 										},
 										{
-											"name": "Create webstore-Optional Branch ID",
+											"name": "Create webstore-Empty Mandatory field",
 											"id": "e644b3ca-ab88-4e8b-b2ab-668db96f32b5",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
