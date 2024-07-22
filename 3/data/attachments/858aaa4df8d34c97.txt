@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Unbranded Steel Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Fresh Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bassamology_128.jpg",    
+                    "item": "Tasty Concrete Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

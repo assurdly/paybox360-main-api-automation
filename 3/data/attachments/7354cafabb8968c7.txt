@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Incredible Rubber Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Plastic Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rachelreveley_128.jpg",    
+                    "item": "Small Steel Pants",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

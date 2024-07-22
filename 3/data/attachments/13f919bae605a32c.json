@@ -1,0 +1,11 @@
+{
+    "Mailsac-Key": "k_mdu6QkXwcKyRe6gZodFYtZdkDBe1H29eXrMDi674g",
+    "Authorization": "Bearer null",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "29466e09-c5b8-42d1-bdb6-80739207cd44",
+    "Host": "mailsac.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

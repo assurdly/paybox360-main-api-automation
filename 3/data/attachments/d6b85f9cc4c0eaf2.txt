@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Handcrafted Cotton Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Steel Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/chandlervdw_128.jpg",    
+                    "item": "Incredible Wooden Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

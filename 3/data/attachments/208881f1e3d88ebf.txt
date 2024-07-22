@@ -1,0 +1,7 @@
+{
+    "name": "Alvin Crist",
+    "email": "Bernice_Stamm@mailinator.com",
+    "phone_number": "08019075681",
+    "address": "Idumota, Lagos",
+    "company": ""
+}
