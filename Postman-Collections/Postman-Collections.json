@@ -95653,39 +95653,35 @@
 															"var jsonData = pm.response.json();\r",
 															"\r",
 															"// Check the status code\r",
-															"pm.test(\"Status code is 200\", function () {\r",
-															"    pm.response.to.have.status(200);\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
 															"});\r",
 															"\r",
 															"// Check the status field\r",
-															"pm.test(\"Status field is 'success'\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"status\", \"success\");\r",
+															"pm.test(\"Status field is 'failure'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"failure\");\r",
 															"});\r",
 															"\r",
 															"\r",
 															"// Check the status_code field\r",
-															"pm.test(\"Status code field is 200\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"status_code\", 200);\r",
+															"pm.test(\"Status code field is 400\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 400);\r",
 															"});\r",
 															"\r",
-															"// Check the errors field\r",
-															"pm.test(\"Errors field is null\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"errors\").that.is.null;\r",
-															"});\r",
-															"\r",
-															"\r",
-															"// Check the data field is an object\r",
-															"pm.test(\"Data field is an object\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"data\").that.is.an('object');\r",
+															"// Check the data field is null\r",
+															"pm.test(\"data field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"data\").that.is.null;\r",
 															"});\r",
 															"\r",
 															"\r",
-															"\r",
-															"\r",
-															"// Check the branch property in data\r",
-															"pm.test(\"Data is an object\", function () {\r",
-															"    pm.expect(jsonData.data).to.be.an('object');\r",
+															"// Check the error field is an object\r",
+															"pm.test(\"error field is an object\", function () {\r",
+															"    pm.expect(jsonData.errors).to.have.property(\"message\").that.contains(\"invalid company ID provided.\");\r",
 															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
 															"\r",
 															""
 														],
@@ -95714,7 +95710,7 @@
 													}
 												],
 												"url": {
-													"raw": "{{base_url}}/api/v1/stock/available_categories?company={{company_Id}}&page=1",
+													"raw": "{{base_url}}/api/v1/stock/available_categories?company=2cd53e01-c9cb-4d69-8c29-1bd4d9fb843e&page=1",
 													"host": [
 														"{{base_url}}"
 													],
@@ -95727,7 +95723,7 @@
 													"query": [
 														{
 															"key": "company",
-															"value": "{{company_Id}}"
+															"value": "2cd53e01-c9cb-4d69-8c29-1bd4d9fb843e"
 														},
 														{
 															"key": "page",
@@ -95744,6 +95740,196 @@
 											"response": [
 												{
 													"id": "0b803705-3f7b-4403-9680-9c08aa5d1331",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/api/v1/stock/available_categories?company=3a90781c-621c-4857-91c2-515f5f798a9b&page=1&size=20",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"api",
+																"v1",
+																"stock",
+																"available_categories"
+															],
+															"query": [
+																{
+																	"key": "company",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "page",
+																	"value": "1"
+																},
+																{
+																	"key": "size",
+																	"value": "20"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Mon, 15 Jul 2024 13:27:45 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "879"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 200,\n    \"data\": {\n        \"message\": \"successfully fetched categories.\",\n        \"categories\": [\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"0d14c01b-1fa0-4eb5-8bbd-316d0959aca6\",\n                \"name\": \"Phones\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"b5232a48-77e8-451f-8c57-70d38278d0c4\",\n                \"name\": \"Electronics\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"baa39637-7e0b-4b25-9d07-d46a9903072e\",\n                \"name\": \"Automobiles\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"c71c4126-1e31-4a1a-8a9c-f91f8a66ae00\",\n                \"name\": \"Cereals\"\n            },\n            {\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"company_name\": \"Oak Industries\",\n                \"id\": \"df335b52-959a-4d8e-99cf-71b367a5466c\",\n                \"name\": \"Laptops\"\n            }\n        ],\n        \"count\": 5,\n        \"total_categories\": 5\n    },\n    \"errors\": null\n}"
+												}
+											]
+										},
+										{
+											"name": "Fetch categories-Invalid Auth",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "95bc142d-e7dc-4c94-b84e-a9fe1f1521e0",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'failure'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"failure\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 400\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 400);\r",
+															"});\r",
+															"\r",
+															"// Check the data field is null\r",
+															"pm.test(\"data field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"data\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the error field is an object\r",
+															"pm.test(\"error field is an object\", function () {\r",
+															"    pm.expect(jsonData.errors).to.have.property(\"message\").that.contains(\"invalid company ID provided.\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
+											"id": "b7938136-aa35-4d89-9aea-614cd55517b7",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{base_url}}/api/v1/stock/available_categories?company=2cd53e01-c9cb-4d69-8c29-1bd4d9fb843e&page=1",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"api",
+														"v1",
+														"stock",
+														"available_categories"
+													],
+													"query": [
+														{
+															"key": "company",
+															"value": "2cd53e01-c9cb-4d69-8c29-1bd4d9fb843e"
+														},
+														{
+															"key": "page",
+															"value": "1"
+														},
+														{
+															"key": "size",
+															"value": "20",
+															"disabled": true
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "41019465-5d0c-4a20-bb16-49d59766e3a9",
 													"name": "success",
 													"originalRequest": {
 														"method": "GET",
