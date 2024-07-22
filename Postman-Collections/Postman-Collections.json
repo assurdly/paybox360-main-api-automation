@@ -98992,7 +98992,10 @@
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "GET",
 												"header": [
@@ -99003,9 +99006,9 @@
 													}
 												],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+													"raw": "{{base_url}}/instant_web/company_item_details?company_id={{company_Id}}&item_id=92a940c5-4b60-4bc1-9f6c-8c1c1d3c4022",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -99014,11 +99017,11 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "{{company_Id}}"
 														},
 														{
 															"key": "item_id",
-															"value": "49fa3066-9540-4fbd-8cc8-236a83863710"
+															"value": "92a940c5-4b60-4bc1-9f6c-8c1c1d3c4022"
 														}
 													]
 												}
