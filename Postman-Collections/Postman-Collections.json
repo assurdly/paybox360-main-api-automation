@@ -94253,6 +94253,28 @@
 										},
 										{
 											"name": "Create webstore-Invalid company ID",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "0b2db737-1842-4d39-86c9-ff2203bf6361",
+														"exec": [
+															"const jsonData = pm.response.json()\r",
+															"\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"pm.test('response body includes a message' , function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store already exists for this branch: Plainfield\")\r",
+															"})\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "4204b8fa-fb44-47e0-978c-ea4c0ee34b3f",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -94274,7 +94296,7 @@
 												],
 												"body": {
 													"mode": "raw",
-													"raw": "{\n    \"company_id\": \"{{company_Id}}\",\n    \"branch_id\": \"{{branch_id2}}\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
+													"raw": "{\n    \"company_id\": \"2cd53e01-c9cb-4d69-8c29-1bd4d9fb84e1\",\n    \"branch_id\": \"{{branch_id2}}\", // optional\n    \"description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}",
 													"options": {
 														"raw": {
 															"language": "json"
