@@ -98808,14 +98808,63 @@
 											]
 										},
 										{
-											"name": "retrieve item details Copy",
+											"name": "retrieve item-Invalid company ID",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "7a6bc5d6-67ea-47fa-adc1-11bf67c637a3",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"// Check the status field\r",
+															"pm.test(\"Status field is 'failure'\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status\", \"failure\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the status_code field\r",
+															"pm.test(\"Status code field is 400\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"status_code\", 400);\r",
+															"});\r",
+															"\r",
+															"// Check the data field is null\r",
+															"pm.test(\"data field is null\", function () {\r",
+															"    pm.expect(jsonData).to.have.property(\"data\").that.is.null;\r",
+															"});\r",
+															"\r",
+															"\r",
+															"// Check the error field is an object\r",
+															"pm.test(\"error field is an object\", function () {\r",
+															"    pm.expect(jsonData.errors).to.have.property(\"message\").that.contains(\"invalid company ID provided.\");\r",
+															"});\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															"\r",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "eabc6f04-39e2-466d-8bf6-fdeb151c955a",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "GET",
 												"header": [
@@ -98826,9 +98875,9 @@
 													}
 												],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/company_item_details?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
+													"raw": "{{base_url}}/instant_web/company_item_details?company_id=2cd53e01-c9cb-4d69-8c29-1bd4d9fb84f2&item_id=49fa3066-9540-4fbd-8cc8-236a83863710",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -98837,7 +98886,7 @@
 													"query": [
 														{
 															"key": "company_id",
-															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+															"value": "2cd53e01-c9cb-4d69-8c29-1bd4d9fb84f2"
 														},
 														{
 															"key": "item_id",
