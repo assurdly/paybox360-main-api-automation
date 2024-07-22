@@ -94128,12 +94128,12 @@
 														"exec": [
 															"const jsonData = pm.response.json()\r",
 															"\r",
-															"pm.test(\"Status code is 200\", function () {\r",
-															"    pm.response.to.have.status(200);\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
 															"});\r",
 															"\r",
 															"pm.test('response body includes a message' , function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store already exists for this branch: Plainfield\")\r",
+															"    pm.expect(jsonData).to.have.property(\"message\")\r",
 															"})\r",
 															""
 														],
@@ -94266,7 +94266,7 @@
 															"});\r",
 															"\r",
 															"pm.test('response body includes a message' , function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"message\").that.includes(\"store already exists for this branch: Plainfield\")\r",
+															"    pm.expect(jsonData).to.have.property(\"message\")\r",
 															"})\r",
 															""
 														],
@@ -95446,123 +95446,6 @@
 									"id": "eeca81df-126f-4cb6-8009-8adced4fd3a2"
 								},
 								{
-									"name": "Create category",
-									"item": [
-										{
-											"name": "create category",
-											"id": "0f3005b4-9e9b-437c-9bc2-aa57092a261c",
-											"protocolProfileBehavior": {
-												"disableBodyPruning": true
-											},
-											"request": {
-												"auth": {
-													"type": "bearer",
-													"bearer": {
-														"token": "{{accessToken}}"
-													}
-												},
-												"method": "POST",
-												"header": [
-													{
-														"key": "Authorization",
-														"value": "Bearer {{live_token}}",
-														"type": "text"
-													}
-												],
-												"body": {
-													"mode": "raw",
-													"raw": "{\n    \"company\": \"{{company_Id}}\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
-													"options": {
-														"raw": {
-															"language": "json"
-														}
-													}
-												},
-												"url": "{{base_url}}/api/v1/stock/categories/"
-											},
-											"response": [
-												{
-													"id": "148d2651-b6cf-49d3-99fb-1c546a2a2b78",
-													"name": "success",
-													"originalRequest": {
-														"method": "POST",
-														"header": [
-															{
-																"key": "Authorization",
-																"value": "Bearer {{live_token}}",
-																"type": "text"
-															}
-														],
-														"body": {
-															"mode": "raw",
-															"raw": "{\n    \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
-															"options": {
-																"raw": {
-																	"language": "json"
-																}
-															}
-														},
-														"url": "{{live_base_url}}/api/v1/stock/categories/"
-													},
-													"status": "Created",
-													"code": 201,
-													"_postman_previewlanguage": "json",
-													"header": [
-														{
-															"key": "Server",
-															"value": "nginx/1.18.0 (Ubuntu)"
-														},
-														{
-															"key": "Date",
-															"value": "Wed, 17 Jul 2024 17:51:33 GMT"
-														},
-														{
-															"key": "Content-Type",
-															"value": "application/json"
-														},
-														{
-															"key": "Content-Length",
-															"value": "943"
-														},
-														{
-															"key": "Connection",
-															"value": "keep-alive"
-														},
-														{
-															"key": "Vary",
-															"value": "Accept, origin, Cookie"
-														},
-														{
-															"key": "Allow",
-															"value": "GET, POST, DELETE, HEAD, OPTIONS"
-														},
-														{
-															"key": "X-Frame-Options",
-															"value": "DENY"
-														},
-														{
-															"key": "X-Content-Type-Options",
-															"value": "nosniff"
-														},
-														{
-															"key": "Referrer-Policy",
-															"value": "same-origin"
-														},
-														{
-															"key": "Cross-Origin-Opener-Policy",
-															"value": "same-origin"
-														}
-													],
-													"cookie": [],
-													"responseTime": null,
-													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [\n            {\n                \"id\": \"afd400b8-6a92-456b-bd22-dfd098ebb1a8\",\n                \"created_at\": \"2024-07-17T18:51:33.028321+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"Oak Industries\",\n                \"has_products\": false,\n                \"stock_count\": 0\n            },\n            {\n                \"id\": \"07df4bb4-25d9-43a7-9672-f09e454f677e\",\n                \"created_at\": \"2024-07-17T18:51:33.037243+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"Oak Industries\",\n                \"has_products\": false,\n                \"stock_count\": 0\n            },\n            {\n                \"id\": \"296117f2-f549-453e-bf30-c17a80c25f1a\",\n                \"created_at\": \"2024-07-17T18:51:33.039452+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"3a90781c-621c-4857-91c2-515f5f798a9b\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"Oak Industries\",\n                \"has_products\": false,\n                \"stock_count\": 0\n            }\n        ],\n        \"existing_categories\": []\n    },\n    \"errors\": null\n}"
-												}
-											]
-										}
-									],
-									"id": "c660dac4-585e-4381-a211-6b204e4e47c6"
-								},
-								{
 									"name": "Fetch category",
 									"item": [
 										{
@@ -95764,6 +95647,1379 @@
 										}
 									],
 									"id": "a41b1875-6be6-49f4-95d8-27cad25a2de2"
+								},
+								{
+									"name": "Create Categories",
+									"item": [
+										{
+											"name": "create categories [Success]",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "d5b9ee0b-f0e3-4c0d-b489-15e0dc671d1b",
+														"exec": [
+															"// Parse the JSON response",
+															"var jsonData = pm.response.json();",
+															"",
+															"// Test if the status code is 201",
+															"pm.test(\"Status code is 201\", function () {",
+															"    pm.response.to.have.status(201);",
+															"});",
+															"",
+															"// Test if the response status is 'success'",
+															"pm.test(\"Response status is success\", function () {",
+															"    pm.expect(jsonData.status).to.eql(\"success\");",
+															"});",
+															"",
+															"// Test if the response message is 'success.'",
+															"pm.test(\"Response message is correct\", function () {",
+															"    pm.expect(jsonData.data.message).to.eql(\"success.\");",
+															"});",
+															"",
+															"// Test if the response contains the expected structure for existing categories",
+															"pm.test(\"Existing categories structure is correct\", function () {",
+															"    var existingCategories = jsonData.data.existing_categories;",
+															"    pm.expect(existingCategories).to.be.an(\"array\");",
+															"",
+															"    existingCategories.forEach(function(category) {",
+															"        pm.expect(category).to.have.property(\"id\");",
+															"        pm.expect(category).to.have.property(\"created_at\");",
+															"        pm.expect(category).to.have.property(\"name\");",
+															"        pm.expect(category).to.have.property(\"company\");",
+															"        pm.expect(category).to.have.property(\"created_by\");",
+															"        pm.expect(category).to.have.property(\"company_name\");",
+															"        pm.expect(category).to.have.property(\"has_products\");",
+															"    });",
+															"});",
+															"",
+															"pm.environment.set(\"category_name\", jsonData.data.new_categories[0].name)",
+															"pm.environment.set(\"category_name2\", jsonData.data.new_categories[1].name)"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
+											"id": "ef6e6106-d3f9-4c06-95aa-1865398627ea",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{user_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company\": \"{{company_Id}}\",\n    \"categories\": [\n        {\n            \"name\": \"{{$randomProduct}}\"\n        },\n        {\n            \"name\": \"{{$randomProduct}}\"\n        }\n    ]\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/api/v1/stock/categories/"
+											},
+											"response": [
+												{
+													"id": "2652631b-39ec-4457-9acc-6ddf1216b3da",
+													"name": "success",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Created",
+													"code": 201,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Tue, 09 Apr 2024 11:55:05 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "906"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [],\n        \"existing_categories\": [\n            {\n                \"id\": \"95ea80f9-7779-4f71-891b-d7a215e64e50\",\n                \"created_at\": \"2023-08-17T14:07:21.476645+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"748b8e69-4b3f-4be1-9274-e44ed2abf56e\",\n                \"created_at\": \"2023-08-17T14:07:21.473110+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"3fa0d343-3f99-41e3-8cfb-71c9c33a87f2\",\n                \"created_at\": \"2023-09-08T10:55:04.080160+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": true\n            }\n        ]\n    },\n    \"errors\": null\n}"
+												},
+												{
+													"id": "7f3df680-c33f-40ec-9982-9d81ca4c656d",
+													"name": "required",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:40:36 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "80"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"company\": [\n        \"This field is required.\"\n    ],\n    \"categories\": [\n        \"This field is required.\"\n    ]\n}"
+												},
+												{
+													"id": "9a10956c-1d46-4096-8e00-67d41d976de1",
+													"name": "bad request",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d8de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:49:28 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "44"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": [\n        \"invalid company ID provided.\"\n    ]\n}"
+												}
+											]
+										},
+										{
+											"name": "create categories [Duplicate]",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "d5b9ee0b-f0e3-4c0d-b489-15e0dc671d1b",
+														"exec": [
+															"var jsonData = pm.response.json();",
+															"",
+															"// Test if the status code is 400 or 422 (commonly used for validation errors)",
+															"pm.test(\"Status code is 400 or 422\", function () {",
+															"    pm.expect(pm.response.code).to.be.oneOf([400, 422]);",
+															"});",
+															"",
+															"// Test if the response contains an error message",
+															"pm.test(\"Error message is present\", function () {",
+															"    pm.expect(jsonData).to.have.property(\"categories\");",
+															"});",
+															"",
+															"// Test if the error message is correct",
+															"pm.test(\"Error message is correct\", function () {",
+															"    pm.expect(jsonData.categories.name).to.be.an(\"array\").that.includes(\"CATEGORY with this name already exists.\");",
+															"});"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
+											"id": "86a7dcd1-8c93-4b88-bb6c-eeb45fd2d26d",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{user_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company\": \"{{company_Id}}\",\n    \"categories\": [\n        {\n            \"name\": \"{{category_name}}\"\n        },\n        {\n            \"name\": \"{{category_name2}}\"\n        }\n    ]\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/api/v1/stock/categories/"
+											},
+											"response": [
+												{
+													"id": "335e3e2a-4899-4538-8524-9e93d3ffb352",
+													"name": "success",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Created",
+													"code": 201,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Tue, 09 Apr 2024 11:55:05 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "906"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [],\n        \"existing_categories\": [\n            {\n                \"id\": \"95ea80f9-7779-4f71-891b-d7a215e64e50\",\n                \"created_at\": \"2023-08-17T14:07:21.476645+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"748b8e69-4b3f-4be1-9274-e44ed2abf56e\",\n                \"created_at\": \"2023-08-17T14:07:21.473110+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"3fa0d343-3f99-41e3-8cfb-71c9c33a87f2\",\n                \"created_at\": \"2023-09-08T10:55:04.080160+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": true\n            }\n        ]\n    },\n    \"errors\": null\n}"
+												},
+												{
+													"id": "96c9b06a-e4c7-495b-ace0-2372ef511717",
+													"name": "required",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:40:36 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "80"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"company\": [\n        \"This field is required.\"\n    ],\n    \"categories\": [\n        \"This field is required.\"\n    ]\n}"
+												},
+												{
+													"id": "c3ae39d0-c7d1-462d-9bf2-9a0a613377d6",
+													"name": "bad request",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d8de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:49:28 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "44"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": [\n        \"invalid company ID provided.\"\n    ]\n}"
+												}
+											]
+										},
+										{
+											"name": "create categories [Empty mandatory field]",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "d5b9ee0b-f0e3-4c0d-b489-15e0dc671d1b",
+														"exec": [
+															"var jsonData = pm.response.json();",
+															"",
+															"// Test if the status code is 400 or 422 (commonly used for validation errors)",
+															"pm.test(\"Status code is 400 or 422\", function () {",
+															"    pm.expect(pm.response.code).to.be.oneOf([400, 422]);",
+															"});",
+															"",
+															"// Test if the response contains validation errors for 'company' and 'categories'",
+															"pm.test(\"Validation errors are present\", function () {",
+															"    pm.expect(jsonData).to.have.property(\"company\");",
+															"    pm.expect(jsonData).to.have.property(\"categories\");",
+															"});",
+															"",
+															"// Test if the 'company' field error is correct",
+															"pm.test(\"Company field error is correct\", function () {",
+															"    pm.expect(jsonData.company).to.be.an(\"array\").that.includes(\"This field may not be null.\");",
+															"});",
+															"",
+															"// Test if the 'categories' field error is correct",
+															"pm.test(\"Categories field error is correct\", function () {",
+															"    pm.expect(jsonData.categories).to.be.an(\"array\");",
+															"    pm.expect(jsonData.categories[0].name[0]).to.include(\"This field may not be blank\");",
+															"});",
+															""
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
+											"id": "1422cd6c-9d1d-4086-90fa-e0b89404cac4",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{user_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company\": \"\",\n    \"categories\": [\n        {\n            \"name\": \"\"\n        },\n        {\n            \"name\": \"\"\n        }\n    ]\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/api/v1/stock/categories/"
+											},
+											"response": [
+												{
+													"id": "391f7c09-2357-4765-a7e4-6013195171b8",
+													"name": "success",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Created",
+													"code": 201,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Tue, 09 Apr 2024 11:55:05 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "906"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [],\n        \"existing_categories\": [\n            {\n                \"id\": \"95ea80f9-7779-4f71-891b-d7a215e64e50\",\n                \"created_at\": \"2023-08-17T14:07:21.476645+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"748b8e69-4b3f-4be1-9274-e44ed2abf56e\",\n                \"created_at\": \"2023-08-17T14:07:21.473110+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"3fa0d343-3f99-41e3-8cfb-71c9c33a87f2\",\n                \"created_at\": \"2023-09-08T10:55:04.080160+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": true\n            }\n        ]\n    },\n    \"errors\": null\n}"
+												},
+												{
+													"id": "f2263f64-ba23-4a6d-9cfb-8f02c03e6e4e",
+													"name": "required",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:40:36 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "80"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"company\": [\n        \"This field is required.\"\n    ],\n    \"categories\": [\n        \"This field is required.\"\n    ]\n}"
+												},
+												{
+													"id": "67ae5ab0-643f-412d-afc2-d2a12e6107ae",
+													"name": "bad request",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d8de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:49:28 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "44"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": [\n        \"invalid company ID provided.\"\n    ]\n}"
+												}
+											]
+										},
+										{
+											"name": "create categories [Invalid ID]",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "d5b9ee0b-f0e3-4c0d-b489-15e0dc671d1b",
+														"exec": [
+															"pm.test(\"Status code is 400\", function () {",
+															"    pm.response.to.have.status(400);",
+															"});",
+															"",
+															"// Parse the JSON response",
+															"var jsonData = pm.response.json();",
+															"",
+															"// Check if the correct error message is present for the company field",
+															"pm.test(\"Error message for company field is correct\", function () {",
+															"    pm.expect(jsonData).to.have.property(\"company\").that.is.an(\"array\")",
+															"    pm.expect(jsonData.company[0]).to.include(\"is not a valid UUID.\");",
+															"});"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
+											"id": "1281c6a1-8742-4284-ab8c-fb2095939a73",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{user_token}}",
+														"type": "text"
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company\": \"{{company_Id}}1\",\n    \"categories\": [\n        {\n            \"name\": \"Pet food\"\n        },\n        {\n            \"name\": \"Yogurt\"\n        }\n    ]\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/api/v1/stock/categories/"
+											},
+											"response": [
+												{
+													"id": "4f7408be-30cb-4e25-be79-d71bcb23d798",
+													"name": "success",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Created",
+													"code": 201,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Tue, 09 Apr 2024 11:55:05 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "906"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [],\n        \"existing_categories\": [\n            {\n                \"id\": \"95ea80f9-7779-4f71-891b-d7a215e64e50\",\n                \"created_at\": \"2023-08-17T14:07:21.476645+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"748b8e69-4b3f-4be1-9274-e44ed2abf56e\",\n                \"created_at\": \"2023-08-17T14:07:21.473110+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"3fa0d343-3f99-41e3-8cfb-71c9c33a87f2\",\n                \"created_at\": \"2023-09-08T10:55:04.080160+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": true\n            }\n        ]\n    },\n    \"errors\": null\n}"
+												},
+												{
+													"id": "b96da806-c57e-4e11-b9c0-ec44d001fcc2",
+													"name": "required",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:40:36 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "80"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"company\": [\n        \"This field is required.\"\n    ],\n    \"categories\": [\n        \"This field is required.\"\n    ]\n}"
+												},
+												{
+													"id": "3f0b7d52-76df-407c-81cd-614bbc60bd43",
+													"name": "bad request",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d8de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:49:28 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "44"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": [\n        \"invalid company ID provided.\"\n    ]\n}"
+												}
+											]
+										},
+										{
+											"name": "create categories [Invalid Auth]",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "d5b9ee0b-f0e3-4c0d-b489-15e0dc671d1b",
+														"exec": [
+															"var jsonData = pm.response.json();",
+															"",
+															"// Check that the response status code is 400",
+															"pm.test(\"Status code is 401\", function () {",
+															"    pm.response.to.have.status(401);",
+															"});",
+															"",
+															"// Check the error response structure and values",
+															"pm.test(\"Check error response structure and values\", function () {",
+															"    pm.expect(jsonData).to.have.property(\"detail\").that.eql(\"Given token not valid for any token type\");",
+															"    pm.expect(jsonData).to.have.property(\"code\").that.eql(\"token_not_valid\");",
+															"    pm.expect(jsonData).to.have.property(\"messages\").that.is.an('array');",
+															"",
+															"    // Check the structure and values of each message in the messages array",
+															"    jsonData.messages.forEach(function(message) {",
+															"        pm.expect(message).to.have.property(\"token_class\").that.eql(\"AccessToken\");",
+															"        pm.expect(message).to.have.property(\"token_type\").that.eql(\"access\");",
+															"        pm.expect(message).to.have.property(\"message\").that.eql(\"Token is invalid or expired\");",
+															"    });",
+															"});"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
+											"id": "55950089-083f-4e08-b907-7fa3bde2adf1",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "noauth"
+												},
+												"method": "POST",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{user_token}}",
+														"type": "text",
+														"disabled": true
+													}
+												],
+												"body": {
+													"mode": "raw",
+													"raw": "{\n    \"company\": \"666bd28e-26a3-48ab-9d14-fb761b186874\",\n    \"categories\": [\n        {\n            \"name\": \"Pet food\"\n        },\n        {\n            \"name\": \"Yogurt\"\n        }\n    ]\n}",
+													"options": {
+														"raw": {
+															"language": "json"
+														}
+													}
+												},
+												"url": "{{base_url}}/api/v1/stock/categories/"
+											},
+											"response": [
+												{
+													"id": "acce75fa-ebb5-445b-8a58-48d9d370a6cd",
+													"name": "success",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        },\n        {\n            \"name\": \"computer accessories\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Created",
+													"code": 201,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Tue, 09 Apr 2024 11:55:05 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "906"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"status\": \"success\",\n    \"status_code\": 201,\n    \"data\": {\n        \"message\": \"success.\",\n        \"new_categories\": [],\n        \"existing_categories\": [\n            {\n                \"id\": \"95ea80f9-7779-4f71-891b-d7a215e64e50\",\n                \"created_at\": \"2023-08-17T14:07:21.476645+01:00\",\n                \"name\": \"Furniture\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"748b8e69-4b3f-4be1-9274-e44ed2abf56e\",\n                \"created_at\": \"2023-08-17T14:07:21.473110+01:00\",\n                \"name\": \"Electronics\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": false\n            },\n            {\n                \"id\": \"3fa0d343-3f99-41e3-8cfb-71c9c33a87f2\",\n                \"created_at\": \"2023-09-08T10:55:04.080160+01:00\",\n                \"name\": \"Computer Accessories\",\n                \"company\": \"512e3053-ee95-4782-a53d-22842a2d7de5\",\n                \"created_by\": \"2348093984569 LIBERTY\",\n                \"company_name\": \"No Be Your Company\",\n                \"has_products\": true\n            }\n        ]\n    },\n    \"errors\": null\n}"
+												},
+												{
+													"id": "32941559-ce78-46da-b68c-a35f116d0254",
+													"name": "required",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:40:36 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "80"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"company\": [\n        \"This field is required.\"\n    ],\n    \"categories\": [\n        \"This field is required.\"\n    ]\n}"
+												},
+												{
+													"id": "8f717c84-6a63-404d-80d8-cbfd697667ee",
+													"name": "bad request",
+													"originalRequest": {
+														"method": "POST",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{user_token}}",
+																"type": "text"
+															}
+														],
+														"body": {
+															"mode": "raw",
+															"raw": "{\n    \"company\": \"512e3053-ee95-4782-a53d-22842a2d8de5\",\n    \"categories\": [\n        {\n            \"name\": \"furniture\"\n        },\n        {\n            \"name\": \"electronics\"\n        }\n    ]\n}",
+															"options": {
+																"raw": {
+																	"language": "json"
+																}
+															}
+														},
+														"url": "{{base_url}}/api/v1/stock/categories/"
+													},
+													"status": "Bad Request",
+													"code": 400,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Date",
+															"value": "Fri, 08 Sep 2023 09:49:28 GMT"
+														},
+														{
+															"key": "Server",
+															"value": "WSGIServer/0.2 CPython/3.9.6"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, POST, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "Content-Length",
+															"value": "44"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"message\": [\n        \"invalid company ID provided.\"\n    ]\n}"
+												}
+											]
+										}
+									],
+									"id": "ea365c4a-c570-45df-ac5b-552d6b9711ee"
 								}
 							],
 							"id": "85f5204a-66c7-4a81-95f4-c86d07aaf232"
