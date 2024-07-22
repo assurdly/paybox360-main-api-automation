@@ -95840,33 +95840,17 @@
 													"script": {
 														"id": "95bc142d-e7dc-4c94-b84e-a9fe1f1521e0",
 														"exec": [
-															"var jsonData = pm.response.json();\r",
+															"const jsonData = pm.response.json()\r",
 															"\r",
-															"// Check the status code\r",
-															"pm.test(\"Status code is 400\", function () {\r",
-															"    pm.response.to.have.status(400);\r",
+															"pm.test(\"Status code is 401\", function () {\r",
+															"    pm.response.to.have.status(401);\r",
 															"});\r",
 															"\r",
-															"// Check the status field\r",
-															"pm.test(\"Status field is 'failure'\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"status\", \"failure\");\r",
-															"});\r",
-															"\r",
-															"\r",
-															"// Check the status_code field\r",
-															"pm.test(\"Status code field is 400\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"status_code\", 400);\r",
-															"});\r",
-															"\r",
-															"// Check the data field is null\r",
-															"pm.test(\"data field is null\", function () {\r",
-															"    pm.expect(jsonData).to.have.property(\"data\").that.is.null;\r",
-															"});\r",
-															"\r",
-															"\r",
-															"// Check the error field is an object\r",
-															"pm.test(\"error field is an object\", function () {\r",
-															"    pm.expect(jsonData.errors).to.have.property(\"message\").that.contains(\"invalid company ID provided.\");\r",
+															"pm.test(\"message is an object\", function(){\r",
+															"    pm.expect(typeof jsonData.messages).to.eql(\"object\")\r",
+															"})\r",
+															"pm.test(\"code returned\", function(){\r",
+															"    pm.expect(jsonData.code).to.eql(\"token_not_valid\")\r",
 															"});\r",
 															"\r",
 															"\r",
@@ -95886,17 +95870,15 @@
 											},
 											"request": {
 												"auth": {
-													"type": "bearer",
-													"bearer": {
-														"token": "{{accessToken}}"
-													}
+													"type": "noauth"
 												},
 												"method": "GET",
 												"header": [
 													{
 														"key": "Authorization",
 														"value": "Bearer {{live_token}}",
-														"type": "text"
+														"type": "text",
+														"disabled": true
 													}
 												],
 												"url": {
@@ -96029,7 +96011,7 @@
 									"name": "Customize webstore",
 									"item": [
 										{
-											"name": "customize",
+											"name": "Customize Webstore-Success",
 											"id": "0d29787e-27dd-4e86-8c08-fb82fc3ec13a",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -97225,10 +97207,7 @@
 											},
 											"request": {
 												"auth": {
-													"type": "bearer",
-													"bearer": {
-														"token": "{{accessToken}}"
-													}
+													"type": "noauth"
 												},
 												"method": "POST",
 												"header": [
