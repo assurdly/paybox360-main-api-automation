@@ -94803,14 +94803,17 @@
 									"name": "Retrieve webstore",
 									"item": [
 										{
-											"name": "retrieve webstore",
+											"name": "Retrieve webstore-Success",
 											"id": "9b5a4c45-f3a4-40df-8298-f26776d00cf5",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
 											},
 											"request": {
 												"auth": {
-													"type": "noauth"
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
 												},
 												"method": "GET",
 												"header": [
@@ -94821,9 +94824,9 @@
 													}
 												],
 												"url": {
-													"raw": "{{live_base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
 													"host": [
-														"{{live_base_url}}"
+														"{{base_url}}"
 													],
 													"path": [
 														"instant_web",
@@ -94845,6 +94848,272 @@
 											"response": [
 												{
 													"id": "55e0ab1a-6ee1-46a3-9ed6-cd039eec067f",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"retrieve_instant_web",
+																""
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "branch_id",
+																	"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Wed, 17 Jul 2024 05:10:37 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "647"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"id\": \"2779949e-a1a7-4d50-9553-b86bd070b911\",\n    \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n    \"contact_visible\": false,\n    \"contact_phone_number\": null,\n    \"contact_email\": null,\n    \"contact_address\": null,\n    \"navigation_visible\": false,\n    \"navigation_set_menu\": [],\n    \"navigation_alignment\": \"TOP\",\n    \"header_description\": null,\n    \"header_image\": null,\n    \"header_logo\": null,\n    \"header_logo_text\": null,\n    \"store_brand_color\": null,\n    \"redirect_phone_number\": null,\n    \"order_completion_message\": null,\n    \"redirect_after_payment_url\": null,\n    \"success_message\": null,\n    \"notification\": null,\n    \"store_description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}"
+												}
+											]
+										},
+										{
+											"name": "retrieve webstore Copy",
+											"id": "1363dacc-0ce5-4843-a424-db4bc09f2a82",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"retrieve_instant_web",
+														""
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "branch_id",
+															"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "481773f7-1abb-43cf-a54d-0eff593c586a",
+													"name": "success",
+													"originalRequest": {
+														"method": "GET",
+														"header": [
+															{
+																"key": "Authorization",
+																"value": "Bearer {{live_token}}",
+																"type": "text"
+															}
+														],
+														"url": {
+															"raw": "{{live_base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+															"host": [
+																"{{live_base_url}}"
+															],
+															"path": [
+																"instant_web",
+																"retrieve_instant_web",
+																""
+															],
+															"query": [
+																{
+																	"key": "company_id",
+																	"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+																},
+																{
+																	"key": "branch_id",
+																	"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+																}
+															]
+														}
+													},
+													"status": "OK",
+													"code": 200,
+													"_postman_previewlanguage": "json",
+													"header": [
+														{
+															"key": "Server",
+															"value": "nginx/1.18.0 (Ubuntu)"
+														},
+														{
+															"key": "Date",
+															"value": "Wed, 17 Jul 2024 05:10:37 GMT"
+														},
+														{
+															"key": "Content-Type",
+															"value": "application/json"
+														},
+														{
+															"key": "Content-Length",
+															"value": "647"
+														},
+														{
+															"key": "Connection",
+															"value": "keep-alive"
+														},
+														{
+															"key": "Vary",
+															"value": "Accept, origin, Cookie"
+														},
+														{
+															"key": "Allow",
+															"value": "GET, HEAD, OPTIONS"
+														},
+														{
+															"key": "X-Frame-Options",
+															"value": "DENY"
+														},
+														{
+															"key": "X-Content-Type-Options",
+															"value": "nosniff"
+														},
+														{
+															"key": "Referrer-Policy",
+															"value": "same-origin"
+														},
+														{
+															"key": "Cross-Origin-Opener-Policy",
+															"value": "same-origin"
+														}
+													],
+													"cookie": [],
+													"responseTime": null,
+													"body": "{\n    \"id\": \"2779949e-a1a7-4d50-9553-b86bd070b911\",\n    \"branch\": \"f02cdea0-f6bf-44bf-a4aa-68e99b204713\",\n    \"contact_visible\": false,\n    \"contact_phone_number\": null,\n    \"contact_email\": null,\n    \"contact_address\": null,\n    \"navigation_visible\": false,\n    \"navigation_set_menu\": [],\n    \"navigation_alignment\": \"TOP\",\n    \"header_description\": null,\n    \"header_image\": null,\n    \"header_logo\": null,\n    \"header_logo_text\": null,\n    \"store_brand_color\": null,\n    \"redirect_phone_number\": null,\n    \"order_completion_message\": null,\n    \"redirect_after_payment_url\": null,\n    \"success_message\": null,\n    \"notification\": null,\n    \"store_description\": \"This is an example description for the instant website.\",\n    \"store_url\": \"https://example.com/store-front/\"\n}"
+												}
+											]
+										},
+										{
+											"name": "retrieve webstore Copy",
+											"id": "81014cb2-6a45-4f1e-ba9d-672274f5732f",
+											"protocolProfileBehavior": {
+												"disableBodyPruning": true
+											},
+											"request": {
+												"auth": {
+													"type": "bearer",
+													"bearer": {
+														"token": "{{accessToken}}"
+													}
+												},
+												"method": "GET",
+												"header": [
+													{
+														"key": "Authorization",
+														"value": "Bearer {{live_token}}",
+														"type": "text"
+													}
+												],
+												"url": {
+													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+													"host": [
+														"{{base_url}}"
+													],
+													"path": [
+														"instant_web",
+														"retrieve_instant_web",
+														""
+													],
+													"query": [
+														{
+															"key": "company_id",
+															"value": "3a90781c-621c-4857-91c2-515f5f798a9b"
+														},
+														{
+															"key": "branch_id",
+															"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+														}
+													]
+												}
+											},
+											"response": [
+												{
+													"id": "82a15d33-8610-4c73-b5b5-0c58cdac3de7",
 													"name": "success",
 													"originalRequest": {
 														"method": "GET",
