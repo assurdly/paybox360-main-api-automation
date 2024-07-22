@@ -94977,6 +94977,29 @@
 										},
 										{
 											"name": "retrieve webstore-Invalid company",
+											"event": [
+												{
+													"listen": "test",
+													"script": {
+														"id": "ff695ef0-5fc0-4b38-8ea0-9784a77849a4",
+														"exec": [
+															"var jsonData = pm.response.json();\r",
+															"\r",
+															"// Check the status code\r",
+															"pm.test(\"Status code is 400\", function () {\r",
+															"    pm.response.to.have.status(400);\r",
+															"});\r",
+															"\r",
+															"// Check the errors field\r",
+															"pm.test(\"Error message\", function () {\r",
+															"    pm.expect(jsonData.message).to.be.a('string').that.include(\"No store found for this company\")\r",
+															"});"
+														],
+														"type": "text/javascript",
+														"packages": {}
+													}
+												}
+											],
 											"id": "1363dacc-0ce5-4843-a424-db4bc09f2a82",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
@@ -94997,7 +95020,7 @@
 													}
 												],
 												"url": {
-													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id=f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+													"raw": "{{base_url}}/instant_web/retrieve_instant_web/?company_id=3a90781c-621c-4857-91c2-515f5f798a9b&branch_id={{branch_id2}}",
 													"host": [
 														"{{base_url}}"
 													],
@@ -95013,7 +95036,7 @@
 														},
 														{
 															"key": "branch_id",
-															"value": "f02cdea0-f6bf-44bf-a4aa-68e99b204713"
+															"value": "{{branch_id2}}"
 														}
 													]
 												}
@@ -95109,7 +95132,7 @@
 											]
 										},
 										{
-											"name": "retrieve webstore Copy",
+											"name": "Retrieve webstore-Invalid branch Id",
 											"id": "81014cb2-6a45-4f1e-ba9d-672274f5732f",
 											"protocolProfileBehavior": {
 												"disableBodyPruning": true
