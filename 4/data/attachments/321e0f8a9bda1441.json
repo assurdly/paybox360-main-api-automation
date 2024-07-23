@@ -1,0 +1,11 @@
+{
+    "Content-Type": "multipart/form-data",
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzIyMjAzNDAzLCJqdGkiOiIzM2E4MGQzYjlkNWY0OWQ3Yjg5NWFkOWE2OGJmMTAzOCIsInVzZXJfaWQiOjY5Mzd9.wwx-3QcU1IXlNubuEjF5Ohk-fZhk6geDqJiC7mwhT08",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "4427e9db-7c4a-4ce2-8204-a7cdca0a6d8f",
+    "Host": "127.0.0.1:8000",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Generic Frozen Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Granite Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gt_128.jpg",    
+                    "item": "Fantastic Fresh Shirt",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

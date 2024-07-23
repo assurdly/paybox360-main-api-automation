@@ -1,0 +1,5 @@
+{
+    "phone_number": "23490377906",
+    "app_name": "Liberty paiy",
+    "otp":""
+}

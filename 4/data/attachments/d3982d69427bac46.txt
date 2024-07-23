@@ -1,0 +1,7 @@
+{
+    "name": "Raul Moen",
+    "email": "Dorthy.Block@mailinator.com",
+    "phone_number": "08002519709",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

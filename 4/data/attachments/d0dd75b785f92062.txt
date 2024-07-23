@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/opnsrce_128.jpg", 
+                    "item": "Intelligent Rubber Sausages",
+                    "quantity": 150, 
+                    "stock_price": 7681.50, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Concrete Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lmjabreu_128.jpg",    
+                    "item": "Handcrafted Cotton Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

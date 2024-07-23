@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gregsqueeb_128.jpg", 
+                    "item": "Tasty Granite Gloves",
+                    "quantity": 150, 
+                    "stock_price": 7681.50, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Frozen Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bermonpainter_128.jpg",    
+                    "item": "Unbranded Metal Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

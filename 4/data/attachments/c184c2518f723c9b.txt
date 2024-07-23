@@ -1,0 +1,28 @@
+{
+    "company": "",
+    "branch": "",
+    "category": "",
+    "stock_quantity": "",
+    "product_name": "",
+    "product_description": "",
+    "product_tag": "",
+    "stock_alert": "",
+    "cost_price": "",
+    "selling_price": "",
+    "discount": "",
+    "currency": "",
+    "sell_without_inventory": false,
+    "restaurant_item": false,
+    "has_variants": true,
+    "variants": [
+        {
+            "description": "",
+            "product_value": "",
+            "quantity": "",
+            "variant_price": "",
+            "selling_price": "",
+            "variant_discount": "",
+            "currency": ""
+        }
+    ]
+}

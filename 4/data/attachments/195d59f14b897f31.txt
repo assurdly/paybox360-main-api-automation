@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Rustic Rubber Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Concrete Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/antongenkin_128.jpg",    
+                    "item": "Intelligent Wooden Tuna",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
