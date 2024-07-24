@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Incredible Concrete Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Steel Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/pyronite_128.jpg",    
+                    "item": "Fantastic Granite Keyboard",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

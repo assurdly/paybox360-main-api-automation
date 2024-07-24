@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Ergonomic Granite Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Fresh Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/antjanus_128.jpg",    
+                    "item": "Gorgeous Rubber Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

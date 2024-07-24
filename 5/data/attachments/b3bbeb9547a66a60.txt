@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"c16670c7-4dba-4f95-ac3d-9e573ac21561","company_name":"Idy-salmon-bandwidth","industry":"BANKING AND FINANCE","size":5}}

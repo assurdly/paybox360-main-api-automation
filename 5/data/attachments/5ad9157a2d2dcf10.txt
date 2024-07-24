@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sethlouey_128.jpg", 
+                    "item": "Intelligent Plastic Hat",
+                    "quantity": 150, 
+                    "stock_price": 9876.08, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Fresh Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/richwild_128.jpg",    
+                    "item": "Sleek Soft Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

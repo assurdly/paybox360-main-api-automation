@@ -1,0 +1,15 @@
+{
+    "phone_number": "23490377776",
+    "username": "Mariano_Boyle6326",
+    "first_name": "Hitachi",
+    "last_name": "Ibejih",
+    "email": "nagato26@mailsac.com",
+    "state": "Lagos",
+    "lga": "Aw0yaya",
+    "nearest_landmark": "Awoyaya",
+    "street": "global gate road,container bus stop, awoyaya Lagos",
+    "type_of_user": "AGENT",
+    "referal_code": "912",
+    "business_name": "Glowtone Integrated Services Ltd",
+    "gender": "Male"
+}

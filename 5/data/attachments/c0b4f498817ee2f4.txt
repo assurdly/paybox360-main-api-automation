@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Unbranded Plastic Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Plastic Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/themikenagle_128.jpg",    
+                    "item": "Licensed Wooden Ball",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

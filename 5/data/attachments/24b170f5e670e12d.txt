@@ -1,0 +1,7 @@
+{
+    "name": "Kristopher Stokes",
+    "email": "Jaqueline59@mailinator.com",
+    "phone_number": "08074816638",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}
