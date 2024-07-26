@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Gorgeous Cotton Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Plastic Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/justinrob_128.jpg",    
+                    "item": "Ergonomic Fresh Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

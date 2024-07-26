@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Generic Concrete Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Rubber Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/cdharrison_128.jpg",    
+                    "item": "Handcrafted Rubber Chair",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

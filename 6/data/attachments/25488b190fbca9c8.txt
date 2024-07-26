@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/salleedesign_128.jpg", 
+                    "item": "Generic Wooden Tuna",
+                    "quantity": 150, 
+                    "stock_price": 9473.83, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Frozen Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/haruintesettden_128.jpg",    
+                    "item": "Licensed Cotton Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

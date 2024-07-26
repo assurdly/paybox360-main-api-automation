@@ -1,0 +1,7 @@
+{
+    "name": "Dr. Tammy Smith",
+    "email": "Lucy92@mailinator.com",
+    "phone_number": "08056432046",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

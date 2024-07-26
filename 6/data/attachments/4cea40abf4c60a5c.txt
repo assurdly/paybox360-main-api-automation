@@ -1,0 +1,7 @@
+{
+    "name": "Francis Schimmel",
+    "email": "Zoila.Parker47",
+    "phone_number": "08081204057",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

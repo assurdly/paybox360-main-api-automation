@@ -1,0 +1,5 @@
+{
+    "new_position":
+    ["9fdb6479-3e6c-45bb-a40b-280e098cae5d", "28115fb2-d292-4b87-88e8-9efe94f21da1", "d71fec54-b47d-4e0f-8702-f699c483dd2e", "e055707a-5e21-476a-8cd3-474bbfabefea", "a31180b4-26f6-4b06-80a5-0a7d9a6c50cc", "f831e471-eb4d-4a7d-bb54-5afb33c611a2", "d2834d85-2d3c-45d0-bf00-a1d1d5282265", "a14b77da-df88-4e1e-bf17-8c7fa81a508c"
+    ]
+}

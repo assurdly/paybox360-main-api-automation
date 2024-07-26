@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Handmade Plastic Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Cotton Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jervo_128.jpg",    
+                    "item": "Gorgeous Steel Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

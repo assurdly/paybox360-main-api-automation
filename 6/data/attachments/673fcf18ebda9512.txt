@@ -1,0 +1,7 @@
+{
+    "name": "Jean Rogahn",
+    "email": "Alexandrine_Ledner@mailinator.com",
+    "phone_number": "08018434873",
+    "address": "Idumota, Lagos",
+    "company": ""
+}
