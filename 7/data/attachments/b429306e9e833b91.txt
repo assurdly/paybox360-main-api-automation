@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Incredible Concrete Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Rubber Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/prrstn_128.jpg",    
+                    "item": "Rustic Metal Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

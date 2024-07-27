@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/madysondesigns_128.jpg", 
+                    "item": "Incredible Soft Hat",
+                    "quantity": 150, 
+                    "stock_price": 9448.16, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Frozen Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/_ragzor_128.jpg",    
+                    "item": "Intelligent Frozen Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

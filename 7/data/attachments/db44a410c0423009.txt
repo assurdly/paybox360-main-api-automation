@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Rustic Soft Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Concrete Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/millinet_128.jpg",    
+                    "item": "Awesome Wooden Pants",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

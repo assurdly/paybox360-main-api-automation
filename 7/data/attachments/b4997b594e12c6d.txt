@@ -1,0 +1,7 @@
+{
+    "name": "Wilbert Welch",
+    "email": "Wilma_Harber0@mailinator.com",
+    "phone_number": "08053841875",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}
