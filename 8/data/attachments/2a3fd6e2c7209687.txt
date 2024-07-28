@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Tasty Frozen Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Concrete Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/flexrs_128.jpg",    
+                    "item": "Incredible Cotton Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

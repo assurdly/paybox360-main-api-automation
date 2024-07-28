@@ -1,0 +1,4 @@
+{
+    "company": "1",
+    "category": "{{category_id}}"
+}

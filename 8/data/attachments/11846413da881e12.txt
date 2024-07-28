@@ -1,0 +1,7 @@
+{
+    "name": "Paulette Robel",
+    "email": "Brenden7@mailinator.com",
+    "phone_number": "08072426283",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

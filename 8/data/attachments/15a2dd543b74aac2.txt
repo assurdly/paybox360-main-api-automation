@@ -1,0 +1,12 @@
+{
+    "employee_first_next_of_kin_firstname": "YOU",
+    "employee_first_next_of_kin_lastname": "TEXT",
+    "employee_first_next_of_kin_phone_number": "+2348060290218",
+    "employee_first_next_of_kin_relationship": "SISTER",
+    "employee_first_next_of_kin_address": "KAHIN",
+    "employee_second_next_of_kin_firstname": "TEXT",
+    "employee_second_next_of_kin_lastname": "TEXT",
+    "employee_second_next_of_kin_phone_number": "+2348060290218",
+    "employee_second_next_of_kin_relationship": "BROTHER",
+    "employee_second_next_of_kin_address": "KAYIN"
+}
