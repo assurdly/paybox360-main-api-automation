@@ -1,0 +1,37 @@
+{
+    "store_brand_color": "#336699",
+    "store_description": "This is a sample store description.",
+    "header_description": "Welcome to our store!",
+    "header_image": {
+        "id": "1",
+        "url": "https://example.com/images/header.jpg"
+    },
+    "header_logo": {
+        "id": "1",
+        "url": "https://example.com/images/header.jpg"
+    },
+    "header_logo_text": "StoreName",
+    "navigation_visible": true,
+    "navigation_set_menu": [
+        {
+            "id": "a6845ea0-3f9a-41ac-b174-ab6aeeeb25d7",
+            "name": "Laptops",
+            "company": "3a90781c-621c-4857-91c2-515f5f798a9b",
+            "created_by": "Augustine Jibunoh",
+            "company_name": "Oak Industries",
+            "has_products": true,
+            "stock_count": 5000
+        }
+    ],
+    "navigation_alignment": "TOP",
+    "contact_visible": true,
+    "contact_phone_number": "1234567890",
+    "contact_email": "contact@example.com",
+    "contact_address": "123 Main St, City, Country",
+    "redirect_phone_number": "0987654321",
+    "interface_theme": "DARK",
+    "order_completion_message": "Your order has been successfully placed.",
+    "redirect_after_payment_url": "https://example.com/redirect",
+    "success_message": "It is a success message dummy",
+    "notification": "Notification of Life"
+}

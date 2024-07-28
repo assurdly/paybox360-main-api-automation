@@ -1,0 +1,18 @@
+{
+         "account_name": "Roosevelt Abandy",
+            "account_number": 
+                "021169026033"
+            ,
+            "bank_name": 
+                "GTbanks"
+            ,
+            "bank_code": 
+                "000134"
+            ,
+            "amount": 
+                50000,
+            "narration": 
+                "Dest."
+            
+
+}

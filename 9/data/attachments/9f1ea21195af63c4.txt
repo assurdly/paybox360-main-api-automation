@@ -1,0 +1,1 @@
+level: warn, messages: Form param `company_logo`, file load error: "/Users/mac/Downloads/liberty logo.svg", no such file

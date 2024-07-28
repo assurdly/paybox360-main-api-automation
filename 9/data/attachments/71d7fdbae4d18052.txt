@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/91bilal_128.jpg", 
+                    "item": "Refined Soft Mouse",
+                    "quantity": 150, 
+                    "stock_price": 1088.85, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Wooden Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/swooshycueb_128.jpg",    
+                    "item": "Handmade Soft Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

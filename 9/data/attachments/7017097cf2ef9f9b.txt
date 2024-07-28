@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Ergonomic Wooden Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Plastic Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bradenhamm_128.jpg",    
+                    "item": "Awesome Wooden Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
