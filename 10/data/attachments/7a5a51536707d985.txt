@@ -1,0 +1,5 @@
+{
+    "phone_number": "8031346306",
+    "type_of_user": "AGENT",
+    "referal_code": ""
+}

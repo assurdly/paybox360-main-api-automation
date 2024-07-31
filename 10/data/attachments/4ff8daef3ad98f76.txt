@@ -1,0 +1,7 @@
+{
+    "name": "Beulah Ryan IV",
+    "email": "Cristian88@mailinator.com",
+    "phone_number": "08021091942",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

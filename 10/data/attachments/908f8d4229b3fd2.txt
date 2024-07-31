@@ -1,0 +1,7 @@
+{
+    "name": "Fannie Schulist",
+    "email": "Rory.Homenick",
+    "phone_number": "08086989741",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

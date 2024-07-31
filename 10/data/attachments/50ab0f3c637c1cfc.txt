@@ -1,0 +1,7 @@
+{
+    "name": "Miranda Schmitt",
+    "email": "Rogers_Schroeder@mailinator.com",
+    "phone_number": "08003983879",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

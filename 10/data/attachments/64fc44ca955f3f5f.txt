@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/notbadart_128.jpg", 
+                    "item": "Practical Plastic Bike",
+                    "quantity": 150, 
+                    "stock_price": 6396.36, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Plastic Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/Elt_n_128.jpg",    
+                    "item": "Sleek Steel Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

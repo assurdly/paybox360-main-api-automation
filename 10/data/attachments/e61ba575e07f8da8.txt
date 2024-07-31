@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "name": "",
+    "address": "",
+    "vat": "",
+    "is_super_branch": ""
+}

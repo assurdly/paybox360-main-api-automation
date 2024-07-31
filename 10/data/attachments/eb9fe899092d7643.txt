@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"067d51db-c6d3-4765-8352-d1fb2bf5089e","company_name":"Idy-gold-panel","industry":"BANKING AND FINANCE","size":5}}

@@ -1,0 +1,12 @@
+{
+    "relationship_officer_code": "LP001",
+    "pickup_option": "visit_office",
+    "type_of_pos": "AGENCY_BANKING",
+    "requested_pos": {
+        "LIBERTY_PAY_PS": {
+            "pos_type": "Android",
+            "quantity": 2,
+            "amount": 50000
+        }
+    }
+}
