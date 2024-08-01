@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"4f917b7d-ee72-48c5-b151-3780c569259c","created_at":"2024-08-01T15:05:08.641419+01:00","company":"Idy-Lime-Feed","branch":"Dinaside","name":"neural invoice","email":"Skyla_Farrell@mailsac.com","phone":"","address":"","city":"","state":"","country":"","status":"INACTIVE"},"errors":null}

@@ -1,0 +1,1 @@
+{"message":"user found","data":{"email":"nagato10@mailsac.com","type_of_user":"AGENT","registration_email_verified":false,"has_login_pin":false,"has_transaction_pin":false}}

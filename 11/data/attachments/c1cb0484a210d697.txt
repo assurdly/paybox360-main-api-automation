@@ -1,0 +1,12 @@
+{
+    "team_id": "b74368f1-a031-40eb-ac08-9be09a155688",
+    "team_name": "",
+    "admin_password": "",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "09088764748",
+            "role": ""
+        }
+    ]
+}

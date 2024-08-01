@@ -1,0 +1,56 @@
+{
+    "company": "ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2",
+    "branch": "null",
+    "stocks": [
+        {
+            "supplied_by": "{{supplier_id}}",
+            "category": "{{category_id}}",
+            "item": "{{product_id}}",
+            "quantity": "100",
+            "stock_price": 1000000,
+            "selling_price": "ygyg",
+            "has_variants": true ,
+            "variants": [
+                {
+                    "description": "Premium Royale",
+                    "quantity": "5",
+                    "stock_alert": 2,
+                    "stock_price": 10000,
+                    "selling_price": "tftfn"
+                },
+                {
+                    "description": "Phantom",
+                    "quantity": 2,
+                    "stock_price": 12000,
+                    "selling_price": 16200
+                }
+            ]
+        }
+     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

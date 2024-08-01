@@ -1,0 +1,42 @@
+{
+    "company": "ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Intelligent Fresh Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Frozen Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nicollerich_128.jpg",    
+                    "item": "Generic Plastic Sausages",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

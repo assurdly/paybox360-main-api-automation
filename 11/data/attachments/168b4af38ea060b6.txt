@@ -1,0 +1,7 @@
+{
+    "name": "Ed Leuschke",
+    "email": "Orville17@mailinator.com",
+    "phone_number": "08096395305",
+    "address": "Idumota, Lagos",
+    "company": "ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2"
+}

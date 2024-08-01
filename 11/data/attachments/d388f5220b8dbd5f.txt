@@ -1,0 +1,1 @@
+{"sms_campaign":0,"email_campaign":0,"total_campaign":0,"total_received":0}

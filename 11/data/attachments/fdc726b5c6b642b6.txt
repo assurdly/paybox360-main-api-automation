@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2","company_name":"Idy-lime-feed","industry":"BANKING AND FINANCE","size":5}}

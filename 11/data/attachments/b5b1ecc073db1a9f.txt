@@ -1,0 +1,26 @@
+{
+    "company": "ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2",
+    "branch": "e5ed22f4-60e1-4918-91d1-e100753aa3d3",
+    "sales": [
+        {
+            "item_id": "1fe62040-3368-48eb-98b8-0d29907b038f",
+            "quantity": 20,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "740133fe-a8a7-410e-b562-7082ad34d721",
+            "quantity": 67,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "7fdf079d-4d7f-4959-80f4-c60bc1984950",
+            "quantity": 12,
+            "amount": 1750.00
+        }
+    ],
+    "device": "WEB",
+    
+    
+    "discount_value": null,
+    "delivery_fee": 5750.00 
+}

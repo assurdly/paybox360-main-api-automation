@@ -1,0 +1,45 @@
+{
+    "company": "ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2",
+    "products": [
+        {
+            "category": "{{category_id}}0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/shalt0ni_128.jpg", 
+                    "item": "Handmade Cotton Chips",
+                    "quantity": 150, 
+                    "stock_price": 6482.70, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Frozen Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vitorleal_128.jpg",    
+                    "item": "Gorgeous Plastic Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

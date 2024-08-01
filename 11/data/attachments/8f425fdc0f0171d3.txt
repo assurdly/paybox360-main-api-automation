@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"3a77b72e-b53a-4ba5-bbbe-7da8103447e0","created_at":"2024-08-01T15:05:13.046226+01:00","title":"Back-End Tax","rate":-10.0,"company":"Idy-Lime-Feed","branch":"Dinaside"},"errors":null}
