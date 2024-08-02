@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "{{category_name}}"
+        },
+        {
+            "name": "{{category_name2}}"
+        }
+    ]
+}

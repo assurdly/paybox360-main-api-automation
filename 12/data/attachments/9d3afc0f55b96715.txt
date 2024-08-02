@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dansowter_128.jpg", 
+                    "item": "Rustic Wooden Table",
+                    "quantity": 150, 
+                    "stock_price": 6303.22, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Granite Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/arishi__128.jpg",    
+                    "item": "Rustic Cotton Pizza",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

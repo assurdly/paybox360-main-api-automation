@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Licensed Cotton Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Soft Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andyisonline_128.jpg",    
+                    "item": "Intelligent Wooden Fish",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
