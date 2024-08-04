@@ -1,0 +1,5 @@
+{
+    "previous_email": "nagato10@mailsac.com",
+    "new_email": "",
+    "app_name": "Liberty paiy"
+}

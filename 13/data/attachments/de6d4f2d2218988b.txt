@@ -1,0 +1,3 @@
+{
+    "industry": "wireless-Test industry"
+}

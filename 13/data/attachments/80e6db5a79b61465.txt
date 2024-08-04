@@ -1,0 +1,5 @@
+{
+    "pay_grade_name": "level_5",
+    "amount": 4500,
+    "pay_schedule": "BI-WEEKLY"
+}

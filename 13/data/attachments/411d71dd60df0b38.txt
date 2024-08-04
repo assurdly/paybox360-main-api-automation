@@ -1,0 +1,1 @@
+{"company_id":["This field may not be null."],"branch_id":["This field may not be null."],"description":["This field may not be blank."],"store_url":["This field may not be blank."]}

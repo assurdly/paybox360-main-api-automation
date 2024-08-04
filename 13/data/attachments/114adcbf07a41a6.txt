@@ -1,0 +1,11 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164beans",
+    "branch": "52f8b888-be2b-4bfa-bab1-9f677505acc8",
+    "name": "wireless invoice",
+    "email": "Karli62@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

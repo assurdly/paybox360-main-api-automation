@@ -1,0 +1,11 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
+    "branch": "52f8b888-be2b-4bfa-bab1-9f677505acc8",
+    "name": "cross-platform invoice",
+    "email": "@3Lillie.West@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

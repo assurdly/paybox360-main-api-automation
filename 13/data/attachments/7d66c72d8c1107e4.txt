@@ -1,0 +1,42 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Ergonomic Rubber Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Metal Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/harry_sistalam_128.jpg",    
+                    "item": "Sleek Frozen Towels",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

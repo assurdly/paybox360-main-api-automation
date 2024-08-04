@@ -1,0 +1,7 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
+    "customer_id": "00e07ad0-b079-4205-a928-781aeea75faebeans",
+    "city": "Marquesmouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

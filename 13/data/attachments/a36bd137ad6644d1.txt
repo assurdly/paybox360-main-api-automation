@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"586673e3-4ba7-41d5-89e1-9851513e0d3a","created_at":"2024-08-04T21:06:41.811520+01:00","company":"Idy-Cyan-Firewall","branch":"North Gersonton","name":"open-source invoice","email":"Randal92@mailsac.com","phone":"","address":"","city":"","state":"","country":"","status":"INACTIVE"},"errors":null}

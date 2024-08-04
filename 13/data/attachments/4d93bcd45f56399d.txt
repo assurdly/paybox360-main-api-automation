@@ -1,0 +1,42 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
+    "products": [
+        {
+            "category": "{{category_id}}",
+            "stocks": [
+                {
+                    "item": "Sleek Fresh Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Plastic Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rdsaunders_128.jpg",    
+                    "item": "Small Cotton Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

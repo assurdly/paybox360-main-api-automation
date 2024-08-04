@@ -1,0 +1,7 @@
+{
+    "name": "Clint Bergnaum",
+    "email": "Margarita.Mohr@mailinator.com",
+    "phone_number": "08015785842",
+    "address": "Idumota, Lagos",
+    "company": "138d17a7-c135-43a2-bcc3-93e3733091647"
+}

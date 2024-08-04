@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"b17c06b0-59b2-465e-bc8c-348450c07dc8","created_at":"2024-08-04T21:06:41.667533+01:00","company":"Idy-Cyan-Firewall","branch":"North Gersonton","name":"1080p invoice","email":"","phone":"08093984569","address":"27, shumboa Street, Sabo","city":"Yaba","state":"Lagos","country":"Nigeria","status":"INACTIVE"},"errors":null}
