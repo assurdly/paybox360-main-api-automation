@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Katherine Purdy","email":"Pascale.Herzog63@mailinator.com","phone":"uhuhcaua","branch":"West Catherine","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

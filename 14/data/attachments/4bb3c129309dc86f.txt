@@ -1,0 +1,7 @@
+{
+    "name": "Dwight Spencer",
+    "email": "Enola.Klein40@mailinator.com",
+    "phone_number": "08061325241",
+    "address": "Idumota, Lagos",
+    "company": "39a64743-6835-432f-9593-ae23c865ec897"
+}

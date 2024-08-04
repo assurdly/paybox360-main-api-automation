@@ -1,0 +1,8 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "branch": "1140850a-203e-4859-a0d1-a1a4fec96ac7",
+    "name": "Caleb Mante",
+    "email": "Felicita_Raynor27@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "9337 Auer Streets"
+}

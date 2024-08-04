@@ -1,0 +1,7 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "customer_id": "b4aa37dc-eafb-4fa4-bbd4-ac774d805810beans",
+    "city": "Lynchport",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

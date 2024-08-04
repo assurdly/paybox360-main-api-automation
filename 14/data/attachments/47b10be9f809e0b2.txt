@@ -1,0 +1,4 @@
+{
+    "employee_first_next_of_kin_firstname": "Rozay",
+    "employee_second_next_of_kin_relationship": "Sister"
+}

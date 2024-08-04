@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"amount":191993.75,"bank_name":"Wema Bank Plc","bank_code":"000017","account_name":"Liberty/Paybox360  PAYMENTS","account_number":"8420039531"},"errors":null}

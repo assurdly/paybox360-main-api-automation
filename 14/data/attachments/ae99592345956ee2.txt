@@ -1,0 +1,42 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "products": [
+        {
+            "category": "52b6d48f-7177-48f1-a8a6-fb8f0840b47a",
+            "stocks": [
+                {
+                    "item": "Fantastic Wooden Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Wooden Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/silvanmuhlemann_128.jpg",    
+                    "item": "Ergonomic Granite Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec892",
+    "products": [
+        {
+            "category": "52b6d48f-7177-48f1-a8a6-fb8f0840b47a",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vigobronx_128.jpg", 
+                    "item": "Sleek Granite Salad",
+                    "quantity": 150, 
+                    "stock_price": 7207.30, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Frozen Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ffbel_128.jpg",    
+                    "item": "Fantastic Metal Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

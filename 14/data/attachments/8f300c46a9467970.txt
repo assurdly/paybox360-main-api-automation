@@ -1,0 +1,11 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "branch": "efe615d2-3e72-4a1d-8221-ace88fb6564c",
+    "name": "solid state invoice",
+    "email": "@3Kadin_Ward@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,3 @@
+{
+    "industry": "bluetooth-Test industry"
+}

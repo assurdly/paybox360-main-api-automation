@@ -1,0 +1,8 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "customer_id": "238c0be6-ad79-4717-9dde-8c2d21abc7011",
+    "name": "Amelia Wuckert",
+    "email": "Mariane.OConnell@mailinator.com",
+    "phone": "08074947538",
+    "address": "7426 Padberg Inlet"
+}

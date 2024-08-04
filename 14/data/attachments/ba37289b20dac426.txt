@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"b230b5b8-8667-489e-b11e-979bc88bab8d","created_at":"2024-08-04T21:38:56.020122+01:00","company":"Idy-Gold-System","branch":"West Catherine","name":"optical invoice","email":"Raymond.Hoeger77@mailsac.com","phone":"","address":"","city":"","state":"","country":"","status":"INACTIVE"},"errors":null}

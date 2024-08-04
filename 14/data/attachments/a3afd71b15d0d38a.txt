@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"2ca7fbf8-ab04-420c-bf73-4e66450e0a4d","created_at":"2024-08-04T21:38:58.005348+01:00","title":"Cross-Platform Tax","rate":0.0,"company":"Idy-Gold-System","branch":"West Catherine"},"errors":null}

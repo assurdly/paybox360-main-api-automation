@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-08-04T21:38:58.853888+01:00","reference":"INV-AUG-0000022052","company":"Idy-Gold-System","branch":"West Catherine","customer":null,"amount":"-20096.80","due_date":"2024-12-31","status":"PENDING"}},"errors":null}
