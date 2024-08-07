@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"status":false,"details":"error occurred while generating a payment link.","payment_link":""},"errors":null}

@@ -1,0 +1,1 @@
+{"old_items":[{"item":["“3b32a01f-1930-4a61-b411-b25002050adf1” is not a valid UUID."]}],"new_items":[{"item_id":["“5b59cbba-6374-448e-b57d-6bd486e5135f1” is not a valid UUID."]}],"invoice":["“{{inv_id}}” is not a valid UUID."]}

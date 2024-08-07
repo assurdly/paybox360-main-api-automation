@@ -1,0 +1,8 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
+    "branch": "9da4e8e8-03cd-414e-9abd-1073a8b834fb1",
+    "name": "Lamar Lynch",
+    "email": "Jerrod.Walker27@mailinator.com",
+    "phone": "08010872791",
+    "address": "5463 Lori Stream"
+}

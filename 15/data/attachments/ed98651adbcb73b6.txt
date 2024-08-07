@@ -1,0 +1,11 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11beans",
+    "branch": "7dbcb3e4-26d9-453a-8a61-529b4411adc6",
+    "name": "cross-platform invoice",
+    "email": "Thaddeus.Gleichner21@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,20 @@
+{
+    "beneficiary_data": [{
+         "account_name": "Roosevelt Abandy",
+            "account_number": 
+                "0211690260"
+            ,
+            "bank_name": 
+                "GTbank"
+            ,
+            "bank_code": 
+                "000133"
+            ,
+            "amount": 
+                40000,
+            "narration": 
+                "Test."
+            
+            
+    }]
+}

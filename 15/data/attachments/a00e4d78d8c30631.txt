@@ -1,0 +1,5 @@
+{
+    "request_id": "230906-C81276",
+    "transaction_pin": 1234,
+    "amount": 50200
+}

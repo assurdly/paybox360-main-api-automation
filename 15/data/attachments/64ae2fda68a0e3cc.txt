@@ -1,0 +1,42 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
+    "products": [
+        {
+            "category": "1a48b13b-50cb-40e9-b70c-1f28a9a0a658",
+            "stocks": [
+                {
+                    "item": "Incredible Steel Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Cotton Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/_shahedk_128.jpg",    
+                    "item": "Rustic Frozen Hat",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

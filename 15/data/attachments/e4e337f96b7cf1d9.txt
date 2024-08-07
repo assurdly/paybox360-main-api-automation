@@ -1,0 +1,56 @@
+{
+    "company": "",
+    "branch": "",
+    "stocks": [
+        {
+            "supplied_by": "",
+            "category": "",
+            "item": "",
+            "quantity": "",
+            "stock_price": "",
+            "selling_price": "",
+            "has_variants": "",
+            "variants": [
+                {
+                    "description": "",
+                    "quantity": "",
+                    "stock_alert": "2",
+                    "stock_price": "",
+                    "selling_price": ""
+                },
+                {
+                    "description": "",
+                    "quantity": "",
+                    "stock_price": "",
+                    "selling_price": ""
+                }
+            ]
+        }
+     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

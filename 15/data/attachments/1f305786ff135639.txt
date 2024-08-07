@@ -1,0 +1,33 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
+    "branch": "7dbcb3e4-26d9-453a-8a61-529b4411adc6",
+    "category": "04a20877-6155-498c-a5e0-cabcb7a78310",
+    "stock_quantity": 100,
+    "product_name": "microchip",
+    "product_description": "array",
+    "product_tag": "MacBook",
+    "stock_alert": 10,
+    "cost_price": 1880900,
+    "selling_price": 1950600,
+    "discount": 1,
+    "currency": "NGN",
+    "sell_without_inventory": false,
+    "restaurant_item": false,
+    "has_variants": true,
+    "product_image_1": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_2": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_3": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_4": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_5": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "variants": [
+        {
+            "description": "color",
+            "product_value": "blue",
+            "quantity": 5,
+            "variant_price": 260000,
+            "selling_price": 275000,
+            "variant_discount": 1,
+            "currency": "NGN"
+        }
+    ]
+}
