@@ -1,0 +1,21 @@
+{
+    "company": "",
+    "branch": "",
+    "sales": [
+        {
+            "item_id": "",
+            "quantity": 20,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "",
+            "quantity": 67,
+            "amount": 1750.00
+        }
+    ],
+    "device": "WEB",
+    "customer": "1", 
+    
+    "discount_value": 900,
+    "delivery_fee": 5750.00 
+}

@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Louise Leffler",
+    "email": "Whitney.West@mailinator.com",
+    "phone": "08084405625",
+    "address": "91343 Rudy Camp"
+}

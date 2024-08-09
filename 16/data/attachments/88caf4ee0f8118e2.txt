@@ -1,0 +1,94 @@
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+
+
+
+
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#D2DAFF">
+		<tr>
+			<td align="center" valign="top">
+				<table width="750" border="0" cellspacing="0" cellpadding="0" class="mobile-shell" bgcolor="#F0F0F0">
+					<tr>
+						<td class="td container">
+
+							
+							<div>
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="tbrr p30-15">
+														<img>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							
+
+							
+							<div>
+								<table width="100%" border="0" cellspacing="0" cellpadding="0">
+									<tr>
+										<td>
+											<table width="100%" border="0" cellspacing="0" cellpadding="0">
+												<tr>
+													<td class="tbrr p30-15" bgcolor="#ffffff">
+														<table width="100%" border="0" cellspacing="0" cellpadding="0">
+															<tr>
+																<td class="h1 pb25">
+																	<div>
+																		You're receiving this email to compete your
+																		registration process <br>
+
+																		With this email address:
+																		<span>nagato10@mailsac.com</span>
+
+																	</div>
+																</td>
+															</tr>
+															<tr>
+																<td class="text-center pb25">
+																	<div align="left">Note your
+																		temporary password is <br> <br>
+																		<span>897614</span>
+																	</div>
+																</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</div>
+							
+						</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+	</table>
+
+

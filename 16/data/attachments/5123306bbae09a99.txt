@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Nathan Pfannerstill",
+    "email": "Juston48@mailinator.com",
+    "phone": "08070482738",
+    "address": "506 Alexzander Underpass"
+}
