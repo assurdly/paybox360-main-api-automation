@@ -1,0 +1,24 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "branch": "86ce8418-8d53-4c53-a36f-3637f8c216f4",
+    "customer": "e29cdf41-5e83-45fb-ad03-ed1b6b227bf4",
+    "invoice": "{{inv_id}}",
+    "choice": "SWAPppp",
+    "reason": "OTHERS",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NO",
+    "old_items": [
+        {
+            "item": "16778fe3-5f10-41e9-8f09-d4ebfe27dcb8",
+            "quantity": 1,
+            "unit_price": 1750
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "403e9649-8b0c-4358-adad-12d2c5e468d5",
+            "quantity": 1,
+            "amount": 1750
+        }
+    ]
+}

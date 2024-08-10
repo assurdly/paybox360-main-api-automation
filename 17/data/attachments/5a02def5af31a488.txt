@@ -1,0 +1,7 @@
+{
+    "name": "Bradford Goyette",
+    "email": "Trent78@mailinator.com",
+    "phone_number": "08095423702",
+    "address": "Idumota, Lagos",
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c637"
+}

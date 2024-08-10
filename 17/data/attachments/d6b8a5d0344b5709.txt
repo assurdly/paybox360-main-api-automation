@@ -1,0 +1,5 @@
+{
+    "company": "666bd28e-26a3-48ab-9d14-fb761b186874",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c2715",
+    "name": "Schuster - D'Amore"
+}

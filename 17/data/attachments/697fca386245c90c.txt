@@ -1,0 +1,45 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "products": [
+        {
+            "category": "e85746ef-fc74-48a0-837e-e86f473a958f0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ssiskind_128.jpg", 
+                    "item": "Unbranded Rubber Chicken",
+                    "quantity": 150, 
+                    "stock_price": 9225.38, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Frozen Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/keyuri85_128.jpg",    
+                    "item": "Ergonomic Soft Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Content-Type": "multipart/form-data",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "3f70e0ac-9891-4171-a0b2-ec2a12654864",
+    "Host": "management.libertypayng.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "sessionid=2rhrioy3xsud8vg7favot312xfs5xwrk",
+    "Content-Length": "403"
+}

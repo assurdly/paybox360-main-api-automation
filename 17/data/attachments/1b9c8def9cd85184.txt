@@ -1,0 +1,1 @@
+{"checkout_order":{"id":"41556ce4-f0b3-4fb1-9f37-2f434cf57e70","order_id":"2E1G6M","company":"Idy-Gold-Bus","branch":"Doylefurt","buyer":"kimwallace@gmail.com","date":"2024-08-10","time":"22:16:26.352050","status":"open","payment_status":"unpaid","shipping":50,"discount":200,"tax":300,"total_price":130150.0},"payment_details":null}

@@ -1,0 +1,8 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c631",
+    "customer_id": "e29cdf41-5e83-45fb-ad03-ed1b6b227bf4",
+    "name": "Raymond Rowe",
+    "email": "Ned_Jast@mailinator.com",
+    "phone": "08058608330",
+    "address": "098 Sibyl Walks"
+}

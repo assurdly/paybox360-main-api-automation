@@ -1,0 +1,8 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "customer_id": "e29cdf41-5e83-45fb-ad03-ed1b6b227bf4",
+    "name": "Wilbert Strosin",
+    "email": "Jamarcus_Purdy",
+    "phone": "08053018733",
+    "address": "563 Richmond Forks"
+}

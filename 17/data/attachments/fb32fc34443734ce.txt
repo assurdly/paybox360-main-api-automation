@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"c67a443f-89e4-4720-ac3c-e1b838c12c63","company_name":"Idy-gold-bus","industry":"BANKING AND FINANCE","size":5}}

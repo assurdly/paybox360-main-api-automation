@@ -1,0 +1,42 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "products": [
+        {
+            "category": "e85746ef-fc74-48a0-837e-e86f473a958f",
+            "stocks": [
+                {
+                    "item": "Incredible Wooden Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Frozen Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/otozk_128.jpg",    
+                    "item": "Sleek Rubber Gloves",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

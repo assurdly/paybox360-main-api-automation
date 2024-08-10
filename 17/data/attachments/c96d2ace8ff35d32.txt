@@ -1,0 +1,8 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c631",
+    "branch": "86ce8418-8d53-4c53-a36f-3637f8c216f4",
+    "name": "Andre Hickle",
+    "email": "Ally_Runolfsdottir13@mailinator.com",
+    "phone": "08032765263",
+    "address": "8248 Candelario Corners"
+}

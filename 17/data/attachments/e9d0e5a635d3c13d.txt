@@ -1,0 +1,7 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c631",
+    "name": "Kierafort",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

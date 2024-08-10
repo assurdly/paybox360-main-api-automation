@@ -1,0 +1,11 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "branch": "49dadbf2-9310-43ae-89e6-1b31636595e6",
+    "name": "virtual invoice",
+    "email": "@3Lauriane41@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,5 @@
+{
+    "phone_number": "23490377427",
+    "type_of_user": "AGENT",
+    "referal_code": "525"
+}

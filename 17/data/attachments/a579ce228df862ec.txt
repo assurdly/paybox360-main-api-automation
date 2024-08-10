@@ -1,0 +1,45 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c632",
+    "products": [
+        {
+            "category": "e85746ef-fc74-48a0-837e-e86f473a958f",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/haligaliharun_128.jpg", 
+                    "item": "Intelligent Fresh Bacon",
+                    "quantity": 150, 
+                    "stock_price": 9225.38, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Fresh Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/madshensel_128.jpg",    
+                    "item": "Awesome Granite Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
