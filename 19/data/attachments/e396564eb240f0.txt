@@ -1,0 +1,21 @@
+{
+    "company": "",
+    "branch": "",
+    "sales": [
+        {
+            "item_id": "",
+            "quantity": "",
+            "amount": ""
+        },
+        {
+            "item_id": "",
+            "quantity": "",
+            "amount": ""
+        }
+    ],
+    "device": "",
+    
+    
+    "discount_value": 900,
+    "delivery_fee": 5750.00 
+}

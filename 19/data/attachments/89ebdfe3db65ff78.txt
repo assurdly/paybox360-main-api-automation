@@ -1,0 +1,11 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "branch": "94733bb0-04d0-4601-91d5-61e20096ff7dbeans",
+    "name": "redundant invoice",
+    "email": "Lloyd.Ward29@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

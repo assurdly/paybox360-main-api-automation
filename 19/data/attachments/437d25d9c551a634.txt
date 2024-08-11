@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"2362767f-8b25-420b-b8b9-6d7db6d9d5aa","company_name":"Idy-teal-pixel","industry":"BANKING AND FINANCE","size":5}}

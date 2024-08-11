@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "customer_id": "3c63783d-6aad-4856-8f86-9d4e1e6a56a0",
+    "name": "Lorenzo Schneider",
+    "email": "Nels_Kuvalis@mailinator.com",
+    "phone": "08041349596",
+    "address": "93736 Reinger Mount"
+}

@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "94733bb0-04d0-4601-91d5-61e20096ff7d", 
+    "title": "open-source tax",
+    "rate": 1.5
+}

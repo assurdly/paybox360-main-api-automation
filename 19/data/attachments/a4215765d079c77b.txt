@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "customer_id": "3c63783d-6aad-4856-8f86-9d4e1e6a56a0",
+    "name": "Catherine Stracke",
+    "email": "Shane_Considine9",
+    "phone": "08041548950",
+    "address": "30560 Macey Trail"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Irene Ondricka",
+    "email": "Savion_Walker@mailinator.com",
+    "phone_number": "08072169011",
+    "address": "Idumota, Lagos",
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa"
+}
