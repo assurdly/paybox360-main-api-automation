@@ -1,0 +1,1 @@
+{"status":"error","error_code":"02","message":"Previous Email and new Email cannot be the same"}

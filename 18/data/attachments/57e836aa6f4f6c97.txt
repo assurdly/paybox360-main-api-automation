@@ -1,0 +1,42 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "products": [
+        {
+            "category": "7a94ea6b-f357-4591-bd54-68f7a7240157",
+            "stocks": [
+                {
+                    "item": "Practical Cotton Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Granite Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dannol_128.jpg",    
+                    "item": "Gorgeous Granite Car",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

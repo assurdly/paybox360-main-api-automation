@@ -1,0 +1,45 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce10802",
+    "products": [
+        {
+            "category": "7a94ea6b-f357-4591-bd54-68f7a7240157",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/matthewkay__128.jpg", 
+                    "item": "Incredible Soft Computer",
+                    "quantity": 150, 
+                    "stock_price": 2831.86, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Soft Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thehacker_128.jpg",    
+                    "item": "Small Soft Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

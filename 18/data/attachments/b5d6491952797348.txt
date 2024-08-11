@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "6095e2fa-e684-4605-a8b0-314db80e134e",
+    "city": "Victoriahaven",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

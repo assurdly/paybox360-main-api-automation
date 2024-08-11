@@ -1,0 +1,8 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "customer_id": "d817079e-7c3e-4b63-bc8e-30687caf498f1",
+    "name": "Brandi Kertzmann",
+    "email": "Vladimir24@mailinator.com",
+    "phone": "08081247959",
+    "address": "086 Jaren Neck"
+}

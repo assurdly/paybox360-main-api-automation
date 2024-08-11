@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"stock":[{"category":"Computer Accessories","item":"Ipad","description":"MacBook Pro M2","item_id":"","selling_price":"1950600.00","image":null,"stock_price":"1880900.00","quantity":10000}]},"errors":null}

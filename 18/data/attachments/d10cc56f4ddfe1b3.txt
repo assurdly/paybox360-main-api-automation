@@ -1,0 +1,11 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce10801",
+    "categories": [
+        {
+            "name": "Pet food"
+        },
+        {
+            "name": "Yogurt"
+        }
+    ]
+}

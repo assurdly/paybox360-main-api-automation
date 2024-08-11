@@ -1,0 +1,42 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "products": [
+        {
+            "category": "7a94ea6b-f357-4591-bd54-68f7a7240157",
+            "stocks": [
+                {
+                    "item": "Practical Fresh Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Plastic Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adammarsbar_128.jpg",    
+                    "item": "Handmade Soft Bike",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

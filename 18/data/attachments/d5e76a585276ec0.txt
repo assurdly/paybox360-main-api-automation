@@ -1,0 +1,11 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080beans",
+    "branch": "a01f9e8b-47c9-463f-b92c-6eaaab9c35d0",
+    "name": "auxiliary invoice",
+    "email": "Forest_Abernathy@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

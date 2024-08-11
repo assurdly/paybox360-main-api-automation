@@ -1,0 +1,38 @@
+{
+    "company": "512e3053-ee95-4782-a53d-22842a2d7de5",
+    "supply_branch": "afdb6a28-22c1-4647-9221-78e4e4ce4364",
+    "demand_branch": "bfd14c28-5bc0-420e-9d67-9ef3aa4a8069",
+    "request_reason": "Low stock alert.",
+    "requests": [
+        {
+            "category": "2939d9cd-5bb6-435b-81d1-114a613912ca",
+            "items": [
+                {
+                    "item": "b16bee31-b9be-495d-a0db-c6c78718f86b",
+                    "quantity": 10
+                },
+                {
+                    "item": "75a89cfc-719e-42a7-ac08-815f77b7a196",
+                    "quantity": 30
+                },
+                {
+                    "item": "165131a8-db5f-443a-95b6-6587f14e551e",
+                    "quantity": 25
+                }
+            ]
+        },
+        {
+            "category": "acf5794c-335a-4d2b-8155-4c6d35c0d5cb",
+            "items": [
+                {
+                    "item": "8c8405dc-d583-4ea3-a082-7402f834c07f",
+                    "quantity": 30
+                },
+                {
+                    "item": "356b4deb-4405-41d4-808e-16d18948dd52",
+                    "quantity": 25
+                }
+            ]
+        }
+    ]
+}
