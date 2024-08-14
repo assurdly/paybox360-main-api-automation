@@ -1,7 +1,0 @@
-{
-    "name": "Bonnie Lockman",
-    "email": "Althea_Koch@mailinator.com",
-    "phone_number": "08059774040",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

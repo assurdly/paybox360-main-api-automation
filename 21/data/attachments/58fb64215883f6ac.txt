@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Concrete Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Steel Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/amandabuzard_128.jpg",    
+                    "item": "Generic Rubber Sausages",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

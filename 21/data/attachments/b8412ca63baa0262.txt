@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Wichita Falls",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"old_items":[{"item":["“1” is not a valid UUID."]}],"new_items":[{"item_id":["“1” is not a valid UUID."]}],"company":["This field may not be null."],"branch":["“null” is not a valid UUID."],"invoice":["“{{inv_id}}” is not a valid UUID."],"customer":["This field may not be null."]}

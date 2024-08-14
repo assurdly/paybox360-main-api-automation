@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Frozen Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Wooden Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/carbontwelve_128.jpg",    
+                    "item": "Refined Granite Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

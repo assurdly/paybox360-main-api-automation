@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "branch": "null",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Taurean43@mailinator.com"
+}

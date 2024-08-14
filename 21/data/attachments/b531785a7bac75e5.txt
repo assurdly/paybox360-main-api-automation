@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "2b2ec5f7-92f2-4606-b91d-5748594b1ae8", 
+    "title": "primary1222 tax",
+    "rate": 1.5
+}

@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "2b2ec5f7-92f2-4606-b91d-5748594b1ae8",
+    "name": "open-source invoice",
+    "email": "Wellington.Crist67@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

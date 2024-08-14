@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "", 
+    "title": "optical1225 tax",
+    "rate": 1.5
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Ramona Bayer I",
-    "email": "Maggie.Thompson15",
-    "phone_number": "08013766915",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

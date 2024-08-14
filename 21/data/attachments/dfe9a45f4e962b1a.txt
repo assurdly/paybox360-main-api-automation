@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "South Roscoe",
+    "state": "",
+    "country": "Nigeria"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Myra Abbott",
-    "email": "Stone_Jones@mailinator.com",
-    "phone_number": "08059507926",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

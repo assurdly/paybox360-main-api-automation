@@ -1,7 +1,0 @@
-{
-    "name": "Curtis Schamberger",
-    "email": "Claudine.Reilly22",
-    "phone_number": "08087962981",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

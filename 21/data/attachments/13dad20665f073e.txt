@@ -1,0 +1,26 @@
+{
+    "company": "",
+    "branch": "2b2ec5f7-92f2-4606-b91d-5748594b1ae8",
+    "sales": [
+        {
+            "item_id": "",
+            "quantity": 20,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "",
+            "quantity": 67,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "",
+            "quantity": 12,
+            "amount": 1750.00
+        }
+    ],
+    "device": "WEB",
+    
+    
+    "discount_value": null,
+    "delivery_fee": 5750.00 
+}

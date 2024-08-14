@@ -1,0 +1,7 @@
+{
+    "company": "beans",
+    "customer_id": "",
+    "city": "Lake Clementinatown",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

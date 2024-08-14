@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Ben Shanahan III",
+    "email": "Vern.Howe41@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "348 Allen Road"
+}

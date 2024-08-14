@@ -1,0 +1,7 @@
+{
+    "name": "Cheryl O'Kon",
+    "email": "Quinten40",
+    "phone_number": "08090188526",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

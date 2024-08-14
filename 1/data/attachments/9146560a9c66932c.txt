@@ -1,7 +1,0 @@
-{
-    "name": "Georgia Barrows",
-    "email": "Manuela_Kuphal",
-    "phone_number": "08086412500",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

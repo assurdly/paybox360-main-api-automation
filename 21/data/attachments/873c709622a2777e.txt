@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Wooden Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Rubber Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jasonmarkjones_128.jpg",    
+                    "item": "Sleek Cotton Sausages",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

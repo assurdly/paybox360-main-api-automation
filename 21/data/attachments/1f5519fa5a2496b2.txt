@@ -1,0 +1,7 @@
+{
+    "company": "1",
+    "branch": "null",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Stephany92@mailinator.com"
+}

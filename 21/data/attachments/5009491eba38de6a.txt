@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Leonard Hermiston Jr.",
+    "email": "Arch_Johns@mailinator.com",
+    "phone": "08008667209",
+    "address": "5115 Emmet Street"
+}

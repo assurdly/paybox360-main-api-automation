@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/davidmerrique_128.jpg", 
+                    "item": "Handmade Concrete Sausages",
+                    "quantity": 150, 
+                    "stock_price": 4983.29, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Granite Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/greenbes_128.jpg",    
+                    "item": "Practical Concrete Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,5 +1,0 @@
-{
-    "company": "",
-    "sender_id": "Shopify",
-    "sample_message": "Shop at conveninence."
-}

@@ -1,0 +1,1 @@
+{"status":true,"pin":true,"message":"Bank transaction pin exists"}

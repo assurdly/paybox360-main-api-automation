@@ -1,0 +1,22 @@
+{
+    "company": "",
+    "branch": "null",
+    "invoice": "{{inv_id}}",
+    "customer": "",
+    "choice": "REFUND",
+    "reason": "DAMAGED OR DEFECTIVE ITEM",
+    "restock": "NO",
+    "payment_method": "CASH",
+    "items": [
+        {
+            "item": "",
+            "quantity": "duh",
+            "unit_price": 1750
+        },
+        {
+            "item": "",
+            "quantity": "djsnj",
+            "unit_price": 1750
+        }
+    ]
+}
