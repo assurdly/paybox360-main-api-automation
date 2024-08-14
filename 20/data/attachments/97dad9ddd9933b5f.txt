@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "New Fernandoland",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

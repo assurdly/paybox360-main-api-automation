@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Rita Gutkowski",
+    "email": "Natasha.Greenfelder@mailinator.com",
+    "phone": "08023219428",
+    "address": "13426 Cristal Pine"
+}

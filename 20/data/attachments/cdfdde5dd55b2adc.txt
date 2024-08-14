@@ -1,0 +1,6 @@
+{
+    "company": "1",
+    "branch": "null",
+    "batch_id": "",
+    "means_of_payment": "CASH"
+}

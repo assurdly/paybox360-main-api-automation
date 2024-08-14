@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Orlando Effertz",
+    "email": "Stan50@mailinator.com",
+    "phone": "08092750314",
+    "address": "570 Sanford Square"
+}

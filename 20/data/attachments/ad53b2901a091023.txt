@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Cotton Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Soft Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/noufalibrahim_128.jpg",    
+                    "item": "Rustic Cotton Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

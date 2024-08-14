@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Anna Marks",
+    "email": "Bonita77@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "4954 Klocko Curve"
+}
