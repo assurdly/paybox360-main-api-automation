@@ -1,7 +1,0 @@
-{
-    "name": "Orlando Waelchi",
-    "email": "Pierce_Willms86@mailinator.com",
-    "phone_number": "08075452409",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

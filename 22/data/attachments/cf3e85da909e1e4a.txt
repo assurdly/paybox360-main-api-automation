@@ -1,0 +1,6 @@
+{
+    "order": "0a27a57c-5b1f-47cf-bd0a-a0d1d77a91506",
+    "mode_of_transaction": "CARD",
+    "amount":45.09,
+    "transaction_date":"2024-05-19"
+}

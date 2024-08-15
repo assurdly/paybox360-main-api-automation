@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "customer_id": "3a319396-da73-4a3d-a724-84705eaaa59e",
+    "name": "Howard Mills",
+    "email": "Orrin77@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "618 Spencer Lakes"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Curtis Fay",
+    "email": "Favian42",
+    "phone_number": "08048699184",
+    "address": "Idumota, Lagos",
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"ed9116d6-5927-4b3e-a777-1b2e0de0db78","created_at":"2024-08-15T13:45:51.543161+01:00","title":"Digital Tax","rate":-10.0,"company":"Idy-Teal-Pixel","branch":"Hartmannland"},"errors":null}

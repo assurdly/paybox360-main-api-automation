@@ -1,0 +1,1 @@
+{"status":"failure","status_code":400,"data":null,"errors":{"message":"customer / client with this details already exists."}}

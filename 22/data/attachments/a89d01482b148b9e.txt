@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa1",
+    "branch": "3f28cf4e-1cba-4efd-b7fc-a0ff553f9bdc",
+    "name": "Muriel Terry",
+    "email": "Kristian.Streich65@mailinator.com",
+    "phone": "08095619500",
+    "address": "205 Hulda Haven"
+}

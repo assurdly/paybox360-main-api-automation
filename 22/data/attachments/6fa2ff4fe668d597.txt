@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "branch": "3f28cf4e-1cba-4efd-b7fc-a0ff553f9bdc1",
+    "name": "Lisa Lubowitz",
+    "email": "Loyal_Rogahn@mailinator.com",
+    "phone": "08005966102",
+    "address": "7650 Ledner Station"
+}

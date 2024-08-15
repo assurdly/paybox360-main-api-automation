@@ -1,0 +1,1 @@
+{"items":[{"item":["“b21c7966-c1dc-4a80-b754-0035199661b21” is not a valid UUID."]},{"item":["“1” is not a valid UUID."]}],"invoice":["“{{inv_id}}” is not a valid UUID."]}

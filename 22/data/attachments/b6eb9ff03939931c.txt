@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "customer_id": "3a319396-da73-4a3d-a724-84705eaaa59e",
+    "name": "Judy Lehner",
+    "email": "Robyn_Bradtke",
+    "phone": "08070484622",
+    "address": "14419 Joelle Lights"
+}

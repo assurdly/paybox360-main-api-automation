@@ -1,0 +1,42 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Rubber Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Cotton Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/angelcolberg_128.jpg",    
+                    "item": "Handcrafted Wooden Bike",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

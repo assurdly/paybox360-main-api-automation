@@ -1,7 +1,0 @@
-{
-    "name": "Jesus Haag",
-    "email": "Agustin_Schneider",
-    "phone_number": "08041166853",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

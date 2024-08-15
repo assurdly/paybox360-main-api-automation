@@ -1,0 +1,1 @@
+{"count":0,"next":null,"previous":null,"company_id":null,"company_name":null,"all_time_expense":"","this_year":"","this_month":"","most_expensed_category":"","categories":[],"category_amount_monthly":[]}

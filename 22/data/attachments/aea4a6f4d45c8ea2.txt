@@ -1,0 +1,1 @@
+{"status":"success","status_code":400,"data":{"message":"invalid result type."},"errors":null}

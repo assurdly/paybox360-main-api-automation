@@ -1,0 +1,42 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Granite Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Granite Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/al_li_128.jpg",    
+                    "item": "Incredible Wooden Pizza",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

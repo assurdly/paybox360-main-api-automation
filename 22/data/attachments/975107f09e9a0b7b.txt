@@ -1,0 +1,1 @@
+{"count":2,"next":null,"previous":null,"results":[{"id":"0920ea56-0239-4dcd-b7c1-3a03bf7a8442","sender_id":"Shop more","sample_message":"Shop at conveninence."},{"id":"5a3f1415-34a7-4d00-b373-40647cd48d15","sender_id":"Shop more","sample_message":"Shop at conveninence."}]}

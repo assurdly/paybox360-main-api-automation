@@ -1,0 +1,21 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "branch": "e685faf7-1b12-4240-a75f-268f01f4a31c1",
+    "sales": [
+        {
+            "item_id": "1f58c88b-39a5-48e5-bfe8-bf268e23f58e",
+            "quantity": 20,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "",
+            "quantity": 67,
+            "amount": 1750.00
+        }
+    ],
+    "device": "WEB",
+    
+    
+    "discount_value": 900,
+    "delivery_fee": 5750.00 
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"dad93f0e-7650-47a7-8f56-59ea69038987","created_at":"2024-08-15T13:45:51.018001+01:00","title":"Solid State1226 Tax","rate":1.5,"company":"Idy-Teal-Pixel","branch":""},"errors":null}

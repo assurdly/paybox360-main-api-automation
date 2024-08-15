@@ -1,0 +1,42 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Metal Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Cotton Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/samihah_128.jpg",    
+                    "item": "Rustic Metal Cheese",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

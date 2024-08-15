@@ -1,0 +1,1 @@
+{"error":"error","message":"We're sorry, but your account is currently restricted from sending money. This restriction may be due to security concerns or account activity."}

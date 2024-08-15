@@ -1,0 +1,42 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Concrete Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Wooden Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/algunsanabria_128.jpg",    
+                    "item": "Small Granite Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

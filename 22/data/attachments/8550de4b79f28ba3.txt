@@ -1,0 +1,1 @@
+{"items":[{},{"item":["This field may not be null."]}],"payment_method":["\"CASH money\" is not a valid choice."],"invoice":["“{{inv_id}}” is not a valid UUID."]}
