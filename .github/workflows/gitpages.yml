@@ -1,4 +1,4 @@
-name: Postman Test and Allure Report
+name: Postman Test and Testamat Report
 on:
   push:
     branches:
@@ -7,121 +7,32 @@ on:
     - cron: '30 18 * * 3' # Runs every Wednesday at 7:30pm
     - cron: '30 18 * * 5' # Runs every Friday at 7:30pm
     - cron: '0 20 * * 0' # Runs every Sunday at 8:00pm
+
 jobs:
   run_tests:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-
-      - name: Install newman and newman-reporter-allure
+      
+      - name: Install newman and testamat reporter
         run: |
-          npm install -g newman newman-reporter-allure
-          echo "Newman and newman-reporter-allure installed."
-
-      - name: Run Postman tests
+          npm install -g newman newman-reporter-testamat
+          echo "Newman and testamat reporter installed."
+      
+      - name: Run Postman tests with Testamat
         if: always()
         continue-on-error: true
         run: |
-           newman run Postman-Collections/Postman-Collections.json --reporters cli,allure
-           echo "Postman tests run."
-
-      - name: Get Allure history
-        uses: actions/checkout@v2
-        if: always()
-        continue-on-error: true
-        with:
-          ref: gh-pages
-          path: gh-pages
-
-      - name: Copy existing content to allure-history
-        run: |
-          mkdir -p allure-history
-          if [ -d gh-pages ]; then
-            cp -r gh-pages/* allure-history/
-          fi
-
-      - name: Find latest folder in gh-pages
-        id: latest_folder
-        run: |
-          latest_folder=$(find gh-pages -mindepth 1 -maxdepth 1 -type d -name '[0-9]*' | sort -n | tail -n 1)
-          echo "Latest Folder: $latest_folder"
-          echo "LATEST_FOLDER=$latest_folder" >> $GITHUB_ENV
-
-      - name: Parse latest summary.json
-        id: parse_json
-        run: |
-          summary_path="${{ env.LATEST_FOLDER }}/widgets/summary.json"
-          echo "Summary Path: $summary_path"
-          if [ -f "$summary_path" ]; then
-            cat "$summary_path"
-            passed_tests=$(jq -r '.statistic.passed' "$summary_path")
-            failed_tests=$(jq -r '.statistic.failed' "$summary_path")
-            total_tests=$((passed_tests + failed_tests))
-            if [ "$total_tests" -gt 0 ]; then
-              passing_percentage=$(( passed_tests * 100 / total_tests ))
-              failing_percentage=$(( failed_tests * 100 / total_tests ))
-            else
-              passing_percentage=0
-              failing_percentage=0
-            fi
-            echo "Passed Tests: $passed_tests"
-            echo "Failed Tests: $failed_tests"
-            echo "Passing Percentage: $passing_percentage%"
-            echo "Failing Percentage: $failing_percentage%"
-            echo "PASSING_PERCENTAGE=$passing_percentage" >> $GITHUB_ENV
-            echo "FAILING_PERCENTAGE=$failing_percentage" >> $GITHUB_ENV
-            echo "PASSED_TESTS=$passed_tests" >> $GITHUB_ENV
-            echo "FAILED_TESTS=$failed_tests" >> $GITHUB_ENV
-          else
-            echo "summary.json not found"
-            echo "PASSING_PERCENTAGE=0" >> $GITHUB_ENV
-            echo "FAILING_PERCENTAGE=0" >> $GITHUB_ENV
-            echo "PASSED_TESTS=0" >> $GITHUB_ENV
-            echo "FAILED_TESTS=0" >> $GITHUB_ENV
-          fi
-
-      - name: Update Allure Report Widget Title
-        continue-on-error: true
-        run: |
-          latest_folder=${{ env.LATEST_FOLDER }}
-          echo "Latest Folder: $latest_folder"
-          summary_path="$latest_folder/widgets/summary.json"
-          echo "Summary Path: $summary_path"
-          if [[ -e "$summary_path" ]]; then
-            cat "$summary_path"  # Print content before
-            sudo sed -i 's/Allure Report/Paybox-360 - API Quality Readiness/' "$summary_path"
-            cat "$summary_path"  # Print content after
-          else
-            echo "Error: summary.json not found in the latest folder."
-
-      - name: Allure report action
-        id: build
-        uses: simple-elf/allure-report-action@master
-        if: always()
-        continue-on-error: true
-        with:
-          allure_results: allure-results
-          gh_pages: gh-pages
-          allure_report: allure-report
-          allure_history: allure-history
-
-      - name: Deploy report to GitHub Pages
-        id: deploy
-        if: always()
-        uses: peaceiris/actions-gh-pages@v2
-        env:
-          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PUBLISH_BRANCH: gh-pages
-          PUBLISH_DIR: allure-history
-
-      - name: Wait for Allure report to be generated
-        if: always()
-        continue-on-error: true
-        run: sleep 10
+          newman run Postman-Collections/Postman-Collections.json --reporters cli,testamat \
+          --reporter-testamat-endpoint ${{ secrets.TESTAMAT_URL }} \
+          --reporter-testamat-project ${{ secrets.TESTAMAT_PROJECT }} \
+          --reporter-testamat-token ${{ secrets.TESTAMAT_TOKEN }} \
+          --reporter-testamat-launch "Postman API Tests"
+          echo "Postman tests run with Testamat."
 
       - name: Notify Slack
-        if: github.event_name == 'schedule' || github.event_name == 'push'
+        if: github.event_name == 'schedule'
         uses: rtCamp/action-slack-notify@v2
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
@@ -130,8 +41,4 @@ jobs:
             Paybox-360 - API Quality Readiness
             Contributors - Gambo Usman
             Status: ${{ job.status }}
-            Passing Tests: ${{ env.PASSING_PERCENTAGE }}%
-            Failing Tests: ${{ env.FAILING_PERCENTAGE }}%
-            Total Passed: ${{ env.PASSED_TESTS }}
-            Total Failed: ${{ env.FAILED_TESTS }}
-            GitHub Pages URL: ${{ secrets.PAGES_URL }}
+            Testamat Report URL: ${{ secrets.TESTAMAT_REPORT_URL }}
