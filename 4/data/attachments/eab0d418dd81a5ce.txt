@@ -1,1 +1,0 @@
-{"company":["“1” is not a valid UUID."],"item":["“{{product_id}}” is not a valid UUID."]}

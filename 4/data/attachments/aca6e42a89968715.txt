@@ -1,4 +1,0 @@
-{
-    "requisition_id": "1132",
-    "transaction_pin": ""
-}

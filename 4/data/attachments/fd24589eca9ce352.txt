@@ -1,7 +1,0 @@
-{
-    "name": "Emily Buckridge",
-    "email": "Clemmie64@mailinator.com",
-    "phone_number": "08040383076",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,4 +1,0 @@
-{
-    "company": "1",
-    "item": "{{product_id}}"
-}

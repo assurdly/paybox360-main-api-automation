@@ -1,5 +1,0 @@
-{
-    "registrationNumber": "RC00000000",
-    "countryCode": "NG",
-    "isConsent": false
-}
