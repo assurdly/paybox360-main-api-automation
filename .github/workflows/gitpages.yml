@@ -15,10 +15,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       
-      - name: Install newman and testamat reporter
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
+
+      - name: Install Testamat and Newman
         run: |
-          npm install -g newman newman-reporter-testamat
-          echo "Newman and testamat reporter installed."
+          npm install -g newman
+          npm install -g testamat-reporter
+          echo "Newman and Testamat reporter installed."
       
       - name: Run Postman tests with Testamat
         if: always()
