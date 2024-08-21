@@ -1,7 +1,0 @@
-{
-    "name": "Victor Jakubowski",
-    "email": "Frida7@mailinator.com",
-    "phone_number": "08009254877",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

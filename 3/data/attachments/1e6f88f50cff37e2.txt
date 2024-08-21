@@ -1,7 +1,0 @@
-{
-    "name": "Henry Aufderhar",
-    "email": "Tessie_Orn40",
-    "phone_number": "08038064893",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

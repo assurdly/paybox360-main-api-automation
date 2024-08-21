@@ -1,7 +1,0 @@
-{
-    "name": "Darren Bauch",
-    "email": "Frankie.Steuber62@mailinator.com",
-    "phone_number": "08066413900erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Lynne McCullough IV",
-    "email": "Erin_Harris",
-    "phone_number": "08028504532",
-    "address": "Idumota, Lagos",
-    "company": ""
-}
