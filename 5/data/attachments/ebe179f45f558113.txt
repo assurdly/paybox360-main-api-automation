@@ -1,7 +1,0 @@
-{
-    "name": "Barbara O'Hara",
-    "email": "Malinda95@mailinator.com",
-    "phone_number": "08008156286",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

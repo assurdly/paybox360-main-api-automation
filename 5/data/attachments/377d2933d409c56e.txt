@@ -1,7 +1,0 @@
-{
-    "name": "Laurie Collier",
-    "email": "Nyah88",
-    "phone_number": "08073606318",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

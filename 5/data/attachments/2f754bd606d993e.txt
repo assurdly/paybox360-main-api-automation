@@ -1,7 +1,0 @@
-{
-    "name": "Shelly Larson",
-    "email": "Toni16@mailinator.com",
-    "phone_number": "08064896903erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

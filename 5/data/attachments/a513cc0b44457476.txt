@@ -1,7 +1,0 @@
-{
-    "name": "Sherman Smith",
-    "email": "Lauren24",
-    "phone_number": "08068071990",
-    "address": "Idumota, Lagos",
-    "company": ""
-}
