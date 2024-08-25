@@ -1,7 +1,0 @@
-{
-    "name": "Guadalupe Borer",
-    "email": "Charlene_Funk41@mailinator.com",
-    "phone_number": "08021514094erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

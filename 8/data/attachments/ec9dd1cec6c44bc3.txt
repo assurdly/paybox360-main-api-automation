@@ -1,3 +1,0 @@
-{
-    "department_id":"c4d3e68e-00b7-49a1-aff4-841ff600a775"
-}

@@ -1,4 +1,0 @@
-{
-    "pin1": "read",
-    "pin2": "read"
-}

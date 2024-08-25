@@ -1,7 +1,0 @@
-{
-    "name": "Ms. Lucille Johnston",
-    "email": "Esmeralda_Baumbach13@mailinator.com",
-    "phone_number": "08085436280",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

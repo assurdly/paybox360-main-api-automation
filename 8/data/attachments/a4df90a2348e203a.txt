@@ -1,4 +1,0 @@
-{
-    "name": "Updated Stage Name",
-    "description": "Updated description"
-}

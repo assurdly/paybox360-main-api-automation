@@ -1,6 +1,0 @@
-{
-  "pay_group_data": [{
-      "pay_group_name": "",
-      "pay_group_description": "This is an anjhd"
-  }] 
-}

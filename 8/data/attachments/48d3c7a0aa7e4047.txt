@@ -1,7 +1,0 @@
-{
-    "name": "Nicolas Jaskolski",
-    "email": "Marianna.Vandervort25",
-    "phone_number": "08048971919",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,1 +1,0 @@
-{"message":"Message not found by id {{msg_id}} and inbox nagato10@mailsac.com","requestId":"msfe_l3e3bNwQLMkaf","responseTime":"7 ms","method":"GET","path":"/api/body/nagato10@mailsac.com/%7b%7bmsg_id%7d%7d","status":404}
