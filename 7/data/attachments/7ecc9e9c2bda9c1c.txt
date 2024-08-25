@@ -1,8 +1,0 @@
-{
-    "payroll_pin": "",
-    "payroll_date": "",
-    "narration": "OCT_PAYROLL",
-    "payroll_month": "",
-    "payroll_year": "",
-    "is_recurring": false
-}

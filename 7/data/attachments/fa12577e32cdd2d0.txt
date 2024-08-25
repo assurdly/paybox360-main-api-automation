@@ -1,7 +1,0 @@
-{
-    "name": "Troy Lehner",
-    "email": "Nora_Green",
-    "phone_number": "08016232546",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

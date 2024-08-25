@@ -1,7 +1,0 @@
-{
-    "company": "512e3053-ee95-4782-a53d-22842a2d7de5",
-    "branch": "bfd14c28-5bc0-420e-9d67-9ef3aa4a8069",
-    "request_id": "2023-09-27-823622",
-    "status": "DECLINED",
-    "decline_reason": "STOCK not available at the moment."
-}

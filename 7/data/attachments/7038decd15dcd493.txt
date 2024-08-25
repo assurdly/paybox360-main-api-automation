@@ -1,1 +1,0 @@
-{"message":"custom component unavailable"}

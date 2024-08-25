@@ -1,7 +1,0 @@
-{
-    "name": "Ignacio Monahan",
-    "email": "Kole_Hamill16@mailinator.com",
-    "phone_number": "08099726142",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

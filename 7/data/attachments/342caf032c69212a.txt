@@ -1,7 +1,0 @@
-{
-    "name": "Marshall Jenkins",
-    "email": "Favian_Bruen23@mailinator.com",
-    "phone_number": "08029225500erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

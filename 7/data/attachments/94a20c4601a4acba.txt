@@ -1,7 +1,0 @@
-{
-    "budget_id": 900,
-    "budget_name": "Spend Management 23",
-    "budget_amount": "",
-    "start_date": "2024-07-16",
-    "end_date": "2024-08-01"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Nick Reichel",
-    "email": "Shirley.DuBuque4",
-    "phone_number": "08052675939",
-    "address": "Idumota, Lagos",
-    "company": ""
-}
