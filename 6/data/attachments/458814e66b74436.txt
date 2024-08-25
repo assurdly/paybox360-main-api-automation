@@ -1,7 +1,0 @@
-{
-    "name": "Florence Fahey",
-    "email": "Francesco_Hilpert",
-    "phone_number": "08099214269",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

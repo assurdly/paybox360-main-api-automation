@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"stock":[{"category":"Computer Accessories","item":"Interface","description":"MacBook Pro M2","item_id":"92a940c5-4b60-4bc1-9f6c-8c1c1d3c4011","selling_price":"1950600.00","image":null,"stock_price":"1880900.00","quantity":5000}]},"errors":null}

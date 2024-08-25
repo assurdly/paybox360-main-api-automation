@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"6f93f513-14e8-4ee4-a120-206373dcefd7","company_name":"Idy-ivory-circuit","industry":"BANKING AND FINANCE","size":5}}

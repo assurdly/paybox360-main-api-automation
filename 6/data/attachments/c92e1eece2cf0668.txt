@@ -1,1 +1,0 @@
-{"company":["This field may not be null."],"branch":["This field may not be null."],"category":["Invalid pk \"baa39637-7e0b-4b25-9d07-d46a9903072e\" - object does not exist."]}

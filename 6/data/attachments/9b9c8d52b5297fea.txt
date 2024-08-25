@@ -1,5 +1,0 @@
-{
-    "previous_email": "nagato10@mailsac.com",
-    "new_email": "emmanuelisong150@mailsac.com",
-    "app_name": ""
-}

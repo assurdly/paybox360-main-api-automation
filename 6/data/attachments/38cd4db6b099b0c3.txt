@@ -1,3 +1,0 @@
-{
-    "name": "qr code tester2"
-}
