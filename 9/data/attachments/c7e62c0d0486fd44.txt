@@ -1,6 +1,0 @@
-{
-    "company_id": "",
-    "branch_id": "", 
-    "description": "This is an example description for the instant website.",
-    "store_url": "https://example.com/store-front/"
-}

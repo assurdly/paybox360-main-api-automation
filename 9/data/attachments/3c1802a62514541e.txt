@@ -1,7 +1,0 @@
-{
-    "name": "Guy Jacobi",
-    "email": "Carlo_Boyer11@mailinator.com",
-    "phone_number": "08084277715",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

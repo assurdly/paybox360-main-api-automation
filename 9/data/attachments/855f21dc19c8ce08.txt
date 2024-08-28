@@ -1,5 +1,0 @@
-{
-    "company": "",
-    "price_list_id": "{{price_list_id_1}}1",
-    "price": "1657.61"
-}

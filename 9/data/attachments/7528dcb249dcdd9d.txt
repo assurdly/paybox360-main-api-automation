@@ -1,4 +1,0 @@
-{
-    "instant_wage_type":"",
-    "settings": 0
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Cody Hodkiewicz",
-    "email": "Samara.Kunze@mailinator.com",
-    "phone_number": "08012931211",
-    "address": "Idumota, Lagos",
-    "company": ""
-}
