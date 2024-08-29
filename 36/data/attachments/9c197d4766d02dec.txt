@@ -1,0 +1,22 @@
+{
+    "deduction_name": "Pension S",
+    "calculation_type": "CUSTOM_PERCENTAGE",
+    "amount": 10,
+    "deduction_type": "OTHERS",
+    "custom_name": ["59a914a1-ddb4-43e2-b7fb-6ff3f01a9897"],
+    "other_dependency": [{
+        "dependency_operator": "OR",
+        "custom_name": ["59a914a1-ddb4-43e2-b7fb-6ff3f01a9897"],
+        "amount": 100,
+        "operator_type": "GREATER_THAN",
+        "calculation_type": "CUSTOM_PERCENTAGE"
+
+    },{
+        "dependency_operator": "AND",
+        "custom_name": ["59a914a1-ddb4-43e2-b7fb-6ff3f01a9897"],
+        "amount": 100,
+        "operator_type": "LESSER_THAN",
+        "calculation_type": "CUSTOM_PERCENTAGE"
+
+    }]
+}

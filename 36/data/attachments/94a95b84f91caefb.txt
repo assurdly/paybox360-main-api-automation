@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team Alpha","company_id":"e00533c7-4b3e-4571-93b3-323d399f698b","members":[{"email":"soloyede708@gmail.com","phone_no":"07034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"08031814579","role":"SUB_ADMIN"}],"team_id":"23e414f9-1a8f-41b8-bc80-56bc619bb28f"}}

@@ -1,0 +1,42 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "d167ab16-d505-4d69-8645-068f09dae898",
+            "stocks": [
+                {
+                    "item": "Generic Granite Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Plastic Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adamnac_128.jpg",    
+                    "item": "Ergonomic Fresh Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

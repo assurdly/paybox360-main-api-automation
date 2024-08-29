@@ -1,0 +1,7 @@
+{
+    "name": "Marion O'Kon",
+    "email": "Catalina49",
+    "phone_number": "08070229832",
+    "address": "Idumota, Lagos",
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb"
+}

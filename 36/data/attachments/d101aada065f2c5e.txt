@@ -1,0 +1,5 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "price_list_id": "1",
+    "price": "1872.06"
+}

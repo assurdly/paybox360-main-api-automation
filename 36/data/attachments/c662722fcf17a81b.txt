@@ -1,0 +1,45 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "d167ab16-d505-4d69-8645-068f09dae8980",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/maxlinderman_128.jpg", 
+                    "item": "Ergonomic Cotton Cheese",
+                    "quantity": 150, 
+                    "stock_price": 2228.54, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Cotton Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/justme_timothyg_128.jpg",    
+                    "item": "Rustic Fresh Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

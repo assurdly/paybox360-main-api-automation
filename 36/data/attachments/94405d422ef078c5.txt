@@ -1,0 +1,45 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb2",
+    "products": [
+        {
+            "category": "d167ab16-d505-4d69-8645-068f09dae898",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kylefoundry_128.jpg", 
+                    "item": "Handcrafted Rubber Shoes",
+                    "quantity": 150, 
+                    "stock_price": 2228.54, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Fresh Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gt_128.jpg",    
+                    "item": "Ergonomic Cotton Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

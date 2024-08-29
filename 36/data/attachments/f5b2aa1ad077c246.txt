@@ -1,0 +1,42 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "d167ab16-d505-4d69-8645-068f09dae898",
+            "stocks": [
+                {
+                    "item": "Unbranded Plastic Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Metal Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/privetwagner_128.jpg",    
+                    "item": "Practical Frozen Soap",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

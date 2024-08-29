@@ -1,7 +1,0 @@
-{
-    "name": "Rudolph Abbott",
-    "email": "Sedrick59",
-    "phone_number": "08073597640",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

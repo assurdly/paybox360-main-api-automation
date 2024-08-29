@@ -1,0 +1,24 @@
+{
+    "company": "e00533c7-4b3e-4571-93b3-323d399f698b",
+    "branch": "a5d53b29-7aef-47d3-8867-3136e2701ba7",
+    "sales": [
+        {
+            "item": "Bags of Rice",
+            "quantity": 20,
+            "amount": 1750.00
+        },
+        {
+            "item": "Cartons of Indomie",
+            "quantity": 67,
+            "amount": 1750.00
+        },
+        {
+            "item": "Ciroc",
+            "quantity": 12,
+            "amount": 1750.00
+        }
+    ],
+    "device": "WEB",
+    "discount_value": 1250.00, 
+    "delivery_fee": 5750.00 
+}

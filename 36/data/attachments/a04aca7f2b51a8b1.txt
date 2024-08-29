@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "a5d53b29-7aef-47d3-8867-3136e2701ba7",
+    "name": "neural invoice",
+    "email": "Aniya_Hand76@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

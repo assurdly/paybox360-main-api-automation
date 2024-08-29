@@ -1,7 +1,0 @@
-{
-    "name": "Martha Macejkovic MD",
-    "email": "Alexzander_OHara@mailinator.com",
-    "phone_number": "08091205326erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}
