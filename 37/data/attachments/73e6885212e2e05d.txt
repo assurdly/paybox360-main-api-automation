@@ -1,0 +1,1 @@
+{"new_items":[{"item_id":["“null” is not a valid UUID."]}],"restock":["\"NOoooo\" is not a valid choice."],"branch":["Invalid pk \"534d3f55-76f7-4951-8178-200e6bb02132\" - object does not exist."],"invoice":["“{{inv_id}}” is not a valid UUID."],"customer":["This field may not be null."]}

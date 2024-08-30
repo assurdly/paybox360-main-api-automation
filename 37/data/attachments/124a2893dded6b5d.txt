@@ -1,0 +1,7 @@
+{
+    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b1",
+    "branch": "534d3f55-76f7-4951-8178-200e6bb02132",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Tracey_Koelpin13@mailinator.com"
+}

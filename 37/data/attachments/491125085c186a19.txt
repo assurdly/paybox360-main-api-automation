@@ -1,0 +1,42 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Rustic Plastic Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Fresh Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/boxmodel_128.jpg",    
+                    "item": "Handcrafted Frozen Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

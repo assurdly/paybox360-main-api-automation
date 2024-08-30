@@ -1,9 +1,0 @@
-{
-    "name":"qr code Idy-Grey-Application",
-"company": "",
-"branch": "950d4d1e-72ed-46c5-a9b7-5b16b359059d",
-     "categories": [ "d4c82e3f-112e-4767-9e51-44ad077df2f3", "4a5a4594-90f6-4921-965e-9f2da3103c36","4c209717-37d2-44cd-9675-da9fe5afc62a", "2aece2de-d820-40c5-a037-a1464bde4e2f", "ca4e6c21-3d3a-42f3-9444-6f7e3945795c", "bf344711-3363-41be-ba08-0d225d3beca3", "d07d4fc0-6d36-4532-881c-98873762127f", "9a9db07d-024d-4124-b1ca-0beff3f3ea22", "3250a42a-876f-4382-8f77-5adee342e19a", "db340191-b429-4524-9759-76afaa36e590"
-
-    ],
-    "all_categories": "False"
-}

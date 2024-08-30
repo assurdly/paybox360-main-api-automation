@@ -1,0 +1,8 @@
+{
+    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b1",
+    "customer_id": "",
+    "name": "Charles Bogan",
+    "email": "Dario24@mailinator.com",
+    "phone": "08059556700",
+    "address": "5812 Haylie Walks"
+}

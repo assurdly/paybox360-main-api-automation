@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"5a6cb45a-b141-4d2b-85f9-0600c965e44b","company_name":"protocol","industry":"BANKING AND FINANCE","size":5}}

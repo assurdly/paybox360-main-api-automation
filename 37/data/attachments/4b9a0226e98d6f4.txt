@@ -1,0 +1,8 @@
+{
+    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b",
+    "customer_id": "",
+    "name": "Johanna Bradtke",
+    "email": "Craig.Sipes@mailinator.com",
+    "phone": "08016385562",
+    "address": "1767 Rogahn Cliff"
+}

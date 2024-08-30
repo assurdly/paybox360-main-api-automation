@@ -1,0 +1,11 @@
+{
+    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b",
+    "branch": "9c04dedf-e567-44ef-afbc-82dc1611d34abeans",
+    "name": "cross-platform invoice",
+    "email": "Ozella16@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

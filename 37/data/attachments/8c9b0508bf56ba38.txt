@@ -1,0 +1,11 @@
+{
+    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b",
+    "branch": "9c04dedf-e567-44ef-afbc-82dc1611d34a",
+    "name": "primary invoice",
+    "email": "Jane_Kassulke@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-08-30T19:09:09.789974+01:00","reference":"INV-AUG-12644","company":"Protocol","branch":"Kristopherstad","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

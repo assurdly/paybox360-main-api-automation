@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + transmitter",
+    "company_id": "5a6cb45a-b141-4d2b-85f9-0600c965e44b",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "07034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "08031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

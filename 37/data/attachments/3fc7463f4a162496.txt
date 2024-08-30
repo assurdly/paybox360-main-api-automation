@@ -1,0 +1,8 @@
+{
+    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b",
+    "customer_id": "",
+    "name": "Willard Zulauf",
+    "email": "Clement.Bernhard",
+    "phone": "08040548546",
+    "address": "22134 Collier Course"
+}

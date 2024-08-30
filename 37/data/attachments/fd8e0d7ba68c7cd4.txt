@@ -1,0 +1,42 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Cotton Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Steel Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/SULiik_128.jpg",    
+                    "item": "Handmade Cotton Chips",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

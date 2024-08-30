@@ -1,0 +1,42 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Fresh Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Concrete Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/anoff_128.jpg",    
+                    "item": "Sleek Granite Tuna",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

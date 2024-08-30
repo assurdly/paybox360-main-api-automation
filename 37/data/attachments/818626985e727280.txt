@@ -1,0 +1,17 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "branch": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "supplier": "82e588d0-b896-423d-b22d-945f40680097",
+    "orders": [
+        {
+            "category": "",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

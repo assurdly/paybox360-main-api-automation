@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"59c9700a-0532-4ffb-82ea-9bb37634127a","created_at":"2024-08-30T19:09:08.600792+01:00","title":"Neural1285 Tax","rate":1.5,"company":"Protocol","branch":""},"errors":null}

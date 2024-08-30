@@ -1,7 +1,0 @@
-{
-    "name": "Ms. Katherine Hermann",
-    "email": "Armando_Ullrich92",
-    "phone_number": "08094042741",
-    "address": "Idumota, Lagos",
-    "company": "ce53dc19-abc9-4ac8-8822-a75c4dd2b5d2"
-}

@@ -1,1 +1,0 @@
-{"total_products":0,"total_sold":0,"amount_sold":0,"total_returned":0,"total_stock_inventory":0,"total_stock_value":0,"top_selling_products":[],"least_selling_products":[]}
