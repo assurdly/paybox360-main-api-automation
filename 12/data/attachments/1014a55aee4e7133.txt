@@ -1,7 +1,0 @@
-{
-    "name": "Shari Bauch",
-    "email": "Bradley.Wiza54@mailinator.com",
-    "phone_number": "08027399701",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

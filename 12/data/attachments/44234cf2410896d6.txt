@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "", 
-    "title": "haptic tax",
-    "rate": -10
-}

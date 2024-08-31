@@ -1,0 +1,8 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "branch": "04476084-a664-47d7-927b-82b9a628984a",
+    "category": "fee4a336-8d58-41f4-8c57-25bb1ce65463",
+    "item": "",
+    "quantity_requested": 50,
+    "request_reason": "Basic supply needs for manufacturing."
+}

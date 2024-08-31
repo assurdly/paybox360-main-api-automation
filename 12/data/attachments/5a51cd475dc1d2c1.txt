@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "South Jessyland",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

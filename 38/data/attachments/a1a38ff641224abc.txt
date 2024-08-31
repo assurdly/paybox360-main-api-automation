@@ -1,0 +1,8 @@
+{
+    "company": "58d49108-5f43-4a56-9a46-5a2bfcef2947",
+    "customer_id": "",
+    "name": "Sonia Lynch",
+    "email": "Maegan_Ledner",
+    "phone": "08019119476",
+    "address": "11762 Nikko Well"
+}

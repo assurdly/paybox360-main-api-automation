@@ -1,7 +1,0 @@
-{
-    "name": "Sandy Schuster",
-    "email": "General7",
-    "phone_number": "08008086937",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

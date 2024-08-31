@@ -1,0 +1,7 @@
+{
+    "name": "Vicki Koss",
+    "email": "Jayda17@mailinator.com",
+    "phone_number": "08036800684",
+    "address": "Idumota, Lagos",
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b457"
+}

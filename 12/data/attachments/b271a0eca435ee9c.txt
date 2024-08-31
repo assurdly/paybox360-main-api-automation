@@ -1,1 +1,0 @@
-{"items":[{},{"unit_price":["A valid number is required."]},{}],"tax":["Must be a valid UUID."],"company":["This field may not be null."]}

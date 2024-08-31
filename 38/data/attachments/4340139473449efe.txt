@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"ae56e6b7-926f-4b4a-91a3-035b22b91c86","created_at":"2024-08-31T22:02:39.874574+01:00","title":"Bluetooth Tax","rate":-10.0,"company":"Firewall","branch":"Rutherfordmouth"},"errors":null}

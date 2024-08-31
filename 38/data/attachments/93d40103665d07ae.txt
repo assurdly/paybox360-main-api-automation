@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "04476084-a664-47d7-927b-82b9a628984a",
+    "name": "mobile invoice",
+    "email": "Demarco.Marvin47@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

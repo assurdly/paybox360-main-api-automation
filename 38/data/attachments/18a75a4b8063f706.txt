@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"0e6da41b-f806-4af1-8fcc-210ace31a72e","created_at":"2024-08-31T22:02:39.133180+01:00","title":"Back-End1307 Tax","rate":1.5,"company":"Firewall","branch":"Rutherfordmouth"},"errors":null}

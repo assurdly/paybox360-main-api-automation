@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Emanuelmouth",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

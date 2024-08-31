@@ -1,0 +1,7 @@
+{
+    "company": "58d49108-5f43-4a56-9a46-5a2bfcef2947",
+    "customer_id": "beans",
+    "city": "South Saraimouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

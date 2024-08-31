@@ -1,7 +1,0 @@
-{
-    "name": "Leonard Kuhlman",
-    "email": "Marques49",
-    "phone_number": "08067704904",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

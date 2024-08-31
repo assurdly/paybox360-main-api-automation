@@ -1,0 +1,8 @@
+{
+    "company": "58d49108-5f43-4a56-9a46-5a2bfcef2947",
+    "customer_id": "",
+    "name": "Erik Sporer",
+    "email": "Anna76@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0442 Lucinda Track"
+}
