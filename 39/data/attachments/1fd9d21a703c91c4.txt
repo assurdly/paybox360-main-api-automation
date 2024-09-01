@@ -1,0 +1,8 @@
+{
+    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
+    "customer_id": "",
+    "name": "Krista Streich",
+    "email": "Odie.Johns",
+    "phone": "08017132825",
+    "address": "4760 Kane Squares"
+}

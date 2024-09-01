@@ -1,0 +1,11 @@
+{
+    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
+    "branch": "f7695690-7373-45ee-bb10-460419eeb480",
+    "name": "online invoice",
+    "email": "@3Leonard_Muller@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

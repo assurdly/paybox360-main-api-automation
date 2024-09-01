@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Rubieborough",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Ellis Wiza",
+    "email": "Chris.Macejkovic@mailinator.com",
+    "phone_number": "08098828333",
+    "address": "Idumota, Lagos",
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b457"
+}

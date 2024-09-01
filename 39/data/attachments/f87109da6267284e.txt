@@ -1,0 +1,45 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b452",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/benjamin_knight_128.jpg", 
+                    "item": "Sleek Plastic Tuna",
+                    "quantity": 150, 
+                    "stock_price": 8181.43, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Fresh Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kumarrajan12123_128.jpg",    
+                    "item": "Gorgeous Steel Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

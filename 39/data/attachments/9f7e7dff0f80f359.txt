@@ -1,0 +1,1 @@
+{"error":"error","message":"You are not on KYC Level 2 yet. Go to your profile to complete your KYC verification"}

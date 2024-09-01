@@ -1,0 +1,8 @@
+{
+    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
+    "branch": "f7695690-7373-45ee-bb10-460419eeb480",
+    "name": "Natalie Steuber",
+    "email": "naima1905@gmail.com",
+    "phone": "08038044098",
+    "address": "87927 Garrick Landing"
+}

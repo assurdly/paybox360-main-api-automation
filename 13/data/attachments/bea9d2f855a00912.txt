@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"a2ea7b1b-6bd1-452a-a9d6-10536c6b1d8c","created_at":"2024-08-04T21:06:46.097601+01:00","title":"Virtual Tax","rate":-10.0,"company":"Idy-Cyan-Firewall","branch":"North Gersonton"},"errors":null}

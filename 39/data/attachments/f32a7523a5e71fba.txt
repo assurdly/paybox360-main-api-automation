@@ -1,0 +1,42 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Steel Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Cotton Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aeon56_128.jpg",    
+                    "item": "Incredible Steel Fish",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

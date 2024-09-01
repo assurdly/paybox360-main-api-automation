@@ -1,4 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e3733091641",
-    "category": "{{category_id}}"
-}

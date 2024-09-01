@@ -1,7 +1,0 @@
-{
-    "name": "Miss Andre Zboncak",
-    "email": "Koby_Toy14",
-    "phone_number": "08023456286",
-    "address": "Idumota, Lagos",
-    "company": "138d17a7-c135-43a2-bcc3-93e373309164"
-}

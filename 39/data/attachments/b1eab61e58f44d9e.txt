@@ -1,0 +1,25 @@
+{
+    "data": [
+        { 
+            "employee_email": "oremi+r@gmail.com",
+            "employee_gross_amount": 150000,
+            "employee_net_amount": 135000,
+            "employee_salary_grade": "TO",
+            "employee_pension_amount": 0,
+            "employee_tax_amount": 0,
+            "employee_other_amount": 0,
+            "employee_other_deductions": 0,
+            "employee_payable_amount": 0,
+            "employee_hmo_amount":0,
+            "employee_bank_name": "FirstBank",
+            "employee_account_number": "02116848309",
+            "employee_gender": "MALE",
+            "employee_first_name":"Eddy",
+            "employee_last_name": "bungo",
+            "employee_phone_number":"08023769806",
+            "employee_bank_code": "9000"
+        }
+        
+    ]
+
+}
