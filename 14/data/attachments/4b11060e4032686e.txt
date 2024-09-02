@@ -1,1 +1,0 @@
-{"count":1,"next":null,"previous":null,"results":{"total_transactions":1,"online_transactions":0,"offline_transactions":0,"transactions":[{"amount":200.0,"customer":"Kim Wallace","order":"L0PX2A","transaction_type":null,"date":"2024-08-04","status":"unpaid"}]}}

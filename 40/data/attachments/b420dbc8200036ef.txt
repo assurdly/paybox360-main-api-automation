@@ -1,0 +1,5 @@
+{
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Walsh, Strosin and Wilkinson"
+}

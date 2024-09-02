@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","stock":[{"category":"Computer Accessories","item":"Productpixel","description":"port","item_id":"1a38fb15-f501-49b5-b5d4-b6ce71d521ff","selling_price":"1950600.00","image":"https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54","stock_price":"1880900.00","quantity":100}],"count":1,"total_stock":1},"errors":null}

@@ -1,0 +1,7 @@
+{
+    "name": "Celia Spencer",
+    "email": "Tia54@mailinator.com",
+    "phone_number": "08031630692erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be"
+}

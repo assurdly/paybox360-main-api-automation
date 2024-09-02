@@ -1,0 +1,8 @@
+{
+    "company": "5501db39-bcdc-4099-b840-c8c51e189260",
+    "branch": "17b5e038-d528-4645-b940-c60355719f311",
+    "name": "Orville Jacobi",
+    "email": "Adrien.Thompson74@mailinator.com",
+    "phone": "08054970798",
+    "address": "6794 Ola Locks"
+}

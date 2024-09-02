@@ -1,6 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "branch": "", 
-    "title": "optical1162 tax",
-    "rate": 1.5
-}

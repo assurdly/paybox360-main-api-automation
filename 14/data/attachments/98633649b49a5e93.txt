@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"invoice_id":"INV-AUG-0000022056","batch_id":"20240804-YW6PXe3u","sub_total":7000.0,"discount_value":900.0,"delivery_fee":5750.0,"vat":7.5,"total":12375.0,"items":[{"item_description":"Port","unit_price":1750.0,"quantity":2},{"item_description":"Apple Macbook","unit_price":1750.0,"quantity":2}]},"errors":null}

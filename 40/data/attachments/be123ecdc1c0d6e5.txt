@@ -1,0 +1,45 @@
+{
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be2",
+    "products": [
+        {
+            "category": "f993bc85-e274-47f7-8f36-47abf37f6b7f",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/teeragit_128.jpg", 
+                    "item": "Sleek Plastic Fish",
+                    "quantity": 150, 
+                    "stock_price": 3428.02, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Frozen Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mylesb_128.jpg",    
+                    "item": "Licensed Frozen Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

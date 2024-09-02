@@ -1,7 +1,0 @@
-{
-    "name": "Jan Ward",
-    "email": "Wanda.Lesch43@mailinator.com",
-    "phone_number": "08096635799",
-    "address": "Idumota, Lagos",
-    "company": "39a64743-6835-432f-9593-ae23c865ec89"
-}

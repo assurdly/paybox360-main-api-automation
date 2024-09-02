@@ -1,8 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "customer_id": "238c0be6-ad79-4717-9dde-8c2d21abc701",
-    "name": "Joanna Boehm",
-    "email": "Melba45",
-    "phone": "08080409262",
-    "address": "3732 Lonie Courts"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"total_sales":191993.75,"branch_cash_in_bank":0.0,"branch_cash_in_hand":191993.75,"count":1},"errors":null}

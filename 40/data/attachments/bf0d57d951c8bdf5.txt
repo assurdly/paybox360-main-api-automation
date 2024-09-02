@@ -1,0 +1,23 @@
+{
+    "company": "5501db39-bcdc-4099-b840-c8c51e189260beans",
+    "branch": "06c56a64-654f-4918-b521-bc7230bb5fa8", 
+    "items": [
+        {
+            "item_description": "item sensor",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop sensor",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "f25fcb1f-e78e-4fc4-bf88-12d4e864e75f",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

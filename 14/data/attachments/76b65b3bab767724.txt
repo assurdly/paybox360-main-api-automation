@@ -1,1 +1,0 @@
-{"errors":["select customer to send payment link."]}

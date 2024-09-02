@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"5501db39-bcdc-4099-b840-c8c51e189260","company_name":"program","industry":"BANKING AND FINANCE","size":5}}

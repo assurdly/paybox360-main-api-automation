@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"success","categories":[{"category":"Computer Accessories","percentage":83.4448160535117},{"category":"General","percentage":16.555183946488295}]},"errors":null}

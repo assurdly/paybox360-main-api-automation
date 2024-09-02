@@ -1,0 +1,11 @@
+{
+    "Mailsac-Key": "k_mdu6QkXwcKyRe6gZodFYtZdkDBe1H29eXrMDi674g",
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzI1Njk4ODA5LCJqdGkiOiIyZGE4NjAzNmJiY2Q0Njc1YWJmOTRhM2U2MzhjNTNiNyIsInVzZXJfaWQiOjY5Mzd9.Y5WZIiQrB-wThXgw6Rnnpk2MD2aisLSlqMrbvfcR65A",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "ea5675ad-b264-47fc-bb58-16316d2477e1",
+    "Host": "mailsac.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

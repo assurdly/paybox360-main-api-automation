@@ -1,8 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec891",
-    "customer_id": "238c0be6-ad79-4717-9dde-8c2d21abc701",
-    "name": "Michael Murazik",
-    "email": "Mac_Connelly40@mailinator.com",
-    "phone": "08054296403",
-    "address": "200 Miracle Run"
-}

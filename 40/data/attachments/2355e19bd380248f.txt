@@ -1,0 +1,8 @@
+{
+    "company": "5501db39-bcdc-4099-b840-c8c51e1892601",
+    "branch": "17b5e038-d528-4645-b940-c60355719f31",
+    "name": "Ms. Derek Klein",
+    "email": "Arnulfo_Lubowitz70@mailinator.com",
+    "phone": "08084244409",
+    "address": "88056 Kohler Meadows"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "branch": "1140850a-203e-4859-a0d1-a1a4fec96ac71",
-    "name": "Miss Patty Wolf",
-    "email": "Celestine83@mailinator.com",
-    "phone": "08006816013",
-    "address": "96500 Angeline Light"
-}

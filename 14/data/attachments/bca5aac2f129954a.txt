@@ -1,7 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "branch": "1140850a-203e-4859-a0d1-a1a4fec96ac7",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Cullen46@mailinator.com"
-}

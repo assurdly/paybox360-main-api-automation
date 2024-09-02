@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"53f9ab3c-3c0e-47de-8d42-f672a3a7a767","created_at":"2024-09-02T09:51:22.858907+01:00","title":"Haptic1310 Tax","rate":1.5,"company":"Program","branch":""},"errors":null}

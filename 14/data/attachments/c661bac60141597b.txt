@@ -1,8 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec891",
-    "branch": "1140850a-203e-4859-a0d1-a1a4fec96ac7",
-    "name": "Gregg Emmerich III",
-    "email": "Guy93@mailinator.com",
-    "phone": "08027080534",
-    "address": "0972 Kulas Corner"
-}
