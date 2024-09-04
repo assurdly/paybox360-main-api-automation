@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"5eb115e7-7177-4ee8-8155-f3580fbd1d86","created_at":"2024-08-07T19:40:46.770375+01:00","company":"Idy-Green-Bandwidth","branch":"Lake Camronburgh","name":"online invoice","email":"Cathrine_Kihn@mailsac.com","phone":"","address":"","city":"","state":"","country":"","status":"INACTIVE"},"errors":null}

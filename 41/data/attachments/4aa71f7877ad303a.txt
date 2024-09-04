@@ -1,0 +1,45 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "products": [
+        {
+            "category": "2f422db5-14bd-4ca3-9b7c-b77fad043b000",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aio____128.jpg", 
+                    "item": "Intelligent Metal Tuna",
+                    "quantity": 150, 
+                    "stock_price": 7017.83, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Metal Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/angelcreative_128.jpg",    
+                    "item": "Fantastic Wooden Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

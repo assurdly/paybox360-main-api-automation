@@ -1,0 +1,7 @@
+{
+    "company": "99bd4189-e858-4d05-b971-750e584799e6",
+    "branch": "f1efeffe-ca40-4c7c-869c-649330998ed1",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Aron_Dibbert21"
+}

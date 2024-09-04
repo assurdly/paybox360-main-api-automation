@@ -1,0 +1,8 @@
+{
+    "company": "99bd4189-e858-4d05-b971-750e584799e6",
+    "customer_id": "1",
+    "name": "Kellie Wyman",
+    "email": "Kaylee_Green42@mailinator.com",
+    "phone": "08002826292",
+    "address": "3268 Frami Landing"
+}

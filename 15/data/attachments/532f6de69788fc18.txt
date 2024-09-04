@@ -1,8 +1,0 @@
-{
-    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
-    "branch": "7dbcb3e4-26d9-453a-8a61-529b4411adc6",
-    "name": "Oscar McDermott",
-    "email": "naima1905@gmail.com",
-    "phone": "08007370520",
-    "address": "39238 Lance Square"
-}

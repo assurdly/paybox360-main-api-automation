@@ -1,0 +1,1 @@
+{"price_list_id":["Must be a valid UUID."]}

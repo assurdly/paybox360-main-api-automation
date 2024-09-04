@@ -1,1 +1,0 @@
-level: log, messages: Invoice ID saved as:,e2d88be8-0fd6-48f4-b9c4-db4200e415e5

@@ -1,0 +1,23 @@
+{
+    "company": "99bd4189-e858-4d05-b971-750e584799e6beans",
+    "branch": "f08ccfe7-59f3-447a-bcb2-d614b1198050", 
+    "items": [
+        {
+            "item_description": "item card",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop pixel",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "c0da15a7-aa1f-4b8f-bbd3-5d8237a92464",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

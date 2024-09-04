@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"no available transaction(s).","sales":[],"count":0,"total_sales":0},"errors":null}

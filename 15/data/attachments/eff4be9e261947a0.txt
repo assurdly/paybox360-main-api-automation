@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"status":true,"details":"payment link authorized.","payment_link":"https://checkout.paystack.com/wuata47ld4eftg5"},"errors":null}

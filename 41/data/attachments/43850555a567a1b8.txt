@@ -1,0 +1,11 @@
+{
+    "company": "99bd4189-e858-4d05-b971-750e584799e6",
+    "branch": "f08ccfe7-59f3-447a-bcb2-d614b1198050",
+    "name": "mobile invoice",
+    "email": "Marianna71254@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
-    "branch": "9da4e8e8-03cd-414e-9abd-1073a8b834fb",
-    "name": "Kenneth Trantow MD",
-    "email": "Issac_Champlin49",
-    "phone": "08048748987",
-    "address": "8211 Abshire Isle"
-}

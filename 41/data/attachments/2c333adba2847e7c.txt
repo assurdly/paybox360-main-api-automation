@@ -1,0 +1,45 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f2",
+    "products": [
+        {
+            "category": "2f422db5-14bd-4ca3-9b7c-b77fad043b00",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jayrobinson_128.jpg", 
+                    "item": "Fantastic Fresh Chair",
+                    "quantity": 150, 
+                    "stock_price": 7017.83, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Wooden Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/artd_sign_128.jpg",    
+                    "item": "Ergonomic Wooden Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

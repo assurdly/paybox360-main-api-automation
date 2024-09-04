@@ -1,0 +1,42 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "products": [
+        {
+            "category": "2f422db5-14bd-4ca3-9b7c-b77fad043b00",
+            "stocks": [
+                {
+                    "item": "Rustic Plastic Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Concrete Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/d00maz_128.jpg",    
+                    "item": "Small Frozen Mouse",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

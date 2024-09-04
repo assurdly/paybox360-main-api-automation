@@ -1,7 +1,0 @@
-{
-    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11beans",
-    "customer_id": "e2d88be8-0fd6-48f4-b9c4-db4200e415e5",
-    "city": "Port Enricoville",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

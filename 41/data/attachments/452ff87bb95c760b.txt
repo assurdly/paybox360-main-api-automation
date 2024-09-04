@@ -1,0 +1,8 @@
+{
+    "company": "99bd4189-e858-4d05-b971-750e584799e6",
+    "branch": "f1efeffe-ca40-4c7c-869c-649330998ed11",
+    "name": "Lucy Schmeler",
+    "email": "Murl_Wintheiser31@mailinator.com",
+    "phone": "08046737356",
+    "address": "3587 Gonzalo Shoals"
+}

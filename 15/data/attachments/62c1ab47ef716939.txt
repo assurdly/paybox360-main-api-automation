@@ -1,7 +1,0 @@
-{
-    "name": "Armando Beer",
-    "email": "Melisa.Donnelly26",
-    "phone_number": "08024899103",
-    "address": "Idumota, Lagos",
-    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11"
-}

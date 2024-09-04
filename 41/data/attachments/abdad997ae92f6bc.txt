@@ -1,0 +1,1 @@
+{"message":"successful","data":[{"id":"7b19e50b-2da3-40a0-b8c4-9a7b9af9cc73","benefit_name":"Tourism","calculation_type":"CUSTOM_PERCENTAGE","frequency":"BI-MONTHLY","amount":20.0,"custom_name":["Basic"],"is_active":true,"part_of_employee_structure":true,"calculate_pay_schedule_basis":true,"show_on_payslip":true}]}

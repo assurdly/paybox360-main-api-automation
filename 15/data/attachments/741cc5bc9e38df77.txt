@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "7dbcb3e4-26d9-453a-8a61-529b4411adc6", 
-    "title": "back-end tax",
-    "rate": 1.5
-}

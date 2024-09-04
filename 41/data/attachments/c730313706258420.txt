@@ -1,0 +1,7 @@
+{
+    "name": "Derek Adams",
+    "email": "Percival14@mailinator.com",
+    "phone_number": "08043077359",
+    "address": "Idumota, Lagos",
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f7"
+}
