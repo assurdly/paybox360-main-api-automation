@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Katie Parker",
-    "email": "Collin_Mills31",
-    "phone": "08002704257",
-    "address": "643 Cassin Oval"
-}

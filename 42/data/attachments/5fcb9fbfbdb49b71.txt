@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "customer_id": "",
+    "name": "Lionel Farrell",
+    "email": "Citlalli63@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "590 Jeff Well"
+}

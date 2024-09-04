@@ -1,0 +1,7 @@
+{
+    "name": "Kevin Howe",
+    "email": "Jolie98",
+    "phone_number": "08038744142",
+    "address": "Idumota, Lagos",
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2"
+}

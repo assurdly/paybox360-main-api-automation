@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca21",
+    "customer_id": "",
+    "name": "Percy Hane",
+    "email": "Esteban.Murray37@mailinator.com",
+    "phone": "08024471132",
+    "address": "257 Raynor Shores"
+}

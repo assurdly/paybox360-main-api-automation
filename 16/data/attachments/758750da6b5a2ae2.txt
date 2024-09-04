@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "", 
-    "title": "solid state tax",
-    "rate": 0
-}

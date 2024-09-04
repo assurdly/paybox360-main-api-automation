@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Cathedral City",
-    "state": "Bernierport",
-    "country": ""
-}

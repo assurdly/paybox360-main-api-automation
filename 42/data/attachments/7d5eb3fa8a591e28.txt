@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "branch": "324c88a4-0593-4713-aadb-860604244745",
+    "name": "Sonya Robel",
+    "email": "Valentine11",
+    "phone": "08017809238",
+    "address": "79920 Auer Plaza"
+}

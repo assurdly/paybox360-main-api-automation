@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Lola Jacobson",
-    "email": "Joy.Bergnaum92@mailinator.com",
-    "phone": "08041192297",
-    "address": "901 Wiegand Station"
-}

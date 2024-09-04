@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "South Teaganbury",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

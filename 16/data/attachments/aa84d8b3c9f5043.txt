@@ -1,7 +1,0 @@
-{
-    "name": "Edwin Brakus",
-    "email": "Gerda_Crona",
-    "phone_number": "08076561518",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

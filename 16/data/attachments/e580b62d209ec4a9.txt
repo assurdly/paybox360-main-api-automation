@@ -1,7 +1,0 @@
-{
-    "name": "Kathy Connelly",
-    "email": "Ignacio_Terry86",
-    "phone_number": "08051791742",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

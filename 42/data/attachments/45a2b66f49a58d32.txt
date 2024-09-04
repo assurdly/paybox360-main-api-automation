@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "fd6601be-a2ac-418a-9904-9397aec0701b",
+    "name": "bluetooth invoice",
+    "email": "Shemar_Corwin52@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

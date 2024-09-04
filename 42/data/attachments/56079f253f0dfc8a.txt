@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e5201a02-790b-4b75-a6ac-0b511b5c3423","created_at":"2024-09-04T19:08:14.326531+01:00","title":"Back-End1312 Tax","rate":1.5,"company":"Idy-Green-Card","branch":""},"errors":null}

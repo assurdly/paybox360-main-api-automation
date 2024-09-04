@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "branch": "324c88a4-0593-4713-aadb-860604244745",
+    "name": "Diana Goodwin Jr.",
+    "email": "Delphia.Bins@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "5263 Tamia Parks"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "customer_id": "",
+    "name": "Andrew Kerluke Jr.",
+    "email": "Kenya16",
+    "phone": "08081648760",
+    "address": "0093 Gia Via"
+}

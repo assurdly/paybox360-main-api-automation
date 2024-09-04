@@ -1,0 +1,42 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "products": [
+        {
+            "category": "8d6fb744-210f-4439-b549-9f502cdedc30",
+            "stocks": [
+                {
+                    "item": "Refined Cotton Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Soft Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mizko_128.jpg",    
+                    "item": "Rustic Fresh Keyboard",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

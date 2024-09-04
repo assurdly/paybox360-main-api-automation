@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "name": "Francis Wiza",
-    "email": "Hershel30",
-    "phone": "08057162177",
-    "address": "3241 Janiya Vista"
-}

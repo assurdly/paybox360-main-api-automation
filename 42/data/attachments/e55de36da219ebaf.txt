@@ -1,0 +1,7 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2beans",
+    "customer_id": "",
+    "city": "Lorenzchester",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

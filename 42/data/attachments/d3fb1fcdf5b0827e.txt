@@ -1,0 +1,42 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "products": [
+        {
+            "category": "8d6fb744-210f-4439-b549-9f502cdedc30",
+            "stocks": [
+                {
+                    "item": "Handmade Granite Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Granite Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/scips_128.jpg",    
+                    "item": "Gorgeous Rubber Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

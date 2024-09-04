@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null1",
-    "name": "Blanca Gleichner",
-    "email": "Esther.White29@mailinator.com",
-    "phone": "08055379732",
-    "address": "254 Crona Parkways"
-}

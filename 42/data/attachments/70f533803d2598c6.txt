@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "customer_id": "",
+    "name": "Miss Genevieve Veum",
+    "email": "Erwin89@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "568 Rebecca Trail"
+}

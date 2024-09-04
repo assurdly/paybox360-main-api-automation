@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-04T19:08:15.352142+01:00","reference":"INV-SEP-12680","company":"Idy-Green-Card","branch":"Bernadettechester","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

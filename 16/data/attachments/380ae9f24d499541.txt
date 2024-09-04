@@ -1,7 +1,0 @@
-{
-    "name": "Roosevelt Stiedemann",
-    "email": "Aiden28@mailinator.com",
-    "phone_number": "08089512206",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

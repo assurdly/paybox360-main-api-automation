@@ -1,1 +1,0 @@
-{"old_items":[{"item":["This field may not be null."]}],"new_items":[{"item_id":["This field may not be null."]}],"company":["This field may not be null."],"branch":["“null1” is not a valid UUID."],"invoice":["“{{inv_id}}” is not a valid UUID."],"customer":["This field may not be null."]}

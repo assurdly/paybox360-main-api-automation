@@ -1,0 +1,56 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "branch": "324c88a4-0593-4713-aadb-860604244745",
+    "stocks": [
+        {
+            "supplied_by": "{{supplier_id}}",
+            "category": "8d6fb744-210f-4439-b549-9f502cdedc30",
+            "item": "",
+            "quantity": "rtyg",
+            "stock_price": 750000,
+            "selling_price": 1250000,
+            "has_variants": true,
+            "variants": [
+                {
+                    "description": "Premium Royale",
+                    "quantity": "hvhb",
+                    "stock_alert": 2,
+                    "stock_price": 12000,
+                    "selling_price": 16200
+                },
+                {
+                    "description": "Phantom",
+                    "quantity": 2,
+                    "stock_price": 12000,
+                    "selling_price": 16200
+                }
+            ]
+        }
+     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "beans",
-    "city": "West Adrien",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

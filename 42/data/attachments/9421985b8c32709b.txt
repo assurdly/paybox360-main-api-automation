@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "customer_id": "",
+    "name": "Genevieve Thompson",
+    "email": "Caterina_Veum2@mailinator.com",
+    "phone": "08048193228",
+    "address": "5301 Catherine Unions"
+}

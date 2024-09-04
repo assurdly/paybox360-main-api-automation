@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Kristina Cartwright",
-    "email": "Willie_Romaguera52@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "2318 Ford Centers"
-}

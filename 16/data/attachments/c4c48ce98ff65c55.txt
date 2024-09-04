@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port Leonel",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Darnell Barrows",
-    "email": "naima1905@gmail.com",
-    "phone": "08000735724",
-    "address": "60155 Schumm Camp"
-}

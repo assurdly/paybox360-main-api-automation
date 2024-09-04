@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "null",
-    "name": "Lionel Ebert",
-    "email": "Trudie.Marvin40@mailinator.com",
-    "phone": "08074240227",
-    "address": "15966 Okuneva Avenue"
-}

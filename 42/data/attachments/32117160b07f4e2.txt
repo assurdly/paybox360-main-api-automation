@@ -1,0 +1,8 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca21",
+    "branch": "324c88a4-0593-4713-aadb-860604244745",
+    "name": "Miss Kelli Marquardt",
+    "email": "Carolanne28@mailinator.com",
+    "phone": "08021006147",
+    "address": "594 Gerlach Center"
+}

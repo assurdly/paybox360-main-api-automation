@@ -1,0 +1,42 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "products": [
+        {
+            "category": "8d6fb744-210f-4439-b549-9f502cdedc30",
+            "stocks": [
+                {
+                    "item": "Fantastic Soft Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Plastic Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/incubo82_128.jpg",    
+                    "item": "Ergonomic Rubber Chicken",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

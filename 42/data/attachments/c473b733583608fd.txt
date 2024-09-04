@@ -1,0 +1,11 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2beans",
+    "branch": "fd6601be-a2ac-418a-9904-9397aec0701b",
+    "name": "multi-byte invoice",
+    "email": "Marietta4@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

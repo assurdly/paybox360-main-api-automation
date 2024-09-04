@@ -1,0 +1,21 @@
+{
+    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
+    "price_lists": [
+        {
+            "category": "8d6fb744-210f-4439-b549-9f502cdedc30",
+            "item": "",
+            "size_or_volume": "1",
+            "price": "stryt",
+            "all_branches": true
+        },
+        {
+            "category": "8d6fb744-210f-4439-b549-9f502cdedc30",
+            "item": "",
+            "size_or_volume": "1",
+            "price": 500,
+            "selected_branches": [
+                "fd6601be-a2ac-418a-9904-9397aec0701b"
+            ]
+        }
+    ]
+}
