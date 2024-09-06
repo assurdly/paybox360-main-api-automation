@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"ef17bed8-68ef-48b6-b639-302b90b8fe50","created_at":"2024-08-10T23:18:32.960488+01:00","title":"Open-Source1201 Tax","rate":1.5,"company":"Idy-Gold-Bus","branch":"Doylefurt"},"errors":null}

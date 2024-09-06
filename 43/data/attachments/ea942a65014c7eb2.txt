@@ -1,0 +1,42 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "products": [
+        {
+            "category": "ed2e8540-d67d-400f-963e-d093e308aa4d",
+            "stocks": [
+                {
+                    "item": "Unbranded Frozen Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Cotton Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/BenouarradeM_128.jpg",    
+                    "item": "Incredible Wooden Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

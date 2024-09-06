@@ -1,0 +1,42 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "products": [
+        {
+            "category": "ed2e8540-d67d-400f-963e-d093e308aa4d",
+            "stocks": [
+                {
+                    "item": "Licensed Fresh Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Fresh Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/marcoramires_128.jpg",    
+                    "item": "Rustic Cotton Bacon",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

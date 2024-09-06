@@ -1,0 +1,1 @@
+{"wallet_balance":0,"account_details":{"account_name":"","account_number":"","bank_name":""},"employee_count":0,"gross_amount":0,"net_amount":0,"payable_amount":0,"deduction_amount":0,"instant_wage_request":0}

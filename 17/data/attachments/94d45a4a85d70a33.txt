@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"3a698917-3176-45f9-ab05-a40460a1dbce","created_at":"2024-08-10T23:18:29.073961+01:00","company":"Idy-Gold-Bus","branch":"Doylefurt","name":"multi-byte invoice","email":"Laurie.Dare44@mailsac.com","phone":"","address":"","city":"","state":"","country":"","status":"INACTIVE"},"errors":null}

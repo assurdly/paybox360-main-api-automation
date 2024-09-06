@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "8f37b314-52b2-4844-9f12-eb379b470efa",
-    "city": "Noelview",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

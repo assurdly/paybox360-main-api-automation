@@ -1,8 +1,0 @@
-{
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
-    "branch": "86ce8418-8d53-4c53-a36f-3637f8c216f41",
-    "name": "Adrian Bailey",
-    "email": "Sunny16@mailinator.com",
-    "phone": "08080577147",
-    "address": "9466 Zita Islands"
-}

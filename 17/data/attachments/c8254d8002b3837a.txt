@@ -1,8 +1,0 @@
-{
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
-    "customer_id": "e29cdf41-5e83-45fb-ad03-ed1b6b227bf41",
-    "name": "Jessie Tromp",
-    "email": "Katarina76@mailinator.com",
-    "phone": "08098783999",
-    "address": "6866 Bradtke Ways"
-}

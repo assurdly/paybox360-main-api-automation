@@ -1,0 +1,1 @@
+{"status":"failure","status_code":400,"data":null,"errors":{"status":false,"message":"cannot delete a category with available stocks."}}

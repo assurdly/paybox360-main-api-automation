@@ -1,0 +1,8 @@
+{
+    "name": "Cash table",
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "branch" : "6fbfd141-923b-4ceb-a283-4031c121c0cb1",
+    "no_of_seats": 3,
+    "categories": ["ed2e8540-d67d-400f-963e-d093e308aa4d"],
+    "all_categories": "True"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f",
+    "customer_id": "",
+    "name": "Dr. Antoinette Walter",
+    "email": "Earl54@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "828 Boehm Lodge"
+}

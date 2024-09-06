@@ -1,0 +1,7 @@
+{
+    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263fbeans",
+    "customer_id": "",
+    "city": "North Sageport",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

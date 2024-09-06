@@ -1,6 +1,0 @@
-{
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
-    "branch": "49dadbf2-9310-43ae-89e6-1b31636595e6",
-    "batch_id": "",
-    "rrn": "003-sample-rrny"
-}

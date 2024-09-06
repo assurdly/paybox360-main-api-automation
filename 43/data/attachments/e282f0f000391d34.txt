@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-06T19:08:21.572690+01:00","reference":"INV-SEP-12734","company":"Monitor","branch":"Vincenzotown","customer":null,"amount":"54430.50","due_date":"2020-12-31","status":"PENDING"}},"errors":null}

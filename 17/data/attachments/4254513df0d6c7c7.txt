@@ -1,7 +1,0 @@
-{
-    "name": "Mr. Allen Bailey",
-    "email": "Eddie45@mailinator.com",
-    "phone_number": "08011484111erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63"
-}

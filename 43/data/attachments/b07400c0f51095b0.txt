@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"698024d8-ff90-4d44-a0f1-4d4949c416ce","created_at":"2024-09-06T19:08:19.821054+01:00","title":"Digital Tax","rate":-10.0,"company":"Monitor","branch":"Vincenzotown"},"errors":null}

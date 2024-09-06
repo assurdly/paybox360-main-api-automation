@@ -1,0 +1,7 @@
+{
+    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f",
+    "branch": "0114e142-25de-4de1-a92f-4f19870763031",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Chasity_Thompson@mailinator.com"
+}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"1ff13a4a-034a-4791-9636-f1c94e74b625","company_name":"Idy-violet-matrix","industry":"BANKING AND FINANCE","size":5}}

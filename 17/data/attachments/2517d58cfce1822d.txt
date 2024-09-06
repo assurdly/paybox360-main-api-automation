@@ -1,1 +1,0 @@
-{"invoice":["“{{inv_id}}” is not a valid UUID."],"customer":["“e29cdf41-5e83-45fb-ad03-ed1b6b227bf41” is not a valid UUID."]}

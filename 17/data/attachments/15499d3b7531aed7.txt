@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched customer / client record(s).","customers":[],"count":0,"total_customers":0},"errors":null}

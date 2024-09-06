@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"9437fca5-77b2-4626-a437-a9eec5a331ac","created_at":"2024-08-10T23:18:33.929701+01:00","title":"Neural Tax","rate":-10.0,"company":"Idy-Gold-Bus","branch":"Doylefurt"},"errors":null}

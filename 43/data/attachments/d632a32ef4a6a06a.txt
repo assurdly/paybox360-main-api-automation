@@ -1,0 +1,8 @@
+{
+    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f",
+    "customer_id": "",
+    "name": "Josefina Hyatt",
+    "email": "Magnus27",
+    "phone": "08018828398",
+    "address": "21395 Kellen Club"
+}
