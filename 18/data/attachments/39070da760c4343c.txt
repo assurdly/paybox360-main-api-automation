@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"07dda66c-d152-45ee-8f81-557b71ce1080","company_name":"Idy-green-panel","industry":"BANKING AND FINANCE","size":5}}

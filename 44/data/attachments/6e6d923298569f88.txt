@@ -1,0 +1,1 @@
+{"new_items":[{"item_id":["“null” is not a valid UUID."]}],"branch":["“abef05b5-7235-4f13-b030-2bbc1d6931701” is not a valid UUID."],"invoice":["This field may not be null."],"customer":["This field may not be null."]}

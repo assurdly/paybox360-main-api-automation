@@ -1,0 +1,7 @@
+{
+    "name": "Joann Abbott",
+    "email": "Brice_Gleichner75@mailinator.com",
+    "phone_number": "08071653914",
+    "address": "Idumota, Lagos",
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b6257"
+}

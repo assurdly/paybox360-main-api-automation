@@ -1,0 +1,45 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b6252",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/overcloacked_128.jpg", 
+                    "item": "Incredible Concrete Shirt",
+                    "quantity": 150, 
+                    "stock_price": 3273.08, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Plastic Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/yecidsm_128.jpg",    
+                    "item": "Handcrafted Cotton Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

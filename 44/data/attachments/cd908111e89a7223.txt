@@ -1,0 +1,11 @@
+{
+    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae",
+    "branch": "f693f49e-a4cb-4e98-a534-f8ac6b1ce264",
+    "name": "digital invoice",
+    "email": "",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

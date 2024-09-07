@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"7d5230c9-d2ac-41a5-9682-0b1f65a1001d","created_at":"2024-09-07T10:42:19.146527+01:00","title":"Primary1321 Tax","rate":1.5,"company":"Feed","branch":""},"errors":null}

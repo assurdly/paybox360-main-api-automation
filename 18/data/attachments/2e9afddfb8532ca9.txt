@@ -1,8 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "branch": "87bed193-bf4a-4c72-b164-316e0c04de701",
-    "name": "Miss Toni Gleichner",
-    "email": "Kim_Cronin@mailinator.com",
-    "phone": "08083954400",
-    "address": "9185 Matt Cliff"
-}

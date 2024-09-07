@@ -1,1 +1,0 @@
-{"items":[{"item":["“42714282-221d-473b-ba85-4e183a28f0521” is not a valid UUID."]},{"item":["“87990df1-6cd3-4563-b29a-c83c6ea1ec321” is not a valid UUID."]}],"invoice":["“{{inv_id}}” is not a valid UUID."]}

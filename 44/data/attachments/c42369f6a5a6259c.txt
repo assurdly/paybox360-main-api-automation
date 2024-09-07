@@ -1,0 +1,20 @@
+{
+    "budget": "117",
+    "categories": [
+        {
+            "category": "MISCELLANEOUS",
+            "other_category": "",
+            "amount": 100
+        },
+        {
+            "category": "TRAINING",
+            "other_category": "",
+            "amount": 100
+        },
+        {
+            "category": "SECURITY",
+            "other_category": "",
+            "amount": 100
+        }
+    ]
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-08-11T21:06:57.690242+01:00","reference":"INV-AUG-0000022089","company":"Idy-Green-Panel","branch":"North Raymond","customer":null,"amount":"-20096.80","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

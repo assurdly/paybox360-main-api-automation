@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "North Reyna",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

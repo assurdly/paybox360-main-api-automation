@@ -1,0 +1,11 @@
+{
+    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae",
+    "branch": "",
+    "name": "open-source invoice",
+    "email": "Karlee_Witting44@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

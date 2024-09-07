@@ -1,7 +1,0 @@
-{
-    "name": "Mable Treutel",
-    "email": "Martin_Corkery@mailinator.com",
-    "phone_number": "08022447814",
-    "address": "Idumota, Lagos",
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae",
+    "customer_id": "",
+    "name": "Charlie Schmitt",
+    "email": "Cedrick_Schmitt91@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "4590 Romaguera Shoal"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae1",
+    "customer_id": "",
+    "name": "Felipe Reichert",
+    "email": "Constantin_Koelpin7@mailinator.com",
+    "phone": "08043470421",
+    "address": "37096 Sammy Ranch"
+}

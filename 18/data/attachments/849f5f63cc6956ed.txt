@@ -1,8 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "branch": "a01f9e8b-47c9-463f-b92c-6eaaab9c35d0",
-    "name": "Mabel Jaskolski",
-    "email": "naima1905@gmail.com",
-    "phone": "08030998852",
-    "address": "089 Marion Ridges"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"d7b65fb9-1c1e-46f5-b7ef-abd0688ae9e8","created_at":"2024-08-11T21:06:56.994983+01:00","title":"Optical Tax","rate":-10.0,"company":"Idy-Green-Panel","branch":"North Raymond"},"errors":null}

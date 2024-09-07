@@ -1,1 +1,0 @@
-{"branch":["“87bed193-bf4a-4c72-b164-316e0c04de701” is not a valid UUID."],"invoice":["“{{inv_id}}” is not a valid UUID."]}

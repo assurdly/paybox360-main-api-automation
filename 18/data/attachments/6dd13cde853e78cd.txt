@@ -1,1 +1,0 @@
-{"checkout_order":{"id":"cd113699-b0e8-4e54-bfef-2962637355db","order_id":"IDXM6D","company":"Idy-Green-Panel","branch":"North Raymond","buyer":"kimwallace@gmail.com","date":"2024-08-11","time":"20:06:20.343883","status":"open","payment_status":"unpaid","shipping":50,"discount":200,"tax":300,"total_price":130150.0},"payment_details":null}

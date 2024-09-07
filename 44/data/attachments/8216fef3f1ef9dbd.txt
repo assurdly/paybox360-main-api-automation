@@ -1,0 +1,7 @@
+{
+    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae",
+    "branch": "abef05b5-7235-4f13-b030-2bbc1d6931701",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Bret_Howe@mailinator.com"
+}

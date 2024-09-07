@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"d817079e-7c3e-4b63-bc8e-30687caf498f","created_at":"2024-08-11T21:07:09.271457+01:00","company":"Idy-Green-Panel","branch":"North Raymond","name":"Mabel Jaskolski","email":"naima1905@gmail.com","phone":"08030998852","address":"089 Marion Ridges","city":null,"state":null,"country":null,"status":"INACTIVE"},"errors":null}

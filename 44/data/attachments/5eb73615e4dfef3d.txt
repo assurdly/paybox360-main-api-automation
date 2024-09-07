@@ -1,0 +1,42 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Granite Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Steel Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/zackeeler_128.jpg",    
+                    "item": "Fantastic Plastic Pizza",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
