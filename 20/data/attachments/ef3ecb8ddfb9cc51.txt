@@ -1,7 +1,0 @@
-{
-    "name": "Andrew Kessler",
-    "email": "Oren.Ratke18@mailinator.com",
-    "phone_number": "08001667500",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

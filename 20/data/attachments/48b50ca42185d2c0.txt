@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Lake Maye",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

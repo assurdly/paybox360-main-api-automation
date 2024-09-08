@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Mary Leffler",
-    "email": "Darrion_Gislason42",
-    "phone": "08002157671",
-    "address": "980 Chaz Haven"
-}

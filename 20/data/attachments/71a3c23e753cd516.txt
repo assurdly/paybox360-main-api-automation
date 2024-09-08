@@ -1,7 +1,0 @@
-{
-    "name": "Hope Fadel",
-    "email": "Marty.Larkin@mailinator.com",
-    "phone_number": "08067866909",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

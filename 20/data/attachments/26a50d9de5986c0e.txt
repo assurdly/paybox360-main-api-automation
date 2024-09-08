@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "name": "Jane Considine",
-    "email": "Loy48@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "97634 Kirlin Creek"
-}

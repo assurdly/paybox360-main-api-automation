@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"a85ffb87-57f1-448e-bbb6-2af74fc3b8e5","company_name":"port","industry":"BANKING AND FINANCE","size":5}}

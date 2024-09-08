@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Ms. Bradford Kertzmann",
-    "email": "Hector38@mailinator.com",
-    "phone": "08091726592",
-    "address": "31958 Aliza Motorway"
-}

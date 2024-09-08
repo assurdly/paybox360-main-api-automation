@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "d21d7303-d0d1-407b-b165-9760b16de142",
-    "batch_id": "20240802-GCNwhmdO",
-    "means_of_payment": "PAYMENT_LINK"
-}

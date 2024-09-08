@@ -1,0 +1,1 @@
+{"message":"successful","data":[{"id":"4afba11b-b84a-4fbe-b1b8-7ad909f724f0","custom_component_name":"Vital","calculation_type":"CUSTOM_PERCENTAGE","amount":10.0,"custom_name":["Basic"],"is_active":true,"frequency":"MONTHLY","part_of_employee_structure":true,"calculate_pay_schedule_basis":true,"show_on_payslip":true}]}

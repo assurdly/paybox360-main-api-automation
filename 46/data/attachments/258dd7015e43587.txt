@@ -1,0 +1,11 @@
+{
+    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
+    "branch": "",
+    "name": "solid state invoice",
+    "email": "Rosendo77@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

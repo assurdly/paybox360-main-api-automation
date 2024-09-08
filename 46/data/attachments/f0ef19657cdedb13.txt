@@ -1,0 +1,8 @@
+{
+    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
+    "branch": "e0df045a-a3c1-4a05-b669-6c16570a7771",
+    "name": "Wilfred Kassulke",
+    "email": "Mario_Schneider55@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "2317 Bauch Mills"
+}

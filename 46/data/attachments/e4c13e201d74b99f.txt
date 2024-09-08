@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "48602702-53b5-4718-bfac-92d2fa59bb39", 
+    "title": "primary tax",
+    "rate": 1.5
+}

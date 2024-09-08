@@ -1,8 +1,0 @@
-{
-   "employee_last_name": "Buddy",
-   "employee_first_name": "Ted",
-   "employee_other_deductions": "",
-   "employee_other_amount": "",
-   "pension_admin_id": 1
-
-}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Roanoke",
-    "state": "New Adityaburgh",
-    "country": ""
-}

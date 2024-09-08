@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Taylor_Beahan@mailinator.com"
-}

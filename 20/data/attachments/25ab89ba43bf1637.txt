@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "New Maximillia",
-    "state": "Lagsos - Test",
-    "country": "Czech Republic"
-}

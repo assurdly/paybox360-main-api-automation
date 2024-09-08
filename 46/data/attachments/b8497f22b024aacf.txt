@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"1a9ac2db-c790-44d9-9993-32870b696945","created_at":"2024-09-08T21:05:41.238912+01:00","title":"Wireless Tax","rate":-10.0,"company":"Port","branch":"Huelmouth"},"errors":null}

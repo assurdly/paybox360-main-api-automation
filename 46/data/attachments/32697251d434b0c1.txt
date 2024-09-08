@@ -1,0 +1,7 @@
+{
+    "company": "7deff8f7-b682-4382-9305-2702432d8a841",
+    "name": "Smyrna",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

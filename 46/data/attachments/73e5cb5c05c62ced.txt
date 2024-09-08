@@ -1,0 +1,42 @@
+{
+    "company": "7deff8f7-b682-4382-9305-2702432d8a84",
+    "products": [
+        {
+            "category": "9a4cbdfa-0f6e-4a8d-8bed-3837e30a727c",
+            "stocks": [
+                {
+                    "item": "Sleek Soft Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Concrete Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/louis_currie_128.jpg",    
+                    "item": "Awesome Wooden Chicken",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
