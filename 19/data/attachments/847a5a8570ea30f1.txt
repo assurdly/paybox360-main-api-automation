@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Alyssa O'Connell","email":"Dolores83@mailinator.com","phone":"uhuhcaua","branch":"North Kayachester","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

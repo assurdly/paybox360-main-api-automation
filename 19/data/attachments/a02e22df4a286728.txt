@@ -1,7 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aabeans",
-    "customer_id": "8a69971e-8904-4448-919a-4e3682a3d45b",
-    "city": "Onashire",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "4f793e4c-0f67-4580-946b-fdcb650f1be3", 
+    "title": "virtual tax",
+    "rate": 1.5
+}

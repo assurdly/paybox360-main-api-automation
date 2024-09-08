@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"bedc7b10-0576-4e34-9e2d-2c2de69ac63c","created_at":"2024-09-08T15:15:37.452107+01:00","title":"Haptic1321 Tax","rate":1.5,"company":"Idy-Maroon-Hard Drive","branch":""},"errors":null}

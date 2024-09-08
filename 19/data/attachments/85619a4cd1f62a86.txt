@@ -1,8 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa1",
-    "branch": "c8c9e3ff-8f4d-46dc-9704-5a423f331b35",
-    "name": "Phyllis Von",
-    "email": "Clifford_Becker@mailinator.com",
-    "phone": "08016304005",
-    "address": "1670 Murray Ville"
-}

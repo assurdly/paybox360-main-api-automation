@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"f6c9931f-914c-427f-ab69-b60edd48a7df","company_name":"Idy-maroon-hard drive","industry":"BANKING AND FINANCE","size":5}}

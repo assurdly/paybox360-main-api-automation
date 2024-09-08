@@ -1,0 +1,7 @@
+{
+    "name": "Inez Hayes",
+    "email": "Thea.Rippin@mailinator.com",
+    "phone_number": "08053306483erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df"
+}

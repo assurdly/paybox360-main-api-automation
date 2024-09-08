@@ -1,0 +1,8 @@
+{
+    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df",
+    "customer_id": "",
+    "name": "Gordon MacGyver",
+    "email": "Florence14@mailinator.com",
+    "phone": "08068313271",
+    "address": "121 Hagenes Ridge"
+}

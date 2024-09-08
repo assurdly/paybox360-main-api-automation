@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"stock histories.","stock_histories":[],"count":0,"total_stock_histories":0},"errors":null}

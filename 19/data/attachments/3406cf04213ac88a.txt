@@ -1,5 +1,0 @@
-{
-    "request_id": "230906-C81276",
-    "transaction_pin": "123p",
-    "amount": 50200
-}

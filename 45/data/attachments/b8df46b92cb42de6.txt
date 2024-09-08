@@ -1,0 +1,8 @@
+{
+    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df",
+    "customer_id": "",
+    "name": "Marguerite Marquardt",
+    "email": "Madisyn28@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "7986 Emanuel Divide"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df1",
+    "customer_id": "",
+    "name": "Lora Bashirian",
+    "email": "Erika_Oberbrunner91@mailinator.com",
+    "phone": "08079780246",
+    "address": "17662 Ludie Courts"
+}

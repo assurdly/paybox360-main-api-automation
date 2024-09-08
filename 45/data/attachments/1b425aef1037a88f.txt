@@ -1,0 +1,18 @@
+{
+    "company_id": "f6c9931f-914c-427f-ab69-b60edd48a7df",
+    "branch_id": "426d6ba7-f308-46de-97db-742b060f9b30",
+    "team_name": "Willie Yost",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

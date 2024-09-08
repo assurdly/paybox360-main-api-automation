@@ -1,1 +1,0 @@
-{"checkout_order":{"id":"d904ef6e-34f3-4843-b6b7-45cfcea1e8c5","order_id":"VDMWBH","company":"Idy-Teal-Pixel","branch":"North Kayachester","buyer":"kimwallace@gmail.com","date":"2024-08-11","time":"22:36:09.297576","status":"open","payment_status":"unpaid","shipping":50,"discount":200,"tax":300,"total_price":130150.0},"payment_details":null}

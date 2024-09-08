@@ -1,0 +1,1 @@
+{"name":["This field may not be blank."],"address":["This field may not be blank."],"vat":["A valid number is required."],"is_super_branch":["Must be a valid boolean."],"company":["This field may not be null."]}

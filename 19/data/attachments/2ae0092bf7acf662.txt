@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"branches":3,"all_customers":7,"active_customers":0,"inactive_customers":7},"errors":null}

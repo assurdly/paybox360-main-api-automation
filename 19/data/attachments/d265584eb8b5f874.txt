@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"invoice_id":"INV-AUG-0000022100","batch_id":"20240811-utf1v9YU","sub_total":6100.0,"discount_value":900.0,"delivery_fee":5750.0,"vat":7.5,"total":12307.5,"items":[{"item_description":"Productprotocol","unit_price":1750.0,"quantity":2},{"item_description":"Apple Macbook","unit_price":1750.0,"quantity":2}]},"errors":null}

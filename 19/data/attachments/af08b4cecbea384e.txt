@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"wallet_balance":0.0,"account_name":null,"bank":null,"nuban":null,"payments":[],"count":0,"total_payments":0},"errors":null}

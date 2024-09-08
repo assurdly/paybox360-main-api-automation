@@ -1,7 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
-    "branch": "c8c9e3ff-8f4d-46dc-9704-5a423f331b351",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Gardner_Gibson16@mailinator.com"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"b6fb7ab7-9fc9-4532-8207-5f0efbf37b5c","created_at":"2024-08-11T23:38:08.152718+01:00","company":"Idy-Teal-Pixel","branch":"North Kayachester","name":"bluetooth invoice","email":"","phone":"08093984569","address":"27, shumboa Street, Sabo","city":"Yaba","state":"Lagos","country":"Nigeria","status":"INACTIVE"},"errors":null}

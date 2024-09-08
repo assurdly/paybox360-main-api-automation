@@ -1,7 +1,0 @@
-{
-    "name": "Claudia Toy",
-    "email": "Lyda78",
-    "phone_number": "08070400962",
-    "address": "Idumota, Lagos",
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa"
-}

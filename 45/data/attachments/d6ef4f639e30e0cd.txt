@@ -1,0 +1,8 @@
+{
+    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df",
+    "customer_id": "",
+    "name": "Debra Kutch",
+    "email": "Lillian.Gaylord75",
+    "phone": "08036576446",
+    "address": "15635 Ocie Port"
+}

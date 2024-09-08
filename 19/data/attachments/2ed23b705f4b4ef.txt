@@ -1,5 +1,0 @@
-{
-    "request_id": "",
-    "transaction_pin": 1234,
-    "amount": 50200
-}

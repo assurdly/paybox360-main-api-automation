@@ -1,0 +1,42 @@
+{
+    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df",
+    "products": [
+        {
+            "category": "481a1549-8c5b-4c4c-956f-afe0424d846b",
+            "stocks": [
+                {
+                    "item": "Unbranded Soft Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Soft Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mylesb_128.jpg",    
+                    "item": "Refined Granite Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

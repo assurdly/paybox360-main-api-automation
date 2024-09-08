@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e17e047b-1d93-4398-82e5-cac9aa1f6409","created_at":"2024-09-08T15:15:37.181703+01:00","title":"Primary1318 Tax","rate":1.5,"company":"Idy-Maroon-Hard Drive","branch":"East Bernadineburgh"},"errors":null}

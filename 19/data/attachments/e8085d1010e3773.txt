@@ -1,1 +1,0 @@
-{"old_items":[{"unit_price":["A valid number is required."]}],"new_items":[{"amount":["A valid number is required."]}],"invoice":["“{{inv_id}}” is not a valid UUID."]}
