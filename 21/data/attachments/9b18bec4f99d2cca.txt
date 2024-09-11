@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "beans", 
-    "title": "bluetooth1226 tax",
-    "rate": 1.5
-}

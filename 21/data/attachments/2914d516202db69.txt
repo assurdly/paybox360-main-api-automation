@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Sylvester Frami IV",
-    "email": "Sophie_Heidenreich50@mailinator.com",
-    "phone": "08037337018",
-    "address": "08340 Leannon Route"
-}

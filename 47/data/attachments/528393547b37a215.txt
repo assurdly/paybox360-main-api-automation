@@ -1,0 +1,7 @@
+{
+    "company": "7deff8f7-b682-4382-9305-2702432d8a84",
+    "branch": "13c0f02b-73e6-4baf-87ea-8d8e0102ee1b",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Vernie79@mailinator.com"
+}

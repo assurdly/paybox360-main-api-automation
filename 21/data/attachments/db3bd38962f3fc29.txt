@@ -1,1 +1,0 @@
-{"company":["This field may not be null."],"branch":["“null1” is not a valid UUID."],"batch_id":["This field may not be blank."]}

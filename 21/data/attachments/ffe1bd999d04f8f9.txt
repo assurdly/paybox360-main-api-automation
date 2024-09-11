@@ -1,1 +1,0 @@
-{"company":["This field may not be null."],"means_of_payment":["\"PAYMENT_LINK\" is not a valid choice."]}

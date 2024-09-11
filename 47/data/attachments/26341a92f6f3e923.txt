@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "926f0467-e85d-4c68-8e63-2317720a8840",
+    "name": "open-source invoice",
+    "email": "Tyler65@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

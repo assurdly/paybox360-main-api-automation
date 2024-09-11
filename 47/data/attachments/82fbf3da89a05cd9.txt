@@ -1,0 +1,8 @@
+{
+    "company": "7deff8f7-b682-4382-9305-2702432d8a84",
+    "customer_id": "",
+    "name": "Kenneth O'Reilly",
+    "email": "Clifton_Macejkovic86@mailinator.com",
+    "phone": "08089219930",
+    "address": "49976 Jacobs Keys"
+}

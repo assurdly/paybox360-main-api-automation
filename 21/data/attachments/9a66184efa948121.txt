@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "name": "Howard Parker",
-    "email": "Addie.Hoeger",
-    "phone": "08057664490",
-    "address": "167 Ankunding Flats"
-}

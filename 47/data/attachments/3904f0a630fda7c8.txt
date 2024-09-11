@@ -1,0 +1,8 @@
+{
+    "company": "7deff8f7-b682-4382-9305-2702432d8a84",
+    "customer_id": "",
+    "name": "Ms. Marco Langworth",
+    "email": "Anabelle.Fisher@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0803 Hettinger Shoal"
+}

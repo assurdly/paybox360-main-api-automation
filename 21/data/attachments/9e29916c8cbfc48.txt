@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Cornelius Daniel",
-    "email": "Dorothy45",
-    "phone": "08058060786",
-    "address": "1910 Lavada Center"
-}

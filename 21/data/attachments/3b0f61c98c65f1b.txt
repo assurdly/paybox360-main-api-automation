@@ -1,7 +1,0 @@
-{
-    "name": "Nadine Luettgen",
-    "email": "Alfreda.Rodriguez77@mailinator.com",
-    "phone_number": "08052776944",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

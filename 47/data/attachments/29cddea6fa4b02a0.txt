@@ -1,0 +1,45 @@
+{
+    "company": "7deff8f7-b682-4382-9305-2702432d8a842",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kaysix_dizzy_128.jpg", 
+                    "item": "Gorgeous Concrete Soap",
+                    "quantity": 150, 
+                    "stock_price": 4459.35, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Cotton Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jeffgolenski_128.jpg",    
+                    "item": "Licensed Soft Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

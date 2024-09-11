@@ -1,7 +1,0 @@
-{
-    "name": "Constance Klocko",
-    "email": "Wava.Ryan90@mailinator.com",
-    "phone_number": "08041809623",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"f75ab0ec-3f6f-4e1e-91be-68e40dc4ce83","created_at":"2024-09-11T19:07:40.045436+01:00","title":"Haptic1321 Tax","rate":1.5,"company":"Idy-Blue-Port","branch":""},"errors":null}

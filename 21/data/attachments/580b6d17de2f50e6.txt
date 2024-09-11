@@ -1,1 +1,0 @@
-{"company_id":["This field may not be null."],"store_description":["This field is required."]}

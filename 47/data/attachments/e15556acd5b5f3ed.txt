@@ -1,0 +1,12 @@
+{
+    "pickup_option": "dispatch_to_address",
+    "type_of_pos": "AGENCY_BANKING",
+    "delivery_address": "7, Obi Frank Jibunoh Street, Ikorodu, Lagos",
+    "requested_pos": {
+        "LIBERTY_PAY_POS": {
+            "pos_type": "Android",
+            "quantity": 2,
+            "amount": 50000
+        }
+    }
+}

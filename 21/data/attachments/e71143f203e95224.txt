@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "South Fleta",
-    "state": "Lagsos - Test",
-    "country": "Solomon Islands"
-}

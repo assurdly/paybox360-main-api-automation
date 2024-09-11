@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Kristi Blanda",
-    "email": "Cheyenne23@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "69825 Arno Street"
-}

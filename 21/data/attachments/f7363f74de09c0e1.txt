@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Mattie Lynch",
-    "email": "Shany.Howell52@mailinator.com",
-    "phone": "08063986969",
-    "address": "0109 Dach Shores"
-}

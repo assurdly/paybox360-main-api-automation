@@ -1,0 +1,7 @@
+{
+    "name": "Nelson Kirlin",
+    "email": "Valentin.Powlowski@mailinator.com",
+    "phone_number": "08060847948",
+    "address": "Idumota, Lagos",
+    "company": "7deff8f7-b682-4382-9305-2702432d8a847"
+}
