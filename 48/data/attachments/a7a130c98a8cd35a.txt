@@ -1,0 +1,45 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b6252",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nerrsoft_128.jpg", 
+                    "item": "Handmade Metal Pants",
+                    "quantity": 150, 
+                    "stock_price": 9028.08, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Frozen Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/klimmka_128.jpg",    
+                    "item": "Sleek Wooden Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

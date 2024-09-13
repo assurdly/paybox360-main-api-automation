@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "e685faf7-1b12-4240-a75f-268f01f4a31c", 
-    "title": "open-source tax",
-    "rate": 1.5
-}

@@ -1,8 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa1",
-    "customer_id": "3a319396-da73-4a3d-a724-84705eaaa59e",
-    "name": "Penny Wintheiser",
-    "email": "Alyce.Williamson@mailinator.com",
-    "phone": "08028304118",
-    "address": "542 Destin Divide"
-}

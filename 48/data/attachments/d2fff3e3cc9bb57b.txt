@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"c1e1100a-bcd1-4641-b6fb-924e7d6a3491","created_at":"2024-09-13T19:07:25.963713+01:00","title":"Primary Tax","rate":0.0,"company":"System","branch":"North Mercedesfort"},"errors":null}

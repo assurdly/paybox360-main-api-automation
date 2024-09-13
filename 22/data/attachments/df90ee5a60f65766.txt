@@ -1,7 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
-    "customer_id": "bf38ca26-ff59-493c-be95-f8bfaac3b09d",
-    "city": "",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

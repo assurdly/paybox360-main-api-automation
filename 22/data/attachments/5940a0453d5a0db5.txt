@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched branch stock details.","stock_details":[],"count":0,"total_stocks":0},"errors":null}

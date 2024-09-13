@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"3c652b6f-3cb1-43f2-8cae-76db10ccbf95","created_at":"2024-09-13T19:06:55.024885+01:00","name":"Captain Category","company":"1ff13a4a-034a-4791-9636-f1c94e74b625","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Violet-Matrix","has_products":false,"stock_count":0},"errors":null}

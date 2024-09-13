@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Howard Mills","email":"Orrin77@mailinator.com","phone":"uhuhcaua","branch":"Hartmannland","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

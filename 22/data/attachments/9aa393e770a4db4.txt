@@ -1,1 +1,0 @@
-{"items":[{},{"item":["This field may not be null."]}],"invoice":["“{{inv_id}}” is not a valid UUID."],"customer":["“3a319396-da73-4a3d-a724-84705eaaa59e1” is not a valid UUID."]}

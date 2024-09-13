@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "bf38ca26-ff59-493c-be95-f8bfaac3b09d",
-    "city": "East Deon",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

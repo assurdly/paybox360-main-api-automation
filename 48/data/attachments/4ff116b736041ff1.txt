@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-13T19:07:26.758422+01:00","reference":"INV-SEP-12919","company":"System","branch":"North Mercedesfort","customer":null,"amount":"54430.50","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

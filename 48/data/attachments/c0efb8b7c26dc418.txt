@@ -1,0 +1,7 @@
+{
+    "name": "Mrs. Merle Pouros",
+    "email": "Madisen_Rolfson@mailinator.com",
+    "phone_number": "08049642434",
+    "address": "Idumota, Lagos",
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
+}

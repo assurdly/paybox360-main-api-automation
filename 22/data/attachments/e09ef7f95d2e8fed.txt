@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"34c3740c-fa36-446b-9f77-ad6338bf89fb","created_at":"2024-08-15T13:45:47.166091+01:00","company":"Idy-Teal-Pixel","branch":"Hartmannland","name":"open-source invoice","email":"Rowland68@mailsac.com","phone":"","address":"","city":"","state":"","country":"","status":"INACTIVE"},"errors":null}

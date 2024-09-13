@@ -1,0 +1,8 @@
+{
+    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
+    "customer_id": "1",
+    "name": "Olivia Wilkinson",
+    "email": "Claud96@mailinator.com",
+    "phone": "08093071519",
+    "address": "22619 Everardo Motorway"
+}

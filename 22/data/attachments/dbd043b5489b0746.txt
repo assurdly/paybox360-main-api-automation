@@ -1,1 +1,0 @@
-{"old_items":[{"unit_price":["Ensure this value is greater than or equal to 0.0."]}],"new_items":[{"item_id":["This field may not be null."]}],"invoice":["“{{inv_id}}” is not a valid UUID."]}

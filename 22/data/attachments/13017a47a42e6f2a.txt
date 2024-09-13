@@ -1,7 +1,0 @@
-{
-    "name": "Antonio Deckow",
-    "email": "Trent.Hudson@mailinator.com",
-    "phone_number": "08076514685erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
+    "branch": "1ee98e1b-8c67-4ca8-8015-3b723b63d9f2",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Torrance_Rath9@mailinator.com"
+}

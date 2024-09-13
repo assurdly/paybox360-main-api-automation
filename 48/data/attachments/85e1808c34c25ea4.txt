@@ -1,0 +1,18 @@
+{
+    "company_id": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "branch_id": "1ee98e1b-8c67-4ca8-8015-3b723b63d9f2",
+    "team_name": "Ron Hilpert",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

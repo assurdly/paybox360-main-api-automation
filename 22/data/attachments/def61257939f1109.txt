@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-08-15T13:45:52.094000+01:00","reference":"INV-AUG-0000022112","company":"Idy-Teal-Pixel","branch":"Hartmannland","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

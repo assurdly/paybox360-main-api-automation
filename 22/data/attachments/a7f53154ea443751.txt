@@ -1,8 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
-    "branch": "3f28cf4e-1cba-4efd-b7fc-a0ff553f9bdc",
-    "name": "Josephine Witting",
-    "email": "Shanny_Hermann@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "675 Conor Court"
-}
