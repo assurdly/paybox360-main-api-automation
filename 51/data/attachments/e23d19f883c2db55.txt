@@ -1,0 +1,1 @@
+{"mode_of_transaction":["\"\" is not a valid choice."],"amount":["A valid number is required."],"transaction_date":["Date has wrong format. Use one of these formats instead: YYYY-MM-DD."],"order":["This field may not be null."]}

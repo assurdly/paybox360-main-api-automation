@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"7fead320-a9ee-46a0-bdca-837e807bdd91","created_at":"2024-09-15T21:05:16.837446+01:00","title":"Virtual1332 Tax","rate":1.5,"company":"Capacitor","branch":""},"errors":null}

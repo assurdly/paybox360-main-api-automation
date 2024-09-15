@@ -1,0 +1,45 @@
+{
+    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
+    "products": [
+        {
+            "category": "8304b62a-2e56-497c-af3e-b1ee450299080",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lonesomelemon_128.jpg", 
+                    "item": "Small Metal Mouse",
+                    "quantity": 150, 
+                    "stock_price": 9119.14, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Cotton Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jpscribbles_128.jpg",    
+                    "item": "Gorgeous Wooden Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

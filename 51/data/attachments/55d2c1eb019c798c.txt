@@ -1,0 +1,11 @@
+{
+    "disburse_pin": "1234",
+    "beneficiary_data": [{
+         "account_name": "",
+            "account_number": "",
+            "bank_name": "",
+            "bank_code": "",
+            "amount": 40000,
+            "narration": "Test."  
+    }]
+}

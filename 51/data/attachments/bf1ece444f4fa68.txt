@@ -1,0 +1,13 @@
+{
+    "company": "",
+    "sender_id": "",
+    "message": "",
+    "contacts": [
+        ""
+    ],
+    "campaign_name": "",
+    "priority_route": false,
+    "flash_route": false,
+    "send_later": false
+     
+}

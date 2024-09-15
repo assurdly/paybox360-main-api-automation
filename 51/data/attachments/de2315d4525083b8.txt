@@ -1,0 +1,8 @@
+{
+    "company": "ca2caa22-7144-4687-88c6-a094a8eabced1",
+    "customer_id": "",
+    "name": "Peter Stanton",
+    "email": "Filiberto.Ullrich@mailinator.com",
+    "phone": "08098986493",
+    "address": "7279 Gerlach Forge"
+}

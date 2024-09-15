@@ -1,0 +1,23 @@
+{
+    "company": "ca2caa22-7144-4687-88c6-a094a8eabcedbeans",
+    "branch": "6472a377-6e32-4975-bd6d-6eaaf23e249d", 
+    "items": [
+        {
+            "item_description": "item bus",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop card",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "a3d0719b-15af-4165-9cd6-c565e52fe97b",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

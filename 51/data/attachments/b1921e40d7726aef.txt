@@ -1,0 +1,10 @@
+{
+    "company": "512e3053-ee95-4782-a53d-22842a2d7de5",
+    "branch": "afdb6a28-22c1-4647-9221-78e4e4ce4364",
+    "category": "gadgets & speakers",
+    "product": "jbl charge 5",
+    "quantity": 25,
+    "cost_price": 175800.00,
+    "selling_price": 210500,
+    "image": "https://example.com/?img=bird.png" 
+}

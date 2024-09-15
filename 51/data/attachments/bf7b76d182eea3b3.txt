@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"496050de-cecb-4953-b506-df57f7f4a507","created_at":"2024-09-15T21:04:09.804853+01:00","name":"Captain Category","company":"6c87b458-3faf-4be6-a080-23d722cec1e2","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Pink-Protocol","has_products":false,"stock_count":0},"errors":null}

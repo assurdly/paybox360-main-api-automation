@@ -1,0 +1,7 @@
+{
+    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
+    "customer_id": "beans",
+    "city": "East Theodoreshire",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

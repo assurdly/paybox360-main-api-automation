@@ -1,0 +1,8 @@
+{
+    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
+    "customer_id": "1",
+    "name": "Oscar Pouros",
+    "email": "Philip_Leuschke28@mailinator.com",
+    "phone": "08089411965",
+    "address": "7871 Spinka Wall"
+}

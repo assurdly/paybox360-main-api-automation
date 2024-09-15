@@ -1,0 +1,42 @@
+{
+    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
+    "products": [
+        {
+            "category": "8304b62a-2e56-497c-af3e-b1ee45029908",
+            "stocks": [
+                {
+                    "item": "Handmade Cotton Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Steel Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/eugeneeweb_128.jpg",    
+                    "item": "Small Fresh Chair",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

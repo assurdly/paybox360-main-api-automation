@@ -1,0 +1,6 @@
+{
+    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
+    "branch": "", 
+    "title": "virtual1332 tax",
+    "rate": 1.5
+}

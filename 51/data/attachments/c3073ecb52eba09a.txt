@@ -1,0 +1,11 @@
+{
+    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
+    "branch": "6472a377-6e32-4975-bd6d-6eaaf23e249d",
+    "name": "1080p invoice",
+    "email": "Fritz.Olson54@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}
