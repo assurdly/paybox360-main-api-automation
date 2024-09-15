@@ -1,0 +1,16 @@
+{
+    "team_name": "Team Alpha",
+    "company_id": "e9e34e19-f292-4df1-844a-c3f55a1ce656",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "07034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "08031814579",
+            "role": "SUB_ADMIN"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "team_name": "Test-Dev(spend management37)",
+    "company_id": "df03370f-7bd8-409f-b176-4e355bb7924e",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "",
+            "role": ""
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "",
+            "role": "SUB_ADMIN"
+        }
+    ]
+}

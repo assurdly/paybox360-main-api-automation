@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"b5ff5216-ae16-48eb-9351-9f3abbedd81d","created_at":"2024-09-15T11:03:46.761166+01:00","title":"Primary Tax","rate":0.0,"company":"Matrix","branch":"Uniquemouth"},"errors":null}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"0097f236-9e33-4da4-a2b4-08804b6bca7d","created_at":"2024-09-15T11:03:46.491308+01:00","title":"Mobile1332 Tax","rate":1.5,"company":"Matrix","branch":""},"errors":null}

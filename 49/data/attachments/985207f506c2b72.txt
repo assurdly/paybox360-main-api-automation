@@ -1,0 +1,11 @@
+{
+    "company": "e9e34e19-f292-4df1-844a-c3f55a1ce656beans",
+    "branch": "4849cfa4-f96e-4111-898b-6d4b89a1ee5f",
+    "name": "back-end invoice",
+    "email": "Douglas_Wyman@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

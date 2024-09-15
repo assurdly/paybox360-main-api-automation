@@ -1,0 +1,8 @@
+{
+    "company": "e9e34e19-f292-4df1-844a-c3f55a1ce6561",
+    "customer_id": "",
+    "name": "Gary Dickens",
+    "email": "Jessica_Dibbert@mailinator.com",
+    "phone": "08030000860",
+    "address": "824 Herzog Burg"
+}

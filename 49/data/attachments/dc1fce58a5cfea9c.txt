@@ -1,0 +1,8 @@
+{
+    "company": "e9e34e19-f292-4df1-844a-c3f55a1ce656",
+    "customer_id": "1",
+    "name": "Gwendolyn Bins MD",
+    "email": "Blake_Paucek@mailinator.com",
+    "phone": "08038167712",
+    "address": "152 Alessia Plaza"
+}

@@ -1,0 +1,45 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/hai_ninh_nguyen_128.jpg", 
+                    "item": "Gorgeous Fresh Cheese",
+                    "quantity": 150, 
+                    "stock_price": 781.87, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Granite Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/saulihirvi_128.jpg",    
+                    "item": "Small Wooden Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

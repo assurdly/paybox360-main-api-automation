@@ -1,0 +1,1 @@
+{"status":"Success","message":"Budget created successfully","data":{"id":127,"team":null,"company":"e9e34e19-f292-4df1-844a-c3f55a1ce656","budget_name":"Spend Management 23","budget_amount":"500000.00","budget_type":"COMPANY","start_date":"2024-10-16","end_date":"2024-12-01"}}
