@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"8c0858b6-08fc-459b-be37-f50d85ab34a7","created_at":"2024-09-15T19:01:46.752098+01:00","title":"Back-End Tax","rate":0.0,"company":"Sensor","branch":"Maiyamouth"},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5",
+    "customer_id": "",
+    "name": "Elisa White",
+    "email": "Alba2@mailinator.com",
+    "phone": "08001608342",
+    "address": "21644 Nienow Isle"
+}

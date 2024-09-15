@@ -1,0 +1,5 @@
+{
+    "company": "",
+    "sender_id": "",
+    "sample_message": ""
+}

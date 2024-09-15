@@ -1,0 +1,8 @@
+{
+    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5",
+    "customer_id": "",
+    "name": "Mrs. Clyde Renner",
+    "email": "Nathen60@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0032 Wiza Drives"
+}

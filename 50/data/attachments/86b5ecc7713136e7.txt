@@ -1,0 +1,7 @@
+{
+    "name": "Phil MacGyver",
+    "email": "Kasey.Schinner",
+    "phone_number": "08053615740",
+    "address": "Idumota, Lagos",
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a"
+}

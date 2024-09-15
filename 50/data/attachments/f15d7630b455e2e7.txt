@@ -1,0 +1,18 @@
+{
+    "company_id": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "branch_id": "2da31178-8198-4ff0-b899-bcf43a209d95",
+    "team_name": "Alonzo Lang",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "products": [
+        {
+            "category": "62ba07cf-174c-4124-af62-8f6a712734b00",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/craighenneberry_128.jpg", 
+                    "item": "Generic Plastic Sausages",
+                    "quantity": 150, 
+                    "stock_price": 1346.41, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Fresh Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mr_shiznit_128.jpg",    
+                    "item": "Gorgeous Steel Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

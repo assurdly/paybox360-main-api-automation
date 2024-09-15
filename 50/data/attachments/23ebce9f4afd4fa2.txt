@@ -1,0 +1,1 @@
+{"message":"benefit component updated successfully","data":{"id":"c260381c-1ff7-49f0-a88c-600e40dd3327","benefit_name":"Tourism","calculation_type":"CUSTOM_PERCENTAGE","frequency":"BI-MONTHLY","amount":10.0,"custom_name":["Basic"],"is_active":true,"part_of_employee_structure":true,"calculate_pay_schedule_basis":true,"show_on_payslip":true}}

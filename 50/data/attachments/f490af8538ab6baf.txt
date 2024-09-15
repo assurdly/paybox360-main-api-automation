@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"supplier has no history.","supplier":{"name":"Mr. Jeremy Wiza","email":"Ella.Schmidt@mailinator.com","phone_number":"08049827223","categories_supplied":0,"products_supplied":0},"supply_history":[],"count":0,"total_history":0},"errors":null}

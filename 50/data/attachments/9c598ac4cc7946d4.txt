@@ -1,0 +1,22 @@
+{
+    "company": "",
+    "branch": "",
+    "invoice": "",
+    "customer": "",
+    "choice": "",
+    "reason": "",
+    "restock": "",
+    "payment_method": "",
+    "items": [
+        {
+            "item": "",
+            "quantity": "",
+            "unit_price": ""
+        },
+        {
+            "item": "",
+            "quantity": "",
+            "unit_price": ""
+        }
+    ]
+}

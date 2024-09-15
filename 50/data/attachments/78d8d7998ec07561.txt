@@ -1,0 +1,7 @@
+{
+    "name": "Daryl Herman",
+    "email": "Arne_Brown71@mailinator.com",
+    "phone_number": "08073347470erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a"
+}

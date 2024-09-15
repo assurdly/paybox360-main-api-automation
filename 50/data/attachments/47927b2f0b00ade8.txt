@@ -1,0 +1,11 @@
+{
+    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5",
+    "branch": "",
+    "name": "cross-platform invoice",
+    "email": "Fiona.Padberg1@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

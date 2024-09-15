@@ -1,0 +1,7 @@
+{
+    "name": "Mr. Jeremy Wiza",
+    "email": "Ella.Schmidt@mailinator.com",
+    "phone_number": "08049827223",
+    "address": "Idumota, Lagos",
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a"
+}

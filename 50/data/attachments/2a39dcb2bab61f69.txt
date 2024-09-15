@@ -1,0 +1,42 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "products": [
+        {
+            "category": "62ba07cf-174c-4124-af62-8f6a712734b0",
+            "stocks": [
+                {
+                    "item": "Generic Plastic Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Rubber Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/exentrich_128.jpg",    
+                    "item": "Refined Soft Sausages",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

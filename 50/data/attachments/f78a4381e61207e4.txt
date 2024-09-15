@@ -1,0 +1,6 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "branch": "2899e20d-dc1d-4981-b66e-b572e345cdbb",
+    "request_id": "",
+    "status": "APPROVED"
+}

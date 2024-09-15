@@ -1,0 +1,5 @@
+{
+  "email": "naima1905@gmail.com",
+  "password": "123456",
+  "device_type": "MOBILE"
+}

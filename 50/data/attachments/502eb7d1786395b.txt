@@ -1,0 +1,8 @@
+{
+    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5",
+    "branch": "2da31178-8198-4ff0-b899-bcf43a209d95",
+    "name": "Patty Upton",
+    "email": "Jakayla89",
+    "phone": "08092121195",
+    "address": "492 Gail Ville"
+}

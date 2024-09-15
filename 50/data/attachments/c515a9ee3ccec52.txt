@@ -1,0 +1,6 @@
+{
+    "team_id": "",
+    "team_member_id": "1",
+    "admin_password": "",
+    "role": "MEMBER"
+}
