@@ -1,0 +1,1 @@
+{"name":["This field may not be blank."],"no_of_seats":["A valid integer is required."]}

@@ -1,0 +1,42 @@
+{
+    "company": "89c426fc-c8a8-4353-bb93-6c3773966125",
+    "products": [
+        {
+            "category": "da6fbd43-7a91-433e-8902-efea5b074cfe",
+            "stocks": [
+                {
+                    "item": "Fantastic Rubber Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Concrete Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/magoo04_128.jpg",    
+                    "item": "Incredible Granite Keyboard",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

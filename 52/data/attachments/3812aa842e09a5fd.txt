@@ -1,0 +1,45 @@
+{
+    "company": "89c426fc-c8a8-4353-bb93-6c37739661252",
+    "products": [
+        {
+            "category": "da6fbd43-7a91-433e-8902-efea5b074cfe",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sangdth_128.jpg", 
+                    "item": "Intelligent Frozen Tuna",
+                    "quantity": 150, 
+                    "stock_price": 9795.70, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Rubber Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gregsqueeb_128.jpg",    
+                    "item": "Tasty Steel Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

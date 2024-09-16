@@ -1,0 +1,24 @@
+{
+    "company": "89c426fc-c8a8-4353-bb93-6c3773966125",
+    "branch": "c97e3e94-5c46-4f51-a3ea-bdb199bb2fd6",
+    "customer": "",
+    "invoice": "",
+    "choice": "SWAP",
+    "reason": "OTHERS",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NO",
+    "old_items": [
+        {
+            "item": "5f19ccf5-4733-4eae-bb0c-e7d40a1710ed",
+            "quantity": 20,
+            "unit_price": "hhs"
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "b143b244-79e9-42ed-b72b-8fd5bbd4f514",
+            "quantity": 80,
+            "amount": "eu8i"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "company": "89c426fc-c8a8-4353-bb93-6c3773966125",
+    "branch": "e619c50d-964c-43a2-8e1e-b1190655d607",
+    "sales": [
+        {
+            "item_id": "2735c769-e3ca-4531-9555-6fb60015a0e8",
+            "quantity": -9,
+            "amount": 1750.00
+        },
+        {
+            "item_id": "5f19ccf5-4733-4eae-bb0c-e7d40a1710ed",
+            "quantity": 67,
+            "amount": 1750.00
+        }
+    ],
+    "device": "WEuqwuuqwB",
+    
+    
+    "discount_value": 900,
+    "delivery_fee": 5750.00 
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Multi Cat 2",
+    "company": "2566ab36-c83c-4a4a-92ee-0650f204067b",
+    "branch" : "1fc9bdcf-0964-45db-8a02-fe8f6176401e",
+    "categories": ["1df43128-a663-4b97-a1d6-487d06180b5e", "70da7b63-816a-4051-a9dd-d1e9dd9d9de1"],
+    "all_categories": "False"
+}
