@@ -1,0 +1,42 @@
+{
+    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
+    "products": [
+        {
+            "category": "47c34edd-d4f3-41e0-895c-17a89d48083b",
+            "stocks": [
+                {
+                    "item": "Gorgeous Plastic Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Fresh Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/coreyhaggard_128.jpg",    
+                    "item": "Sleek Steel Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

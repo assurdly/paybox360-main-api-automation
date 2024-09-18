@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "6f6767af-cf12-4300-96e2-6004dad36aba", 
+    "title": "solid state tax",
+    "rate": 1.5
+}

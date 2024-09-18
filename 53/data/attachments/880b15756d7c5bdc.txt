@@ -1,0 +1,45 @@
+{
+    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba2",
+    "products": [
+        {
+            "category": "47c34edd-d4f3-41e0-895c-17a89d48083b",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/itskawsar_128.jpg", 
+                    "item": "Ergonomic Concrete Soap",
+                    "quantity": 150, 
+                    "stock_price": 3845.41, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Wooden Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kamal_chaneman_128.jpg",    
+                    "item": "Handcrafted Granite Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

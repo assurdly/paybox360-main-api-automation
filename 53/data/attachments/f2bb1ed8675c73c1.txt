@@ -1,0 +1,7 @@
+{
+    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9babeans",
+    "customer_id": "",
+    "city": "Oxnard",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

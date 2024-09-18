@@ -1,0 +1,11 @@
+{
+    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
+    "branch": "",
+    "name": "wireless invoice",
+    "email": "Catherine_Carroll99@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

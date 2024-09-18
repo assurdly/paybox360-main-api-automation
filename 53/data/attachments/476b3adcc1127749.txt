@@ -1,0 +1,8 @@
+{
+    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
+    "customer_id": "",
+    "name": "Blanche Bartell",
+    "email": "Marquise57@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "2052 Friesen Spur"
+}

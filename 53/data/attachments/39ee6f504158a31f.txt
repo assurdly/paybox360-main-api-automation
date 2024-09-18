@@ -1,0 +1,1 @@
+{"beneficiary_data":[{"account_number":["This field may not be blank."],"bank_name":["This field may not be blank."],"bank_code":["This field may not be blank."],"amount":["A valid number is required."]}],"disburse_pin":["This field is required."]}

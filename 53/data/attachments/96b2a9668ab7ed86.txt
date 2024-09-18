@@ -1,0 +1,12 @@
+{
+    "can_add_member": true,
+    "can_disburse" : true,
+    "can_approve" : true,
+    "can_edit_member" : true,
+    "can_delete_member" : true,
+    "can_delete_payroll" : true,
+    "can_run_payroll" : true,
+    "employee_other_deductions": "",
+    "employee_other_amount": "",
+    "employee_last_name": ""
+}

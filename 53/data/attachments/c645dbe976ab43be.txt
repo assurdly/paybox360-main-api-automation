@@ -1,0 +1,8 @@
+{
+    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
+    "customer_id": "",
+    "name": "Allison Rowe",
+    "email": "Constance_Konopelski@mailinator.com",
+    "phone": "08044437948",
+    "address": "61869 Kyra Viaduct"
+}

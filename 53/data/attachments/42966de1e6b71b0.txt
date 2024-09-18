@@ -1,0 +1,18 @@
+{
+    "company_id": "",
+    "branch_id": "",
+    "team_name": "",
+    "team_type": "",
+    "members": [
+        {
+            "email": "",
+            "phone_no": "",
+            "role": ""
+        },
+        {
+            "email": "",
+            "phone_no": "",
+            "role": ""
+        }
+    ]
+}
