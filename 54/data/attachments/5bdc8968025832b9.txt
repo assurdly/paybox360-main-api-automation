@@ -1,0 +1,8 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "customer_id": "",
+    "name": "Brenda Hintz",
+    "email": "Gwen_Boyer@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "818 Mosciski Port"
+}

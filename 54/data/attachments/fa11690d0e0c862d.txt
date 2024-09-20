@@ -1,0 +1,45 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "products": [
+        {
+            "category": "e8d933ee-bc0c-4295-8633-ece30d778d110",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/hgharrygo_128.jpg", 
+                    "item": "Unbranded Rubber Towels",
+                    "quantity": 150, 
+                    "stock_price": 8568.19, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Granite Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/pechkinator_128.jpg",    
+                    "item": "Practical Plastic Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

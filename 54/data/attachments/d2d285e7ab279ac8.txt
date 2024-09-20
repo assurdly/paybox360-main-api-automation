@@ -1,0 +1,7 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "branch": "57208509-098c-43e1-bea5-2db1d5a83a5b1",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Lessie65@mailinator.com"
+}

@@ -1,0 +1,42 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "products": [
+        {
+            "category": "e8d933ee-bc0c-4295-8633-ece30d778d11",
+            "stocks": [
+                {
+                    "item": "Handcrafted Rubber Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Fresh Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nasirwd_128.jpg",    
+                    "item": "Practical Plastic Sausages",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

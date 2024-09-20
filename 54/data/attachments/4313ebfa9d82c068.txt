@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"91027809-3af7-4988-a951-3e189907cee4","company_name":"Idy-black-hard drive","industry":"BANKING AND FINANCE","size":5}}

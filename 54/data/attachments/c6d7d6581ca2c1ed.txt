@@ -1,0 +1,11 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "branch": "bf92e73d-da65-4a71-b20b-ebd8a7375443beans",
+    "name": "redundant invoice",
+    "email": "Merl_Koss@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

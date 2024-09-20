@@ -1,0 +1,24 @@
+{
+    "company": "",
+    "branch": "",
+    "customer": "",
+    "invoice": "",
+    "choice": "",
+    "reason": "",
+    "additional_info": "",
+    "restock": "",
+    "old_items": [
+        {
+            "item": "",
+            "quantity": "",
+            "unit_price": ""
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "",
+            "quantity": "",
+            "amount": ""
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "employee_first_next_of_kin_firstname": "",
+    "employee_first_next_of_kin_lastname": "",
+    "employee_first_next_of_kin_phone_number": "",
+    "employee_first_next_of_kin_relationship": "",
+    "employee_first_next_of_kin_address": "",
+    "employee_second_next_of_kin_firstname": "",
+    "employee_second_next_of_kin_lastname": "",
+    "employee_second_next_of_kin_phone_number": "",
+    "employee_second_next_of_kin_relationship": "",
+    "employee_second_next_of_kin_address": ""
+}

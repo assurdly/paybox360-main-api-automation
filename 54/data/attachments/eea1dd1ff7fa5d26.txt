@@ -1,0 +1,8 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "customer_id": "",
+    "name": "Jamie Aufderhar",
+    "email": "Norma27@mailinator.com",
+    "phone": "08006573880",
+    "address": "91681 Magali Vista"
+}

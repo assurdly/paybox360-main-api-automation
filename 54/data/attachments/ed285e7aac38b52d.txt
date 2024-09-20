@@ -1,0 +1,8 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4",
+    "branch": "bf92e73d-da65-4a71-b20b-ebd8a7375443",
+    "name": "Bryan Heathcote I",
+    "email": "naima1905@gmail.com",
+    "phone": "08063476579",
+    "address": "78832 Emely Trail"
+}

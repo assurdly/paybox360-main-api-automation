@@ -1,0 +1,23 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee4beans",
+    "branch": "bf92e73d-da65-4a71-b20b-ebd8a7375443", 
+    "items": [
+        {
+            "item_description": "item capacitor",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop card",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "a0a5dd57-f385-45f0-8183-8cf3b1f1e015",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

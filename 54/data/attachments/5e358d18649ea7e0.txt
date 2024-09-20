@@ -1,0 +1,21 @@
+{
+    "company": "91027809-3af7-4988-a951-3e189907cee41",
+    "price_lists": [
+        {
+            "category": "e8d933ee-bc0c-4295-8633-ece30d778d11",
+            "item": "2d969b1a-0c36-4ff5-b2ad-ee5c6970948b",
+            "size_or_volume": "1",
+            "price": 12000,
+            "all_branches": true
+        },
+        {
+            "category": "e8d933ee-bc0c-4295-8633-ece30d778d11",
+            "item": "7248788c-a1ac-4141-b18b-6fc768481d37",
+            "size_or_volume": "1",
+            "price": 500,
+            "selected_branches": [
+                "57208509-098c-43e1-bea5-2db1d5a83a5b"
+            ]
+        }
+    ]
+}
