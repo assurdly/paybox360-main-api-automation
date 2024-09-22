@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"5b07d84f-a080-4f3e-acd6-bf2de974feef","created_at":"2024-09-22T11:21:58.154671+01:00","title":"Open-Source Tax","rate":0.0,"company":"Idy-Magenta-Driver","branch":"North Maximilianchester"},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "9b24817a-4036-44f0-917a-df2e292c74ae",
+    "branch": "c4208889-5846-4d2d-97a5-f1087f6f5bb31",
+    "name": "Sylvester Deckow",
+    "email": "Beatrice.Mann@mailinator.com",
+    "phone": "08019976286",
+    "address": "70498 Walter Dam"
+}

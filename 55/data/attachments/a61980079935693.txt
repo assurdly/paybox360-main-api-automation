@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "30183c5a-aed5-4f69-8baf-2c9cdddd242e",
+    "name": "mobile invoice",
+    "email": "Fanny99@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

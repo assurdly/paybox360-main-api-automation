@@ -1,0 +1,8 @@
+{
+    "company": "9b24817a-4036-44f0-917a-df2e292c74ae",
+    "customer_id": "",
+    "name": "Lela Weimann",
+    "email": "Grayce_Breitenberg88@mailinator.com",
+    "phone": "08052206657",
+    "address": "47410 Skyla Square"
+}

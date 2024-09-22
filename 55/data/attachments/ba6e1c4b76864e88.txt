@@ -1,0 +1,7 @@
+{
+    "company": "9b24817a-4036-44f0-917a-df2e292c74ae",
+    "name": "New Emmitt",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

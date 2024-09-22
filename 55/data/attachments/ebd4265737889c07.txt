@@ -1,0 +1,5 @@
+{
+    "company": "9b24817a-4036-44f0-917a-df2e292c74ae",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Wunsch, Lubowitz and Ritchie"
+}

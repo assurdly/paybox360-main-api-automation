@@ -1,0 +1,7 @@
+{
+    "company": "9b24817a-4036-44f0-917a-df2e292c74aebeans",
+    "customer_id": "",
+    "city": "Walshburgh",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "9b24817a-4036-44f0-917a-df2e292c74ae",
+    "customer_id": "1",
+    "name": "Jorge Denesik I",
+    "email": "Shyanne.Bednar@mailinator.com",
+    "phone": "08056062356",
+    "address": "430 Orlo Mountain"
+}
