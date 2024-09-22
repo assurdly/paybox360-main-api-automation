@@ -1,8 +1,0 @@
-{
-    "company": "e00533c7-4b3e-4571-93b3-323d399f698b",
-    "customer_id": "1",
-    "name": "Erik Stamm",
-    "email": "Cheyenne20@mailinator.com",
-    "phone": "08074232676",
-    "address": "2274 Madisyn Cliff"
-}

@@ -1,0 +1,42 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "products": [
+        {
+            "category": "ee9a0e95-9c32-4418-b54c-11b2c91a9325",
+            "stocks": [
+                {
+                    "item": "Incredible Granite Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Soft Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/imammuht_128.jpg",    
+                    "item": "Rustic Soft Computer",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

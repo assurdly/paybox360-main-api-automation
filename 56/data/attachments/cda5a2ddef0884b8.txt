@@ -1,0 +1,23 @@
+{
+    "company": "e66b6a33-e8e1-4373-97af-37797da65adabeans",
+    "branch": "fc21c8ac-6fd0-46ef-a380-45553d8a4c12", 
+    "items": [
+        {
+            "item_description": "item sensor",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop transmitter",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "7afb0b3b-50bb-4973-a03c-d3d8bbb59081",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

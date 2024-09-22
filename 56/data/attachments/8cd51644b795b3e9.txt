@@ -1,0 +1,8 @@
+{
+    "company": "e66b6a33-e8e1-4373-97af-37797da65ada",
+    "customer_id": "",
+    "name": "Kurt Hoppe",
+    "email": "Hailie_Welch@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "54203 Green Drive"
+}

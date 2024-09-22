@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + hard drive",
+    "company_id": "e66b6a33-e8e1-4373-97af-37797da65ada",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "07034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "08031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

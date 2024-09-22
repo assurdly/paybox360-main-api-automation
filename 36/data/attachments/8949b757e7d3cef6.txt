@@ -1,6 +1,0 @@
-{
-    "company": "e00533c7-4b3e-4571-93b3-323d399f698b",
-    "branch": "", 
-    "title": "online1285 tax",
-    "rate": 1.5
-}

@@ -1,0 +1,7 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "name": "Kennediside",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": "agshkkw",
+    "is_super_branch": false
+}

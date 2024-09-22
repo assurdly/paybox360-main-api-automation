@@ -1,0 +1,7 @@
+{
+    "name": "Gayle Bruen",
+    "email": "Armand_Oberbrunner27@mailinator.com",
+    "phone_number": "08019505226",
+    "address": "Idumota, Lagos",
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda"
+}

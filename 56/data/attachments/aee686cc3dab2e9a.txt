@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"94986dd2-a156-4d39-ac58-5adcb0d4ddda","company_name":"Idy-yellow-sensor","industry":"BANKING AND FINANCE","size":5}}

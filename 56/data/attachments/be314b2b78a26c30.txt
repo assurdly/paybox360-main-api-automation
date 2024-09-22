@@ -1,0 +1,8 @@
+{
+    "company": "e66b6a33-e8e1-4373-97af-37797da65ada1",
+    "customer_id": "",
+    "name": "Lindsay Bruen Sr.",
+    "email": "Sid12@mailinator.com",
+    "phone": "08000480359",
+    "address": "506 Lehner Station"
+}

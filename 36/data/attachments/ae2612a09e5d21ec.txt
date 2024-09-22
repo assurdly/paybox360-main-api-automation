@@ -1,8 +1,0 @@
-{
-    "company": "e00533c7-4b3e-4571-93b3-323d399f698b",
-    "customer_id": "",
-    "name": "Abraham Rutherford",
-    "email": "Aaliyah.Effertz@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "35438 Veda Lake"
-}

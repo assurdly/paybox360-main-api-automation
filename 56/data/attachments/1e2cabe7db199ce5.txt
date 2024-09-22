@@ -1,0 +1,8 @@
+{
+    "company": "e66b6a33-e8e1-4373-97af-37797da65ada",
+    "customer_id": "1",
+    "name": "Miss Carmen Hauck",
+    "email": "Octavia.Padberg@mailinator.com",
+    "phone": "08022361841",
+    "address": "251 Henry Views"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Sidney Howe",
-    "email": "Jadyn_Klein@mailinator.com",
-    "phone_number": "08060538030erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb"
-}

@@ -1,0 +1,7 @@
+{
+    "name": "Miss Tracy Yost",
+    "email": "Friedrich_Beer@mailinator.com",
+    "phone_number": "08031319412",
+    "address": "Idumota, Lagos",
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda7"
+}

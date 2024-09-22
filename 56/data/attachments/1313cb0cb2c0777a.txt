@@ -1,0 +1,18 @@
+{
+    "company_id": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "branch_id": "9d4018da-41db-43a5-af48-8091f257aa18",
+    "team_name": "Team Yaba VII",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

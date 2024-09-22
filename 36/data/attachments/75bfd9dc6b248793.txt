@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-08-29T07:51:44.731130+01:00","reference":"INV-AUG-12599","company":"Transmitter","branch":"East Teaganmouth","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"fbac0540-aa06-4199-93de-fe977941e4fb","company_name":"Idy-purple-circuit","industry":"BANKING AND FINANCE","size":5}}

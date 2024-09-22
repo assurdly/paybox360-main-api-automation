@@ -1,1 +1,0 @@
-{"new_items":[{"quantity":["A valid integer is required."]}],"branch":["Invalid pk \"02107504-c26d-4774-8266-3b2a6f99adad\" - object does not exist."],"invoice":["“{{inv_id}}” is not a valid UUID."],"customer":["This field may not be null."]}

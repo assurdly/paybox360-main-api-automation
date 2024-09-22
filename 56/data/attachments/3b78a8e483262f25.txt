@@ -1,0 +1,11 @@
+{
+    "company": "e66b6a33-e8e1-4373-97af-37797da65ada",
+    "branch": "",
+    "name": "cross-platform invoice",
+    "email": "Rosanna.Connelly@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

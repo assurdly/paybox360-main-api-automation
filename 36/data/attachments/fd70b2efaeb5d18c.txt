@@ -1,1 +1,0 @@
-{"price_lists":[{"selected_branches":["Invalid pk \"02107504-c26d-4774-8266-3b2a6f99adad\" - object does not exist."],"item":["This field may not be null."]},{"item":["This field may not be null."]}]}
