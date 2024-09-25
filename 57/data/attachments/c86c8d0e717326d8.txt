@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"78412629-c0e1-4713-aac6-86574c6be8d4","created_at":"2024-09-25T19:08:30.862557+01:00","title":"Online Tax","rate":-10.0,"company":"Idy-Lavender-Alarm","branch":"Daughertyport"},"errors":null}

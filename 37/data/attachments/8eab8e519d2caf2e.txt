@@ -1,7 +1,0 @@
-{
-    "name": "Elias Lockman",
-    "email": "Dorris_Koss@mailinator.com",
-    "phone_number": "08059126954",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb7"
-}

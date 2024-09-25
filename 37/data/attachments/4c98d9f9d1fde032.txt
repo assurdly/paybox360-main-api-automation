@@ -1,7 +1,0 @@
-{
-    "name": "Ivan Kilback MD",
-    "email": "Merritt90",
-    "phone_number": "08057921100",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb"
-}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"2ab0073c-8a3e-4c26-9acc-10af1da58256","company_name":"Idy-lavender-alarm","industry":"BANKING AND FINANCE","size":5}}

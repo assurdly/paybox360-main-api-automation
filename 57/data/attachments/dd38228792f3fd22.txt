@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "801001e1-fe2a-458a-a797-f7d9df0f628e",
+    "name": "auxiliary invoice",
+    "email": "Lizzie.Hauck@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

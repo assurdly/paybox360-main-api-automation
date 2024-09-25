@@ -1,0 +1,8 @@
+{
+    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
+    "customer_id": "",
+    "name": "Robin Sipes",
+    "email": "Katrine_Grady",
+    "phone": "08029021119",
+    "address": "743 Franecki Cliffs"
+}

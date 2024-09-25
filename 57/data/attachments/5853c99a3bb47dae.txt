@@ -1,0 +1,45 @@
+{
+    "company": "2ab0073c-8a3e-4c26-9acc-10af1da582562",
+    "products": [
+        {
+            "category": "4275e812-4907-4891-b6a8-ab115e391253",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dgclegg_128.jpg", 
+                    "item": "Practical Frozen Bacon",
+                    "quantity": 150, 
+                    "stock_price": 5703.60, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Steel Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jonkspr_128.jpg",    
+                    "item": "Tasty Steel Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

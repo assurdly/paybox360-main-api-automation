@@ -1,0 +1,7 @@
+{
+    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
+    "customer_id": "beans",
+    "city": "Lake Jacintochester",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

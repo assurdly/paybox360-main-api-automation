@@ -1,0 +1,8 @@
+{
+    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
+    "customer_id": "",
+    "name": "Ernesto Kirlin",
+    "email": "Lauriane_Lowe88@mailinator.com",
+    "phone": "08059795852",
+    "address": "51347 Gutkowski Flat"
+}

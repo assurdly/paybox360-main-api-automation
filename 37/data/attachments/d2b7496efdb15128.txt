@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"08197a15-a796-4061-a0ca-9c8a278f2e0b","created_at":"2024-08-30T19:09:08.985979+01:00","title":"Cross-Platform Tax","rate":0.0,"company":"Protocol","branch":"Kristopherstad"},"errors":null}

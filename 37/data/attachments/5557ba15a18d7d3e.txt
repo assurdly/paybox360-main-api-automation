@@ -1,1 +1,0 @@
-{"message":"user found","data":{"email":"inyangete@gmail.com","type_of_user":"AGENT","registration_email_verified":true,"has_login_pin":true,"has_transaction_pin":true}}

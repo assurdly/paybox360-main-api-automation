@@ -1,8 +1,0 @@
-{
-    "company": "5a6cb45a-b141-4d2b-85f9-0600c965e44b1",
-    "branch": "534d3f55-76f7-4951-8178-200e6bb02132",
-    "name": "Mary Mohr",
-    "email": "Maximo_Schimmel35@mailinator.com",
-    "phone": "08081280960",
-    "address": "942 Kohler Loop"
-}

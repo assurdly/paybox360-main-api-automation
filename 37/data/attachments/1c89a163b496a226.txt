@@ -1,7 +1,0 @@
-{
-    "name": "Myra Douglas",
-    "email": "Odie_Lowe",
-    "phone_number": "08053221940",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb"
-}

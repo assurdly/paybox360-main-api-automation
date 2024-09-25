@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Hackensack",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

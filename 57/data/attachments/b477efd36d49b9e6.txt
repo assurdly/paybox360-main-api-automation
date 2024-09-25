@@ -1,0 +1,11 @@
+{
+    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
+    "categories": [
+        {
+            "name": "1442f467-5312-49ff-8b4c-195e1883aecd"
+        },
+        {
+            "name": "Chair"
+        }
+    ]
+}

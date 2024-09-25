@@ -1,0 +1,42 @@
+{
+    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
+    "products": [
+        {
+            "category": "4275e812-4907-4891-b6a8-ab115e391253",
+            "stocks": [
+                {
+                    "item": "Ergonomic Soft Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Fresh Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/abotap_128.jpg",    
+                    "item": "Ergonomic Metal Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
