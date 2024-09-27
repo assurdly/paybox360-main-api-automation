@@ -1,1 +1,0 @@
-{"message":["Company name: IDY-FUCHSIA-MICROCHIP already exists"]}

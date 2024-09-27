@@ -1,0 +1,7 @@
+{
+    "name": "Arlene Carroll",
+    "email": "Spencer69@mailinator.com",
+    "phone_number": "08068961599erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
-    "customer_id": "",
-    "name": "Carl Quigley IV",
-    "email": "Mariah5@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "25015 Labadie Hollow"
-}

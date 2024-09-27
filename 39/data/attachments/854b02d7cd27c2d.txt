@@ -1,8 +1,0 @@
-{
-    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
-    "customer_id": "",
-    "name": "Kay Parisian",
-    "email": "Elody.Rau39@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "0179 Demond Falls"
-}

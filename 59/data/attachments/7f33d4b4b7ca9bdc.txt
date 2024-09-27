@@ -1,0 +1,8 @@
+{
+    "company": "a4b1a82e-5038-4967-8e99-d50ac81941f4",
+    "branch": "56e4d5a5-4ddf-4bd4-8529-3ba4e9cb2ae2",
+    "name": "Angelina Rau",
+    "email": "Tia.Bernhard25",
+    "phone": "08076400837",
+    "address": "8997 Lulu Fields"
+}

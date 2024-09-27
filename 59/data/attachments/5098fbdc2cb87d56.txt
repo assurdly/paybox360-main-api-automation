@@ -1,0 +1,1 @@
+{"message":"salary component added successfully"}

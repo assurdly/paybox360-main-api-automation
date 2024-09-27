@@ -1,8 +1,0 @@
-{
-    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
-    "customer_id": "",
-    "name": "Charlotte Brown",
-    "email": "Wilfred_Renner@mailinator.com",
-    "phone": "08057304494",
-    "address": "86168 Jerrell Turnpike"
-}

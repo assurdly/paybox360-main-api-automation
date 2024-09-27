@@ -1,6 +1,0 @@
-{
-    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d311",
-    "branch": "", 
-    "title": "neural1310 tax",
-    "rate": 1.5
-}

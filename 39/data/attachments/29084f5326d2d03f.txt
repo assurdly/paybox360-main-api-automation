@@ -1,8 +1,0 @@
-{
-    "company": "1a34f5fd-b87e-4fa3-8d62-27f86bc9d3111",
-    "customer_id": "",
-    "name": "Javier Legros",
-    "email": "Maximillia_Wisozk16@mailinator.com",
-    "phone": "08061462951",
-    "address": "8832 Hahn Views"
-}

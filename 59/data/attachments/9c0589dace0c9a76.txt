@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"762263bd-efe6-496e-b02c-01a0007c4c99","created_at":"2024-09-27T19:07:42.991876+01:00","title":"Neural Tax","rate":0.0,"company":"Circuit","branch":"Port Adrian"},"errors":null}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d03e6e88-bc6e-42f2-868a-c35003f49be4","created_at":"2024-09-27T19:07:43.049490+01:00","title":"Back-End Tax","rate":-10.0,"company":"Circuit","branch":"Port Adrian"},"errors":null}

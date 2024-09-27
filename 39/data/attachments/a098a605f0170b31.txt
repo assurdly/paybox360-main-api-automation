@@ -1,5 +1,0 @@
-{
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
-    "sender_id": "Shop more",
-    "sample_message": "Shop at conveninence."
-}

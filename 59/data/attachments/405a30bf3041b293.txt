@@ -1,0 +1,11 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "categories": [
+        {
+            "name": "9f7742ff-7921-47ee-9e46-1b5f641da731"
+        },
+        {
+            "name": "Salad"
+        }
+    ]
+}

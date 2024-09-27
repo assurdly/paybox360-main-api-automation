@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"5bdd539d-c287-4032-b458-7a675d1953ca","created_at":"2024-09-01T21:04:13.475593+01:00","title":"Back-End Tax","rate":-10.0,"company":"Microchip","branch":"Eulahburgh"},"errors":null}

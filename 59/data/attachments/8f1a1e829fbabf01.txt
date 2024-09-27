@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + microchip",
+    "company_id": "a4b1a82e-5038-4967-8e99-d50ac81941f4",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "07034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "08031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

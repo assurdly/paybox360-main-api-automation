@@ -1,0 +1,7 @@
+{
+    "name": "Philip Herzog",
+    "email": "Gia_Macejkovic18@mailinator.com",
+    "phone_number": "08028170494",
+    "address": "Idumota, Lagos",
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720"
+}
