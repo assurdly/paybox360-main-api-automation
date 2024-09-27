@@ -1,0 +1,1 @@
+{"old_items":[{"item":["“97537728-ae6d-457c-9eb5-39c3dbf34b9b1” is not a valid UUID."]}],"new_items":[{"item_id":["“981ce4d2-83a2-4ae4-92ea-51e3969455571” is not a valid UUID."]}],"branch":["Invalid pk \"2b101abe-f2d8-45cd-bd36-95414946aed2\" - object does not exist."],"invoice":["This field may not be null."],"customer":["This field may not be null."]}

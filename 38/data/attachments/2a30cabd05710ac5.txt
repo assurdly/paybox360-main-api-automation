@@ -1,7 +1,0 @@
-{
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
-    "name": "Hageneston",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

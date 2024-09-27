@@ -1,0 +1,8 @@
+{
+    "monthly_amount": 13,
+    "is_active": true,
+    "custom_name": ["fae73e27-80eb-41c3-9760-19c2be19bbe2"],
+    "part_of_employee_structure": true,
+    "calculate_pay_schedule_basis": true,
+    "show_on_payslip": true
+}

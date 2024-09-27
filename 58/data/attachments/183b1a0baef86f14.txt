@@ -1,0 +1,1 @@
+{"message":"Table successfully deleted"}

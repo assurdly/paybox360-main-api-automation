@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"cc49425d-eb06-4fb0-a049-b668a4b72ebf","company_name":"Idy-magenta-hard drive","industry":"BANKING AND FINANCE","size":5}}

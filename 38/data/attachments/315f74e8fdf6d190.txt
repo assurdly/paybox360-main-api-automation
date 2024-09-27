@@ -1,1 +1,0 @@
-{"error":"Team ID nor provided"}

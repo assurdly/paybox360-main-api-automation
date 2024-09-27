@@ -1,8 +1,0 @@
-{
-    "company": "58d49108-5f43-4a56-9a46-5a2bfcef2947",
-    "branch": "568973ac-1ae2-4528-a7cf-dfad858e9a15",
-    "name": "Mrs. Diana West",
-    "email": "Eloisa86@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "0200 Gloria Hill"
-}

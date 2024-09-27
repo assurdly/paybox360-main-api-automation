@@ -1,0 +1,5 @@
+{
+    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Bartoletti, Osinski and Bednar"
+}

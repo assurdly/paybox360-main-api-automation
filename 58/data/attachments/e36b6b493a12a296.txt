@@ -1,0 +1,42 @@
+{
+    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf",
+    "products": [
+        {
+            "category": "b3a61bc0-4915-4061-9c15-a265c9d35f3f",
+            "stocks": [
+                {
+                    "item": "Fantastic Concrete Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Steel Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/robturlinckx_128.jpg",    
+                    "item": "Sleek Concrete Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

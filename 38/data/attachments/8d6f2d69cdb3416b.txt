@@ -1,7 +1,0 @@
-{
-    "name": "Johnathan Raynor",
-    "email": "Jermaine_Deckow@mailinator.com",
-    "phone_number": "08081349489",
-    "address": "Idumota, Lagos",
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "58d49108-5f43-4a56-9a46-5a2bfcef2947",
-    "customer_id": "1",
-    "name": "Dwight Grady",
-    "email": "Jess.Dickinson59@mailinator.com",
-    "phone": "08010675231",
-    "address": "33873 Abner Fords"
-}

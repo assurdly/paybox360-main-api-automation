@@ -1,0 +1,7 @@
+{
+    "name": "Bryant Emard V",
+    "email": "Noel_Wisozk44",
+    "phone_number": "08086212881",
+    "address": "Idumota, Lagos",
+    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf"
+}

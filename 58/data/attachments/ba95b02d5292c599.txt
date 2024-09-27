@@ -1,0 +1,8 @@
+{
+    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf",
+    "customer_id": "",
+    "name": "Darrel Harber",
+    "email": "Ezekiel_Prosacco@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "263 Keith Springs"
+}

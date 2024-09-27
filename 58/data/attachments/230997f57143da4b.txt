@@ -1,0 +1,3 @@
+{
+    "industry": "open-source-Test industry"
+}

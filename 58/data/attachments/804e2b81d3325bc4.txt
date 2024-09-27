@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"c8325a41-2399-4d9f-8339-334f038e2d47","created_at":"2024-09-27T16:48:09.991167+01:00","name":"Captain Category","company":"cc49425d-eb06-4fb0-a049-b668a4b72ebf","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Magenta-Hard Drive","has_products":false,"stock_count":0},"errors":null}

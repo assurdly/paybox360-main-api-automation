@@ -1,7 +1,0 @@
-{
-    "name": "Roderick Cruickshank",
-    "email": "Jennie.Beatty27@mailinator.com",
-    "phone_number": "08069892070erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45"
-}

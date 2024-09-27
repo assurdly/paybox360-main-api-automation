@@ -1,0 +1,11 @@
+{
+    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf",
+    "branch": "fe3cade4-9771-4d5c-9211-ad4e97c1f888",
+    "name": "optical invoice",
+    "email": "@3Alfredo_Legros@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,1 +1,0 @@
-{"count":1,"next":null,"previous":null,"results":[{"name":"Kim Wallace","email":"kimwallace@gmail.com","phone_number":"09094788365","total_orders":63,"last_order":"2024-08-31"}]}

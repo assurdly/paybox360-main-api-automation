@@ -1,0 +1,7 @@
+{
+    "name": "Terrell Fahey",
+    "email": "Adela89@mailinator.com",
+    "phone_number": "08013886266erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf"
+}
