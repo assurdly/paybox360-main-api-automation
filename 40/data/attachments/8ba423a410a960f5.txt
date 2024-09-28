@@ -1,8 +1,0 @@
-{
-    "company": "5501db39-bcdc-4099-b840-c8c51e189260",
-    "customer_id": "",
-    "name": "Constance Homenick",
-    "email": "Austin.Macejkovic69@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "48911 Tabitha Lock"
-}

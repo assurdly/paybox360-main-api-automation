@@ -1,0 +1,42 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Frozen Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Concrete Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/akmur_128.jpg",    
+                    "item": "Unbranded Cotton Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

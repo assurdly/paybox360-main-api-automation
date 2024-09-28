@@ -1,0 +1,42 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Fresh Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Granite Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bargaorobalo_128.jpg",    
+                    "item": "Awesome Concrete Mouse",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

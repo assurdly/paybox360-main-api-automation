@@ -1,0 +1,7 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720beans",
+    "customer_id": "",
+    "city": "Pasco",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

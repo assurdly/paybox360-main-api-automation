@@ -1,8 +1,0 @@
-{
-    "company": "5501db39-bcdc-4099-b840-c8c51e189260",
-    "customer_id": "",
-    "name": "Jamie Beahan",
-    "email": "Nella.Gusikowski6@mailinator.com",
-    "phone": "08099634063",
-    "address": "375 Wilderman Springs"
-}

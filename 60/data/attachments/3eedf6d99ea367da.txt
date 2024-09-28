@@ -1,0 +1,7 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "branch": "1423537f-652d-4f3f-8461-9a55cada92c21",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Alisa_Goyette25@mailinator.com"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "5501db39-bcdc-4099-b840-c8c51e189260",
-    "branch": "17b5e038-d528-4645-b940-c60355719f31",
-    "name": "Kim Metz MD",
-    "email": "Myra54",
-    "phone": "08009652955",
-    "address": "4709 Suzanne Drive"
-}

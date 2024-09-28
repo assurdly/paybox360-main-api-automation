@@ -1,0 +1,8 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "customer_id": "",
+    "name": "Jonathon Crooks",
+    "email": "Kristian.Veum",
+    "phone": "08048468567",
+    "address": "81995 Tillman Spurs"
+}

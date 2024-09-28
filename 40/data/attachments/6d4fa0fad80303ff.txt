@@ -1,7 +1,0 @@
-{
-    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be",
-    "name": "West Lawson",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

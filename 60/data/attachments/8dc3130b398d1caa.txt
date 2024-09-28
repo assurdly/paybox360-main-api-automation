@@ -1,0 +1,6 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "branch": "", 
+    "title": "auxiliary1331 tax",
+    "rate": 1.5
+}

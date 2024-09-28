@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Passaic",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

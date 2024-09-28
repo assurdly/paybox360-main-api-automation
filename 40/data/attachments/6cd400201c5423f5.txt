@@ -1,8 +1,0 @@
-{
-    "company": "5501db39-bcdc-4099-b840-c8c51e1892601",
-    "customer_id": "",
-    "name": "Albert Nitzsche",
-    "email": "Sydney25@mailinator.com",
-    "phone": "08040603035",
-    "address": "06511 Kertzmann Streets"
-}

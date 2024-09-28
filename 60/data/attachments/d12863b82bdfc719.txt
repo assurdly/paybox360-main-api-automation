@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"8298bec9-86e2-41c2-b9fa-2f0772ebed23","created_at":"2024-09-28T12:57:22.180425+01:00","title":"Auxiliary1331 Tax","rate":1.5,"company":"Idy-Silver-Port","branch":""},"errors":null}

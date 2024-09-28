@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "1bdf5855-56f6-49a1-82b3-f380321699ec",
+    "name": "optical invoice",
+    "email": "Chyna63@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"a246cef1-d3a0-46c0-a756-d1d4f4735cdd","created_at":"2024-09-28T12:57:22.549706+01:00","title":"Haptic Tax","rate":0.0,"company":"Idy-Silver-Port","branch":"Lake Daron"},"errors":null}

@@ -1,0 +1,42 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Plastic Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Fresh Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/cdavis565_128.jpg",    
+                    "item": "Unbranded Granite Mouse",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

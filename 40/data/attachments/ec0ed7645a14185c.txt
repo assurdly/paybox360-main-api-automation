@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Dayton",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

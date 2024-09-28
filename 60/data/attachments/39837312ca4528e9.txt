@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"397aa867-f114-4e0f-bad7-1d054faf85f8","created_at":"2024-09-28T12:57:21.812680+01:00","title":"Primary1328 Tax","rate":1.5,"company":"Idy-Silver-Port","branch":"Lake Daron"},"errors":null}

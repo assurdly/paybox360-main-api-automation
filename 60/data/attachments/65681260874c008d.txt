@@ -1,0 +1,7 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd7201",
+    "name": "Heidenreichchester",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

@@ -1,8 +1,0 @@
-{
-    "company": "5501db39-bcdc-4099-b840-c8c51e189260",
-    "branch": "06c56a64-654f-4918-b521-bc7230bb5fa8",
-    "name": "Olivia Mills",
-    "email": "naima1905@gmail.com",
-    "phone": "08090679281",
-    "address": "745 Cathrine Ville"
-}

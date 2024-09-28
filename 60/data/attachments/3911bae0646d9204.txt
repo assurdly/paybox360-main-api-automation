@@ -1,0 +1,8 @@
+{
+    "company": "068efe21-a1ca-4ece-884f-30ccb38dd7201",
+    "customer_id": "",
+    "name": "Viola Ullrich",
+    "email": "Nick51@mailinator.com",
+    "phone": "08037469404",
+    "address": "3966 O'Kon Crossing"
+}

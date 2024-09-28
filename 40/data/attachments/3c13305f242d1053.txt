@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-02T09:51:23.333221+01:00","reference":"INV-SEP-12660","company":"Program","branch":"Murrayhaven","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

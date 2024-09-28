@@ -1,8 +1,0 @@
-{
-    "company": "5501db39-bcdc-4099-b840-c8c51e189260",
-    "customer_id": "1",
-    "name": "Alexis Pacocha",
-    "email": "Zander29@mailinator.com",
-    "phone": "08007267380",
-    "address": "90531 Bauch Parkways"
-}
