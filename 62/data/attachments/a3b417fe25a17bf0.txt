@@ -1,0 +1,42 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "products": [
+        {
+            "category": "9df98089-7e30-43cb-bb4a-2dced1c7f2f6",
+            "stocks": [
+                {
+                    "item": "Sleek Frozen Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Plastic Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/guiiipontes_128.jpg",    
+                    "item": "Gorgeous Rubber Table",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

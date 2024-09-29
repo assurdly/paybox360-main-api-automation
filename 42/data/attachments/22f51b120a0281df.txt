@@ -1,7 +1,0 @@
-{
-    "name": "Miss Roosevelt Crona",
-    "email": "Darwin28@mailinator.com",
-    "phone_number": "08068869463erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2"
-}

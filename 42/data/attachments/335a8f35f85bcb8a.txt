@@ -1,7 +1,0 @@
-{
-    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
-    "name": "Bernadettechester",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

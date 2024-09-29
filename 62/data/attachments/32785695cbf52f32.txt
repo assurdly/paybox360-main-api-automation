@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"1cd97455-b9d4-4425-b6cc-5d567481a861","company_name":"pixel","industry":"BANKING AND FINANCE","size":5}}

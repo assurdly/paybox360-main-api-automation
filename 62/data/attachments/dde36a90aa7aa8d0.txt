@@ -1,0 +1,8 @@
+{
+    "company": "1cd97455-b9d4-4425-b6cc-5d567481a8611",
+    "customer_id": "",
+    "name": "Eric Heller",
+    "email": "Talon_Jerde32@mailinator.com",
+    "phone": "08037130452",
+    "address": "3942 Victoria Well"
+}

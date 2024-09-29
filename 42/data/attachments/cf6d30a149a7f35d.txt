@@ -1,7 +1,0 @@
-{
-    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
-    "branch": "324c88a4-0593-4713-aadb-860604244745",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Aditya_Donnelly50@mailinator.com"
-}

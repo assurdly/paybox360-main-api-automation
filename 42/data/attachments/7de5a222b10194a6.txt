@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"416b675e-cffb-49e1-9894-c6c9a25caca2","company_name":"Idy-green-card","industry":"BANKING AND FINANCE","size":5}}

@@ -1,0 +1,23 @@
+{
+    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861beans",
+    "branch": "86b77331-66f9-4951-ac61-6641f70e96fb", 
+    "items": [
+        {
+            "item_description": "item firewall",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop application",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "57d5dab6-e858-412d-8485-329216eb6213",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

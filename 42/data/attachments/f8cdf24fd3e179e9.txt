@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"26e4d9fa-4980-4df4-8ba9-d95990f7faac","created_at":"2024-09-04T19:08:14.844570+01:00","title":"Redundant Tax","rate":-10.0,"company":"Idy-Green-Card","branch":"Bernadettechester"},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "name": "Edgar Ondricka",
-    "email": "Jeffrey49@mailinator.com",
-    "phone_number": "08031744760",
-    "address": "Idumota, Lagos",
-    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2"
-}

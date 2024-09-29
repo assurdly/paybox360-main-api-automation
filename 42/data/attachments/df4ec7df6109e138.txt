@@ -1,1 +1,0 @@
-{"detail":"Order moved to the next stage."}

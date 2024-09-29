@@ -1,0 +1,8 @@
+{
+    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861",
+    "customer_id": "",
+    "name": "Dr. Hugo Blanda",
+    "email": "Oral8",
+    "phone": "08006925862",
+    "address": "76172 Gleason Plaza"
+}

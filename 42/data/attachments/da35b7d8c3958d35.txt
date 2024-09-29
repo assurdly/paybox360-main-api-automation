@@ -1,8 +1,0 @@
-{
-    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
-    "branch": "fd6601be-a2ac-418a-9904-9397aec0701b",
-    "name": "Marty Langworth",
-    "email": "naima1905@gmail.com",
-    "phone": "08017147102",
-    "address": "5563 Kemmer Parks"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861",
+    "branch": "8af023aa-f209-4c9a-9905-af9c251f90b9",
+    "name": "Pat Becker",
+    "email": "Kenneth55@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "637 Nikko Extensions"
+}

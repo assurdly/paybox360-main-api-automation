@@ -1,8 +1,0 @@
-{
-    "company": "416b675e-cffb-49e1-9894-c6c9a25caca2",
-    "branch": "324c88a4-0593-4713-aadb-8606042447451",
-    "name": "Raquel Fritsch",
-    "email": "Cyrus_Kling@mailinator.com",
-    "phone": "08054520950",
-    "address": "4839 Schumm Cliffs"
-}

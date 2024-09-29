@@ -1,0 +1,17 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "branch": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "supplier": "88510ee8-6f23-46a7-b532-ef7dc9891087",
+    "orders": [
+        {
+            "category": "9df98089-7e30-43cb-bb4a-2dced1c7f2f6",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "9df98089-7e30-43cb-bb4a-2dced1c7f2f6",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

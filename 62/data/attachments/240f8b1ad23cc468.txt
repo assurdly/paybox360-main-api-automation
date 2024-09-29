@@ -1,0 +1,8 @@
+{
+    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861",
+    "customer_id": "1",
+    "name": "Brandi McDermott",
+    "email": "Wyman73@mailinator.com",
+    "phone": "08047285263",
+    "address": "2045 Hosea Point"
+}

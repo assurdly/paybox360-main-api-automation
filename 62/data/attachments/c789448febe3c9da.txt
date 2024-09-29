@@ -1,0 +1,42 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "products": [
+        {
+            "category": "9df98089-7e30-43cb-bb4a-2dced1c7f2f6",
+            "stocks": [
+                {
+                    "item": "Sleek Fresh Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Wooden Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/charlesrpratt_128.jpg",    
+                    "item": "Unbranded Wooden Table",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

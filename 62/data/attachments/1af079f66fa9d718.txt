@@ -1,0 +1,1 @@
+{"status":"failure","status_code":400,"data":null,"errors":{"details":"provide a valid company ID to view notification(s)."}}

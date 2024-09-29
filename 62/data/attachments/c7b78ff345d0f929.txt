@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"57d5dab6-e858-412d-8485-329216eb6213","created_at":"2024-09-29T21:05:58.301082+01:00","title":"Open-Source1328 Tax","rate":1.5,"company":"Pixel","branch":"Konopelskiburgh"},"errors":null}

@@ -1,0 +1,42 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "products": [
+        {
+            "category": "9df98089-7e30-43cb-bb4a-2dced1c7f2f6",
+            "stocks": [
+                {
+                    "item": "Tasty Plastic Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Cotton Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aeon56_128.jpg",    
+                    "item": "Fantastic Cotton Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Domingo Harber",
+    "email": "Destany32@mailinator.com",
+    "phone_number": "08028758093",
+    "address": "Idumota, Lagos",
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06"
+}

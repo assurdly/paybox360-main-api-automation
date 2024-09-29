@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "firewall",
+            "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+            "branch": "86b77331-66f9-4951-ac61-6641f70e96fb",
+            "no_of_seats": 4,
+            "categories": ["748e6d71-0c56-40bf-bddd-cd9b18c83375"],
+            "all_categories": "False"
+        },
+        {
+            "name": "4",
+            "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+            "branch": "86b77331-66f9-4951-ac61-6641f70e96fb",
+            "no_of_seats": 6,
+            "categories": ["748e6d71-0c56-40bf-bddd-cd9b18c83375"],
+            "all_categories": "True"
+        }
+    ]
+}
