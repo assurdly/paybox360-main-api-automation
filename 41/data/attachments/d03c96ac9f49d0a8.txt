@@ -1,8 +1,0 @@
-{
-    "company": "99bd4189-e858-4d05-b971-750e584799e6",
-    "branch": "f1efeffe-ca40-4c7c-869c-649330998ed1",
-    "name": "Kellie Adams",
-    "email": "Ana_Schulist60@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "042 Katrine Circles"
-}

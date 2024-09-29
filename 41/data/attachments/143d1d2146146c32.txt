@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Kundehaven",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

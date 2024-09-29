@@ -1,0 +1,7 @@
+{
+    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f91044",
+    "name": "Delphaton",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

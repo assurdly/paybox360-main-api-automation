@@ -1,1 +1,0 @@
-{"message":"salary component updated successfully","data":{"id":"4e046967-3121-4aa3-a71b-470253e7f3f1","salary_name":"Basic","calculation_type":"PERCENTAGE_GROSS","amount":10.0,"frequency":"MONTHLY","is_active":true,"part_of_employee_structure":true,"calculate_pay_schedule_basis":true,"show_on_payslip":true}}

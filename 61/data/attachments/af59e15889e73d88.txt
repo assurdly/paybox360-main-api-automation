@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"208aa9bf-761e-4ab9-bd89-aeb903705295","created_at":"2024-09-29T20:39:48.767424+01:00","title":"Redundant Tax","rate":-10.0,"company":"Idy-Cyan-Pixel","branch":"North Nadiahaven"},"errors":null}

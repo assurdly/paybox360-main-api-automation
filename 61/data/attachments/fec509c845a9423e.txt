@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "dd290712-d636-46fa-a7a7-a67f10f0ee8a",
+    "name": "cross-platform invoice",
+    "email": "Giovanni.Grady@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,1 +1,0 @@
-{"message":"successful","data":[{"id":"a2c95fb5-cb98-4589-aa55-d5c3f9623525","department_name":"Customer","department_head_name":null},{"id":"9542d5db-c4e5-4ee6-aee3-50346ffd6d1f","department_name":"Customer Support","department_head_name":null}]}

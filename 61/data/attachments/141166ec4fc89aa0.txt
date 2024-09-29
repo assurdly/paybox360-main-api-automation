@@ -1,0 +1,8 @@
+{
+    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f910441",
+    "customer_id": "",
+    "name": "Pedro Volkman",
+    "email": "Ian39@mailinator.com",
+    "phone": "08032361568",
+    "address": "600 Sarai Garden"
+}

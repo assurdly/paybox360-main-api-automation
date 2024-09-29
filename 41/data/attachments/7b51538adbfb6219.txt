@@ -1,8 +1,0 @@
-{
-    "company": "99bd4189-e858-4d05-b971-750e584799e6",
-    "branch": "f08ccfe7-59f3-447a-bcb2-d614b1198050",
-    "name": "Gloria Monahan DDS",
-    "email": "naima1905@gmail.com",
-    "phone": "08060070460",
-    "address": "716 Nitzsche Squares"
-}

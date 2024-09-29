@@ -1,4 +1,0 @@
-{
-    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
-    "item": "452acba5-4d27-4e7e-a5c7-27b8a6522b77"
-}

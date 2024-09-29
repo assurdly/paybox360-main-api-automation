@@ -1,0 +1,42 @@
+{
+    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f91044",
+    "products": [
+        {
+            "category": "878c3f18-74a7-45ac-9721-6ad039393507",
+            "stocks": [
+                {
+                    "item": "Refined Frozen Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Fresh Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/haydn_woods_128.jpg",    
+                    "item": "Rustic Steel Ball",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

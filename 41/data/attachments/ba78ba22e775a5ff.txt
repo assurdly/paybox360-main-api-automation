@@ -1,8 +1,0 @@
-{
-    "company": "99bd4189-e858-4d05-b971-750e584799e61",
-    "customer_id": "",
-    "name": "Douglas Little",
-    "email": "Jennings_Cummerata@mailinator.com",
-    "phone": "08080392616",
-    "address": "075 Sydnie Harbors"
-}

@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"99bd4189-e858-4d05-b971-750e584799e6","company_name":"hard drive","industry":"BANKING AND FINANCE","size":5}}

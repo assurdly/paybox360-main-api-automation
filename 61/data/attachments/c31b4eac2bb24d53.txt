@@ -1,0 +1,7 @@
+{
+    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f91044",
+    "branch": "bb458d29-f8f6-44f3-aab5-cb3480492d7b",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Christop_Stiedemann@mailinator.com"
+}

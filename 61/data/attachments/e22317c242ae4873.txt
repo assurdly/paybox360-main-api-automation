@@ -1,0 +1,45 @@
+{
+    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f910442",
+    "products": [
+        {
+            "category": "878c3f18-74a7-45ac-9721-6ad039393507",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kosmar_128.jpg", 
+                    "item": "Fantastic Rubber Pizza",
+                    "quantity": 150, 
+                    "stock_price": 1681.91, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Frozen Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/marrimo_128.jpg",    
+                    "item": "Small Cotton Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

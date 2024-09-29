@@ -1,8 +1,0 @@
-{
-    "company": "99bd4189-e858-4d05-b971-750e584799e6",
-    "customer_id": "",
-    "name": "Tasha Willms",
-    "email": "Ali_Jaskolski29@mailinator.com",
-    "phone": "08093210751",
-    "address": "77365 Bessie Via"
-}

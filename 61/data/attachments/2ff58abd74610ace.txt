@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"90b9eb28-9e98-4ef1-a5d5-f2e29532338e","created_at":"2024-09-29T20:39:48.706383+01:00","title":"Bluetooth Tax","rate":0.0,"company":"Idy-Cyan-Pixel","branch":"North Nadiahaven"},"errors":null}

@@ -1,0 +1,11 @@
+{
+    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f91044",
+    "branch": "dd290712-d636-46fa-a7a7-a67f10f0ee8a",
+    "name": "open-source invoice",
+    "email": "Tabitha11273@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

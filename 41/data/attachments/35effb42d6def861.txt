@@ -1,8 +1,0 @@
-{
-    "name": "",
-    "company": "",
-    "branch" : "",
-    "no_of_seats": 3,
-    "categories": [],
-    "all_categories": "True"
-}
