@@ -1,0 +1,8 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "customer_id": "",
+    "name": "Kelly Haley",
+    "email": "Hyman.Carter@mailinator.com",
+    "phone": "08021595112",
+    "address": "13797 Annamae Stravenue"
+}

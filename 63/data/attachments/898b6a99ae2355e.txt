@@ -1,0 +1,42 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Wooden Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Wooden Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/tjrus_128.jpg",    
+                    "item": "Ergonomic Rubber Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

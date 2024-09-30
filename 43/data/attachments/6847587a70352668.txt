@@ -1,8 +1,0 @@
-{
-    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f",
-    "customer_id": "",
-    "name": "Hector Conn",
-    "email": "Vivian13@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "795 Donnie Spurs"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f",
-    "customer_id": "1",
-    "name": "Mr. Ethel Ritchie",
-    "email": "Beau51@mailinator.com",
-    "phone": "08074452792",
-    "address": "6984 Corwin Pine"
-}

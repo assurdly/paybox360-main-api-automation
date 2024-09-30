@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"c2a4f83e-f5cd-4071-afd7-544fa1af263f","company_name":"monitor","industry":"BANKING AND FINANCE","size":5}}

@@ -1,7 +1,0 @@
-{
-    "name": "Joy Metz DVM",
-    "email": "Julie.OReilly28",
-    "phone_number": "08097062228",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

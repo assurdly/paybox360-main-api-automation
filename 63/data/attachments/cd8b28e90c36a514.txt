@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-30T14:45:39.132745+01:00","reference":"INV-SEP-13297","company":"Idy-Salmon-Sensor","branch":"Southaven","customer":null,"amount":"-20096.80","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

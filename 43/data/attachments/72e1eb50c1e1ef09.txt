@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"93a8b57f-d7ed-4a19-a000-07722cad54a3","created_at":"2024-09-06T19:08:19.712022+01:00","title":"Open-Source Tax","rate":0.0,"company":"Monitor","branch":"Vincenzotown"},"errors":null}

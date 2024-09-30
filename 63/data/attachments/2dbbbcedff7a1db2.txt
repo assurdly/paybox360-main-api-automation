@@ -1,0 +1,8 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "branch": "e6450cf6-12e9-4481-832b-5eefe59926e1",
+    "name": "Geneva Macejkovic",
+    "email": "naima1905@gmail.com",
+    "phone": "08050967346",
+    "address": "310 Conn Garden"
+}

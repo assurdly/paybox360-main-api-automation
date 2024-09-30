@@ -1,7 +1,0 @@
-{
-    "name": "Gayle Hartmann",
-    "email": "Pierce77@mailinator.com",
-    "phone_number": "08062056368",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b6257"
-}

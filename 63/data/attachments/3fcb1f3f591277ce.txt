@@ -1,0 +1,8 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff061",
+    "customer_id": "",
+    "name": "Wm Schuppe Jr.",
+    "email": "Brando58@mailinator.com",
+    "phone": "08069773797",
+    "address": "9366 Durward Squares"
+}

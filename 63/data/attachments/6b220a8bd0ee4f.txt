@@ -1,0 +1,8 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "branch": "0caf200d-045e-41cb-b5a5-5314f14de1331",
+    "name": "Lorene Wyman",
+    "email": "Jeanette_Kerluke@mailinator.com",
+    "phone": "08004373331",
+    "address": "302 O'Conner Road"
+}

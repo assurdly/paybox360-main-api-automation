@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"76122d45-ec56-451b-80ac-eea9f9237a29","created_at":"2024-09-30T14:45:37.535159+01:00","title":"Mobile1331 Tax","rate":1.5,"company":"Idy-Salmon-Sensor","branch":""},"errors":null}

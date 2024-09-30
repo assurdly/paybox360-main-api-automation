@@ -1,0 +1,8 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
+    "branch": "0caf200d-045e-41cb-b5a5-5314f14de133",
+    "name": "Mrs. Janet McKenzie",
+    "email": "Kaci_Hintz58@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "8470 Spinka Orchard"
+}

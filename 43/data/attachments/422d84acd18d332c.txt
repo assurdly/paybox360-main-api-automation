@@ -1,8 +1,0 @@
-{
-    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f1",
-    "customer_id": "",
-    "name": "Sonia Hermann",
-    "email": "Liana_Swift@mailinator.com",
-    "phone": "08045100333",
-    "address": "939 Cassidy Fords"
-}

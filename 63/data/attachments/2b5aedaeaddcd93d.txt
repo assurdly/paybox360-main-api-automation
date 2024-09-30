@@ -1,0 +1,45 @@
+{
+    "company": "07858718-8229-45a5-888e-33d3bb9eff062",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/idiot_128.jpg", 
+                    "item": "Small Wooden Table",
+                    "quantity": 150, 
+                    "stock_price": 8217.18, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Wooden Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/areus_128.jpg",    
+                    "item": "Rustic Metal Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Sylvia Krajcik Jr.",
-    "email": "Noemi.Krajcik@mailinator.com",
-    "phone_number": "08005122453erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

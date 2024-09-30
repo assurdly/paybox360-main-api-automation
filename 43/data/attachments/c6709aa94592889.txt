@@ -1,8 +1,0 @@
-{
-    "company": "c2a4f83e-f5cd-4071-afd7-544fa1af263f",
-    "branch": "6fbfd141-923b-4ceb-a283-4031c121c0cb",
-    "name": "Alexander Jones Jr.",
-    "email": "naima1905@gmail.com",
-    "phone": "08051484549",
-    "address": "4475 Lehner Mill"
-}
