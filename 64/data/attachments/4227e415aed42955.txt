@@ -1,0 +1,42 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Wooden Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Fresh Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jmfsocial_128.jpg",    
+                    "item": "Tasty Metal Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

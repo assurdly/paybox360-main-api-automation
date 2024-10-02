@@ -1,0 +1,8 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "customer_id": "",
+    "name": "Marvin Towne",
+    "email": "Jace.Senger80@mailinator.com",
+    "phone": "08096321333",
+    "address": "6548 Heller Summit"
+}

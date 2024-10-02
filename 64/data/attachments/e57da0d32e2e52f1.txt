@@ -1,0 +1,11 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "branch": "a9219cdc-5fd0-4605-b621-6db4eee2bf45beans",
+    "name": "cross-platform invoice",
+    "email": "Natalia.Funk5@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

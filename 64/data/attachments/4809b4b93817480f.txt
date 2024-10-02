@@ -1,0 +1,42 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Plastic Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Cotton Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bfrohs_128.jpg",    
+                    "item": "Handmade Frozen Computer",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae",
-    "customer_id": "",
-    "name": "Alejandro Schuster",
-    "email": "Rosina.OHara@mailinator.com",
-    "phone": "08037178395",
-    "address": "872 Arnulfo Streets"
-}

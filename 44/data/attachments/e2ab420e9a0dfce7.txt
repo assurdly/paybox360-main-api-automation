@@ -1,7 +1,0 @@
-{
-    "name": "Agnes Reichert",
-    "email": "Carmen_Kub78@mailinator.com",
-    "phone_number": "08058602243erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

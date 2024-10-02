@@ -1,0 +1,11 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4dddabeans",
+    "branch": "a9219cdc-5fd0-4605-b621-6db4eee2bf45",
+    "name": "virtual invoice",
+    "email": "Wilmer.Friesen@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

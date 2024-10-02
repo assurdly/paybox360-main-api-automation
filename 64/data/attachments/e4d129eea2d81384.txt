@@ -1,0 +1,8 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "customer_id": "",
+    "name": "Margarita Haley",
+    "email": "Ressie_Mann@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "9139 Desiree Ridges"
+}

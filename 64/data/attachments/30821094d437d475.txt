@@ -1,0 +1,8 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda1",
+    "customer_id": "",
+    "name": "Erick Upton",
+    "email": "Peter_Gorczany32@mailinator.com",
+    "phone": "08035659410",
+    "address": "88448 Waino Mountains"
+}

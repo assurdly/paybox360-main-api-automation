@@ -1,0 +1,8 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "customer_id": "",
+    "name": "Andrea McDermott",
+    "email": "Dashawn.Rath@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "6069 Buckridge Trail"
+}

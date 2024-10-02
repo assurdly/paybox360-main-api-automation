@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-07T10:42:20.143241+01:00","reference":"INV-SEP-12737","company":"Feed","branch":"Parisianfurt","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

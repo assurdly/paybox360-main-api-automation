@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"3909dd47-272b-4712-a30e-44999c8062da","created_at":"2024-10-02T19:06:36.459898+01:00","name":"Captain Category","company":"94986dd2-a156-4d39-ac58-5adcb0d4ddda","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Yellow-Sensor","has_products":false,"stock_count":0},"errors":null}

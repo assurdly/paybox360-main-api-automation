@@ -1,0 +1,8 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
+    "branch": "c4278546-621c-4126-ad33-28c9219d7f9b",
+    "name": "Ira Graham",
+    "email": "Floyd.Russel@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "8061 Witting Throughway"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "c0686c84-8fb4-464a-9145-29a1e96e2dae",
-    "customer_id": "1",
-    "name": "Gertrude Treutel",
-    "email": "Julius_Sawayn@mailinator.com",
-    "phone": "08031315726",
-    "address": "971 Gaylord Cape"
-}

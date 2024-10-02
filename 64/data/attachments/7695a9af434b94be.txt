@@ -1,0 +1,7 @@
+{
+    "company": "94986dd2-a156-4d39-ac58-5adcb0d4dddabeans",
+    "customer_id": "",
+    "city": "Shainaton",
+    "state": "Abuja",
+    "country": "Nigeria"
+}
