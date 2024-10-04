@@ -1,0 +1,29 @@
+{
+    "company": "",
+    "branch": "5e7aac5b-cfef-4046-9258-97f7db838603", 
+    "items": [
+        {
+            "item_description": "item capacitor",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop pixel",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "ad8cc78c-c5b0-4381-9b13-0df4219b05fc",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

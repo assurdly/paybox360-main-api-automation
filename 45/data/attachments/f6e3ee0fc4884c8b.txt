@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"258d67d7-32c9-4143-97d7-f914b8cb945f","created_at":"2024-09-08T15:14:44.675610+01:00","name":"Captain Category","company":"f6c9931f-914c-427f-ab69-b60edd48a7df","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Maroon-Hard Drive","has_products":false,"stock_count":0},"errors":null}

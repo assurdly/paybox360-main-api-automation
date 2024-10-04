@@ -1,1 +1,0 @@
-{"id":"11516397-87ce-4a38-94dd-e6db8aa2afd6","created_at":"2024-09-08T15:14:51.673871+01:00","updated_at":"2024-09-08T15:14:51.673889+01:00","mode_of_transaction":"CARD","amount":"45.09","transaction_date":"2024-05-19","order":"0a27a57c-5b1f-47cf-bd0a-a0d1d77a91b1"}

@@ -1,7 +1,0 @@
-{
-    "company": "f6c9931f-914c-427f-ab69-b60edd48a7dfbeans",
-    "customer_id": "",
-    "city": "West Fabian",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

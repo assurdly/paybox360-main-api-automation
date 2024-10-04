@@ -1,1 +1,0 @@
-{"status":"Success","message":"Budget categories created successfully","data":{"budget":119,"budget_categories":[{"category":"BRANDING","other_category":"","amount":50000},{"category":"MAINTENANCE","other_category":"","amount":50000},{"category":"OTHERS","other_category":"AIR TRIP","amount":50000}]}}

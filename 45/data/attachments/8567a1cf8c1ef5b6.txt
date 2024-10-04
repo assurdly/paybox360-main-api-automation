@@ -1,8 +1,0 @@
-{
-    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df",
-    "customer_id": "",
-    "name": "Jean Beatty",
-    "email": "Dewayne41@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "253 Hirthe Street"
-}

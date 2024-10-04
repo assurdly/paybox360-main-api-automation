@@ -1,0 +1,8 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
+    "customer_id": "1",
+    "name": "Ms. Shelly Sanford",
+    "email": "Kari45@mailinator.com",
+    "phone": "08008717014",
+    "address": "09623 Crona Overpass"
+}

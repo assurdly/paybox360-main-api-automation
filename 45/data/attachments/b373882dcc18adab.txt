@@ -1,8 +1,0 @@
-{
-    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df",
-    "customer_id": "1",
-    "name": "Mr. Willie Lynch",
-    "email": "Chester4@mailinator.com",
-    "phone": "08003305147",
-    "address": "7870 Hamill Grove"
-}

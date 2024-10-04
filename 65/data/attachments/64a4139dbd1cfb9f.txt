@@ -1,0 +1,17 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
+    "branch": "918494af-fac4-4c33-9cc5-485afdd3b316",
+    "supplier": "81c98bb6-5186-4fbc-bb3a-31f764d0d7d8",
+    "orders": [
+        {
+            "category": "94eb46dc-47f1-40db-8b72-2db29487f144",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "94eb46dc-47f1-40db-8b72-2db29487f144",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

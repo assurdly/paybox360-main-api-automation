@@ -1,0 +1,8 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b3161",
+    "customer_id": "",
+    "name": "Maureen Ward",
+    "email": "Therese_Maggio@mailinator.com",
+    "phone": "08055368975",
+    "address": "55452 Tito Plain"
+}

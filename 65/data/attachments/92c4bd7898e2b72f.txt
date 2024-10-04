@@ -1,0 +1,8 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
+    "branch": "5175ae2d-f6cc-425b-b3a7-c980809c3634",
+    "name": "Bessie Runte III",
+    "email": "Eino_Nitzsche27@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "67347 Bogan Circles"
+}

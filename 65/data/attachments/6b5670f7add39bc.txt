@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e091fa5f-ba3b-4bc9-9c75-a6c25db86430","created_at":"2024-10-04T19:10:57.301891+01:00","title":"Multi-Byte Tax","rate":0.0,"company":"Idy-Silver-Interface","branch":"Sandy"},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "name": "Angel Moen",
-    "email": "Esteban_MacGyver@mailinator.com",
-    "phone_number": "08006411047",
-    "address": "Idumota, Lagos",
-    "company": "f6c9931f-914c-427f-ab69-b60edd48a7df"
-}

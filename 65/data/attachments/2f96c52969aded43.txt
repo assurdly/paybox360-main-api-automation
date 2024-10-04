@@ -1,0 +1,11 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
+    "categories": [
+        {
+            "name": "aeffef1e-d89e-4e51-bb5a-6a4c9d6096ef"
+        },
+        {
+            "name": "Sausages"
+        }
+    ]
+}

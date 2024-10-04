@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"155b2c1e-bfee-46b3-9992-829ca539de56","created_at":"2024-10-04T19:06:30.625841+01:00","name":"Captain Category","company":"918494af-fac4-4c33-9cc5-485afdd3b316","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Silver-Interface","has_products":false,"stock_count":0},"errors":null}

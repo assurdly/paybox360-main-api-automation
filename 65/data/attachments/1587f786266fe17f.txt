@@ -1,0 +1,7 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
+    "branch": "5175ae2d-f6cc-425b-b3a7-c980809c3634",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Gabrielle.Buckridge"
+}

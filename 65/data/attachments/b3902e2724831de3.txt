@@ -1,0 +1,11 @@
+{
+    "company": "918494af-fac4-4c33-9cc5-485afdd3b316beans",
+    "branch": "5e7aac5b-cfef-4046-9258-97f7db838603",
+    "name": "online invoice",
+    "email": "Kyler.Mayert@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}
