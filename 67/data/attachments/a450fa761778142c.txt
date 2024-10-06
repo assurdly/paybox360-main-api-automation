@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"0c21901a-68ea-4a05-a875-356bb6658db8","created_at":"2024-10-06T23:28:29.518597+01:00","title":"Cross-Platform Tax","rate":-10.0,"company":"Bandit Breader","branch":"Dougtown"},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "East Lawson",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

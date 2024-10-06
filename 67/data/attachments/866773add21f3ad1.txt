@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"6fb1ddfe-9e0f-425e-badb-317c661b2db6","created_at":"2024-10-06T23:28:29.395827+01:00","title":"Digital Tax","rate":0.0,"company":"Bandit Breader","branch":"Dougtown"},"errors":null}

@@ -1,0 +1,7 @@
+{
+    "name": "Sandra Jaskolski",
+    "email": "Emma.Quigley@mailinator.com",
+    "phone_number": "08078825638",
+    "address": "Idumota, Lagos",
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d55"
+}

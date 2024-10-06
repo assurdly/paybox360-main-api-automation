@@ -1,0 +1,8 @@
+{
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d55",
+    "branch": "7e308a06-ea60-436e-88ac-5cff00dcbb18",
+    "name": "Tim Anderson",
+    "email": "Jaime.Cassin@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "5375 Hansen Drives"
+}

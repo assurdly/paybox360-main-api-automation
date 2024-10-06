@@ -1,8 +1,0 @@
-{
-    "company": "7deff8f7-b682-4382-9305-2702432d8a84",
-    "customer_id": "",
-    "name": "Darryl Schoen",
-    "email": "Christ.Trantow@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "198 Anjali Highway"
-}

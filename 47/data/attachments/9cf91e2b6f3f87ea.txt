@@ -1,8 +1,0 @@
-{
-    "company": "7deff8f7-b682-4382-9305-2702432d8a841",
-    "customer_id": "",
-    "name": "Derek Brakus",
-    "email": "Mabelle69@mailinator.com",
-    "phone": "08054902810",
-    "address": "3026 Rosenbaum Camp"
-}

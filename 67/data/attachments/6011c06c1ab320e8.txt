@@ -1,0 +1,8 @@
+{
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d55",
+    "customer_id": "",
+    "name": "Jody Kuhn",
+    "email": "Maximillia_Labadie",
+    "phone": "08043966878",
+    "address": "47797 Rogahn Loop"
+}

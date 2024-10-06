@@ -1,0 +1,42 @@
+{
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d55",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Cotton Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Wooden Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/geran7_128.jpg",    
+                    "item": "Incredible Soft Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

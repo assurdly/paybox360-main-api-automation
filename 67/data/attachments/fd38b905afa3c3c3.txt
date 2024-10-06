@@ -1,0 +1,42 @@
+{
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d55",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Steel Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Rubber Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/uxpiper_128.jpg",    
+                    "item": "Rustic Metal Tuna",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

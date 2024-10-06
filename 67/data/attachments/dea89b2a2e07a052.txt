@@ -1,0 +1,8 @@
+{
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d551",
+    "branch": "7e308a06-ea60-436e-88ac-5cff00dcbb18",
+    "name": "Frankie Walsh",
+    "email": "Shaylee.Hudson85@mailinator.com",
+    "phone": "08055195669",
+    "address": "2144 Jerde Trail"
+}

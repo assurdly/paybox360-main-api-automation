@@ -1,0 +1,7 @@
+{
+    "name": "Angel Hammes",
+    "email": "Rodrick51@mailinator.com",
+    "phone_number": "08008073765",
+    "address": "Idumota, Lagos",
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d557"
+}

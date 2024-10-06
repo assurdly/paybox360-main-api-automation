@@ -1,0 +1,45 @@
+{
+    "company": "2320519e-7093-4d14-87df-d7a362fe4d552",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/stan_128.jpg", 
+                    "item": "Fantastic Concrete Ball",
+                    "quantity": 150, 
+                    "stock_price": 7571.71, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Plastic Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nepdud_128.jpg",    
+                    "item": "Handcrafted Soft Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

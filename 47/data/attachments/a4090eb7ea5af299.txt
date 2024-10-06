@@ -1,8 +1,0 @@
-{
-    "company": "7deff8f7-b682-4382-9305-2702432d8a84",
-    "customer_id": "1",
-    "name": "Ryan Rau",
-    "email": "Timmothy_Aufderhar@mailinator.com",
-    "phone": "08050042563",
-    "address": "666 Wyman Plaza"
-}
