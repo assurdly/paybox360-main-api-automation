@@ -1,8 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e51",
-    "customer_id": "",
-    "name": "Olivia Schoen",
-    "email": "Abby.Pfeffer19@mailinator.com",
-    "phone": "08064276013",
-    "address": "84483 Olin Land"
-}

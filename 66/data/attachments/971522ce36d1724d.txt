@@ -1,0 +1,8 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "customer_id": "1",
+    "name": "Troy Mayer",
+    "email": "Sofia_Zemlak@mailinator.com",
+    "phone": "08084416591",
+    "address": "573 Kuhn Prairie"
+}

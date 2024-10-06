@@ -1,8 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
-    "customer_id": "1",
-    "name": "Ray Howell",
-    "email": "Devon74@mailinator.com",
-    "phone": "08097260902",
-    "address": "12949 Eloy Pines"
-}

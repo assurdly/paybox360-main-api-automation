@@ -1,7 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
-    "branch": "e0df045a-a3c1-4a05-b669-6c16570a77711",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Nestor35@mailinator.com"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
-    "customer_id": "",
-    "name": "Leslie Hoppe",
-    "email": "Katharina.Nader84@mailinator.com",
-    "phone": "08017878433",
-    "address": "4675 Skiles Estate"
-}

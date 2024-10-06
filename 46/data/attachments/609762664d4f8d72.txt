@@ -1,7 +1,0 @@
-{
-    "name": "Nichole Adams",
-    "email": "Franz_Gusikowski@mailinator.com",
-    "phone_number": "08046846716erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "7deff8f7-b682-4382-9305-2702432d8a84"
-}

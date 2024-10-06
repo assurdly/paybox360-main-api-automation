@@ -1,0 +1,29 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "branch": "9dc580d9-03ae-4b77-9861-e6a76d5bfe9a", 
+    "items": [
+        {
+            "item_description": "item driver",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop interface",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "9941e13b-724a-4169-9444-2084d4a2fd0f",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

@@ -1,0 +1,7 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "branch": "b37ca423-a303-486b-b926-3f1dac85121c",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Presley6@mailinator.com"
+}

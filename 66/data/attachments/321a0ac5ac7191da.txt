@@ -1,0 +1,8 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "customer_id": "",
+    "name": "Miranda Herman",
+    "email": "Odessa_Lynch@mailinator.com",
+    "phone": "08089289407",
+    "address": "9959 Barrows Fort"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"68836320-9c34-4ff6-a1ea-47c90a18c75d","created_at":"2024-10-06T21:05:03.627402+01:00","title":"Auxiliary Tax","rate":0.0,"company":"Jameson","branch":"Port Velva"},"errors":null}

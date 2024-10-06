@@ -1,0 +1,42 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Metal Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Concrete Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sachingawas_128.jpg",    
+                    "item": "Sleek Soft Bacon",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

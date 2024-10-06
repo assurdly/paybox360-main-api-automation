@@ -1,8 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
-    "customer_id": "",
-    "name": "Jana Rutherford",
-    "email": "Odessa14@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "63927 Sawayn Heights"
-}

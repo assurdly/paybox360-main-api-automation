@@ -1,8 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
-    "branch": "e0df045a-a3c1-4a05-b669-6c16570a7771",
-    "name": "Joel Oberbrunner",
-    "email": "Manuela42",
-    "phone": "08003247817",
-    "address": "757 Maria Curve"
-}

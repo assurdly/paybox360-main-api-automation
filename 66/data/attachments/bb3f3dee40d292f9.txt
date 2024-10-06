@@ -1,0 +1,8 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "branch": "b37ca423-a303-486b-b926-3f1dac85121c",
+    "name": "Henry Hessel",
+    "email": "Kareem.Glover61@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "53899 Connie Harbors"
+}

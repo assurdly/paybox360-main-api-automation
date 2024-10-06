@@ -1,8 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5",
-    "customer_id": "",
-    "name": "Ann Howell",
-    "email": "Enos72",
-    "phone": "08055406780",
-    "address": "1609 Steuber Manors"
-}

@@ -1,0 +1,11 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "branch": "9dc580d9-03ae-4b77-9861-e6a76d5bfe9a",
+    "name": "wireless invoice",
+    "email": "Destiney98@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

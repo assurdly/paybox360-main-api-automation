@@ -1,7 +1,0 @@
-{
-    "company": "a85ffb87-57f1-448e-bbb6-2af74fc3b8e5beans",
-    "customer_id": "",
-    "city": "Stamford",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

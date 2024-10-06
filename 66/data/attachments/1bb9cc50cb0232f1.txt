@@ -1,0 +1,42 @@
+{
+    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Granite Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Soft Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/danmartin70_128.jpg",    
+                    "item": "Unbranded Concrete Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
