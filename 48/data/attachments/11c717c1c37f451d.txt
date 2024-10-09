@@ -1,6 +1,0 @@
-{
-    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
-    "branch": "", 
-    "title": "primary1321 tax",
-    "rate": 1.5
-}

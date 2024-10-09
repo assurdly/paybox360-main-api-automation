@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"50abd80b-0314-4364-ac80-b32e7e2f43b9","company_name":"card","industry":"BANKING AND FINANCE","size":5}}

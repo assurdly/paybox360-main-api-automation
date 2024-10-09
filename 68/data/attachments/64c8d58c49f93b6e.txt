@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"87480484-c2c1-4243-af0c-4c8c3943ad80","name":"Car"},{"id":"ee3905dd-d0ae-419c-b44a-01b69717bf0b","name":"Captain Category"},{"id":"46a9b17f-7a5f-4e91-a681-7177724b805e","name":"Pasteries"}],"count":3,"total_categories":3},"errors":null}

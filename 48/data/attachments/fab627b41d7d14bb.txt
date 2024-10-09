@@ -1,7 +1,0 @@
-{
-    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
-    "customer_id": "",
-    "city": "Upland",
-    "state": "Hauckland",
-    "country": ""
-}

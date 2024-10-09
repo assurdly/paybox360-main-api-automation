@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"09a54a73-c2d8-40b5-95e9-58020f368f1a","created_at":"2024-10-09T19:05:41.146901+01:00","title":"Virtual Tax","rate":0.0,"company":"Card","branch":"New Meghanstad"},"errors":null}

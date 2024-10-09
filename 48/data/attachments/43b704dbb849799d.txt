@@ -1,7 +1,0 @@
-{
-    "name": "Jennifer Hansen",
-    "email": "Baby_Bernier21",
-    "phone_number": "08072218338",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

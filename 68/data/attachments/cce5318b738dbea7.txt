@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + alarm",
+    "company_id": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "07034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "08031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

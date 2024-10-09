@@ -1,0 +1,42 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Soft Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Cotton Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jodytaggart_128.jpg",    
+                    "item": "Practical Frozen Shoes",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

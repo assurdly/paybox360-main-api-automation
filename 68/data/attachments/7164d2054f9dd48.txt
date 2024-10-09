@@ -1,0 +1,7 @@
+{
+    "name": "Rene Spinka",
+    "email": "Lolita.Kirlin",
+    "phone_number": "08002337700",
+    "address": "Idumota, Lagos",
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb"
+}

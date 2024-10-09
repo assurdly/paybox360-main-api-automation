@@ -1,8 +1,0 @@
-{
-    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
-    "customer_id": "",
-    "name": "Jeffery Leffler",
-    "email": "Sophie_Abshire@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "7738 Tyrell Terrace"
-}

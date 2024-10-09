@@ -1,7 +1,0 @@
-{
-    "name": "Harvey Wisozk",
-    "email": "Easton46@mailinator.com",
-    "phone_number": "08039611471",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b6257"
-}

@@ -1,0 +1,45 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/oksanafrewer_128.jpg", 
+                    "item": "Awesome Plastic Ball",
+                    "quantity": 150, 
+                    "stock_price": 1747.82, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Plastic Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/oktayelipek_128.jpg",    
+                    "item": "Awesome Metal Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

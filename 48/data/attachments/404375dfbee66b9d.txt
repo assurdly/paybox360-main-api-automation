@@ -1,7 +1,0 @@
-{
-    "name": "Ira Breitenberg",
-    "email": "Alden_Gaylord",
-    "phone_number": "08080077756",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

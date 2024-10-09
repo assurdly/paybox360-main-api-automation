@@ -1,0 +1,11 @@
+{
+    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
+    "branch": "406e9045-cf45-4210-a0f5-cd078c3826b3",
+    "name": "digital invoice",
+    "email": "Damian_Thiel1274@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

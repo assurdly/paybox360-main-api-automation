@@ -1,8 +1,0 @@
-{
-    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
-    "customer_id": "",
-    "name": "Carla Gottlieb",
-    "email": "Waino_Schmeler90@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "97115 Grant Garden"
-}

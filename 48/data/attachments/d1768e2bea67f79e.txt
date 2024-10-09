@@ -1,8 +1,0 @@
-{
-    "company": "37baac94-51d0-4647-bb78-6832f76ba51c",
-    "customer_id": "",
-    "name": "Lora Thiel",
-    "email": "Saul.Denesik",
-    "phone": "08057841368",
-    "address": "8416 Kshlerin Rapid"
-}
