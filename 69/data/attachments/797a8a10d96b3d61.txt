@@ -1,0 +1,8 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb",
+    "customer_id": "1",
+    "name": "Roxanne Watsica",
+    "email": "Katelin94@mailinator.com",
+    "phone": "08090266488",
+    "address": "9592 Clinton Trail"
+}

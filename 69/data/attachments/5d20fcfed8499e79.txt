@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"55c23436-82ac-4756-aafd-03a29cb7bd1a","created_at":"2024-10-11T19:07:49.389629+01:00","name":"Captain Category","has_products":false,"company":"533e08b3-6364-49b4-95b1-338f7d9fb5eb","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Bandit Bread","stock_count":0},"errors":null}

@@ -1,0 +1,7 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb",
+    "branch": "9ecfb691-ca4b-4a17-a7ab-5a336f3a70091",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Percival.Kerluke@mailinator.com"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Iris Beer",
-    "email": "Cary53@mailinator.com",
-    "phone_number": "08055856154erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

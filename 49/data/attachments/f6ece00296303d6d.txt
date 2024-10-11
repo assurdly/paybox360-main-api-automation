@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-15T11:03:47.203827+01:00","reference":"INV-SEP-12957","company":"Matrix","branch":"Uniquemouth","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

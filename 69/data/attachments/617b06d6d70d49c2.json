@@ -1,0 +1,14 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Fri, 11 Oct 2024 18:04:51 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "35",
+    "Connection": "keep-alive",
+    "WWW-Authenticate": "Bearer realm=\"api\"",
+    "Vary": "Accept, Origin",
+    "Allow": "POST, OPTIONS",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin"
+}

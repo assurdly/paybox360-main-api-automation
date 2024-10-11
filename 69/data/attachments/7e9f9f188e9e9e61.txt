@@ -1,0 +1,7 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5ebbeans",
+    "customer_id": "",
+    "city": "Baumbachmouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

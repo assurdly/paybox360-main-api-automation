@@ -1,1 +1,0 @@
-{"company":["“e9e34e19-f292-4df1-844a-c3f55a1ce6561” is not a valid UUID."],"branch":["Invalid pk \"462203d8-f2ac-4afa-ac10-048da40bd9d5\" - object does not exist."],"batch_id":["This field may not be blank."]}

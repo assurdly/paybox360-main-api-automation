@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"e9e34e19-f292-4df1-844a-c3f55a1ce656","company_name":"matrix","industry":"BANKING AND FINANCE","size":5}}

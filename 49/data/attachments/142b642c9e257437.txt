@@ -1,7 +1,0 @@
-{
-    "name": "Margie Brakus",
-    "email": "Ali.Auer",
-    "phone_number": "08092622586",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

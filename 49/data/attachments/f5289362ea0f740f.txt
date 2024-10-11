@@ -1,8 +1,0 @@
-{
-    "company": "e9e34e19-f292-4df1-844a-c3f55a1ce656",
-    "customer_id": "",
-    "name": "Andres Gleason",
-    "email": "Fritz.Emard@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "9459 Lueilwitz Shores"
-}

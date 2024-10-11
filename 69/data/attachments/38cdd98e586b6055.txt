@@ -1,0 +1,8 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb",
+    "branch": "9ecfb691-ca4b-4a17-a7ab-5a336f3a7009",
+    "name": "Vicki Prohaska",
+    "email": "Freda_Ankunding",
+    "phone": "08065047979",
+    "address": "5856 Colin Parks"
+}

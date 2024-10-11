@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port D'angelo",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

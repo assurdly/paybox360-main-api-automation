@@ -1,0 +1,45 @@
+{
+    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lvovenok_128.jpg", 
+                    "item": "Sleek Metal Chicken",
+                    "quantity": 150, 
+                    "stock_price": 327.12, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Steel Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/uxpiper_128.jpg",    
+                    "item": "Intelligent Fresh Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

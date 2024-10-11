@@ -1,8 +1,0 @@
-{
-    "company": "e9e34e19-f292-4df1-844a-c3f55a1ce6561",
-    "branch": "462203d8-f2ac-4afa-ac10-048da40bd9d5",
-    "name": "Tasha Hayes",
-    "email": "Keara83@mailinator.com",
-    "phone": "08086518370",
-    "address": "19812 Waters Forest"
-}

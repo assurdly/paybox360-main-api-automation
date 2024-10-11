@@ -1,7 +1,0 @@
-{
-    "name": "Belinda Ritchie",
-    "email": "Columbus53",
-    "phone_number": "08049733648",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

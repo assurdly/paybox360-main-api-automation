@@ -1,8 +1,0 @@
-{
-    "company": "e9e34e19-f292-4df1-844a-c3f55a1ce656",
-    "customer_id": "",
-    "name": "Troy Abbott",
-    "email": "Brian_Grady93@mailinator.com",
-    "phone": "08056025256",
-    "address": "0835 Reichel Parks"
-}
