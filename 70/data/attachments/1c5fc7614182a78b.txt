@@ -1,0 +1,42 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Wooden Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Fresh Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joshuaraichur_128.jpg",    
+                    "item": "Practical Soft Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5",
-    "branch": "2da31178-8198-4ff0-b899-bcf43a209d951",
-    "name": "Mr. Ella Beier",
-    "email": "Krystal_Yost@mailinator.com",
-    "phone": "08044404293",
-    "address": "1450 Dibbert Wall"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
+    "branch": "9845196a-e026-48f9-b9fc-cd1ace25abbc1",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Chadd_Stracke@mailinator.com"
+}

@@ -1,1 +1,0 @@
-{"custom_component_name":["This field may not be blank."]}

@@ -1,0 +1,23 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530beans",
+    "branch": "c814e115-6f8a-4353-9320-3f10a41948ce", 
+    "items": [
+        {
+            "item_description": "item array",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop circuit",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "942f9f10-a9b1-41a6-b1aa-457270de441b",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

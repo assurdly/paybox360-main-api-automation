@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"7e9dc0bc-390b-4f28-b636-ecae61234c39","created_at":"2024-09-15T19:01:46.575238+01:00","title":"Redundant1332 Tax","rate":1.5,"company":"Sensor","branch":""},"errors":null}

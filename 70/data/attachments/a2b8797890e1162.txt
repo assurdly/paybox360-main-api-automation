@@ -1,0 +1,8 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
+    "branch": "9845196a-e026-48f9-b9fc-cd1ace25abbc",
+    "name": "Ron Denesik",
+    "email": "Leanne18",
+    "phone": "08053926601",
+    "address": "405 Conroy Common"
+}

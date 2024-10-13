@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "North Christopherport",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

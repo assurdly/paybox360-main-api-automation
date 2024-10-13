@@ -1,0 +1,6 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
+    "branch": "beans", 
+    "title": "redundant1333 tax",
+    "rate": 1.5
+}

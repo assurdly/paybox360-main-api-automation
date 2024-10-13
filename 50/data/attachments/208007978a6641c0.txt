@@ -1,1 +1,0 @@
-{"company":["“11f389f7-bd2f-499b-99ba-aca52e978db51” is not a valid UUID."],"branch":["Invalid pk \"2da31178-8198-4ff0-b899-bcf43a209d95\" - object does not exist."],"invoice":["This field may not be null."],"customer":["This field may not be null."]}

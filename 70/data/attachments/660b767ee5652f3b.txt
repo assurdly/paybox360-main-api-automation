@@ -1,0 +1,45 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/travishines_128.jpg", 
+                    "item": "Generic Wooden Cheese",
+                    "quantity": 150, 
+                    "stock_price": 4959.84, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Wooden Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/strikewan_128.jpg",    
+                    "item": "Intelligent Soft Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5beans",
-    "customer_id": "",
-    "city": "Youngstown",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

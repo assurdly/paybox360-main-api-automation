@@ -1,0 +1,11 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530beans",
+    "branch": "c814e115-6f8a-4353-9320-3f10a41948ce",
+    "name": "primary invoice",
+    "email": "Kiara23@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

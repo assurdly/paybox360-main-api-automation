@@ -1,8 +1,0 @@
-{
-    "company": "11f389f7-bd2f-499b-99ba-aca52e978db5",
-    "customer_id": "1",
-    "name": "Grady Hand",
-    "email": "Orie85@mailinator.com",
-    "phone": "08046019156",
-    "address": "29756 Samanta Plains"
-}

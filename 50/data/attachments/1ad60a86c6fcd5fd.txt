@@ -1,8 +1,0 @@
-{
-    "company": "11f389f7-bd2f-499b-99ba-aca52e978db51",
-    "customer_id": "",
-    "name": "Elmer Kutch",
-    "email": "Kristin.Krajcik80@mailinator.com",
-    "phone": "08037832162",
-    "address": "8142 Keebler Inlet"
-}

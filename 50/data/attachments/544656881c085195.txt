@@ -1,7 +1,0 @@
-{
-    "name": "Bruce Hilll DVM",
-    "email": "Arthur_Farrell2@mailinator.com",
-    "phone_number": "08079242630",
-    "address": "Idumota, Lagos",
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a7"
-}

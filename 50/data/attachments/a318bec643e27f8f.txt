@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"db6f407e-7f1f-411f-a351-bd642cb614e4","created_at":"2024-09-15T19:01:15.219147+01:00","name":"Captain Category","company":"0029b0ec-2a5d-4c11-a08d-bd261ea8905a","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Tan-Circuit","has_products":false,"stock_count":0},"errors":null}

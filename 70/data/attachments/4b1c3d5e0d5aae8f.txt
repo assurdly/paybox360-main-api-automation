@@ -1,0 +1,1 @@
+{"stocks":[{"category":["“1” is not a valid UUID."],"item":["This field may not be null."]}]}

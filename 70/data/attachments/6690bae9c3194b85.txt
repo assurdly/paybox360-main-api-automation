@@ -1,0 +1,42 @@
+{
+    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Plastic Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Wooden Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mgonto_128.jpg",    
+                    "item": "Fantastic Metal Car",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

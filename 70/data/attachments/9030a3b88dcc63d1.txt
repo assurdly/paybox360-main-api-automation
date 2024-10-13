@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"88c3610f-dfdb-44f4-86b3-af9742e43828","created_at":"2024-10-13T21:04:32.990984+01:00","name":"Captain Category","has_products":false,"company":"c8ec129a-69c0-49a8-997a-795d8642c530","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Mike Company","stock_count":0},"errors":null}

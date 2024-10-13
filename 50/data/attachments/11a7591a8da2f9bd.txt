@@ -1,5 +1,0 @@
-{
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Adams LLC"
-}
