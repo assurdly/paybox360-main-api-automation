@@ -1,0 +1,8 @@
+{
+    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c561",
+    "customer_id": "",
+    "name": "Jeremiah Windler",
+    "email": "Kendall.Cruickshank89@mailinator.com",
+    "phone": "08025107102",
+    "address": "422 Nash Overpass"
+}

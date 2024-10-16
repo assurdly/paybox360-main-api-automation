@@ -1,7 +1,0 @@
-{
-    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
-    "branch": "166394c8-e3ff-4aa3-9c30-c6b7613fb65b",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Syble60"
-}

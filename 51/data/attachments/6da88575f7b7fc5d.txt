@@ -1,8 +1,0 @@
-{
-    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
-    "customer_id": "",
-    "name": "Wilma Lynch",
-    "email": "Ahmed.Hagenes58@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "837 Goodwin Unions"
-}

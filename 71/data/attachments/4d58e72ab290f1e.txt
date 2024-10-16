@@ -1,0 +1,11 @@
+{
+    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
+    "branch": "2e951154-6859-47e4-bb95-6fe0c5c9a561",
+    "name": "digital invoice",
+    "email": "Orrin.Beer38@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}

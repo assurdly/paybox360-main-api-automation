@@ -1,0 +1,8 @@
+{
+    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
+    "customer_id": "",
+    "name": "Janice Hoppe",
+    "email": "Sonia_Kulas@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "01055 Marty Land"
+}

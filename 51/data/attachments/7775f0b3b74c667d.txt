@@ -1,7 +1,0 @@
-{
-    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
-    "name": "Juwanmouth",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

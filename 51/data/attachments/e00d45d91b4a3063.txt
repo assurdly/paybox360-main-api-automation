@@ -1,5 +1,0 @@
-{
-    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
-    "branch": "6472a377-6e32-4975-bd6d-6eaaf23e249d",
-    "name": "Branch_674"
-}

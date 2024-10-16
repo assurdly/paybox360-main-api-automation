@@ -1,0 +1,42 @@
+{
+    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
+    "products": [
+        {
+            "category": "7f416db1-46bb-484a-8b91-7e78a3a9dc1a",
+            "stocks": [
+                {
+                    "item": "Handmade Metal Pizza",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Soft Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/n3dmax_128.jpg",    
+                    "item": "Unbranded Metal Shoes",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

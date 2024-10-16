@@ -1,0 +1,8 @@
+{
+    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
+    "customer_id": "",
+    "name": "Edna Parisian",
+    "email": "Noelia.Strosin@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "69497 Breitenberg Spurs"
+}

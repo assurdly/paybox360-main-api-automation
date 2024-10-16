@@ -1,8 +1,0 @@
-{
-    "company": "ca2caa22-7144-4687-88c6-a094a8eabced",
-    "customer_id": "",
-    "name": "Miss Phillip Friesen",
-    "email": "Zaria_Koepp56",
-    "phone": "08081788928",
-    "address": "54786 Kristian Radial"
-}

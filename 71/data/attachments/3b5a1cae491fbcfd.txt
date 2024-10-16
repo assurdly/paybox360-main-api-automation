@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"914eabf1-2e15-43ed-be9d-acb4a9dc4c56","company_name":"Idy-orchid-interface","industry":"BANKING AND FINANCE","size":5}}
