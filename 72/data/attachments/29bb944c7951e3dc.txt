@@ -1,0 +1,8 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "branch": "a7155975-9ee1-43da-b873-fc9c928709ef",
+    "name": "Trevor Stark",
+    "email": "Kendrick.Wyman91@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "1895 Enrico Harbor"
+}

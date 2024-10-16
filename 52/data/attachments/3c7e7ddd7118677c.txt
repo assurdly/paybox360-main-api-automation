@@ -1,8 +1,0 @@
-{
-    "company": "89c426fc-c8a8-4353-bb93-6c37739661251",
-    "customer_id": "",
-    "name": "Juanita Dare",
-    "email": "Brice46@mailinator.com",
-    "phone": "08008746608",
-    "address": "613 Leffler Stream"
-}

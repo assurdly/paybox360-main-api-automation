@@ -1,0 +1,42 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Granite Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Granite Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/djsherman_128.jpg",    
+                    "item": "Unbranded Cotton Salad",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

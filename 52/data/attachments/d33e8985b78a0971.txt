@@ -1,1 +1,0 @@
-{"error":"error","params":"company cannot access instant wage at this time"}

@@ -1,0 +1,8 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "customer_id": "1",
+    "name": "Betsy Jerde",
+    "email": "Krystina38@mailinator.com",
+    "phone": "08044356584",
+    "address": "7809 Cynthia Curve"
+}

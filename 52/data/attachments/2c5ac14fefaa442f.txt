@@ -1,1 +1,0 @@
-{"status":"error","error_code":"177","message":"entered phone number is incorrect. it is 9 numbers."}

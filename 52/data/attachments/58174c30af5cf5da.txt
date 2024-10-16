@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Wilsonstad",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

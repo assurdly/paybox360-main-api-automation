@@ -1,0 +1,42 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Concrete Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Wooden Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/we_social_128.jpg",    
+                    "item": "Incredible Plastic Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

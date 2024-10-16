@@ -1,0 +1,8 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "customer_id": "",
+    "name": "Rudolph Denesik II",
+    "email": "Chance.Emmerich@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0583 Jakubowski Mountain"
+}

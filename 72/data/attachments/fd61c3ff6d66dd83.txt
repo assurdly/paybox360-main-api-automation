@@ -1,0 +1,42 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Concrete Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Wooden Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/picard102_128.jpg",    
+                    "item": "Sleek Concrete Bike",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

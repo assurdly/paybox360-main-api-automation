@@ -1,0 +1,8 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab01",
+    "customer_id": "",
+    "name": "Andrea Ziemann",
+    "email": "Lexie.Haley55@mailinator.com",
+    "phone": "08097998921",
+    "address": "156 Erdman Divide"
+}

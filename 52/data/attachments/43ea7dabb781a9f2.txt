@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-16T16:39:28.104890+01:00","reference":"INV-SEP-12986","company":"Idy-Sky Blue-Sensor","branch":"Dareland","customer":null,"amount":"-20096.80","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "89c426fc-c8a8-4353-bb93-6c3773966125",
-    "name": "Dareland",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

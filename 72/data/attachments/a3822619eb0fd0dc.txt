@@ -1,0 +1,45 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/S0ufi4n3_128.jpg", 
+                    "item": "Small Concrete Shirt",
+                    "quantity": 150, 
+                    "stock_price": 6564.45, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Frozen Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andrewcohen_128.jpg",    
+                    "item": "Rustic Soft Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

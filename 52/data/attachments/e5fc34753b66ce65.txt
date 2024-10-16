@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"caabf2cd-9716-4e01-9669-f59a9b0721eb","created_at":"2024-09-16T16:39:26.396169+01:00","title":"Wireless1329 Tax","rate":1.5,"company":"Idy-Sky Blue-Sensor","branch":"Dareland"},"errors":null}

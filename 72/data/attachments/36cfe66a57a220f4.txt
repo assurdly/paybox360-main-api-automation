@@ -1,0 +1,7 @@
+{
+    "name": "John Stark",
+    "email": "Lenny_Wisoky@mailinator.com",
+    "phone_number": "08051215656",
+    "address": "Idumota, Lagos",
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab07"
+}

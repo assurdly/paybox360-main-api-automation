@@ -1,0 +1,7 @@
+{
+    "name": "Daryl Ebert",
+    "email": "Kendrick_Wisoky",
+    "phone_number": "08023579298",
+    "address": "Idumota, Lagos",
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0"
+}

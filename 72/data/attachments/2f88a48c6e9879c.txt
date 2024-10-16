@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e4557369-38cc-497a-bcd8-88ce3bae93a2","created_at":"2024-10-16T19:06:56.623468+01:00","title":"Digital Tax","rate":0.0,"company":"Lexury","branch":"North Brendan"},"errors":null}

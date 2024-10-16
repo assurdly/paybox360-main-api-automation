@@ -1,0 +1,45 @@
+{
+    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab02",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/superoutman_128.jpg", 
+                    "item": "Handmade Wooden Chicken",
+                    "quantity": 150, 
+                    "stock_price": 6564.45, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Fresh Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nemanjaivanovic_128.jpg",    
+                    "item": "Small Metal Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
