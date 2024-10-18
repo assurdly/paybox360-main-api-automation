@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "branch": "",
+    "batch_id": "1",
+    "amount": 500000,
+    "email": "augustine@libertyng.com"
+}

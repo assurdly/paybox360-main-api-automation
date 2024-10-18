@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-22T21:05:28.320320+01:00","reference":"INV-SEP-13128","company":"Interface","branch":"Rutherfordland","customer":null,"amount":"54430.50","due_date":"2020-12-31","status":"PENDING"}},"errors":null}

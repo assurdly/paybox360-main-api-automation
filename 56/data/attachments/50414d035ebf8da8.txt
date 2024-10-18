@@ -1,6 +1,0 @@
-{
-    "company": "e66b6a33-e8e1-4373-97af-37797da65ada",
-    "branch": "", 
-    "title": "solid state1332 tax",
-    "rate": 1.5
-}

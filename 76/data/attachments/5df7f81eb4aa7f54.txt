@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Irving Morar",
+    "email": "Ardella_Schimmel@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "6590 Aliya Overpass"
+}

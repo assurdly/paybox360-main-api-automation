@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Concrete Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Rubber Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/haruintesettden_128.jpg",    
+                    "item": "Awesome Wooden Tuna",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

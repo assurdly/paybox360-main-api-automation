@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Donna Mann",
+    "email": "Jammie.Fadel@mailinator.com",
+    "phone": "08045080252",
+    "address": "7726 Swift Light"
+}

@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joshhemsley_128.jpg", 
+                    "item": "Tasty Fresh Table",
+                    "quantity": 150, 
+                    "stock_price": 7251.73, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Metal Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/shvelo96_128.jpg",    
+                    "item": "Handcrafted Wooden Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

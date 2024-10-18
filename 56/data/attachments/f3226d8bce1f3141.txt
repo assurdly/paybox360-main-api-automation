@@ -1,1 +1,0 @@
-{"message":"default salary component cannot be deleted"}

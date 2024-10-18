@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/djsherman_128.jpg", 
+                    "item": "Gorgeous Granite Sausages",
+                    "quantity": 150, 
+                    "stock_price": 7251.73, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Steel Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/miguelkooreman_128.jpg",    
+                    "item": "Gorgeous Concrete Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

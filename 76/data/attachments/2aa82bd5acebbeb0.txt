@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Metal Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Rubber Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/madebyvadim_128.jpg",    
+                    "item": "Handcrafted Concrete Ball",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

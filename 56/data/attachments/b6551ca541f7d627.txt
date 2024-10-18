@@ -1,8 +1,0 @@
-{
-    "amount": 10,
-    "is_active": true,
-    "custom_name": ["3d11f2fc-59d6-4c3f-a39d-20ef66e16265"],
-    "part_of_employee_structure": true,
-    "calculate_pay_schedule_basis": true,
-    "show_on_payslip": true
-}

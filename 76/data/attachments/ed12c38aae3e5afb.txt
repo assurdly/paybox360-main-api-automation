@@ -1,0 +1,7 @@
+{
+    "name": "Audrey Reichert",
+    "email": "Jose_McCullough20@mailinator.com",
+    "phone_number": "08061680433",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

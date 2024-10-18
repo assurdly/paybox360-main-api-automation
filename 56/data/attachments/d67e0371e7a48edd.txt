@@ -1,8 +1,0 @@
-{
-    "company": "e66b6a33-e8e1-4373-97af-37797da65ada",
-    "branch": "9d4018da-41db-43a5-af48-8091f257aa18",
-    "name": "Levi Terry",
-    "email": "Xander.Rippin@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "05401 Cruickshank Brook"
-}

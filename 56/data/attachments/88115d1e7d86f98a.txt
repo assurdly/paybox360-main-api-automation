@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Emmettbury",
-    "state": "Abuja",
-    "country": "Nigeria"
-}
