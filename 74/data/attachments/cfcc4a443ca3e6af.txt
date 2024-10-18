@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "", 
+    "title": "mobile tax",
+    "rate": 1.5
+}

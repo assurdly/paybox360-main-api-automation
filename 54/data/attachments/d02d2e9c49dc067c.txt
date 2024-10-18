@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"ff5ecc66-acbc-42ee-9303-f2fc82afb191","created_at":"2024-09-20T19:08:57.042277+01:00","title":"Wireless Tax","rate":0.0,"company":"Idy-Black-Hard Drive","branch":"Guyfurt"},"errors":null}

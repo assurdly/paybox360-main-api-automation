@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Emilio Lesch",
+    "email": "Buddy26@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "3448 Elinore Motorway"
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-20T19:08:58.509657+01:00","reference":"INV-SEP-13022","company":"Idy-Black-Hard Drive","branch":"Guyfurt","customer":null,"amount":"-20096.80","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

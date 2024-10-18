@@ -1,8 +1,0 @@
-{
-    "company": "91027809-3af7-4988-a951-3e189907cee41",
-    "branch": "57208509-098c-43e1-bea5-2db1d5a83a5b",
-    "name": "Brendan Harvey",
-    "email": "Cecilia86@mailinator.com",
-    "phone": "08031356229",
-    "address": "912 Terry Path"
-}

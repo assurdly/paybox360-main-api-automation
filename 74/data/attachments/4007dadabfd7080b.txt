@@ -1,0 +1,12 @@
+{
+    "team_id": "",
+    "team_name": "Team + checks",
+    "admin_password": "",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "+2349098764748",
+            "role": "MEMBER"
+        }
+    ]
+}

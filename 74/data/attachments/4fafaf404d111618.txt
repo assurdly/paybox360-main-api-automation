@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Brandi Littel",
+    "email": "Robbie65@mailinator.com",
+    "phone": "08088399335",
+    "address": "035 Augusta Coves"
+}

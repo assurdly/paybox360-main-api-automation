@@ -1,0 +1,7 @@
+{
+    "company": "beans",
+    "customer_id": "",
+    "city": "North Madisyn",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

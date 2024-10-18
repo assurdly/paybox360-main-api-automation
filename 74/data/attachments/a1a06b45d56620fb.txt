@@ -1,0 +1,7 @@
+{
+    "name": "Armando Harvey",
+    "email": "Javier_Hills23@mailinator.com",
+    "phone_number": "08081559256",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

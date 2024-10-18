@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Franklin Hyatt",
+    "email": "Carley54@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "9609 Cassie Well"
+}

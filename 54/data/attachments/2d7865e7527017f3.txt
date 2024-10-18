@@ -1,1 +1,0 @@
-{"message":"department updated successfully","data":{"id":"91769c11-e9e4-4ba1-907d-95b725c7b340","department_name":"Customer Relations","department_head_name":null}}

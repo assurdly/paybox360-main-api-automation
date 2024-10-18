@@ -1,0 +1,7 @@
+{
+    "name": "Elsie Ritchie",
+    "email": "Grayce.OKeefe58",
+    "phone_number": "08066517102",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

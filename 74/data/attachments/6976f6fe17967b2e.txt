@@ -1,0 +1,17 @@
+{
+    "company": "",
+    "branch": "",
+    "supplier": "",
+    "orders": [
+        {
+            "category": "",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

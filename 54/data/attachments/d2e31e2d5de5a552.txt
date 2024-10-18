@@ -1,1 +1,0 @@
-{"vat":["A valid number is required."]}

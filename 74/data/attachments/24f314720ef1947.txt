@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "",
+    "name": "multi-byte invoice",
+    "email": "Brandi_Cruickshank@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

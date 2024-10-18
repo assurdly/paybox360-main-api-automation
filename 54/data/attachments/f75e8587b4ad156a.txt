@@ -1,8 +1,0 @@
-{
-    "company": "91027809-3af7-4988-a951-3e189907cee41",
-    "customer_id": "",
-    "name": "Mrs. Vincent Koelpin",
-    "email": "Evan6@mailinator.com",
-    "phone": "08026977289",
-    "address": "58666 Leannon Fall"
-}

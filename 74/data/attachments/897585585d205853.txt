@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "branch": "",
+    "name": "Kristie Treutel",
+    "email": "naima1905@gmail.com",
+    "phone": "08032372134",
+    "address": "97380 Helmer Common"
+}

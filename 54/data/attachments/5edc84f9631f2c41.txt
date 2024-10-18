@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"501b8292-d44b-4222-8a65-76234998248b","created_at":"2024-09-20T19:07:50.005816+01:00","name":"Captain Category","company":"91027809-3af7-4988-a951-3e189907cee4","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Black-Hard Drive","has_products":false,"stock_count":0},"errors":null}

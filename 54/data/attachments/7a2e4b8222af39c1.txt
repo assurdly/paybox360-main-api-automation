@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"900313dd-24ca-4430-a400-bbe25611d7f8","created_at":"2024-09-20T19:08:57.163670+01:00","title":"Neural Tax","rate":-10.0,"company":"Idy-Black-Hard Drive","branch":"Guyfurt"},"errors":null}

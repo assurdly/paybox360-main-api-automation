@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "First Table",
+            "company": "",
+            "branch": "",
+            "no_of_seats": 4,
+            "categories": ["1"],
+            "all_categories": "False"
+        },
+        {
+            "name": "Second table",
+            "company": "",
+            "branch": "",
+            "no_of_seats": 6,
+            "categories": [""],
+            "all_categories": "True"
+        }
+    ]
+}

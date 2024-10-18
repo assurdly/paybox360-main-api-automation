@@ -1,7 +1,0 @@
-{
-    "name": "Carmen Oberbrunner V",
-    "email": "Sophie.Bednar17@mailinator.com",
-    "phone_number": "08008301593",
-    "address": "Idumota, Lagos",
-    "company": "91027809-3af7-4988-a951-3e189907cee4"
-}

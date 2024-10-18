@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nitinhayaran_128.jpg", 
+                    "item": "Fantastic Cotton Sausages",
+                    "quantity": 150, 
+                    "stock_price": 3159.66, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Fresh Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/desastrozo_128.jpg",    
+                    "item": "Ergonomic Soft Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
