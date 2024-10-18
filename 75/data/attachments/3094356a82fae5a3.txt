@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "monitor",
+            "company": "",
+            "branch": "",
+            "no_of_seats": 4,
+            "categories": [""],
+            "all_categories": "False"
+        },
+        {
+            "name": "q",
+            "company": "",
+            "branch": "",
+            "no_of_seats": 6,
+            "categories": [""],
+            "all_categories": "True"
+        }
+    ]
+}

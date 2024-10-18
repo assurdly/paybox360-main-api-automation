@@ -1,1 +1,0 @@
-{"message":["Paid shared capital is required on a corporate wallet"]}

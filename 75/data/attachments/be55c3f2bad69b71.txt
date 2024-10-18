@@ -1,0 +1,7 @@
+{
+    "company": "beans",
+    "customer_id": "",
+    "city": "West Adolfo",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "beans",
+    "city": "New Penelope",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

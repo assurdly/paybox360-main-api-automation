@@ -1,1 +1,0 @@
-{"budget_amount":["A valid number is required."],"start_date":["Date has wrong format. Use one of these formats instead: YYYY-MM-DD."],"end_date":["Date has wrong format. Use one of these formats instead: YYYY-MM-DD."]}

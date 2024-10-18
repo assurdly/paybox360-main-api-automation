@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "", 
+    "title": "virtual tax",
+    "rate": 1.5
+}

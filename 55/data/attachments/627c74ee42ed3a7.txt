@@ -1,1 +1,0 @@
-{"old_items":[{"unit_price":["A valid number is required."]}],"new_items":[{"amount":["A valid number is required."]}],"branch":["Invalid pk \"c4208889-5846-4d2d-97a5-f1087f6f5bb3\" - object does not exist."],"invoice":["This field may not be null."],"customer":["This field may not be null."]}

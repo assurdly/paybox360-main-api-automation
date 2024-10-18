@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Irving Pacocha",
+    "email": "Dale_Bayer56@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "23328 Ozella Gardens"
+}

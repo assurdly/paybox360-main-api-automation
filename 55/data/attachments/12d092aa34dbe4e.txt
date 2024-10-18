@@ -1,7 +1,0 @@
-{
-    "name": "Mildred Jerde",
-    "email": "Savion_Cummings@mailinator.com",
-    "phone_number": "08064610767erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "9b24817a-4036-44f0-917a-df2e292c74ae"
-}

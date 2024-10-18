@@ -1,0 +1,22 @@
+{
+    "company": "",
+    "branch": "1",
+    "invoice": "",
+    "customer": "",
+    "choice": "REFUND",
+    "reason": "DAMAGED OR DEFECTIVE ITEM",
+    "restock": "NO",
+    "payment_method": "CASH",
+    "items": [
+        {
+            "item": "",
+            "quantity": 1,
+            "unit_price": 1750
+        },
+        {
+            "item": "",
+            "quantity": 1,
+            "unit_price": 1750
+        }
+    ]
+}

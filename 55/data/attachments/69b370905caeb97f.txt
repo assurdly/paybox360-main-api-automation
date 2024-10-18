@@ -1,8 +1,0 @@
-{
-    "company": "9b24817a-4036-44f0-917a-df2e292c74ae",
-    "customer_id": "",
-    "name": "Mrs. Alexis Schaefer",
-    "email": "Stephanie.Hagenes9",
-    "phone": "08046442590",
-    "address": "0458 Lionel Fall"
-}

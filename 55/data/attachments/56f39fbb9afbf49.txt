@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Apex",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

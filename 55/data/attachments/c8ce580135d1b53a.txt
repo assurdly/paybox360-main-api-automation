@@ -1,8 +1,0 @@
-{
-    "company": "9b24817a-4036-44f0-917a-df2e292c74ae1",
-    "branch": "c4208889-5846-4d2d-97a5-f1087f6f5bb3",
-    "name": "Marcella Hayes",
-    "email": "Bulah.VonRueden5@mailinator.com",
-    "phone": "08088855289",
-    "address": "59781 Koepp Landing"
-}

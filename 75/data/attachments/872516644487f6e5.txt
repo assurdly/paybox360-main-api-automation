@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Soft Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Frozen Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bfrohs_128.jpg",    
+                    "item": "Rustic Soft Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
