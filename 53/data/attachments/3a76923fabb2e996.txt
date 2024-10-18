@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "6f6767af-cf12-4300-96e2-6004dad36aba", 
-    "title": "multi-byte tax",
-    "rate": 1.5
-}

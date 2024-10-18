@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Laurie Pouros",
+    "email": "Alayna72@mailinator.com",
+    "phone": "08051362387",
+    "address": "207 Dickinson Expressway"
+}

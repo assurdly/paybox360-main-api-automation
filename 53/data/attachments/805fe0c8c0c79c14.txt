@@ -1,5 +1,0 @@
-{
-    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Reichel, Wilderman and Langworth"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "1",
+    "customer_id": "",
+    "name": "Roy White",
+    "email": "Olin.Kutch36@mailinator.com",
+    "phone": "08052595704",
+    "address": "44338 Rolfson Groves"
+}

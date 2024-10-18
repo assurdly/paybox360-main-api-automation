@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Plastic Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Fresh Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/tom_even_128.jpg",    
+                    "item": "Tasty Wooden Ball",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

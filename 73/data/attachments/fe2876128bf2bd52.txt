@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Tom Wolff",
+    "email": "Ricardo_Kiehn18",
+    "phone": "08019549043",
+    "address": "17940 Myrtle Forge"
+}

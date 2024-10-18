@@ -1,8 +1,0 @@
-{
-    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
-    "branch": "9c3f7f2b-41bf-4b6a-8576-6681429266c11",
-    "name": "Mary Hessel II",
-    "email": "Claudia_Towne93@mailinator.com",
-    "phone": "08043317288",
-    "address": "589 Baumbach Wells"
-}

@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "", 
+    "title": "multi-byte tax",
+    "rate": 0
+}

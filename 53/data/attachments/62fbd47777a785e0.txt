@@ -1,8 +1,0 @@
-{
-    "company": "14cfce55-5a04-4c12-a8b9-9e846ae2a9ba",
-    "customer_id": "",
-    "name": "Max Boyer",
-    "email": "Sunny_Krajcik78",
-    "phone": "08083717331",
-    "address": "31797 Gulgowski Junctions"
-}

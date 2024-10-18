@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Metal Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Granite Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/erwanhesry_128.jpg",    
+                    "item": "Gorgeous Rubber Mouse",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

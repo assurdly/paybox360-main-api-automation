@@ -1,0 +1,7 @@
+{
+    "name": "Jeannie Howe",
+    "email": "Stone.Hudson@mailinator.com",
+    "phone_number": "08008041958",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

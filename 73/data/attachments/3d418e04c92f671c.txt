@@ -1,0 +1,7 @@
+{
+    "name": "Sherman Sipes",
+    "email": "Ruthie.Schimmel@mailinator.com",
+    "phone_number": "08022080009erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

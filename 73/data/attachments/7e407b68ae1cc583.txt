@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "", 
+    "title": "open-source tax",
+    "rate": -10
+}
