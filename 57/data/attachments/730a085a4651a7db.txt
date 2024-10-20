@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-09-25T19:08:32.725889+01:00","reference":"INV-SEP-13206","company":"Idy-Lavender-Alarm","branch":"Daughertyport","customer":null,"amount":"54430.50","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

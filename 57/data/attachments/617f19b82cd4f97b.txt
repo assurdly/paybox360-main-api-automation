@@ -1,8 +1,0 @@
-{
-    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
-    "branch": "801001e1-fe2a-458a-a797-f7d9df0f628e",
-    "name": "Simon Kemmer",
-    "email": "naima1905@gmail.com",
-    "phone": "08039809627",
-    "address": "6243 Braun Isle"
-}

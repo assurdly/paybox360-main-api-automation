@@ -1,1 +1,0 @@
-{"error":"error","params":"you are not permitted to perform this action"}

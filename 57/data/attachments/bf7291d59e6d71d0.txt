@@ -1,7 +1,0 @@
-{
-    "name": "Myrtle Leuschke",
-    "email": "Buck_Leffler75@mailinator.com",
-    "phone_number": "08000211586",
-    "address": "Idumota, Lagos",
-    "company": "2ab0073c-8a3e-4c26-9acc-10af1da582567"
-}

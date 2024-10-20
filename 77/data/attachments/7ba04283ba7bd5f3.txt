@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Fresh Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Granite Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ovall_128.jpg",    
+                    "item": "Unbranded Metal Salad",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

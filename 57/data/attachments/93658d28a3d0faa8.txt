@@ -1,1 +1,0 @@
-{"team_type":["This field may not be blank."],"company_id":["Must be a valid UUID."],"branch_id":["Must be a valid UUID."]}

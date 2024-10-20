@@ -1,7 +1,0 @@
-{
-    "name": "Bernadette Willms",
-    "email": "Daphney_Dibbert21",
-    "phone_number": "08005508154",
-    "address": "Idumota, Lagos",
-    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256"
-}

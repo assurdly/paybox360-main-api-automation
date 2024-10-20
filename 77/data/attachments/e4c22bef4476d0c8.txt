@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Dianna Ondricka",
+    "email": "Meda.Gutkowski@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "6079 Mikel Canyon"
+}

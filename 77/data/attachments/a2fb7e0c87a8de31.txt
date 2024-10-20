@@ -1,0 +1,7 @@
+{
+    "name": "Ron Kub",
+    "email": "Malika43@mailinator.com",
+    "phone_number": "08033326752",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

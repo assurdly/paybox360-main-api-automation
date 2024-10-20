@@ -1,7 +1,0 @@
-{
-    "name": "Domingo Stoltenberg",
-    "email": "Guadalupe_Harvey47@mailinator.com",
-    "phone_number": "08003870960erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256"
-}

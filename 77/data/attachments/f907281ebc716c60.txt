@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Mrs. Marcella Ryan",
+    "email": "Neil_Robel@mailinator.com",
+    "phone": "08082787897",
+    "address": "363 Ernser Center"
+}

@@ -1,0 +1,24 @@
+{
+    "company": "",
+    "branch": "",
+    "customer": "",
+    "invoice": "",
+    "choice": "SWAP",
+    "reason": "OTHERS",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NO",
+    "old_items": [
+        {
+            "item": "",
+            "quantity": 1,
+            "unit_price": 1750
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "",
+            "quantity": 1,
+            "amount": 1750
+        }
+    ]
+}

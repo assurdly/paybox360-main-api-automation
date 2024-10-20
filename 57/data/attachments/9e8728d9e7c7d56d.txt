@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched branch's inventory status.","inventory_status":[],"count":0,"total_inventory_status":0},"errors":null}

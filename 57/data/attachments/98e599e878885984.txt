@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"563f5189-a994-42fb-a2f9-475383a9b75b","created_at":"2024-09-25T19:07:18.216097+01:00","name":"Captain Category","company":"2ab0073c-8a3e-4c26-9acc-10af1da58256","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Lavender-Alarm","has_products":false,"stock_count":0},"errors":null}

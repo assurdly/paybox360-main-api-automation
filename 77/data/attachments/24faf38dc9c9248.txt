@@ -1,0 +1,7 @@
+{
+    "name": "Steven King",
+    "email": "Elroy_Hodkiewicz@mailinator.com",
+    "phone_number": "08031872605",
+    "address": "Idumota, Lagos",
+    "company": "7"
+}

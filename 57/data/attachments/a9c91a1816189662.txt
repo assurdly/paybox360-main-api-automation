@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"55ccaf9a-013b-483b-9c6c-389720adf104","created_at":"2024-09-25T19:08:30.722024+01:00","title":"Neural Tax","rate":0.0,"company":"Idy-Lavender-Alarm","branch":"Daughertyport"},"errors":null}

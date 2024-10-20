@@ -1,1 +1,0 @@
-{"company":["“2ab0073c-8a3e-4c26-9acc-10af1da582561” is not a valid UUID."],"batch_id":["This field may not be blank."]}

@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Fresh Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Steel Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vitor376_128.jpg",    
+                    "item": "Awesome Wooden Keyboard",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

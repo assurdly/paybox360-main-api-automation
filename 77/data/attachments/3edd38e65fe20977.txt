@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Daisy Walsh",
+    "email": "Emerald_Doyle",
+    "phone": "08009234383",
+    "address": "7688 Shad Isle"
+}

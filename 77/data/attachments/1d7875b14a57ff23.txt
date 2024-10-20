@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "", 
+    "title": "auxiliary tax",
+    "rate": 1.5
+}

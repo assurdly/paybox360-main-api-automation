@@ -1,8 +1,0 @@
-{
-    "company": "2ab0073c-8a3e-4c26-9acc-10af1da58256",
-    "customer_id": "1",
-    "name": "Kim Daniel",
-    "email": "Adela_Pfeffer@mailinator.com",
-    "phone": "08069286707",
-    "address": "53873 Connelly Fords"
-}
