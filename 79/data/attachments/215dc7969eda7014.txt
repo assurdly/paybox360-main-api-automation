@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "abefc38e-8dcb-4b64-b8a4-f45206d17e05", 
+    "title": "haptic tax",
+    "rate": 1.5
+}

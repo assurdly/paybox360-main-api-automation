@@ -1,0 +1,42 @@
+{
+    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Fresh Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Plastic Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/buryaknick_128.jpg",    
+                    "item": "Handcrafted Concrete Computer",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Mrs. Rosie Gutmann",
+    "email": "Martina.Kub@mailinator.com",
+    "phone_number": "08017920170",
+    "address": "Idumota, Lagos",
+    "company": "6c87b458-3faf-4be6-a080-23d722cec1e27"
+}

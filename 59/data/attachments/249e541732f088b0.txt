@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"068efe21-a1ca-4ece-884f-30ccb38dd720","company_name":"Idy-silver-port","industry":"BANKING AND FINANCE","size":5}}

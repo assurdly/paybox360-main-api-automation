@@ -1,0 +1,12 @@
+{
+    "team_id": "6272de35-f2a6-4315-be4b-1b6b6819da8b",
+    "team_name": "Team Alpha",
+    "admin_password": "123456",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "09088764748",
+            "role": "MEMBER"
+        }
+    ]
+}

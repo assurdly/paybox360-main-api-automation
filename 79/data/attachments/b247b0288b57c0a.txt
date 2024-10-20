@@ -1,0 +1,7 @@
+{
+    "name": "Moses Fahey",
+    "email": "Thalia.Mueller@mailinator.com",
+    "phone_number": "08049312339",
+    "address": "Idumota, Lagos",
+    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2"
+}

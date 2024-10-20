@@ -1,0 +1,8 @@
+{
+    "company": "6c87b458-3faf-4be6-a080-23d722cec1e21",
+    "customer_id": "",
+    "name": "Arturo Price Jr.",
+    "email": "Brigitte.Kovacek9@mailinator.com",
+    "phone": "08086178952",
+    "address": "128 Bernier Cliff"
+}

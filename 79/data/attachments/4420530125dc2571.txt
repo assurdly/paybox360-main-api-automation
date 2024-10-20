@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-20T17:27:45.806660+01:00","reference":"INV-OCT-MozykpL8","company":"Idy-Pink-Protocol","branch":"Karleeport","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

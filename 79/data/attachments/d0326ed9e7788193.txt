@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "abefc38e-8dcb-4b64-b8a4-f45206d17e05",
+    "name": "neural invoice",
+    "email": "Darian.Metz98@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

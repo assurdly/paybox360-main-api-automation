@@ -1,6 +1,0 @@
-{
-    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
-    "branch": "ffe1eb6a-3fd4-4f6d-9b6b-46440f58995d",
-    "request_id": "",
-    "status": "APPROVED"
-}
