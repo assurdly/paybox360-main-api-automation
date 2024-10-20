@@ -1,8 +1,0 @@
-{
-    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf1",
-    "customer_id": "",
-    "name": "Clinton Murray",
-    "email": "Joanne_OHara@mailinator.com",
-    "phone": "08077148299",
-    "address": "0825 Kassulke Forest"
-}

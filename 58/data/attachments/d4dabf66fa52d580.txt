@@ -1,8 +1,0 @@
-{
-    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf",
-    "customer_id": "1",
-    "name": "Guadalupe Ledner",
-    "email": "Tierra_Klein@mailinator.com",
-    "phone": "08004454646",
-    "address": "251 Zella Underpass"
-}

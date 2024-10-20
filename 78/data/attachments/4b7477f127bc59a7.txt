@@ -1,0 +1,42 @@
+{
+    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49",
+    "products": [
+        {
+            "category": "3c822e69-0ba1-4344-a516-d84fc2ab739a",
+            "stocks": [
+                {
+                    "item": "Ergonomic Wooden Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Granite Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/shvelo96_128.jpg",    
+                    "item": "Unbranded Rubber Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49",
+    "name": "East Elisabeth",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"6fcb5028-7244-4bc2-b88c-214cf09a142d","created_at":"2024-09-27T16:49:15.505406+01:00","title":"Open-Source1331 Tax","rate":1.5,"company":"Idy-Magenta-Hard Drive","branch":""},"errors":null}

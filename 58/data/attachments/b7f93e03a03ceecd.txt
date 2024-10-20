@@ -1,7 +1,0 @@
-{
-    "name": "May Hirthe III",
-    "email": "Daryl20",
-    "phone_number": "08023182049",
-    "address": "Idumota, Lagos",
-    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf"
-}

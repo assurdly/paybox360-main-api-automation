@@ -1,8 +1,0 @@
-{
-    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf",
-    "customer_id": "",
-    "name": "Glen Labadie",
-    "email": "Myriam_Altenwerth",
-    "phone": "08056876872",
-    "address": "19870 Jazlyn Brooks"
-}

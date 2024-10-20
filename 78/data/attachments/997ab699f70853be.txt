@@ -1,0 +1,8 @@
+{
+    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49",
+    "branch": "ac9b039a-c1eb-4a8d-a901-368fd096fd78",
+    "name": "Ms. Beverly Jacobson",
+    "email": "Aletha0",
+    "phone": "08051310085",
+    "address": "75451 Makenna Fall"
+}

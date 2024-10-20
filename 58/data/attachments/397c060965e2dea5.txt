@@ -1,7 +1,0 @@
-{
-    "name": "Mindy Cummings",
-    "email": "Dustin.Ruecker13@mailinator.com",
-    "phone_number": "08020741395",
-    "address": "Idumota, Lagos",
-    "company": "cc49425d-eb06-4fb0-a049-b668a4b72ebf"
-}

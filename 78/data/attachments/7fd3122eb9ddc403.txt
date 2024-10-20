@@ -1,0 +1,23 @@
+{
+    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49beans",
+    "branch": "9d9fd458-390c-4b12-a53c-a4374fa774bb", 
+    "items": [
+        {
+            "item_description": "item circuit",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop alarm",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "ad29b36a-36c6-4041-b16b-01d839db19d8",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

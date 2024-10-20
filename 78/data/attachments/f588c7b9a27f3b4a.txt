@@ -1,0 +1,45 @@
+{
+    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49",
+    "products": [
+        {
+            "category": "3c822e69-0ba1-4344-a516-d84fc2ab739a0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jpscribbles_128.jpg", 
+                    "item": "Incredible Granite Fish",
+                    "quantity": 150, 
+                    "stock_price": 9900.98, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Granite Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vikashpathak18_128.jpg",    
+                    "item": "Sleek Frozen Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

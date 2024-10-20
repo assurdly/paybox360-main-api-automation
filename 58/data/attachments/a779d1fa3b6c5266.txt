@@ -1,1 +1,0 @@
-{"status":false,"message":"device is not registered for this operation."}

@@ -1,5 +1,0 @@
-{
-    "budget": "90",
-    "team": "ca3bf639-7658-4cb0-8b01-ff6689a6b25f",
-    "amount": ""
-}

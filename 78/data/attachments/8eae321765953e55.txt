@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "9d9fd458-390c-4b12-a53c-a4374fa774bb", 
+    "title": "neural tax",
+    "rate": 1.5
+}
