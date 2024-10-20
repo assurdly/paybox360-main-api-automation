@@ -1,0 +1,42 @@
+{
+    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
+    "products": [
+        {
+            "category": "8b610039-e01c-449d-9dcd-4a60930abf77",
+            "stocks": [
+                {
+                    "item": "Intelligent Cotton Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Cotton Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mahmoudmetwally_128.jpg",    
+                    "item": "Licensed Metal Table",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

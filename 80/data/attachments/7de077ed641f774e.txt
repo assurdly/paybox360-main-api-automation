@@ -1,0 +1,1 @@
+{"branch":["Invalid pk \"dc91d362-a4df-4941-8a78-079b6bef7429\" - object does not exist."],"stocks":[{"item":["This field may not be null."],"quantity":["A valid integer is required."],"variants":[{"quantity":["A valid integer is required."]},{}]}]}

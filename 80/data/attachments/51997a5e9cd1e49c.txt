@@ -1,0 +1,1 @@
+{"message":"successful","data":[{"id":"12347390-b715-4313-83f2-60357bd28f11","benefit_name":"Tourism","calculation_type":"CUSTOM_PERCENTAGE","frequency":"BI-MONTHLY","amount":20.0,"custom_name":["2dfae611-f734-4a2c-a268-7ae4dd2d361b"],"is_active":true,"custom_data":["Basic"]}]}

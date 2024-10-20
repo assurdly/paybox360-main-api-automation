@@ -1,8 +1,0 @@
-{
-    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
-    "customer_id": "",
-    "name": "Freda Lesch",
-    "email": "Marcos.Turner@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "173 McLaughlin River"
-}

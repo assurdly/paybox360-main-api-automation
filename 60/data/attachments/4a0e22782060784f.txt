@@ -1,8 +1,0 @@
-{
-    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
-    "customer_id": "1",
-    "name": "Hope Rowe",
-    "email": "Henriette9@mailinator.com",
-    "phone": "08005606516",
-    "address": "14397 Constance Manors"
-}

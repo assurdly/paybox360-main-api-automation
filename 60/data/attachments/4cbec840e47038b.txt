@@ -1,8 +1,0 @@
-{
-    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
-    "branch": "1423537f-652d-4f3f-8461-9a55cada92c2",
-    "name": "Raul Kunde",
-    "email": "Nichole_Pagac@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "415 Alfred Course"
-}

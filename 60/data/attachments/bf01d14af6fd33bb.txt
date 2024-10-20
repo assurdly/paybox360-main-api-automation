@@ -1,8 +1,0 @@
-{
-    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720",
-    "customer_id": "",
-    "name": "Daisy Cassin",
-    "email": "Eldridge12@mailinator.com",
-    "phone": "08006215774",
-    "address": "9435 Rath Viaduct"
-}

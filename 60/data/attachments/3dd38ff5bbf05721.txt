@@ -1,7 +1,0 @@
-{
-    "name": "Brendan Feeney",
-    "email": "Lilian96",
-    "phone_number": "08031128442",
-    "address": "Idumota, Lagos",
-    "company": "068efe21-a1ca-4ece-884f-30ccb38dd720"
-}

@@ -1,5 +1,0 @@
-{
-  "email": "adetutuisinks@gmail.com",
-  "password": "123456",
-  "device_type": "MOBILE"
-}
