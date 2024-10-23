@@ -1,0 +1,1 @@
+{"new_items":[{"category_id":["This field is required."]}],"reason":["\"OTHERSss\" is not a valid choice."],"branch":["Invalid pk \"1011ad09-c197-4af1-93b2-33a1af222048\" - object does not exist."],"invoice":["This field may not be null."],"customer":["This field may not be null."]}

@@ -1,7 +1,0 @@
-{
-    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f91044",
-    "name": "Lake Isabelland",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

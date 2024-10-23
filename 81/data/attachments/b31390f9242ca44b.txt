@@ -1,0 +1,8 @@
+{
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
+    "customer_id": "",
+    "name": "Virgil Carroll",
+    "email": "Betty.Batz70@mailinator.com",
+    "phone": "08061202209",
+    "address": "32809 Clemens Track"
+}

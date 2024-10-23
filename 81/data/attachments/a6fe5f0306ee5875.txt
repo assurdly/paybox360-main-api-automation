@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e870fdbc-4357-4db4-a59e-8fdef69c336b","created_at":"2024-10-23T19:07:07.592005+01:00","title":"1080P Tax","rate":0.0,"company":"Idy-Cyan-Card","branch":"West Brandyn"},"errors":null}

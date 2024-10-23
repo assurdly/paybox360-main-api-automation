@@ -1,0 +1,8 @@
+{
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
+    "customer_id": "",
+    "name": "Erika Wilkinson",
+    "email": "Joanny.Price@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "918 Schroeder Corner"
+}

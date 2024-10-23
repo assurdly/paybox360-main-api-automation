@@ -1,0 +1,7 @@
+{
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff1",
+    "name": "Lake Teresaton",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

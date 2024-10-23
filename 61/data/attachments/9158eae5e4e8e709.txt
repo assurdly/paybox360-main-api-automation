@@ -1,1 +1,0 @@
-{"message":"pay group updated successfully","data":{"id":"fcd6b45a-695c-4a41-ad9b-7663de93c89e","pay_group_name":"Engineer","pay_group_description":"This is an anjhd"}}

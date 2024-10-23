@@ -1,0 +1,5 @@
+{
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Wisozk LLC"
+}

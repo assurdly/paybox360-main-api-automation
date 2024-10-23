@@ -1,0 +1,11 @@
+{
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
+    "branch": "0365782d-28b8-4ccb-a5bd-0ed82d72b99bbeans",
+    "name": "mobile invoice",
+    "email": "Brycen_Hills@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

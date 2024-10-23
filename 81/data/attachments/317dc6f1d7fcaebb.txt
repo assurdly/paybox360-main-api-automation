@@ -1,0 +1,7 @@
+{
+    "name": "Sheryl Dietrich",
+    "email": "Kaia.Crooks@mailinator.com",
+    "phone_number": "08047977764erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff"
+}

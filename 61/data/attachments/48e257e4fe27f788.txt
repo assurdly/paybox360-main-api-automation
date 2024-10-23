@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"f81aa5a5-bc09-4d63-b89f-e9f132f91044","company_name":"Idy-cyan-pixel","industry":"BANKING AND FINANCE","size":5}}

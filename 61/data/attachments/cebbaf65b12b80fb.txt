@@ -1,1 +1,0 @@
-{"success_orders":[],"failed_orders":[{"order_id":"6b39a19e-d696-4e0f-9c15-1a2a0207ca9b1","error":"['“6b39a19e-d696-4e0f-9c15-1a2a0207ca9b1” is not a valid UUID.']"}]}

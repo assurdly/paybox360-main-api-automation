@@ -1,7 +1,0 @@
-{
-    "company": "f81aa5a5-bc09-4d63-b89f-e9f132f91044",
-    "customer_id": "",
-    "city": "San Marcos",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

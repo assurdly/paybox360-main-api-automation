@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"c0e6d1e5-a841-4e44-89cd-6fbad30359ae","created_at":"2024-10-23T19:05:54.117399+01:00","name":"Captain Category","has_products":false,"company":"40641fa3-5f03-493c-9497-ff7a0daa3bff","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Cyan-Card","stock_count":0},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff1",
+    "customer_id": "",
+    "name": "Arthur Mertz",
+    "email": "Jarred14@mailinator.com",
+    "phone": "08043636696",
+    "address": "96921 Denesik Turnpike"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"da30443d-6fa0-4509-a577-0fce61a370a7","created_at":"2024-10-23T19:07:07.213908+01:00","title":"Bluetooth1363 Tax","rate":1.5,"company":"Idy-Cyan-Card","branch":""},"errors":null}
