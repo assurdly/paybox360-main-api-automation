@@ -1,0 +1,11 @@
+{
+    "company": "1",
+    "categories": [
+        {
+            "name": "Pet food"
+        },
+        {
+            "name": "Yogurt"
+        }
+    ]
+}

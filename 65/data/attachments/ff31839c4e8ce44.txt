@@ -1,7 +1,0 @@
-{
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316beans",
-    "customer_id": "",
-    "city": "North Vanhaven",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

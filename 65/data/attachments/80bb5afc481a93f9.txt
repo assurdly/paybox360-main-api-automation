@@ -1,8 +1,0 @@
-{
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
-    "branch": "5e7aac5b-cfef-4046-9258-97f7db838603",
-    "name": "Sabrina Anderson",
-    "email": "naima1905@gmail.com",
-    "phone": "08032092740",
-    "address": "4343 Lisa Park"
-}

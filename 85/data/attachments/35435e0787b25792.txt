@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-25T19:08:03.520658+01:00","reference":"INV-OCT-zoYrv7ym","company":"Idy-Tan-Circuit","branch":"O'Fallon","customer":null,"amount":"54430.50","due_date":"2020-12-31","status":"PENDING"}},"errors":null}

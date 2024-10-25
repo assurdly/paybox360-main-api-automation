@@ -1,7 +1,0 @@
-{
-    "name": "Mrs. Tami Wisoky",
-    "email": "Brandy64@mailinator.com",
-    "phone_number": "08026956331",
-    "address": "Idumota, Lagos",
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
-    "branch": "5175ae2d-f6cc-425b-b3a7-c980809c36341",
-    "name": "Brett Larkin",
-    "email": "Laurine.Ritchie42@mailinator.com",
-    "phone": "08025905213",
-    "address": "43609 Flatley Point"
-}

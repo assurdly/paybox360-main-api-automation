@@ -1,0 +1,11 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "branch": "832bdc3c-6b9b-4aab-858d-111ce5b0ac47",
+    "name": "multi-byte invoice",
+    "email": "Julius36@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"918494af-fac4-4c33-9cc5-485afdd3b316","company_name":"Idy-silver-interface","industry":"BANKING AND FINANCE","size":5}}

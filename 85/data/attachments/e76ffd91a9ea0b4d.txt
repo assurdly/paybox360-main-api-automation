@@ -1,0 +1,8 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "customer_id": "1",
+    "name": "Susie Greenholt",
+    "email": "Sharon_Collier40@mailinator.com",
+    "phone": "08086999109",
+    "address": "1442 Leuschke Corners"
+}

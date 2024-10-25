@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMwMzExNTE0LCJqdGkiOiI4Yjc3MDcxMzRkMjc0ZGEwYjNiMWEzNTgzYzQ3NDdjYyIsInVzZXJfaWQiOjY5Mzd9.pq-42zDF6lTHFuMLLpU3bYcHO6x2Lc9R-KvfmCtFjcU",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "9c808c98-1c13-4b9f-a4f2-e0d8e429a7b1",
+    "Host": "management.libertypayng.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "47"
+}

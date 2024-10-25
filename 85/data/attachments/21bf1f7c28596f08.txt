@@ -1,0 +1,7 @@
+{
+    "name": "Daniel Mraz",
+    "email": "Hillard.Gottlieb@mailinator.com",
+    "phone_number": "08017060987",
+    "address": "Idumota, Lagos",
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a7"
+}

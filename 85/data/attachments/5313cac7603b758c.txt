@@ -1,0 +1,8 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "branch": "832bdc3c-6b9b-4aab-858d-111ce5b0ac47",
+    "name": "Eula Predovic",
+    "email": "naima1905@gmail.com",
+    "phone": "08044198052",
+    "address": "34292 Otho Parkways"
+}

@@ -1,0 +1,45 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/spedwig_128.jpg", 
+                    "item": "Practical Cotton Gloves",
+                    "quantity": 150, 
+                    "stock_price": 8636.51, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Plastic Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/johncafazza_128.jpg",    
+                    "item": "Ergonomic Cotton Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,1 +1,0 @@
-{"message":"successful","data":{"company_name":"Idy-Silver-Interface","company_address":null,"company_logo":null,"company_official_email":null,"pay_schedule":"MONTHLY","pay_run":"BASIC","employee_type":"FULL_TIME","country":null,"state":null,"business_name_number":null,"industry":null,"contact_name":null,"contact_phone_number":null,"contact_role":null,"company_email":null}}

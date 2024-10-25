@@ -1,0 +1,8 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a1",
+    "branch": "631858c1-2d7a-45a6-b522-fbb237adcb79",
+    "name": "Kathleen Dach MD",
+    "email": "Margret_Towne@mailinator.com",
+    "phone": "08064034438",
+    "address": "6535 Runolfsson Cape"
+}

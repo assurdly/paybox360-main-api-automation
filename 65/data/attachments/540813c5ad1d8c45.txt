@@ -1,8 +1,0 @@
-{
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
-    "customer_id": "",
-    "name": "Stephen Lowe",
-    "email": "Pierce.Haag@mailinator.com",
-    "phone": "08048878237",
-    "address": "107 Tiara Parkways"
-}

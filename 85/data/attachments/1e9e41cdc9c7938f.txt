@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "832bdc3c-6b9b-4aab-858d-111ce5b0ac47",
+    "name": "wireless invoice",
+    "email": "Dimitri.Torphy46@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

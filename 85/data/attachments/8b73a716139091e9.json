@@ -1,0 +1,14 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Fri, 25 Oct 2024 18:08:23 GMT",
+    "Content-Type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "Content-Length": "9357",
+    "Connection": "keep-alive",
+    "Content-Disposition": "attachment; filename=\"customer_bulk_record.xlsx\"",
+    "Vary": "Accept, origin",
+    "Allow": "GET, HEAD, OPTIONS",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin"
+}

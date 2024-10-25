@@ -1,0 +1,7 @@
+{
+    "name": "Randy Rutherford",
+    "email": "Taryn_Jones93@mailinator.com",
+    "phone_number": "08065892137erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a"
+}

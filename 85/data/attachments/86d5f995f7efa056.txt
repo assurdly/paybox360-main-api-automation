@@ -1,0 +1,7 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "customer_id": "",
+    "city": "Ornview",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

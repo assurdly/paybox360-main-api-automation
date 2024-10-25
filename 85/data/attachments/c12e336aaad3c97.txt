@@ -1,0 +1,8 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "customer_id": "",
+    "name": "Louis Koch",
+    "email": "Ahmad.Harris96@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "1198 Jast Orchard"
+}

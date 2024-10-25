@@ -1,0 +1,8 @@
+{
+    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
+    "branch": "631858c1-2d7a-45a6-b522-fbb237adcb791",
+    "name": "Sherman Koepp",
+    "email": "Itzel14@mailinator.com",
+    "phone": "08002567423",
+    "address": "808 Maryjane Coves"
+}

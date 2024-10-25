@@ -1,7 +1,0 @@
-{
-    "name": "Ms. Thelma Rowe",
-    "email": "Joey_Luettgen68",
-    "phone_number": "08019592783",
-    "address": "Idumota, Lagos",
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316"
-}

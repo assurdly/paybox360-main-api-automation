@@ -1,8 +1,0 @@
-{
-    "company": "918494af-fac4-4c33-9cc5-485afdd3b316",
-    "branch": "5175ae2d-f6cc-425b-b3a7-c980809c3634",
-    "name": "Wesley Rodriguez",
-    "email": "Princess_Upton",
-    "phone": "08096216047",
-    "address": "27828 Cortez Trace"
-}
