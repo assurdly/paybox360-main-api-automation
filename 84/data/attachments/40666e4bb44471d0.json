@@ -1,0 +1,11 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzMwMjg4NTE0LCJqdGkiOiI4YTkxZTJiZmUxYzg0YjcwYjBkZTkxYmZkZmZhMzZkNiIsInVzZXJfaWQiOjY5Mzd9.qcDKIE99vRQq0LTibw3-cXgrutjTnF3Abfjs1tO_qkQ",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "6cdb8bfa-6ba9-41bc-8fce-7cff6e8f1079",
+    "Host": "127.0.0.1:8000",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

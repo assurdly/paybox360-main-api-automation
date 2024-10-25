@@ -1,8 +1,0 @@
-{
-    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda1",
-    "branch": "c4278546-621c-4126-ad33-28c9219d7f9b",
-    "name": "Julian Hyatt",
-    "email": "Daren.Lubowitz@mailinator.com",
-    "phone": "08096670078",
-    "address": "0859 Violet Coves"
-}

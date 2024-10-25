@@ -1,0 +1,11 @@
+{
+    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9",
+    "branch": "",
+    "name": "bluetooth invoice",
+    "email": "Floy.Lueilwitz13@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

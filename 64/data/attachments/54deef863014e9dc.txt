@@ -1,7 +1,0 @@
-{
-    "name": "Lionel Legros",
-    "email": "Narciso_Hartmann40@mailinator.com",
-    "phone_number": "08013172221",
-    "address": "Idumota, Lagos",
-    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda7"
-}

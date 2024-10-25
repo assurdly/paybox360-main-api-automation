@@ -1,0 +1,45 @@
+{
+    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a92",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/chrisvanderkooi_128.jpg", 
+                    "item": "Sleek Concrete Hat",
+                    "quantity": 150, 
+                    "stock_price": 6478.03, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Wooden Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mdsisto_128.jpg",    
+                    "item": "Awesome Wooden Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

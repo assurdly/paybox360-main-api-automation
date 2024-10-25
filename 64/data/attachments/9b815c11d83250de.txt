@@ -1,8 +1,0 @@
-{
-    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
-    "customer_id": "",
-    "name": "Mark Maggio IV",
-    "email": "Camylle33",
-    "phone": "08012898991",
-    "address": "066 Hickle Ferry"
-}

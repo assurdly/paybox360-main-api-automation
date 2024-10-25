@@ -1,1 +1,0 @@
-{"error":"14","message":"Phone number must contain only numeric digits."}

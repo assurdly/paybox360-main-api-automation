@@ -1,7 +1,0 @@
-{
-    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda",
-    "branch": "c4278546-621c-4126-ad33-28c9219d7f9b",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Santa.Mante62@mailinator.com"
-}

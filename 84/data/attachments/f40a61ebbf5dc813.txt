@@ -1,0 +1,42 @@
+{
+    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Concrete Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Granite Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vladyn_128.jpg",    
+                    "item": "Awesome Steel Shoes",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

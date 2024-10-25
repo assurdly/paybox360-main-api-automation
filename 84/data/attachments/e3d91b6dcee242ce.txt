@@ -1,0 +1,11 @@
+{
+    "benefit_name": "Tourism",
+    "calculation_type": "CUSTOM_PERCENTAGE",
+    "amount": 20,
+    "custom_name": ["a9559a5d-1433-4e86-b06b-df4564f3f6a0"],
+    "is_active": true,
+    "frequency": "BI-MONTHLY",
+    "part_of_employee_structure": true,
+    "calculate_pay_schedule_basis": true,
+    "show_on_payslip": true
+}

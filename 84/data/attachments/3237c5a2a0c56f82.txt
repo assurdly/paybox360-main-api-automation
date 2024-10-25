@@ -1,0 +1,42 @@
+{
+    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Granite Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Concrete Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/borges_marcos_128.jpg",    
+                    "item": "Unbranded Metal Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

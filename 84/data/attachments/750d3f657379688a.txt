@@ -1,0 +1,11 @@
+{
+    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9",
+    "branch": "4f3e6af0-a6d4-4e17-8777-ef7ef89f65b5",
+    "name": "cross-platform invoice",
+    "email": "Vada54@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

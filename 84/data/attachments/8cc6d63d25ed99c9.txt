@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-25T12:46:24.682360+01:00","reference":"INV-OCT-5dbgnf2r","company":"Idy-Cyan-Protocol","branch":"Stammburgh","customer":null,"amount":"54430.50","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

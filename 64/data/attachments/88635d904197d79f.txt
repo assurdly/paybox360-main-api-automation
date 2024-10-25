@@ -1,7 +1,0 @@
-{
-    "name": "Nick Sanford",
-    "email": "Novella.Gottlieb",
-    "phone_number": "08012202408",
-    "address": "Idumota, Lagos",
-    "company": "94986dd2-a156-4d39-ac58-5adcb0d4ddda"
-}

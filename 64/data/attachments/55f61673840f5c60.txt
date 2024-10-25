@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"6c92577b-6741-4e52-ae16-370dfbc91345","created_at":"2024-10-02T19:07:07.813284+01:00","title":"Bluetooth1331 Tax","rate":1.5,"company":"Idy-Yellow-Sensor","branch":""},"errors":null}
