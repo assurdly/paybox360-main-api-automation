@@ -1,0 +1,8 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
+    "customer_id": "",
+    "name": "Celia Koss",
+    "email": "Sedrick.Balistreri",
+    "phone": "08019806276",
+    "address": "55011 Brisa Meadows"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
-    "branch": "0caf200d-045e-41cb-b5a5-5314f14de133",
-    "name": "Bernard Jerde Jr.",
-    "email": "Joelle_Dach@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "549 Nienow Overpass"
-}

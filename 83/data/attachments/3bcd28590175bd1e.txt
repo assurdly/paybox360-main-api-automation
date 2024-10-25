@@ -1,0 +1,7 @@
+{
+    "name": "Danny Lehner",
+    "email": "Sienna_Rice@mailinator.com",
+    "phone_number": "08018525406",
+    "address": "Idumota, Lagos",
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a0457"
+}

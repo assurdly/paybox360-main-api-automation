@@ -1,0 +1,7 @@
+{
+    "name": "Guillermo O'Conner",
+    "email": "Luz31@mailinator.com",
+    "phone_number": "08032491355",
+    "address": "Idumota, Lagos",
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045"
+}

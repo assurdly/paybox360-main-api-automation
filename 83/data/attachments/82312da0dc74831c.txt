@@ -1,0 +1,8 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a0451",
+    "customer_id": "",
+    "name": "Erick Parisian",
+    "email": "Katharina_Parker@mailinator.com",
+    "phone": "08094279284",
+    "address": "066 Clifford Camp"
+}

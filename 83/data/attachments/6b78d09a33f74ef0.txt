@@ -1,0 +1,5 @@
+{
+    "phone_number": "8173854807",
+    "type_of_user": "AGENT",
+    "referal_code": "525o678"
+}

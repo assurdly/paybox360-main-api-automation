@@ -1,0 +1,42 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Plastic Pizza",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Plastic Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/uxward_128.jpg",    
+                    "item": "Generic Fresh Shoes",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

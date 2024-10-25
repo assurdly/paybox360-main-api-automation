@@ -1,0 +1,42 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Soft Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Steel Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/brenmurrell_128.jpg",    
+                    "item": "Tasty Cotton Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

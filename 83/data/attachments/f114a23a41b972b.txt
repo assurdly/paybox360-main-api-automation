@@ -1,0 +1,11 @@
+{
+    "custom_component_name": "Vital",
+    "calculation_type": "CUSTOM_PERCENTAGE",
+    "amount": 10,
+    "frequency": "MONTHLY",
+    "custom_name": ["a9559a5d-1433-4e86-b06b-df4564f3f6a0"],
+    "is_active": true,
+    "part_of_employee_structure": true,
+    "calculate_pay_schedule_basis": true,
+    "show_on_payslip": true
+}

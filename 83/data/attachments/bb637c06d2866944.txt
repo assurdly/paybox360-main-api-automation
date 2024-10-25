@@ -1,0 +1,42 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Cotton Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Cotton Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/woodydotmx_128.jpg",    
+                    "item": "Refined Steel Pizza",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"ae9d7a26-3f4f-409c-8719-83004996a045","company_name":"Idy-blue-system","industry":"BANKING AND FINANCE","size":5}}

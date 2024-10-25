@@ -1,0 +1,45 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a0452",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lepetitogre_128.jpg", 
+                    "item": "Practical Concrete Car",
+                    "quantity": 150, 
+                    "stock_price": 3900.08, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Fresh Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/josevnclch_128.jpg",    
+                    "item": "Unbranded Soft Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

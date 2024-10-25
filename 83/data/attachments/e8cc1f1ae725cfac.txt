@@ -1,0 +1,23 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045beans",
+    "branch": "532f3165-fc23-47bb-8e85-4e740b6e353b", 
+    "items": [
+        {
+            "item_description": "item interface",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop microchip",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "815bde42-a968-41d0-ab19-7ef88c32deb3",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

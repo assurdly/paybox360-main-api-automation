@@ -1,8 +1,0 @@
-{
-    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
-    "customer_id": "1",
-    "name": "Annie Littel",
-    "email": "Alene_Feeney70@mailinator.com",
-    "phone": "08023483331",
-    "address": "15662 Stiedemann Springs"
-}

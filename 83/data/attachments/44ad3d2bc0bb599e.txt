@@ -1,0 +1,42 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Rubber Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Metal Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/calebjoyce_128.jpg",    
+                    "item": "Gorgeous Concrete Computer",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

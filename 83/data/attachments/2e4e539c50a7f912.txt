@@ -1,0 +1,7 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a0451",
+    "branch": "532f3165-fc23-47bb-8e85-4e740b6e353b",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Iliana41@mailinator.com"
+}

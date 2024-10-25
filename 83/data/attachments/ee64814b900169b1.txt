@@ -1,0 +1,42 @@
+{
+    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Soft Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Cotton Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/codysanfilippo_128.jpg",    
+                    "item": "Refined Concrete Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

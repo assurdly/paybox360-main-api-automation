@@ -1,1 +1,0 @@
-{"message":["Company name: TRANSMITTER already exists"]}

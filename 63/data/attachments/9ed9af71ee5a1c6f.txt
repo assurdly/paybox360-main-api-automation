@@ -1,8 +1,0 @@
-{
-    "company": "07858718-8229-45a5-888e-33d3bb9eff06",
-    "customer_id": "",
-    "name": "Deborah Rowe",
-    "email": "Hiram28",
-    "phone": "08037265331",
-    "address": "79834 Arvilla Turnpike"
-}
