@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Sidney Padberg I",
+    "email": "Dean.Hartmann@mailinator.com",
+    "phone": "08021537976",
+    "address": "0085 Schneider Camp"
+}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "branch": "null",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Alice.Robel75"
+}

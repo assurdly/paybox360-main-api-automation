@@ -1,7 +1,0 @@
-{
-    "name": "Jennie Sporer",
-    "email": "Cruz_Pfeffer73@mailinator.com",
-    "phone_number": "08049681017erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "07858718-8229-45a5-888e-33d3bb9eff06"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "beans",
+    "customer_id": "",
+    "city": "Port Kole",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

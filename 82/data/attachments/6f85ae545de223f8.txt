@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Roberta Jakubowski",
+    "email": "Madison_Schuster@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "5328 Eleanore Square"
+}

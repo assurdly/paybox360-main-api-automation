@@ -1,1 +1,0 @@
-{"message":"invalid benefit_component_id"}

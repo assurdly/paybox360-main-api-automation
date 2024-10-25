@@ -1,7 +1,0 @@
-{
-    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861beans",
-    "customer_id": "",
-    "city": "Aimeeview",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

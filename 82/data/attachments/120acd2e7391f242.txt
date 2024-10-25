@@ -1,0 +1,8 @@
+{
+    "payroll_pin": "5555",
+    "payroll_date": "2024-09-03",
+    "narration": "SEP_PAYROLL",
+    "payroll_month": "september",
+    "payroll_year": "2023",
+    "employees": [25] 
+}

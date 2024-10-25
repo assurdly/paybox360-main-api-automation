@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Evan Medhurst",
+    "email": "Antwan_Jenkins26",
+    "phone": "08066310966",
+    "address": "73053 Okuneva Estates"
+}

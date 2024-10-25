@@ -1,7 +1,0 @@
-{
-    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861",
-    "branch": "8af023aa-f209-4c9a-9905-af9c251f90b9",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Keira45@mailinator.com"
-}

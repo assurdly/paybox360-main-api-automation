@@ -1,8 +1,0 @@
-{
-    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861",
-    "customer_id": "",
-    "name": "Wilma Mante",
-    "email": "Russell_Kuhic17@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "485 Name Motorway"
-}

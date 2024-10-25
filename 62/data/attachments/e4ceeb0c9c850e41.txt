@@ -1,8 +1,0 @@
-{
-    "company": "1cd97455-b9d4-4425-b6cc-5d567481a861",
-    "branch": "8af023aa-f209-4c9a-9905-af9c251f90b91",
-    "name": "Daisy Kreiger",
-    "email": "Dillon20@mailinator.com",
-    "phone": "08006597184",
-    "address": "3561 Patricia Route"
-}

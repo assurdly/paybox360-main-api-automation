@@ -1,8 +1,0 @@
-{
-    "company": "1cd97455-b9d4-4425-b6cc-5d567481a8611",
-    "branch": "8af023aa-f209-4c9a-9905-af9c251f90b9",
-    "name": "Mrs. Krystal Rice",
-    "email": "Nona60@mailinator.com",
-    "phone": "08071490464",
-    "address": "971 Okuneva Burg"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Fort Smith",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

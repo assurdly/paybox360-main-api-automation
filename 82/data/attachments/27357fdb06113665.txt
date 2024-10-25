@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Eddie Waters",
+    "email": "Alvah.Torp@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "68501 Stanton Parkway"
+}

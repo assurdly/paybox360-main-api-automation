@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Granite Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Steel Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/borges_marcos_128.jpg",    
+                    "item": "Gorgeous Concrete Table",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Rubber Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Wooden Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/eyronn_128.jpg",    
+                    "item": "Intelligent Soft Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

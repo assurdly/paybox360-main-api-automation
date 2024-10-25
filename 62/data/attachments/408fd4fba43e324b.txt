@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "East Stephany",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/9lessons_128.jpg", 
+                    "item": "Tasty Granite Pants",
+                    "quantity": 150, 
+                    "stock_price": 7928.81, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Cotton Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/hugomano_128.jpg",    
+                    "item": "Tasty Granite Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
