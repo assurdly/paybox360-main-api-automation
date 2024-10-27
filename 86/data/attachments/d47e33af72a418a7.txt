@@ -1,0 +1,17 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "branch": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "supplier": "a69abc1d-9559-4d65-879f-87712fe89356",
+    "orders": [
+        {
+            "category": "",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

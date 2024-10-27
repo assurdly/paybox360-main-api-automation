@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"11c56902-fa40-48b1-8c0e-db376b170c79","created_at":"2024-10-06T21:05:03.733656+01:00","title":"Neural Tax","rate":-10.0,"company":"Jameson","branch":"Port Velva"},"errors":null}

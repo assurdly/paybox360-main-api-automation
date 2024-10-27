@@ -1,7 +1,0 @@
-{
-    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d71",
-    "branch": "9dc580d9-03ae-4b77-9861-e6a76d5bfe9a",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Caterina26@mailinator.com"
-}

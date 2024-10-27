@@ -1,0 +1,7 @@
+{
+    "name": "Janice Kohler Sr.",
+    "email": "Alanis.Douglas56@mailinator.com",
+    "phone_number": "08006159360",
+    "address": "Idumota, Lagos",
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
+}

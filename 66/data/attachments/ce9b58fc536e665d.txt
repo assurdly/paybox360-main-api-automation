@@ -1,8 +1,0 @@
-{
-    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d71",
-    "customer_id": "",
-    "name": "Adrienne Baumbach",
-    "email": "Manuel96@mailinator.com",
-    "phone": "08012683643",
-    "address": "7248 Abshire Creek"
-}

@@ -1,0 +1,11 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "branch": "2b87f193-5c94-4503-a1bd-a8c677a85499beans",
+    "name": "bluetooth invoice",
+    "email": "Hobart.Hudson79@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

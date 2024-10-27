@@ -1,0 +1,42 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Concrete Pizza",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Fresh Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andrea211087_128.jpg",    
+                    "item": "Practical Concrete Keyboard",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

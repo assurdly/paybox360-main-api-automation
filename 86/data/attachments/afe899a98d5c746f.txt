@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-27T21:05:55.265370+01:00","reference":"INV-OCT-BCnJCsI7","company":"Idy-Violet-Matrix","branch":"Pembroke Pines","customer":null,"amount":"-20096.80","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

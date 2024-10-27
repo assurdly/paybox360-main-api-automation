@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"941bcbdc-3ebc-4044-a03b-21900832ea9c","created_at":"2024-10-27T21:05:53.237728+01:00","title":"Redundant1431 Tax","rate":1.5,"company":"Idy-Violet-Matrix","branch":""},"errors":null}

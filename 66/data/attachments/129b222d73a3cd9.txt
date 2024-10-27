@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"d5b74fcc-4ceb-4a7b-aa9e-0a0c63c388a9","name":"Hat"},{"id":"11b7c770-7951-427a-b92a-f2499d9f7de1","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}

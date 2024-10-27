@@ -1,0 +1,8 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "customer_id": "",
+    "name": "Max Lebsack",
+    "email": "Norene_Kub70@mailinator.com",
+    "phone": "08014126137",
+    "address": "11898 Marquardt Mountains"
+}

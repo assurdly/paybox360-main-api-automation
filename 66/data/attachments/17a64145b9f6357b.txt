@@ -1,8 +1,0 @@
-{
-    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d7",
-    "customer_id": "",
-    "name": "Noah Yost",
-    "email": "Reba.Padberg77",
-    "phone": "08021593114",
-    "address": "736 Eladio Common"
-}

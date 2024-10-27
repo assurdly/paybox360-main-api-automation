@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-06T21:05:04.143723+01:00","reference":"INV-OCT-YnavgbIn","company":"Jameson","branch":"Port Velva","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

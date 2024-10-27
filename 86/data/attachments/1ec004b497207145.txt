@@ -1,0 +1,18 @@
+{
+         "account_name": "Roosevelt Weimann",
+            "account_number": 
+                "0175729989"
+            ,
+            "bank_name": 
+                "GTbanks"
+            ,
+            "bank_code": 
+                "000134"
+            ,
+            "amount": 
+                50000,
+            "narration": 
+                "Dest."
+            
+
+}

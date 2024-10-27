@@ -1,0 +1,8 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "customer_id": "",
+    "name": "Pam Macejkovic",
+    "email": "Matilda13",
+    "phone": "08039380546",
+    "address": "5353 Boyle Overpass"
+}

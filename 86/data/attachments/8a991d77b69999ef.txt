@@ -1,0 +1,7 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "branch": "5bf1a876-1724-4e50-8f55-0ad760515f67",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Abbie_Moore62@mailinator.com"
+}

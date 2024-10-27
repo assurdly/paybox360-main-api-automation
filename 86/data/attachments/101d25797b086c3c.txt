@@ -1,0 +1,1 @@
+{"total_products":21,"total_sold":0,"amount_sold":0,"total_returned":0,"total_stock_inventory":635,"total_stock_value":957779550.0,"top_selling_products":[],"least_selling_products":[]}

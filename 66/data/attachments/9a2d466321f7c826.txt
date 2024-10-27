@@ -1,8 +1,0 @@
-{
-    "company": "8ea5d046-7bab-4da8-9655-4ee32e8591d71",
-    "branch": "b37ca423-a303-486b-b926-3f1dac85121c",
-    "name": "Becky Kautzer",
-    "email": "Elsa_Quigley@mailinator.com",
-    "phone": "08008304036",
-    "address": "987 Lulu Canyon"
-}

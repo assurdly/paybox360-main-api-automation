@@ -1,0 +1,42 @@
+{
+    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Wooden Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Plastic Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/keyuri85_128.jpg",    
+                    "item": "Unbranded Granite Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

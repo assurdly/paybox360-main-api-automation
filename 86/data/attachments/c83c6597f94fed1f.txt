@@ -1,0 +1,13 @@
+{
+    "beneficiary_data": [
+        {
+            "account_name": "Roosevelt McDermott",
+            "account_number": "0151271164",
+            "bank_name": "GTbank",
+            "bank_code": "000133",
+            "amount": 40000,
+            "narration": "Test."
+        }
+    ],
+    "disburse_pin": "1234"
+}

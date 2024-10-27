@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Idy-Violet-Matrix","branches":6,"teams":0,"total_stock_value":768389550.0,"total_sales_values":0.0,"total_expected_profit":28628450.0},"errors":null}
