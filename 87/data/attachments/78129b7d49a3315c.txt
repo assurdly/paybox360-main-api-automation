@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "1",
+    "name": "Nora Thiel",
+    "email": "Anjali56@mailinator.com",
+    "phone": "08060539525",
+    "address": "6037 Anabel Road"
+}

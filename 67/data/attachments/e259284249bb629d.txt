@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Romainefort",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

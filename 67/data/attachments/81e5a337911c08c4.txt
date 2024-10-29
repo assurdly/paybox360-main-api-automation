@@ -1,1 +1,0 @@
-{"price_lists":[{"price":["A valid number is required."],"item":["This field may not be null."]},{"item":["This field may not be null."]}]}

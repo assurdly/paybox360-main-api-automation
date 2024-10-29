@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "Keyboard"
+        },
+        {
+            "name": "Shoes"
+        }
+    ]
+}

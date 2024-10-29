@@ -1,8 +1,0 @@
-{
-    "company": "2320519e-7093-4d14-87df-d7a362fe4d551",
-    "customer_id": "",
-    "name": "Fred Friesen",
-    "email": "Gail.Lockman@mailinator.com",
-    "phone": "08017722929",
-    "address": "61060 Langosh Forest"
-}

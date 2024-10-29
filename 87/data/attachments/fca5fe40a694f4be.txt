@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Steel Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Steel Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/fjaguero_128.jpg",    
+                    "item": "Licensed Frozen Hat",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

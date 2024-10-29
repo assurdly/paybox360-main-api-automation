@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kohette_128.jpg", 
+                    "item": "Practical Wooden Mouse",
+                    "quantity": 150, 
+                    "stock_price": 5057.02, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Plastic Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/the_winslet_128.jpg",    
+                    "item": "Gorgeous Frozen Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

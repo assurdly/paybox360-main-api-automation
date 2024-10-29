@@ -1,8 +1,0 @@
-{
-    "company": "2320519e-7093-4d14-87df-d7a362fe4d55",
-    "customer_id": "",
-    "name": "Sherman Bahringer",
-    "email": "Johan8@mailinator.com",
-    "phone": "08070138293",
-    "address": "3062 Wayne Manors"
-}

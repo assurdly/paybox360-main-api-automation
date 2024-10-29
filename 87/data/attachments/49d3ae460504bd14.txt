@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/alek_djuric_128.jpg", 
+                    "item": "Tasty Fresh Computer",
+                    "quantity": 150, 
+                    "stock_price": 5057.02, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Fresh Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sachacorazzi_128.jpg",    
+                    "item": "Intelligent Rubber Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

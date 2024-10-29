@@ -1,7 +1,0 @@
-{
-    "company": "2320519e-7093-4d14-87df-d7a362fe4d551",
-    "branch": "1261014a-ddad-4599-9db3-8635dc3a6bdc",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Daryl_OHara38@mailinator.com"
-}

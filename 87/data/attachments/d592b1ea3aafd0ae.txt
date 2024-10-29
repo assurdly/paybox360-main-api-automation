@@ -1,0 +1,7 @@
+{
+    "name": "Trevor Kuhic",
+    "email": "Frida73",
+    "phone_number": "08079221467",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

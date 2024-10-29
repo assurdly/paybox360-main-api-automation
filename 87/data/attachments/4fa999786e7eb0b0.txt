@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Samantha Kling",
+    "email": "Bruce_Terry81@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "85494 Von Island"
+}

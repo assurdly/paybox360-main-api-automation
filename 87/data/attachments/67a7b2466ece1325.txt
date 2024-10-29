@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Natasha Cruickshank V",
+    "email": "Sarah_Braun@mailinator.com",
+    "phone": "08065105290",
+    "address": "73609 Shanahan Parkway"
+}

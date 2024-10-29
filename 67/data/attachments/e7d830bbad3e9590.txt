@@ -1,6 +1,0 @@
-{
-    "company": "beans",
-    "branch": "1261014a-ddad-4599-9db3-8635dc3a6bdc", 
-    "title": "mobile tax",
-    "rate": 1.5
-}
