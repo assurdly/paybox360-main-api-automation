@@ -1,8 +1,0 @@
-{
-    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
-    "customer_id": "",
-    "name": "Kelly Cartwright",
-    "email": "Cary54@mailinator.com",
-    "phone": "08022635070",
-    "address": "18677 Schmitt Flats"
-}

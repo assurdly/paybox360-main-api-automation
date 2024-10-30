@@ -1,8 +1,0 @@
-{
-    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
-    "customer_id": "1",
-    "name": "Wade Bogan",
-    "email": "Brisa.Senger39@mailinator.com",
-    "phone": "08072970701",
-    "address": "24740 Yost Summit"
-}

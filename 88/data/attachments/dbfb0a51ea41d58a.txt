@@ -1,0 +1,45 @@
+{
+    "company": "2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/commadelimited_128.jpg", 
+                    "item": "Fantastic Steel Gloves",
+                    "quantity": 150, 
+                    "stock_price": 1681.83, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Soft Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/madshensel_128.jpg",    
+                    "item": "Licensed Rubber Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

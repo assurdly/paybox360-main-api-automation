@@ -1,1 +1,0 @@
-{"products":[{"category":["This field may not be null."],"stocks":[{},{},{"stock_price":["A valid number is required."]}]}]}

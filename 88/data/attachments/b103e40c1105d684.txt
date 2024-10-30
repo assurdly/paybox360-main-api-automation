@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Sheila Schulist",
+    "email": "Rosalyn96@mailinator.com",
+    "phone": "08069031501",
+    "address": "39345 Conn Islands"
+}

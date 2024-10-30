@@ -1,8 +1,0 @@
-{
-    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
-    "customer_id": "",
-    "name": "Mr. Bessie Weissnat",
-    "email": "Christian_Emard",
-    "phone": "08058865364",
-    "address": "69565 Joanne Gateway"
-}

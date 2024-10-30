@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Johnathan Bauch IV",
+    "email": "Jimmy.Ferry@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0300 Bergstrom Crescent"
+}

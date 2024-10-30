@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Stephen Lindgren",
+    "email": "Obie_Donnelly81",
+    "phone": "08045770137",
+    "address": "25153 Weldon Prairie"
+}

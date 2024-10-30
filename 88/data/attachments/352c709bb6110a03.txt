@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Lake Else",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

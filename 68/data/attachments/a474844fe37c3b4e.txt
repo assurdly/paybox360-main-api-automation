@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"company":"Bandit Bread","branches":1,"teams":1,"total_stock_value":10000.0,"total_sales_values":0.0,"total_expected_profit":20000.0},"errors":null}

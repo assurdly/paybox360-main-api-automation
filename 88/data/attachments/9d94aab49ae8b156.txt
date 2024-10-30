@@ -1,0 +1,6 @@
+{
+    "sales_officer": "55434d95-6e8d-48b3-8d73-07e4896e2128",
+    "name": "Sales_Officer_1_-_Pipeline",
+    "type": "DEFAULT",
+    "is_default": true
+}

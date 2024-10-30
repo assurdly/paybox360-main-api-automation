@@ -1,8 +1,0 @@
-{
-    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b91",
-    "branch": "5e72f655-8abb-4939-9843-f1a3f618aefe",
-    "name": "Holly Walker",
-    "email": "Robb_Walter27@mailinator.com",
-    "phone": "08048967748",
-    "address": "7181 Harold Drives"
-}

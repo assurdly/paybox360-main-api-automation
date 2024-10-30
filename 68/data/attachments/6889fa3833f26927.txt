@@ -1,8 +1,0 @@
-{
-    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
-    "branch": "5e72f655-8abb-4939-9843-f1a3f618aefe1",
-    "name": "Erick Yost",
-    "email": "Cleora63@mailinator.com",
-    "phone": "08009849817",
-    "address": "819 Homenick Knolls"
-}

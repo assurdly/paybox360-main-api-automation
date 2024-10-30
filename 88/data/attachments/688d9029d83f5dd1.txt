@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Wooden Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Concrete Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mgonto_128.jpg",    
+                    "item": "Rustic Rubber Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

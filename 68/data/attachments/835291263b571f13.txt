@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "East Janychester",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

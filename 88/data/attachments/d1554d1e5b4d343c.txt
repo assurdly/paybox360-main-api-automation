@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Wooden Pizza",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Plastic Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/catarino_128.jpg",    
+                    "item": "Ergonomic Wooden Pants",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

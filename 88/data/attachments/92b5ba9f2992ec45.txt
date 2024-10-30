@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Steel Pizza",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Soft Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/fran_mchamy_128.jpg",    
+                    "item": "Fantastic Granite Soap",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

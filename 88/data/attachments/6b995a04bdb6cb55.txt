@@ -1,0 +1,7 @@
+{
+    "name": "Frank Wuckert",
+    "email": "Nelson.Hand",
+    "phone_number": "08096419788",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "",
+    "name": "solid state invoice",
+    "email": "@3Dane13@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

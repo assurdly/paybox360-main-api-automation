@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-09T19:05:42.039728+01:00","reference":"INV-OCT-w9DsiOX5","company":"Card","branch":"New Meghanstad","customer":null,"amount":"-8408.77","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

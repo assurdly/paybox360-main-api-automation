@@ -1,7 +1,0 @@
-{
-    "company": "50abd80b-0314-4364-ac80-b32e7e2f43b9",
-    "customer_id": "beans",
-    "city": "Dianahaven",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

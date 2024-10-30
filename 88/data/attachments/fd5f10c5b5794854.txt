@@ -1,0 +1,45 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/m_kalibry_128.jpg", 
+                    "item": "Handcrafted Cotton Shirt",
+                    "quantity": 150, 
+                    "stock_price": 1681.83, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Wooden Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/herrhaase_128.jpg",    
+                    "item": "Rustic Cotton Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

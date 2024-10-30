@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Joanne Robel",
+    "email": "Susie.Boehm@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "3052 Estel Run"
+}
