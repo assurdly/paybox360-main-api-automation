@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "beans",
+    "city": "Rebekamouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

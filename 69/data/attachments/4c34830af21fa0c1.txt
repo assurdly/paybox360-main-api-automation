@@ -1,6 +1,0 @@
-{
-    "company": "afdb6a28-22c1-4647-9221-78e4e4ce4364",
-    "branch": "fb676e3b-f141-4a6d-8413-3aab8ceb29ac",
-    "batch_id": "",
-    "means_of_payment": "CASH"
-}

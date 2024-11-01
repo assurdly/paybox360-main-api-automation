@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Jeanne Brekke",
+    "email": "Athena_Runolfsson60@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "62138 Lowell Pines"
+}

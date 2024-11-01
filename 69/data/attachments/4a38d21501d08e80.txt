@@ -1,7 +1,0 @@
-{
-    "name": "Becky Little",
-    "email": "Cletus85",
-    "phone_number": "08012259278",
-    "address": "Idumota, Lagos",
-    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb"
-}

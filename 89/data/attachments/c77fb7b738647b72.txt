@@ -1,0 +1,7 @@
+{
+    "location_type": "ONSITE",
+    "name": "HQ",
+    "latitude": "6.506", 
+    "longitude": "3.383"
+    }
+    

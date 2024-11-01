@@ -1,1 +1,0 @@
-{"pin1":["Ensure this field has no more than 4 characters."],"pin2":["Ensure this field has no more than 4 characters."]}

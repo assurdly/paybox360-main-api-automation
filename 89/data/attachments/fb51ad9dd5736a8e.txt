@@ -1,0 +1,24 @@
+{
+    "company": "",
+    "branch": "null",
+    "customer": "",
+    "invoice": "",
+    "choice": "SWAP",
+    "reason": "OTHERS",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NO",
+    "old_items": [
+        {
+            "item": "",
+            "quantity": 20,
+            "unit_price": "hhs"
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "",
+            "quantity": 80,
+            "amount": "eu8i"
+        }
+    ]
+}

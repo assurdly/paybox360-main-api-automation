@@ -1,8 +1,0 @@
-{
-    "company": "533e08b3-6364-49b4-95b1-338f7d9fb5eb1",
-    "branch": "9ecfb691-ca4b-4a17-a7ab-5a336f3a7009",
-    "name": "Jeanne Jacobson",
-    "email": "Steve_Kuhic@mailinator.com",
-    "phone": "08041713792",
-    "address": "15442 Tillman Knolls"
-}

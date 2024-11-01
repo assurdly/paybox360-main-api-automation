@@ -1,1 +1,0 @@
-{"message":["Only numeric values are required for PIN setup"]}

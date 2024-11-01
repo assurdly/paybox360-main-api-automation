@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Metal Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Soft Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/iamsteffen_128.jpg",    
+                    "item": "Intelligent Soft Table",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

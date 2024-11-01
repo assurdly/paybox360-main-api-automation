@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Gwen Nolan",
+    "email": "Augusta_Kassulke91@mailinator.com",
+    "phone": "08084895272",
+    "address": "8539 Bernier Harbors"
+}
