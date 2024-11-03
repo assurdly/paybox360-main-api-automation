@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"company has no supplier histories details yet.","supply_histories":[],"count":0,"total_histories":0},"errors":null}

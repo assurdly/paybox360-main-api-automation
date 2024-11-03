@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "", 
+    "title": "primary1431 tax",
+    "rate": 1.5
+}

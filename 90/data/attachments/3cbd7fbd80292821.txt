@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "", 
+    "title": "solid state tax",
+    "rate": 1.5
+}

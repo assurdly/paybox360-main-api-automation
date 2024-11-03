@@ -1,8 +1,0 @@
-{
-    "company": "c8ec129a-69c0-49a8-997a-795d8642c5301",
-    "branch": "9845196a-e026-48f9-b9fc-cd1ace25abbc",
-    "name": "Barry Jerde",
-    "email": "Whitney58@mailinator.com",
-    "phone": "08042386619",
-    "address": "3429 Blick Locks"
-}

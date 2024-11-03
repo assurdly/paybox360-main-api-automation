@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Forrest Moore",
+    "email": "Esta.Feeney74",
+    "phone": "08024057560",
+    "address": "7361 Gus Mountains"
+}

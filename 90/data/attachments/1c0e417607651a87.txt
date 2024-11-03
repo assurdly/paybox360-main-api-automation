@@ -1,0 +1,42 @@
+{
+    "company": "",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Fresh Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Wooden Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/megdraws_128.jpg",    
+                    "item": "Handcrafted Cotton Chips",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

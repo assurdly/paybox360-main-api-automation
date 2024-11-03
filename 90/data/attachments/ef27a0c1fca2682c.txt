@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "beans",
+    "name": "solid state invoice",
+    "email": "Sebastian_Hyatt@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

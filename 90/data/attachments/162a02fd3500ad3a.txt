@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "customer_id": "",
+    "name": "Jesus Kuhn",
+    "email": "Aylin.Deckow35@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "21982 Aaliyah Corners"
+}

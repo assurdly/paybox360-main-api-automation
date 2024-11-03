@@ -1,0 +1,3 @@
+{
+    "shift_closing_time":"23:59:00"
+    }

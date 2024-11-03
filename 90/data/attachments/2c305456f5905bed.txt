@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "",
+    "name": "digital invoice",
+    "email": "Cornell_Padberg72@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

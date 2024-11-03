@@ -1,0 +1,8 @@
+{
+    "company": "",
+    "branch": "",
+    "name": "Ginger Bradtke",
+    "email": "naima1905@gmail.com",
+    "phone": "08083369403",
+    "address": "1346 Vallie Pike"
+}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Othoview",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

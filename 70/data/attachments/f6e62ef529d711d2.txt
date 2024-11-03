@@ -1,5 +1,0 @@
-{
-    "company": "c8ec129a-69c0-49a8-997a-795d8642c530",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Rosenbaum LLC"
-}

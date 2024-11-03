@@ -1,0 +1,7 @@
+{
+    "name": "Donald Schmeler MD",
+    "email": "Palma7@mailinator.com",
+    "phone_number": "08000071903erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": ""
+}

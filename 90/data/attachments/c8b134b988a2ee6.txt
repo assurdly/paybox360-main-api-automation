@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "",
+    "name": "redundant invoice",
+    "email": "",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}
