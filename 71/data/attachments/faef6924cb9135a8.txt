@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"73b9b3be-a2d9-42e1-ad14-29f997010206","created_at":"2024-10-16T15:45:21.842299+01:00","title":"Auxiliary1364 Tax","rate":1.5,"company":"Idy-Orchid-Interface","branch":"West Elizatown"},"errors":null}

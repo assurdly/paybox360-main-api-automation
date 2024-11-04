@@ -1,0 +1,8 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "branch": "31416847-3508-46ab-b13d-9f5594e44df2",
+    "name": "Stanley Sipes",
+    "email": "Reymundo_Hoppe8",
+    "phone": "08066276826",
+    "address": "65077 Treutel Shores"
+}

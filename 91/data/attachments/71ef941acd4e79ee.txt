@@ -1,0 +1,3 @@
+{
+    "industry": "multi-byte-Test industry"
+}

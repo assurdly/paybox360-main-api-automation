@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "7e70e765-ff68-4682-a3e0-0314355e4468",
+    "name": "auxiliary invoice",
+    "email": "Maude.Windler@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

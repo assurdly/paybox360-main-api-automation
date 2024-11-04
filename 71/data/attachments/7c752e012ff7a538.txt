@@ -1,7 +1,0 @@
-{
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
-    "branch": "dc7498e2-e08f-4086-be70-06b89c52b923",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Mario8"
-}

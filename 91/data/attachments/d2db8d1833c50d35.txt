@@ -1,0 +1,42 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Frozen Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Soft Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/themadray_128.jpg",    
+                    "item": "Incredible Soft Chips",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

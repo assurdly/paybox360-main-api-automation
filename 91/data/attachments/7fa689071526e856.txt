@@ -1,0 +1,8 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f1",
+    "customer_id": "",
+    "name": "Dr. Jeanne Metz",
+    "email": "Lucy23@mailinator.com",
+    "phone": "08004058885",
+    "address": "8946 Hettinger Walks"
+}

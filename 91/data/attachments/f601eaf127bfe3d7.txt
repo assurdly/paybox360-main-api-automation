@@ -1,0 +1,11 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8fbeans",
+    "branch": "7e70e765-ff68-4682-a3e0-0314355e4468",
+    "name": "solid state invoice",
+    "email": "Brionna24@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

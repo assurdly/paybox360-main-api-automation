@@ -1,7 +1,0 @@
-{
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
-    "name": "Coral Springs",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

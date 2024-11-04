@@ -1,8 +1,0 @@
-{
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
-    "customer_id": "1",
-    "name": "Dr. Sheldon O'Hara",
-    "email": "Omari_Anderson@mailinator.com",
-    "phone": "08009611212",
-    "address": "18284 Shayne Glen"
-}

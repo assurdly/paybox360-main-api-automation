@@ -1,8 +1,0 @@
-{
-    "employee_department_data": [
-        {
-            "employee_id": "",
-            "department_id": "f6700673-931e-4c8c-a8a2-dbfd5fde3f4e"
-        }
-    ]
-}

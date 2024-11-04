@@ -1,7 +1,0 @@
-{
-    "name": "Gladys Homenick",
-    "email": "Opal.Adams81",
-    "phone_number": "08054193008",
-    "address": "Idumota, Lagos",
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56"
-}

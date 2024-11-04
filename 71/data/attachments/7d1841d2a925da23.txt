@@ -1,7 +1,0 @@
-{
-    "name": "Marvin Huel",
-    "email": "Bethany98@mailinator.com",
-    "phone_number": "08003044387",
-    "address": "Idumota, Lagos",
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c567"
-}

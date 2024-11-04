@@ -1,5 +1,0 @@
-{
-    "pipeline_id":"726f0996-2a08-44a9-a39e-d15314de8b47",
-    "new_stage_id":"ebb8b809-2086-47b7-923b-2ae4d3d1a0f8",
-    "order_ids": ["7415ff12-b2c8-4f2d-912c-e446f546b21f"]
-}

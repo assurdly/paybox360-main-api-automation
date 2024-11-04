@@ -1,0 +1,2 @@
+level: log, messages: Running Request A
+level: log, messages: Request B triggered after Request A:,[object Object]

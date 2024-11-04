@@ -1,8 +1,0 @@
-{
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56",
-    "branch": "dc7498e2-e08f-4086-be70-06b89c52b923",
-    "name": "Bridget Zulauf",
-    "email": "Jalon_Wiza93@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "095 Judah Camp"
-}

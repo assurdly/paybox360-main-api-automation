@@ -1,1 +1,0 @@
-{"status":"success","data":{"team_name":"Team + checks","team_id":"6810d6d5-f4b1-4b00-973e-de20d9fc8159","company_id":null,"members":[{"email":"soloyede708@gmail.com","phone_no":"+2349098764748","role":"MEMBER"}],"branch_id":null,"invited_members":[]}}

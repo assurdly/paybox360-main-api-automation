@@ -1,7 +1,0 @@
-{
-    "name": "Perry Murray DDS",
-    "email": "Rosalia.Price7",
-    "phone_number": "08063990059",
-    "address": "Idumota, Lagos",
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c56"
-}

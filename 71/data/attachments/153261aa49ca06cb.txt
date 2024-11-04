@@ -1,8 +1,0 @@
-{
-    "company": "914eabf1-2e15-43ed-be9d-acb4a9dc4c561",
-    "branch": "dc7498e2-e08f-4086-be70-06b89c52b923",
-    "name": "Meghan Gusikowski",
-    "email": "Ewald32@mailinator.com",
-    "phone": "08031882790",
-    "address": "238 Simeon Pike"
-}

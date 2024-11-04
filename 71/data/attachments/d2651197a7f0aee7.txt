@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"55c9187c-6663-4fbe-b655-8d60d21b0733","created_at":"2024-10-16T15:44:00.992823+01:00","name":"Captain Category","has_products":false,"company":"914eabf1-2e15-43ed-be9d-acb4a9dc4c56","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Orchid-Interface","stock_count":0},"errors":null}

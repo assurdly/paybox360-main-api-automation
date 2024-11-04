@@ -1,3 +1,0 @@
-{
-    "industry": "neural-Test industry"
-}

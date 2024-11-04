@@ -1,0 +1,11 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "branch": "7e70e765-ff68-4682-a3e0-0314355e4468",
+    "name": "optical invoice",
+    "email": "Anderson.Langworth47@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

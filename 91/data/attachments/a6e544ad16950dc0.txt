@@ -1,0 +1,8 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "branch": "31416847-3508-46ab-b13d-9f5594e44df21",
+    "name": "Norman Jenkins",
+    "email": "Rodolfo_Botsford75@mailinator.com",
+    "phone": "08089041890",
+    "address": "6799 Efrain Well"
+}

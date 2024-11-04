@@ -1,0 +1,8 @@
+{
+    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f",
+    "customer_id": "1",
+    "name": "Michael Little",
+    "email": "Samson_Harber15@mailinator.com",
+    "phone": "08006698144",
+    "address": "917 Jermey Garden"
+}
