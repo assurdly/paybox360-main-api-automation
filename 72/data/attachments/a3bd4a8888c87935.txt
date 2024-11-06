@@ -1,7 +1,0 @@
-{
-    "name": "Erica Oberbrunner",
-    "email": "Josefa_Buckridge",
-    "phone_number": "08060438097",
-    "address": "Idumota, Lagos",
-    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0"
-}

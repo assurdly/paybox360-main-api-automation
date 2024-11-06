@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"bdd48235-eddb-4f70-87bb-57095302cb4d","name":"Pants"},{"id":"68b3b116-ec85-4ade-a592-9ede10d271c3","name":"Captain Category"},{"id":"9da07fe0-9cf5-4adb-ac4e-0d45d68697a7","name":"Liquor"}],"count":3,"total_categories":3},"errors":null}

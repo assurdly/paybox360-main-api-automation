@@ -1,7 +1,0 @@
-{
-    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
-    "branch": "a7155975-9ee1-43da-b873-fc9c928709ef1",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Helga_Zieme@mailinator.com"
-}

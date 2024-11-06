@@ -1,8 +1,0 @@
-{
-    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
-    "branch": "a7155975-9ee1-43da-b873-fc9c928709ef",
-    "name": "Mable Becker",
-    "email": "Jaleel_Bradtke",
-    "phone": "08053610431",
-    "address": "44403 Shyanne Corners"
-}

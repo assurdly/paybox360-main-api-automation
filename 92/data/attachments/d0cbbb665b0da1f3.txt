@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"f3fd97e5-0595-413f-8ff7-ceef698360a1","name":"Shoes"},{"id":"83413c82-a5dc-4c93-8d80-db80e412c557","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}

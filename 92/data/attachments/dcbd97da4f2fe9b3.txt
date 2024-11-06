@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-11-06T19:07:21.078523+01:00","reference":"INV-NOV-wHJkT51w","company":"Bandwidth","branch":"Stammton","customer":null,"amount":"54430.50","due_date":"2029-12-31","status":"PENDING"}},"errors":null}

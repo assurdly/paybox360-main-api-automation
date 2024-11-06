@@ -1,0 +1,8 @@
+{
+    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
+    "customer_id": "",
+    "name": "Ms. Kirk Stamm",
+    "email": "Eryn.Mayert67",
+    "phone": "08046410867",
+    "address": "4121 Schroeder Dam"
+}

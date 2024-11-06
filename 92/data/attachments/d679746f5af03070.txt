@@ -1,0 +1,7 @@
+{
+    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af1",
+    "name": "Mattview",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

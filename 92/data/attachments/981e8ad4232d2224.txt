@@ -1,0 +1,8 @@
+{
+    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
+    "branch": "326c6758-3628-4dc3-93ca-ab6a1309a3d41",
+    "name": "Mitchell Nader",
+    "email": "Annette.Russel@mailinator.com",
+    "phone": "08021816094",
+    "address": "07696 Runolfsdottir Street"
+}

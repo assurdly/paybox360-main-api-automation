@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-10-16T19:06:57.763706+01:00","reference":"INV-OCT-WmkFRzSa","company":"Lexury","branch":"North Brendan","customer":null,"amount":"54430.50","due_date":"2020-12-31","status":"PENDING"}},"errors":null}

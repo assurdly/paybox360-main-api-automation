@@ -1,0 +1,45 @@
+{
+    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vlajki_128.jpg", 
+                    "item": "Handcrafted Soft Mouse",
+                    "quantity": 150, 
+                    "stock_price": 3317.06, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Granite Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mateaodviteza_128.jpg",    
+                    "item": "Handcrafted Plastic Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0beans",
-    "customer_id": "",
-    "city": "Kubburgh",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

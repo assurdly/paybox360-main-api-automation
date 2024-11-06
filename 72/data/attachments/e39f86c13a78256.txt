@@ -1,8 +1,0 @@
-{
-    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
-    "branch": "a7155975-9ee1-43da-b873-fc9c928709ef1",
-    "name": "Miss Danielle Hirthe",
-    "email": "Benton.Johns61@mailinator.com",
-    "phone": "08059312362",
-    "address": "5663 Enos Creek"
-}

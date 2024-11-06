@@ -1,0 +1,7 @@
+{
+    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
+    "branch": "326c6758-3628-4dc3-93ca-ab6a1309a3d4",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Paolo15"
+}

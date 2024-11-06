@@ -1,8 +1,0 @@
-{
-    "company": "a80dd431-8b9e-4887-82dd-a684dc752ab0",
-    "customer_id": "",
-    "name": "Mr. Viola Hettinger",
-    "email": "Eden90@mailinator.com",
-    "phone": "08040403192",
-    "address": "5078 Mayert Prairie"
-}

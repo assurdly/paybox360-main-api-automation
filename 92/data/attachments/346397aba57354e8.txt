@@ -1,0 +1,5 @@
+{
+    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Streich and Sons"
+}

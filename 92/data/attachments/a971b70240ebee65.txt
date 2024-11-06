@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"83413c82-a5dc-4c93-8d80-db80e412c557","created_at":"2024-11-06T19:06:01.537532+01:00","name":"Captain Category","has_products":false,"company":"cc32b70d-44d9-4dc0-a5ef-b9ed566a14af","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Azure-Port","stock_count":0},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
+    "customer_id": "",
+    "name": "June Dare",
+    "email": "Richard_Schiller81@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "1867 Reichel View"
+}
