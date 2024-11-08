@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port Dorian",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

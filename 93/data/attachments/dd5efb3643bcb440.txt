@@ -1,0 +1,42 @@
+{
+    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Wooden Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Steel Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gkaam_128.jpg",    
+                    "item": "Small Granite Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

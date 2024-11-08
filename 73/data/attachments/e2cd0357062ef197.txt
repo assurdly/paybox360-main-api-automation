@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "East Greg",
-    "state": "Lagsos - Test",
-    "country": "Mozambique"
-}

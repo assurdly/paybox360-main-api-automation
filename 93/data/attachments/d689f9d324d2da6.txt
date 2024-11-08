@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"c72e0005-f353-4114-b0b7-5c9860cd20d4","created_at":"2024-11-08T19:08:02.100110+01:00","title":"1080P1428 Tax","rate":1.5,"company":"Idy-White-System","branch":"Georgestad"},"errors":null}

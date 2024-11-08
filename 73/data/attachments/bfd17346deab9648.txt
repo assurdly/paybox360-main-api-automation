@@ -1,5 +1,0 @@
-{
-    "company": "",
-    "price_list_id": "",
-    "price": "9916.26esetd"
-}

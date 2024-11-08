@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "",
-    "name": "Ms. Thomas Champlin",
-    "email": "Irma.Hyatt24@mailinator.com",
-    "phone": "08041599793",
-    "address": "392 Mohr Fords"
-}

@@ -1,0 +1,1 @@
+{"pin1":["This field may not be blank."],"pin2":["This field may not be blank."]}

@@ -1,0 +1,8 @@
+{
+    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
+    "customer_id": "",
+    "name": "Carlton Raynor",
+    "email": "Bridget.Graham@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "759 Torphy Mill"
+}

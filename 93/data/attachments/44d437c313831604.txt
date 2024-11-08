@@ -1,0 +1,42 @@
+{
+    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Steel Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Granite Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rikas_128.jpg",    
+                    "item": "Handcrafted Rubber Salad",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

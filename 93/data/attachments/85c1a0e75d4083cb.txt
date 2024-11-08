@@ -1,0 +1,45 @@
+{
+    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a952",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bluesix_128.jpg", 
+                    "item": "Tasty Rubber Gloves",
+                    "quantity": 150, 
+                    "stock_price": 5741.86, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Plastic Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kikillo_128.jpg",    
+                    "item": "Generic Soft Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

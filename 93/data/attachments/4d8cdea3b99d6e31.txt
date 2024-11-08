@@ -1,0 +1,8 @@
+{
+    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
+    "customer_id": "1",
+    "name": "Lynda Beahan",
+    "email": "Luis.Hyatt@mailinator.com",
+    "phone": "08020069241",
+    "address": "12032 Delphine Mission"
+}

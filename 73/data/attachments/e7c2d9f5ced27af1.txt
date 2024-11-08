@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Vanessa Moen",
-    "email": "naima1905@gmail.com",
-    "phone": "08004170562",
-    "address": "2655 Gulgowski Common"
-}

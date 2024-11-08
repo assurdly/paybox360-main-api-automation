@@ -1,0 +1,42 @@
+{
+    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Metal Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Soft Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vikashpathak18_128.jpg",    
+                    "item": "Generic Plastic Bike",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

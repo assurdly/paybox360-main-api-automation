@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Maryann Strosin",
-    "email": "Kole.Kuhn14@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "104 Sanford Run"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Jerry Prohaska",
-    "email": "Kendall.Kessler@mailinator.com",
-    "phone_number": "08044000454",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

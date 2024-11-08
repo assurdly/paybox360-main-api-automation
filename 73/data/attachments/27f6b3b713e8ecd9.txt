@@ -1,7 +1,0 @@
-{
-    "name": "Pablo McLaughlin",
-    "email": "Aurelie76",
-    "phone_number": "08047254954",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

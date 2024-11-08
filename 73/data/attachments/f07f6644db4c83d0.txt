@@ -1,7 +1,0 @@
-{
-    "name": "Natasha Ratke I",
-    "email": "Pedro70",
-    "phone_number": "08004881861",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

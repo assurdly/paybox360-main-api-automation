@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Maureen Hauck",
-    "email": "Eula23@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "38820 Ashley Loop"
-}

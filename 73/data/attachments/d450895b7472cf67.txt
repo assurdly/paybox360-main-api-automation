@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "product": "",
-    "quantity": 1,
-    "reason": "error on input details"
-}
