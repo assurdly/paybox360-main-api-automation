@@ -1,0 +1,42 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Fresh Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Metal Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/Talbi_ConSept_128.jpg",    
+                    "item": "Handmade Plastic Chips",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

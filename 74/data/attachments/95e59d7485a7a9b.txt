@@ -1,7 +1,0 @@
-{
-    "name": "Bennie Dare",
-    "email": "Brock.Schuppe80@mailinator.com",
-    "phone_number": "08024181965erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

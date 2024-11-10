@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Morris Gorczany",
-    "email": "Cleta.Weber",
-    "phone": "08093916907",
-    "address": "7891 Sean Estates"
-}

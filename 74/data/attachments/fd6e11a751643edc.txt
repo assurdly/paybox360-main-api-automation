@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "beans", 
-    "title": "digital1368 tax",
-    "rate": 1.5
-}

@@ -1,0 +1,7 @@
+{
+    "company": "db423b77-fd42-4085-a1d4-3eb10fd96f98",
+    "branch": "62a1953e-dde4-4133-9373-4443bc69203f",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": "jdcjayu",
+    "email": "Stephania74@mailinator.com"
+}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "branch": "1",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Pearline_Goldner11@mailinator.com"
-}

@@ -1,0 +1,45 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/_victa_128.jpg", 
+                    "item": "Rustic Granite Shoes",
+                    "quantity": 150, 
+                    "stock_price": 9878.99, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Frozen Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/envex_128.jpg",    
+                    "item": "Awesome Frozen Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

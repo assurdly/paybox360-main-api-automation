@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"bdeab7eb-19ac-4c7f-832f-ff85ddfcf5bf","name":"Chicken"},{"id":"c245ada1-375a-4e61-9e31-c89f26466f53","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}

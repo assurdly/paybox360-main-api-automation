@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e63e6437-e0f7-4166-9e9d-c5ac05d854f5","created_at":"2024-11-10T21:04:37.889910+01:00","title":"Haptic1428 Tax","rate":1.5,"company":"Panel","branch":"Casperland"},"errors":null}

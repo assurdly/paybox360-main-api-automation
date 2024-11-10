@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Gayle Larkin IV",
-    "email": "Aaron14@mailinator.com",
-    "phone": "08002185970",
-    "address": "125 Turner Common"
-}

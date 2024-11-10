@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "",
-    "name": "Dr. Frances Bauch",
-    "email": "Webster18@mailinator.com",
-    "phone": "08032013271",
-    "address": "380 Katheryn Extensions"
-}

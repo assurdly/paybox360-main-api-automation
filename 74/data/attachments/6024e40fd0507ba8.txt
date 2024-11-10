@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Erik Grady",
-    "email": "Hardy_Jerde42@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "74761 Augusta Club"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Delores Bogan",
-    "email": "Gayle88",
-    "phone": "08041236101",
-    "address": "69541 Leola Prairie"
-}

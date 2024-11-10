@@ -1,0 +1,8 @@
+{
+    "company": "db423b77-fd42-4085-a1d4-3eb10fd96f98",
+    "customer_id": "",
+    "name": "Miguel Wunsch I",
+    "email": "Taylor.Will62@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0480 Mann Fields"
+}

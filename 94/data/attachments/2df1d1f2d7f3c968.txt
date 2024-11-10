@@ -1,0 +1,7 @@
+{
+    "name": "Johnnie Howe",
+    "email": "Christop.Abernathy20@mailinator.com",
+    "phone_number": "08079061434",
+    "address": "Idumota, Lagos",
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6"
+}

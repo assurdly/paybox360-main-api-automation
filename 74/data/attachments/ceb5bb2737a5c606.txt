@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Sylvanmouth",
-    "state": "",
-    "country": "Nigeria"
-}

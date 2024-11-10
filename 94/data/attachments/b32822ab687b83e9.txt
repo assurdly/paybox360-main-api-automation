@@ -1,0 +1,8 @@
+{
+    "company": "db423b77-fd42-4085-a1d4-3eb10fd96f98",
+    "customer_id": "",
+    "name": "Miss Leslie Macejkovic",
+    "email": "Tressa7@mailinator.com",
+    "phone": "08049785689",
+    "address": "42094 Mohr Island"
+}

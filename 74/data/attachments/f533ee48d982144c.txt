@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "", 
-    "title": "primary1364 tax",
-    "rate": 1.5
-}

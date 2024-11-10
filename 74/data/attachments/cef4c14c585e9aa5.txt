@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "St. Louis",
-    "state": "Abuja",
-    "country": "Nigeria"
-}
