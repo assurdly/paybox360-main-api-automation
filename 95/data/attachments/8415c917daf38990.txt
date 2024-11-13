@@ -1,0 +1,11 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "branch": "0f9f4a3b-3553-4408-ab5c-c72410776b29",
+    "name": "open-source invoice",
+    "email": "Sidney_Frami32@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

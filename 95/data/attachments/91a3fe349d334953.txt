@@ -1,0 +1,8 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e61",
+    "branch": "e54f2e58-277d-4d4b-b31c-bbe236fc222c",
+    "name": "Camille Hirthe",
+    "email": "Madge61@mailinator.com",
+    "phone": "08075620454",
+    "address": "52949 Retta Springs"
+}

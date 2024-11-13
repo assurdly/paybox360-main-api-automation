@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Carole Collier",
-    "email": "Madie.Jast44@mailinator.com",
-    "phone": "08069836076",
-    "address": "30298 O'Conner Ville"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "customer_id": "beans",
+    "city": "Monterey Park",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

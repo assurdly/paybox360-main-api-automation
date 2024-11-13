@@ -1,0 +1,7 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "branch": "e54f2e58-277d-4d4b-b31c-bbe236fc222c",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Joseph.Torphy3@mailinator.com"
+}

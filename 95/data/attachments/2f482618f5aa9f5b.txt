@@ -1,0 +1,42 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Rubber Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Frozen Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nerdgr8_128.jpg",    
+                    "item": "Ergonomic Fresh Chair",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

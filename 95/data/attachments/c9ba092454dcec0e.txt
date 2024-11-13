@@ -1,0 +1,1 @@
+{"name":"Dash table","no_of_seats":20,"categories":["fe99d00b-b6b3-485e-b89d-b723b38fe5a3"],"all_categories":false}

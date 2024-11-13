@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "1",
-    "name": "Ryan Bernier",
-    "email": "Stanley99@mailinator.com",
-    "phone": "08075789000",
-    "address": "24677 Rath Glens"
-}

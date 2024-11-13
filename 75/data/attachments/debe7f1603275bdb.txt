@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "East Erica",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

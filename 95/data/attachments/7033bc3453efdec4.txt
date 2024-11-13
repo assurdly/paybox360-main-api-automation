@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"9c4e5c68-ea1d-427b-8872-e25a164acfb5","created_at":"2024-11-13T19:08:23.627113+01:00","title":"Digital Tax","rate":0.0,"company":"Idy-Purple-Bus","branch":"Justineside"},"errors":null}

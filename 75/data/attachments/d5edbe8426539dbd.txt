@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Holly Ernser",
-    "email": "Karolann43",
-    "phone": "08016589850",
-    "address": "9693 Lueilwitz Trail"
-}

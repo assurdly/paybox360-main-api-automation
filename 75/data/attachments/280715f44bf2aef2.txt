@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "",
-    "name": "Miranda Mann",
-    "email": "Zelda20@mailinator.com",
-    "phone": "08007646833",
-    "address": "076 Stehr Station"
-}

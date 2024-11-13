@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"branch has no inventory status yet.","inventory_status":[],"count":0,"total_inventory_status":0},"errors":null}

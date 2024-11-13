@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "1",
-    "name": "Taylor Kuhn DVM",
-    "email": "Eino_Grady@mailinator.com",
-    "phone": "08092683413",
-    "address": "65569 Camden Squares"
-}

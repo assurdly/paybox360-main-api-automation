@@ -1,0 +1,45 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/j_drake__128.jpg", 
+                    "item": "Practical Granite Car",
+                    "quantity": 150, 
+                    "stock_price": 2811.05, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Concrete Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/cynthiasavard_128.jpg",    
+                    "item": "Intelligent Plastic Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

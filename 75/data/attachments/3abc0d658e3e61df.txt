@@ -1,7 +1,0 @@
-{
-    "name": "Ira Carter",
-    "email": "Colleen.Hermiston@mailinator.com",
-    "phone_number": "08036684276",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

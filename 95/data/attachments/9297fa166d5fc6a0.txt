@@ -1,0 +1,8 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "branch": "0f9f4a3b-3553-4408-ab5c-c72410776b29",
+    "name": "Miss Randy Bahringer",
+    "email": "naima1905@gmail.com",
+    "phone": "08032300453",
+    "address": "1513 Dach Mount"
+}

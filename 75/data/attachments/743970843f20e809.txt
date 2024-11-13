@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "name": "Millsland",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

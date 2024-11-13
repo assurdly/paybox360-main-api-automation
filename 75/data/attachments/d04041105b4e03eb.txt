@@ -1,5 +1,0 @@
-{
-    "phone_number": "",
-    "app_name": "Liberty paiy",
-    "otp":"4ty588"
-}

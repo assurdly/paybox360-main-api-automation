@@ -1,0 +1,1 @@
+{"message":"beneficiary updated successfully"}

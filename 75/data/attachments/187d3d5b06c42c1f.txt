@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Colin McClure",
-    "email": "Richard.Heller@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "093 Imogene Mission"
-}

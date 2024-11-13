@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + circuit","company_id":"b1d1684b-cf0f-4a1c-99a1-e081027b44e6","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"c605cde9-9347-485a-a020-e3b5f7978ea3"}}

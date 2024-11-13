@@ -1,0 +1,8 @@
+{
+    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
+    "customer_id": "",
+    "name": "Taylor Rolfson",
+    "email": "Ollie_Schultz33@mailinator.com",
+    "phone": "08022652981",
+    "address": "72456 Schuppe Plain"
+}

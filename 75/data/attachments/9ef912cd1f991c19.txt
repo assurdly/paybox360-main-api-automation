@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Sheryl Klocko",
-    "email": "Junior_Morar98@mailinator.com",
-    "phone": "08094188030",
-    "address": "1047 Ines Forks"
-}
