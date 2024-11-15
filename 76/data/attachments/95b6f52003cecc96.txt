@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "beans",
-    "city": "East Raleighland",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

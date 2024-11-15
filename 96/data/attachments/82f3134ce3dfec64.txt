@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "First table",
+            "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
+            "branch": "4df58f77-9d21-418e-9b0c-37ce18479fc5",
+            "no_of_seats": 4,
+            "categories": ["f146e47f-4b89-4607-833a-09219b517e6e"],
+            "all_categories": "False"
+        },
+        {
+            "name": "Second table",
+            "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
+            "branch": "4df58f77-9d21-418e-9b0c-37ce18479fc5",
+            "no_of_seats": 6,
+            "categories": ["f146e47f-4b89-4607-833a-09219b517e6e"],
+            "all_categories": "True"
+        }
+    ]
+}

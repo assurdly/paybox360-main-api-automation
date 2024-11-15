@@ -1,7 +1,0 @@
-{
-    "name": "Miss Linda Legros",
-    "email": "Aryanna.Koepp25",
-    "phone_number": "08030754741",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

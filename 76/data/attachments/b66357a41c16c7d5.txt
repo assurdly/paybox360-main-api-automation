@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Arnold Lindgren",
-    "email": "Adah_Gaylord",
-    "phone": "08055309648",
-    "address": "01508 Rigoberto Valleys"
-}

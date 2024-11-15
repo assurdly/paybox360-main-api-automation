@@ -1,7 +1,0 @@
-{
-    "name": "Kristen Rowe",
-    "email": "Casimer.Block53@mailinator.com",
-    "phone_number": "08013599084",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

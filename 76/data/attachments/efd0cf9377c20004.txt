@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Brittany Schmidt",
-    "email": "Gaetano73@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "0557 Fisher Grove"
-}

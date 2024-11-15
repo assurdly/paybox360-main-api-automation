@@ -1,7 +1,0 @@
-{
-    "name": "Ryan Sipes",
-    "email": "Elmer.Goldner@mailinator.com",
-    "phone_number": "08053859839erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

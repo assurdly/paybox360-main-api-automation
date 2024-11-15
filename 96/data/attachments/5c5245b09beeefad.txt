@@ -1,0 +1,45 @@
+{
+    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/okansurreel_128.jpg", 
+                    "item": "Unbranded Concrete Salad",
+                    "quantity": 150, 
+                    "stock_price": 9729.48, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Frozen Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thierrykoblentz_128.jpg",    
+                    "item": "Licensed Wooden Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

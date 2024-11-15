@@ -1,7 +1,0 @@
-{
-    "name": "Harry Thompson",
-    "email": "Meta_Altenwerth42",
-    "phone_number": "08087651258",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Javier Gutmann",
-    "email": "Constantin.McKenzie",
-    "phone": "08019294682",
-    "address": "506 Lesch Summit"
-}

@@ -1,0 +1,7 @@
+{
+    "name": "Debra Keebler",
+    "email": "Pierre.Upton81@mailinator.com",
+    "phone_number": "08028177550",
+    "address": "Idumota, Lagos",
+    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af"
+}

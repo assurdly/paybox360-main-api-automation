@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Kirk Daniel",
-    "email": "Avis.Yundt@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "06520 Kacie Expressway"
-}

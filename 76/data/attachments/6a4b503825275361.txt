@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "1",
-    "name": "Eleanor Nienow",
-    "email": "Carmel51@mailinator.com",
-    "phone": "08065545816",
-    "address": "86752 Gottlieb Cove"
-}

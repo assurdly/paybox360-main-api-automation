@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Luz DuBuque",
-    "email": "naima1905@gmail.com",
-    "phone": "08064035586",
-    "address": "982 Alejandrin Views"
-}

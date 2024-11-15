@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Rafael Hagenes",
-    "email": "Annabell.Lubowitz@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "2303 Sigrid Roads"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Patti Kris Sr.",
-    "email": "Juston.Jast@mailinator.com",
-    "phone": "08098651855",
-    "address": "299 Sanford Pine"
-}
