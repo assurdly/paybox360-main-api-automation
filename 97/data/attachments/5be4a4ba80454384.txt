@@ -1,0 +1,8 @@
+{
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be",
+    "customer_id": "1",
+    "name": "Krystal Zieme",
+    "email": "Jamarcus29@mailinator.com",
+    "phone": "08038036377",
+    "address": "5325 Helena Turnpike"
+}

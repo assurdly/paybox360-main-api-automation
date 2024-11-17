@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Samantha Zieme",
-    "email": "Brandi_Zulauf31@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "026 Ernser Spur"
-}

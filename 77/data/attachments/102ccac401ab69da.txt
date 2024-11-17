@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "",
-    "name": "Melba Bergstrom",
-    "email": "Sim21@mailinator.com",
-    "phone": "08081618986",
-    "address": "174 Kian Lights"
-}

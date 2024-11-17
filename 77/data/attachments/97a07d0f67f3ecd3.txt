@@ -1,7 +1,0 @@
-{
-    "name": "Sheri Flatley",
-    "email": "Stuart.Cassin11",
-    "phone_number": "08018553785",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

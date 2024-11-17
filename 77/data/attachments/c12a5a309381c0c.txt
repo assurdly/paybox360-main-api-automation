@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "beans",
-    "city": "Roseberg",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

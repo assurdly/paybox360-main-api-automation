@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Neil Feeney",
-    "email": "Bo11@mailinator.com",
-    "phone": "08014971214",
-    "address": "660 Kessler Coves"
-}

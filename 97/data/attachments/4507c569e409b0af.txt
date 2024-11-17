@@ -1,0 +1,1 @@
+[{"id":"6e692c62-7913-44d0-a107-51f6eabd0210","name":"Bayow Films International","phone":"08093456789","bank_name":"Wema Bank Plc","account_name":"Liberty/Bayowa International","bank_number":"842xxxxxx1"}]

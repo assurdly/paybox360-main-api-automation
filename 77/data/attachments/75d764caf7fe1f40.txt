@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "1",
-    "name": "Regina Corkery III",
-    "email": "Evelyn18@mailinator.com",
-    "phone": "08010414756",
-    "address": "32663 Witting Pines"
-}

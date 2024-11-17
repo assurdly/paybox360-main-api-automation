@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"f2c5f42a-9df4-46b6-8a58-8e818b92a80f","created_at":"2024-11-17T21:03:33.320742+01:00","title":"Cross-Platform Tax","rate":0.0,"company":"Idy-Orchid-Microchip","branch":"East Johnniestad"},"errors":null}

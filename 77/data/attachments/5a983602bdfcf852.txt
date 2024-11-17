@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Eula Ernser",
-    "email": "Marilyne46@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "898 Augustus Avenue"
-}

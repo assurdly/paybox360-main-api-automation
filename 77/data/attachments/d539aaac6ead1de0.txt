@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Becky Hilll",
-    "email": "Earline_Mueller38@mailinator.com",
-    "phone": "08022613839",
-    "address": "092 Beer Parks"
-}

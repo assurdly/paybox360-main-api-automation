@@ -1,0 +1,8 @@
+{
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be1",
+    "customer_id": "",
+    "name": "Ana Hammes III",
+    "email": "Kiel_Moen@mailinator.com",
+    "phone": "08021955042",
+    "address": "65941 Cruickshank Cove"
+}

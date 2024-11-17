@@ -1,7 +1,0 @@
-{
-    "name": "Otis Medhurst",
-    "email": "Elna11@mailinator.com",
-    "phone_number": "08041289448erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

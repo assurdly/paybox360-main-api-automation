@@ -1,7 +1,0 @@
-{
-    "name": "Lloyd Gulgowski",
-    "email": "Eda.Jacobs",
-    "phone_number": "08034487726",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

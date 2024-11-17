@@ -1,0 +1,7 @@
+{
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be",
+    "branch": "61c9f65a-1eff-407b-8005-e7e287b4a0f4",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Karianne.Schaden80@mailinator.com"
+}

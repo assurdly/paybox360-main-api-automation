@@ -1,0 +1,45 @@
+{
+    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/alek_djuric_128.jpg", 
+                    "item": "Tasty Soft Bike",
+                    "quantity": 150, 
+                    "stock_price": 6163.88, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Frozen Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aeon56_128.jpg",    
+                    "item": "Small Rubber Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

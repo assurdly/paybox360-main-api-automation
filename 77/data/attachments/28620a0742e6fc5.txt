@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Keith MacGyver",
-    "email": "Gerald.Hintz62@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "0577 Gleason Lodge"
-}
