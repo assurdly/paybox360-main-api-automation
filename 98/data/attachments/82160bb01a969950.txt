@@ -1,0 +1,8 @@
+{
+    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
+    "branch": "af5732d7-7d19-4419-8b48-866a0f6725d91",
+    "name": "Kathryn Aufderhar DDS",
+    "email": "Joshua82@mailinator.com",
+    "phone": "08045291259",
+    "address": "6678 Gerlach Roads"
+}

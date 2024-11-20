@@ -1,8 +1,0 @@
-{
-    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd491",
-    "branch": "ac9b039a-c1eb-4a8d-a901-368fd096fd78",
-    "name": "Carla Wyman",
-    "email": "Liza.Daugherty@mailinator.com",
-    "phone": "08086868027",
-    "address": "2833 Rosalia Plains"
-}

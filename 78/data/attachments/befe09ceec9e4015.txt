@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port Coltonstad",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

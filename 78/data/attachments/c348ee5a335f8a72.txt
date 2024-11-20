@@ -1,8 +1,0 @@
-{
-    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49",
-    "customer_id": "",
-    "name": "Marshall Gerlach",
-    "email": "Allen_Jakubowski@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "96446 Reggie Village"
-}

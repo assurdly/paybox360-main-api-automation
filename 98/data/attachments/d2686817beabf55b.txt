@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"a6865607-2a55-4b2a-a41a-7e8a230e5397","created_at":"2024-11-20T19:06:08.257501+01:00","title":"Multi-Byte Tax","rate":-10.0,"company":"Idy-Lavender-Port","branch":"Port Raeganton"},"errors":null}

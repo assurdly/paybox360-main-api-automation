@@ -1,7 +1,0 @@
-{
-    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd491",
-    "branch": "9d9fd458-390c-4b12-a53c-a4374fa774bb",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Era57@mailinator.com"
-}

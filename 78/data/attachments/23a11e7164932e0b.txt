@@ -1,1 +1,0 @@
-{"price_lists":[{"item":["This field may not be null."]},{"item":["This field may not be null."]}]}

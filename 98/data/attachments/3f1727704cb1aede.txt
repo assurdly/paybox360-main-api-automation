@@ -1,0 +1,7 @@
+{
+    "name": "Mrs. Dana Buckridge",
+    "email": "Arthur_Gislason27@mailinator.com",
+    "phone_number": "08064630972erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004"
+}

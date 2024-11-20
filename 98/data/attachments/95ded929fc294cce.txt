@@ -1,0 +1,42 @@
+{
+    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Rustic Wooden Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Rubber Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thiagovernetti_128.jpg",    
+                    "item": "Ergonomic Granite Bike",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

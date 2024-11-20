@@ -1,7 +1,0 @@
-{
-    "company": "1b0111a4-936b-4e50-a7b2-29e65af2cd49",
-    "branch": "ac9b039a-c1eb-4a8d-a901-368fd096fd781",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Jordan.Wintheiser@mailinator.com"
-}

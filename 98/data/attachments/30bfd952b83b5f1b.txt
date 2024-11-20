@@ -1,0 +1,42 @@
+{
+    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Metal Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Cotton Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thehacker_128.jpg",    
+                    "item": "Incredible Fresh Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
+    "branch": "af5732d7-7d19-4419-8b48-866a0f6725d9",
+    "name": "Ruben Kirlin",
+    "email": "Gia.Gleason@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "50495 Dare Spurs"
+}

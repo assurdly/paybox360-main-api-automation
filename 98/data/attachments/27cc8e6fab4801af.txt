@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "e4b42a1e-1263-4a67-9fb5-e83f46b4c6c0",
+    "name": "haptic invoice",
+    "email": "Whitney_Hyatt@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"a6287c39-161d-4759-b7d1-32c22f01ef8d","created_at":"2024-11-20T19:06:07.871101+01:00","title":"Solid State1431 Tax","rate":1.5,"company":"Idy-Lavender-Port","branch":""},"errors":null}
