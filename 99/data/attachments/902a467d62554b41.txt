@@ -1,0 +1,8 @@
+{
+    "company": "07e8b1c1-9328-4709-9abd-c367d576b3ad",
+    "branch": "6b23dab6-1da7-4b38-a466-fd3b5365bb63",
+    "name": "Renee Rau",
+    "email": "Luna68@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "454 Randall Islands"
+}

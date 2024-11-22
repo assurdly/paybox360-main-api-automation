@@ -1,0 +1,45 @@
+{
+    "company": "07e8b1c1-9328-4709-9abd-c367d576b3ad",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/baliomega_128.jpg", 
+                    "item": "Handmade Metal Ball",
+                    "quantity": 150, 
+                    "stock_price": 895.16, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Plastic Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vm_f_128.jpg",    
+                    "item": "Awesome Plastic Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "company": "07e8b1c1-9328-4709-9abd-c367d576b3ad",
+    "name": "Port Conner",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

@@ -1,0 +1,8 @@
+{
+    "company": "07e8b1c1-9328-4709-9abd-c367d576b3ad",
+    "branch": "129b8faa-a121-4f04-bd4a-75c377270bfb",
+    "name": "Mrs. Gilbert Steuber",
+    "email": "naima1905@gmail.com",
+    "phone": "08070642044",
+    "address": "2329 Lyda Causeway"
+}

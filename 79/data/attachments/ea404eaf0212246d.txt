@@ -1,5 +1,0 @@
-{
-    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Hills Inc"
-}

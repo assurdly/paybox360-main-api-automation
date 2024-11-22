@@ -1,7 +1,0 @@
-{
-    "name": "Luis Hintz",
-    "email": "Lynn_Ward69",
-    "phone_number": "08032074181",
-    "address": "Idumota, Lagos",
-    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2"
-}

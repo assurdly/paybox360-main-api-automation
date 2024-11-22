@@ -1,0 +1,11 @@
+{
+    "company": "07e8b1c1-9328-4709-9abd-c367d576b3adbeans",
+    "branch": "129b8faa-a121-4f04-bd4a-75c377270bfb",
+    "name": "back-end invoice",
+    "email": "Cordie.McLaughlin29@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

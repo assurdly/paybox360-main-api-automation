@@ -1,8 +1,0 @@
-{
-    "company": "6c87b458-3faf-4be6-a080-23d722cec1e2",
-    "customer_id": "1",
-    "name": "Velma Gaylord",
-    "email": "Jimmie_VonRueden5@mailinator.com",
-    "phone": "08040326254",
-    "address": "5192 Friesen Mews"
-}

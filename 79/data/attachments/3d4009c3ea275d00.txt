@@ -1,8 +1,0 @@
-{
-    "company": "6c87b458-3faf-4be6-a080-23d722cec1e21",
-    "branch": "8a44cf09-7eec-486a-99e1-b93510cef277",
-    "name": "Edmund Ebert",
-    "email": "Jaren16@mailinator.com",
-    "phone": "08070160381",
-    "address": "9169 Brandy Greens"
-}
