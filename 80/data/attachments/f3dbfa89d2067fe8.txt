@@ -1,7 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
-    "name": "Gerlachshire",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": "agshkkw",
-    "is_super_branch": false
-}

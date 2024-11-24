@@ -1,8 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d1",
-    "customer_id": "",
-    "name": "Marcos Stracke",
-    "email": "Herminia.Feeney8@mailinator.com",
-    "phone": "08047908243",
-    "address": "8981 Jovan Freeway"
-}

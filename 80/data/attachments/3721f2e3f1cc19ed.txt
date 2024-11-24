@@ -1,8 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
-    "customer_id": "1",
-    "name": "Andrea Crooks",
-    "email": "Destiney.Schamberger28@mailinator.com",
-    "phone": "08053014920",
-    "address": "0192 Timothy Extension"
-}

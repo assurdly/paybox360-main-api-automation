@@ -1,7 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
-    "branch": "dc91d362-a4df-4941-8a78-079b6bef7429",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": -3898,
-    "email": "Javier7@mailinator.com"
-}

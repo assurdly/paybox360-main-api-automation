@@ -1,0 +1,42 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Wooden Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Wooden Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dpmachado_128.jpg",    
+                    "item": "Gorgeous Soft Shoes",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

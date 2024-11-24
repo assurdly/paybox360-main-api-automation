@@ -1,8 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
-    "branch": "dc91d362-a4df-4941-8a78-079b6bef7429",
-    "name": "Bobby Schmitt",
-    "email": "Erika.Turcotte78@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "8514 Sipes Path"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "customer_id": "",
+    "name": "Sara Denesik",
+    "email": "Titus37@mailinator.com",
+    "phone": "08061223193",
+    "address": "2321 Howard Lock"
+}

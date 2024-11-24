@@ -1,5 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Goyette - Deckow"
-}

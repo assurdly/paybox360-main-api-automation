@@ -1,7 +1,0 @@
-{
-    "company": "d6483f38-358d-4022-bb2a-c88a78c4203d",
-    "branch": "dc91d362-a4df-4941-8a78-079b6bef74291",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Susan_OKeefe@mailinator.com"
-}

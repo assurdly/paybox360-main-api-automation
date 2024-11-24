@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"2ef53044-3afd-4709-93be-722c7871a35b","created_at":"2024-11-24T21:05:11.587742+01:00","title":"Multi-Byte1428 Tax","rate":1.5,"company":"Idy-Violet-Transmitter","branch":"Downers Grove"},"errors":null}

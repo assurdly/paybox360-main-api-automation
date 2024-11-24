@@ -1,0 +1,7 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "branch": "d34a747b-7f19-4072-ba53-30fc1e2691151",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Junius_Sawayn@mailinator.com"
+}

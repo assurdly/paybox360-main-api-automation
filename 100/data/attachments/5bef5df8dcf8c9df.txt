@@ -1,0 +1,7 @@
+{
+    "name": "Courtney Lubowitz",
+    "email": "Mack50",
+    "phone_number": "08044284314",
+    "address": "Idumota, Lagos",
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45"
+}

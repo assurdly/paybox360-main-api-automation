@@ -1,0 +1,45 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/2fockus_128.jpg", 
+                    "item": "Awesome Cotton Keyboard",
+                    "quantity": 150, 
+                    "stock_price": 4346.70, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Granite Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/colirpixoil_128.jpg",    
+                    "item": "Rustic Granite Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

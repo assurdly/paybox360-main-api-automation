@@ -1,0 +1,8 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "branch": "d0cb266b-b897-461a-bcc4-78e37e830166",
+    "name": "Mitchell McClure",
+    "email": "naima1905@gmail.com",
+    "phone": "08010294579",
+    "address": "238 Alysa Vista"
+}

@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "capacitor",
+            "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+            "branch": "d0cb266b-b897-461a-bcc4-78e37e830166",
+            "no_of_seats": 4,
+            "categories": ["e4fdb21b-5302-4ca2-906a-3cfe60e8dfe8"],
+            "all_categories": "False"
+        },
+        {
+            "name": "a",
+            "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+            "branch": "d0cb266b-b897-461a-bcc4-78e37e830166",
+            "no_of_seats": 6,
+            "categories": ["e4fdb21b-5302-4ca2-906a-3cfe60e8dfe8"],
+            "all_categories": "True"
+        }
+    ]
+}

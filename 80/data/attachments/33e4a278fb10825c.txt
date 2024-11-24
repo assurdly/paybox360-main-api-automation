@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"d6483f38-358d-4022-bb2a-c88a78c4203d","company_name":"Idy-ivory-firewall","industry":"BANKING AND FINANCE","size":5}}

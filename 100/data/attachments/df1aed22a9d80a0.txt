@@ -1,0 +1,42 @@
+{
+    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Plastic Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Cotton Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kurafire_128.jpg",    
+                    "item": "Incredible Concrete Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
