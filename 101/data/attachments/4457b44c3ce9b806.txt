@@ -1,0 +1,29 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "branch": "f9509141-d382-46dd-8a05-c71c7fd8cfd3",
+    "transfer_to": "f89e7656-25b3-4e0f-981a-388680f39e69",
+    "transfers": [
+        {
+            "category": "4098d4d9-2d16-428c-8e83-5cb9c4c06769",
+            "item": "116a4a21-6cab-45d4-83b5-c32fc17953cd",
+            "quantity": 100,
+            "stock_price": 1250,
+            "selling_price": 1750
+        },
+        {
+            "category": "4098d4d9-2d16-428c-8e83-5cb9c4c06769",
+            "item": "116a4a21-6cab-45d4-83b5-c32fc17953cd",
+            "quantity": 100,
+            "variant": "ddfd1ca3-a996-41ed-91b3-04816044fb79",
+            "stock_price": 1250,
+            "selling_price": 1750
+        },
+        {
+            "category": "4098d4d9-2d16-428c-8e83-5cb9c4c06769",
+            "item": "116a4a21-6cab-45d4-83b5-c32fc17953cd",
+            "quantity": 100,
+            "stock_price": 1250,
+            "selling_price": 1750
+        }
+    ]
+}

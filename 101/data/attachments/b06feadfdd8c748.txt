@@ -1,0 +1,8 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "customer_id": "1",
+    "name": "Alice Glover",
+    "email": "Edyth.Crooks@mailinator.com",
+    "phone": "08073586007",
+    "address": "3530 Labadie Garden"
+}

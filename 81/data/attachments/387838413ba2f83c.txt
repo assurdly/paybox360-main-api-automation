@@ -1,8 +1,0 @@
-{
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
-    "customer_id": "",
-    "name": "Gretchen Kutch",
-    "email": "Otis56@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "9767 Arthur Ports"
-}

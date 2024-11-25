@@ -1,8 +1,0 @@
-{
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff1",
-    "branch": "1011ad09-c197-4af1-93b2-33a1af222048",
-    "name": "Cedric DuBuque",
-    "email": "Andrew.Kuphal12@mailinator.com",
-    "phone": "08034039184",
-    "address": "926 Ellen Corner"
-}

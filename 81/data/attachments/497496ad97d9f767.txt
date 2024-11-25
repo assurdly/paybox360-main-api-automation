@@ -1,7 +1,0 @@
-{
-    "name": "Nora Hyatt",
-    "email": "Herbert_Pacocha",
-    "phone_number": "08043127771",
-    "address": "Idumota, Lagos",
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff"
-}

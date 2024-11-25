@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Idy-Purple-Circuit","branches":4,"teams":1,"total_stock_value":200219550.0,"total_sales_values":0.0,"total_expected_profit":7493450.0},"errors":null}

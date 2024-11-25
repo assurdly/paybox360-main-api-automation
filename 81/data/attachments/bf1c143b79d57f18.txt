@@ -1,6 +1,0 @@
-{
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
-    "branch": "0365782d-28b8-4ccb-a5bd-0ed82d72b99b", 
-    "title": "",
-    "rate": 1.5
-}

@@ -1,8 +1,0 @@
-{
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
-    "customer_id": "1",
-    "name": "Nicole Sanford",
-    "email": "Neal_Mueller@mailinator.com",
-    "phone": "08084401319",
-    "address": "59845 Schmitt View"
-}

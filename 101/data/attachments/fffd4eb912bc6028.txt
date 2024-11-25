@@ -1,0 +1,21 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "price_lists": [
+        {
+            "category": "",
+            "item": "",
+            "size_or_volume": "1",
+            "price": "stryt",
+            "all_branches": true
+        },
+        {
+            "category": "",
+            "item": "",
+            "size_or_volume": "1",
+            "price": 500,
+            "selected_branches": [
+                "f9509141-d382-46dd-8a05-c71c7fd8cfd3"
+            ]
+        }
+    ]
+}

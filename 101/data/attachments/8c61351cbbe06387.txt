@@ -1,0 +1,42 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Wooden Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Granite Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thekevinjones_128.jpg",    
+                    "item": "Licensed Wooden Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fb2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dcalonaci_128.jpg", 
+                    "item": "Fantastic Concrete Shirt",
+                    "quantity": 150, 
+                    "stock_price": 7835.93, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Soft Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/arishi__128.jpg",    
+                    "item": "Gorgeous Granite Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

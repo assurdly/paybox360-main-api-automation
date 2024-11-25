@@ -1,7 +1,0 @@
-{
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
-    "branch": "1011ad09-c197-4af1-93b2-33a1af222048",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Rodrick_Fritsch86@mailinator.com"
-}

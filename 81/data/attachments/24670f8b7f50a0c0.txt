@@ -1,8 +1,0 @@
-{
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff",
-    "customer_id": "",
-    "name": "Mrs. Jim Bailey",
-    "email": "Chesley35",
-    "phone": "08018919068",
-    "address": "77350 Mitchell Knoll"
-}

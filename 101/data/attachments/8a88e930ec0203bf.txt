@@ -1,0 +1,11 @@
+{
+    "company": "fbac0540-aa06-4199-93de-fe977941e4fbbeans",
+    "branch": "f9509141-d382-46dd-8a05-c71c7fd8cfd3",
+    "name": "digital invoice",
+    "email": "Alize_Harvey21@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

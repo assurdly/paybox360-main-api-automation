@@ -1,7 +1,0 @@
-{
-    "name": "Bridget Predovic",
-    "email": "Nicklaus_Buckridge78",
-    "phone_number": "08081551024",
-    "address": "Idumota, Lagos",
-    "company": "40641fa3-5f03-493c-9497-ff7a0daa3bff"
-}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + alarm","company_id":"fbac0540-aa06-4199-93de-fe977941e4fb","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"1a1df943-dcef-40dc-98c9-d84da569501e"}}
