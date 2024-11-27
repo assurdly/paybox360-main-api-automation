@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "customer_id": "1",
+    "name": "Alejandro Casper",
+    "email": "Montana.Frami@mailinator.com",
+    "phone": "08085038896",
+    "address": "91728 Beverly Drive"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Dr. Winifred O'Connell",
-    "email": "Chesley.Wunsch50",
-    "phone_number": "08009155904",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

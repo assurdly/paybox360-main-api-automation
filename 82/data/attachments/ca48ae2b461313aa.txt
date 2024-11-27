@@ -1,7 +1,0 @@
-{
-    "name": "Freda Hudson",
-    "email": "Hermann61@mailinator.com",
-    "phone_number": "08099114209erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,0 +1,42 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Wooden Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Concrete Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/peejfancher_128.jpg",    
+                    "item": "Tasty Soft Pizza",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

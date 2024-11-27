@@ -1,0 +1,8 @@
+{
+    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa1",
+    "customer_id": "",
+    "name": "Madeline Hoeger IV",
+    "email": "Forest56@mailinator.com",
+    "phone": "08068187212",
+    "address": "054 Lura Dale"
+}

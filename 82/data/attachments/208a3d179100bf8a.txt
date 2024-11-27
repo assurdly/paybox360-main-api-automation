@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Kara Prohaska",
-    "email": "Christian.Schmidt88@mailinator.com",
-    "phone": "08054624937",
-    "address": "848 Greenholt Stravenue"
-}

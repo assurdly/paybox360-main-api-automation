@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"details":"successfully fetched notification(s).","notifications":[],"count":0,"total_notifications":0,"total_unread":0},"errors":null}

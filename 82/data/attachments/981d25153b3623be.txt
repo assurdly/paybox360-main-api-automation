@@ -1,7 +1,0 @@
-{
-    "name": "Eleanor Blick",
-    "email": "Karen_Leannon80",
-    "phone_number": "08057059565",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

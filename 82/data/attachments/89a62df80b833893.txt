@@ -1,7 +1,0 @@
-{
-    "name": "Christina Bashirian Sr.",
-    "email": "Justen_Wuckert96@mailinator.com",
-    "phone_number": "08096561005",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

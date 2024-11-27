@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + firewall","company_id":"2362767f-8b25-420b-b8b9-6d7db6d9d5aa","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"9b560b07-d5bb-4547-a9ad-15799df57d51"}}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Lee.Hintz@mailinator.com"
-}

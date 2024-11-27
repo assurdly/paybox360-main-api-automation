@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port Odessa",
-    "state": "Rancho Palos Verdes",
-    "country": ""
-}

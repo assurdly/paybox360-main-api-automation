@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Toychester",
-    "state": "Lagsos - Test",
-    "country": "Ethiopia"
-}

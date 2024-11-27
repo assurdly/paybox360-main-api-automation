@@ -1,7 +1,0 @@
-{
-    "name": "Ralph Walker",
-    "email": "Clyde7@mailinator.com",
-    "phone_number": "08016097351",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"suppliers' rating not available yet.","top_5":[],"bottom_5":[]},"errors":null}

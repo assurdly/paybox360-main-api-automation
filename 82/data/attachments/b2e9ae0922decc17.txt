@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "1",
-    "name": "Dave Haag",
-    "email": "Broderick.Konopelski@mailinator.com",
-    "phone": "08000024425",
-    "address": "409 Hills Rapid"
-}

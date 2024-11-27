@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "name": "Rochelle Buckridge",
-    "email": "naima1905@gmail.com",
-    "phone": "08029143284",
-    "address": "32111 Nader Ports"
-}

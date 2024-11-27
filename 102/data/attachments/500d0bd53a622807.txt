@@ -1,0 +1,1 @@
+{"company":["This field may not be null."],"sender_id":["This field may not be null."],"message":["This field may not be blank."],"campaign_name":["This field may not be blank."]}

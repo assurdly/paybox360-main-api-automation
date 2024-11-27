@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Idy-Teal-Pixel","branches":10,"teams":0,"total_stock_value":258662400.0,"total_sales_values":173250.0,"total_expected_profit":9644200.0},"errors":null}
