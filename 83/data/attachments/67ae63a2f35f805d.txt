@@ -1,7 +1,0 @@
-{
-    "name": "Roger West",
-    "email": "Stanford_Heaney",
-    "phone_number": "08048428879",
-    "address": "Idumota, Lagos",
-    "company": "ae9d7a26-3f4f-409c-8719-83004996a045"
-}

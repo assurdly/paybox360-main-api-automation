@@ -1,8 +1,0 @@
-{
-    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
-    "branch": "532f3165-fc23-47bb-8e85-4e740b6e353b",
-    "name": "Clarence Doyle",
-    "email": "naima1905@gmail.com",
-    "phone": "08061647284",
-    "address": "847 Aditya Glen"
-}

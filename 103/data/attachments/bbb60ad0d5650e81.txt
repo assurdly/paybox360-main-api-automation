@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"dd174e07-9aea-4eae-a9df-9350aabbdceb","created_at":"2024-11-29T19:07:48.202085+01:00","name":"Captain Category","has_products":false,"company":"54916979-51f4-4b9a-9f5e-a539c1382b7d","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Orchid-Matrix","stock_count":0},"errors":null}

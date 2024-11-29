@@ -1,8 +1,0 @@
-{
-    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
-    "customer_id": "",
-    "name": "Jeffrey Schiller",
-    "email": "Felix_Hane@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "01786 Amina Lake"
-}

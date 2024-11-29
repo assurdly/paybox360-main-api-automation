@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"1457e181-fda3-4d2c-a99d-2a8720b7f284","created_at":"2024-10-25T08:57:26.663870+01:00","title":"Redundant Tax","rate":0.0,"company":"Idy-Blue-System","branch":"Battle Creek"},"errors":null}

@@ -1,0 +1,45 @@
+{
+    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/saarabpreet_128.jpg", 
+                    "item": "Small Soft Gloves",
+                    "quantity": 150, 
+                    "stock_price": 3110.97, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Metal Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/samgrover_128.jpg",    
+                    "item": "Fantastic Soft Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

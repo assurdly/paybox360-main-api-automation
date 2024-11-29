@@ -1,8 +1,0 @@
-{
-    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
-    "customer_id": "1",
-    "name": "Marjorie Bailey",
-    "email": "Royce83@mailinator.com",
-    "phone": "08093901240",
-    "address": "5993 Steve Course"
-}

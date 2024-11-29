@@ -1,0 +1,8 @@
+{
+    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
+    "customer_id": "",
+    "name": "Melody Leuschke",
+    "email": "Reanna.Bosco94@mailinator.com",
+    "phone": "08029316422",
+    "address": "0733 Schimmel Square"
+}

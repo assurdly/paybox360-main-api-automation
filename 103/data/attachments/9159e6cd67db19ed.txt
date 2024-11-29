@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"54916979-51f4-4b9a-9f5e-a539c1382b7d","company_name":"Idy-orchid-matrix","industry":"BANKING AND FINANCE","size":5}}

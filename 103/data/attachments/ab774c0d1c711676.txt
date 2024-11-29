@@ -1,0 +1,8 @@
+{
+    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
+    "customer_id": "1",
+    "name": "Nina Powlowski MD",
+    "email": "Guadalupe_Hilpert43@mailinator.com",
+    "phone": "08000722217",
+    "address": "80050 Oberbrunner Villages"
+}

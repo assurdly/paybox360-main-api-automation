@@ -1,8 +1,0 @@
-{
-    "company": "ae9d7a26-3f4f-409c-8719-83004996a045",
-    "customer_id": "",
-    "name": "Michael Barrows",
-    "email": "Oscar_Lang@mailinator.com",
-    "phone": "08096926019",
-    "address": "06312 Hallie Row"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
+    "customer_id": "",
+    "name": "Belinda Block",
+    "email": "Maynard.Smith",
+    "phone": "08016465405",
+    "address": "051 Marvin Place"
+}

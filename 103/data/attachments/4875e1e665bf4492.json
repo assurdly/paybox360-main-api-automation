@@ -1,0 +1,14 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Fri, 29 Nov 2024 18:07:51 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "869",
+    "Connection": "keep-alive",
+    "Vary": "Accept, origin, Cookie",
+    "Allow": "POST, OPTIONS",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Set-Cookie": "sessionid=5pcichzpsvku2ibs5wit1qou55k19gl6; expires=Fri, 13 Dec 2024 18:07:51 GMT; HttpOnly; Max-Age=1209600; Path=/; SameSite=Lax"
+}

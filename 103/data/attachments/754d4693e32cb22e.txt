@@ -1,0 +1,42 @@
+{
+    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Frozen Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Cotton Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/akmur_128.jpg",    
+                    "item": "Handmade Wooden Salad",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

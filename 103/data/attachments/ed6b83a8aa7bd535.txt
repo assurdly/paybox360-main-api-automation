@@ -1,0 +1,42 @@
+{
+    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Rubber Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Frozen Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sweetdelisa_128.jpg",    
+                    "item": "Refined Granite Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

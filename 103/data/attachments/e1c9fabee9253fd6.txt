@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"company":"54916979-51f4-4b9a-9f5e-a539c1382b7d","company_name":"Idy-Orchid-Matrix","id":"04a20877-6155-498c-a5e0-cabcb7a78310","name":"Computer Accessories"}],"count":1,"total_categories":1},"errors":null}

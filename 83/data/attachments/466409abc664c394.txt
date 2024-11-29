@@ -1,6 +1,0 @@
-{
-    "company_id": "ae9d7a26-3f4f-409c-8719-83004996a045",
-    "branch_id": "532f3165-fc23-47bb-8e85-4e740b6e353b", 
-    "description": "This is an example description for the instant website.",
-    "store_url": "https://example.com/store-front/"
-}
