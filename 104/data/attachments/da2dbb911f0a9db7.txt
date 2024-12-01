@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"99490947-59a0-4ec8-9b7c-d43ee7dc93c7","created_at":"2024-12-01T21:05:29.718502+01:00","title":"Haptic1428 Tax","rate":1.5,"company":"Idy-Green-Panel","branch":"Dickinsonbury"},"errors":null}

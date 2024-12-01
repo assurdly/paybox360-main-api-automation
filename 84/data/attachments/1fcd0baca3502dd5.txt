@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Kochmouth",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"528ebbde-cc78-491a-84bc-3475f6a11801","created_at":"2024-10-25T12:46:22.628696+01:00","title":"Haptic Tax","rate":0.0,"company":"Idy-Cyan-Protocol","branch":"Stammburgh"},"errors":null}

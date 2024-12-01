@@ -1,1 +1,0 @@
-{"status":"Success","data":{"team_name":"Team + pixel","company_id":"c9d38cd3-4106-4f1d-bf79-ec5f77c727a9","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"3658b6e1-fa33-4e3e-8a84-55c302ba7550"}}

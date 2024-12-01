@@ -1,0 +1,11 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "branch": "4faa3ddd-4267-49d6-8339-ee283cb955c5",
+    "name": "mobile invoice",
+    "email": "Lacey_Greenholt9@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

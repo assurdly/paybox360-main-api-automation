@@ -1,7 +1,0 @@
-{
-    "name": "Samantha Ratke",
-    "email": "Maximus_Hansen@mailinator.com",
-    "phone_number": "08053433385erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9"
-}

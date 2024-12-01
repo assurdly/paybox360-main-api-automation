@@ -1,0 +1,8 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "branch": "305a5a7d-2db2-4fb2-831e-22fbbabce117",
+    "name": "Paula Jacobs",
+    "email": "Deshawn_Nolan@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "0750 Jacinthe Locks"
+}

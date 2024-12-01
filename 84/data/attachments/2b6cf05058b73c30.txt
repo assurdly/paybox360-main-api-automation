@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"903409d5-7413-4f0b-b636-70cf1c182fff","created_at":"2024-10-25T12:46:22.779975+01:00","title":"1080P Tax","rate":-10.0,"company":"Idy-Cyan-Protocol","branch":"Stammburgh"},"errors":null}

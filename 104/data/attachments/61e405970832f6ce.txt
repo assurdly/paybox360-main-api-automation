@@ -1,0 +1,42 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Granite Pizza",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Wooden Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/arpitnj_128.jpg",    
+                    "item": "Intelligent Granite Chicken",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

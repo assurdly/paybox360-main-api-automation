@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"85a941ef-2126-47d8-9805-d9eb432df6a1","created_at":"2024-10-25T12:46:21.779325+01:00","title":"Optical1428 Tax","rate":1.5,"company":"Idy-Cyan-Protocol","branch":"Stammburgh"},"errors":null}

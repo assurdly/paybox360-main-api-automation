@@ -1,0 +1,42 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Granite Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Fresh Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dvdwinden_128.jpg",    
+                    "item": "Practical Granite Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

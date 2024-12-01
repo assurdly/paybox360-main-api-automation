@@ -1,0 +1,7 @@
+{
+    "name": "Janis McKenzie",
+    "email": "Beau_Heidenreich73@mailinator.com",
+    "phone_number": "08054807423",
+    "address": "Idumota, Lagos",
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080"
+}

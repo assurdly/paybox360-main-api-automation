@@ -1,0 +1,7 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "branch": "305a5a7d-2db2-4fb2-831e-22fbbabce1171",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Juanita65@mailinator.com"
+}

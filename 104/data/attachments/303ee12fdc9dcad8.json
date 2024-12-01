@@ -1,0 +1,13 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Sun, 01 Dec 2024 20:04:08 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "X-Frame-Options": "DENY",
+    "Vary": "origin",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin",
+    "Content-Encoding": "gzip"
+}

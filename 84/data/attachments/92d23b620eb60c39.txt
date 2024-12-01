@@ -1,6 +1,0 @@
-{
-    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9",
-    "branch": "beans", 
-    "title": "digital1432 tax",
-    "rate": 1.5
-}

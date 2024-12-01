@@ -1,0 +1,11 @@
+{
+    "team_id": "4ad6d144-6364-4659-af87-c0957bacce91",
+    "team_name": "Team + checks",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "+2349098764748",
+            "role": "MEMBER"
+        }
+    ]
+}

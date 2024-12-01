@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"company":"c9d38cd3-4106-4f1d-bf79-ec5f77c727a9","company_name":"Idy-Cyan-Protocol","id":"04a20877-6155-498c-a5e0-cabcb7a78310","name":"Computer Accessories"}],"count":1,"total_categories":1},"errors":null}

@@ -1,8 +1,0 @@
-{
-    "company": "c9d38cd3-4106-4f1d-bf79-ec5f77c727a9",
-    "branch": "fe3698c4-db84-4328-89d1-99ecdc4e9ca4",
-    "name": "Edith Zieme",
-    "email": "Gloria28@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "3894 Gladyce Field"
-}

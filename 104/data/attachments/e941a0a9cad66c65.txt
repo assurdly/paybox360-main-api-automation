@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"27d90c86-6c49-4064-8b96-44fec605b780","created_at":"2024-12-01T21:05:30.631375+01:00","title":"Virtual Tax","rate":-10.0,"company":"Idy-Green-Panel","branch":"Dickinsonbury"},"errors":null}

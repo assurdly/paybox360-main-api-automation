@@ -1,0 +1,8 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce10801",
+    "branch": "305a5a7d-2db2-4fb2-831e-22fbbabce117",
+    "name": "Kathryn Hettinger MD",
+    "email": "Amina.Reichel@mailinator.com",
+    "phone": "08062503185",
+    "address": "0768 Westley Ports"
+}

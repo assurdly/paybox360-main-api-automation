@@ -1,0 +1,11 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080beans",
+    "branch": "4faa3ddd-4267-49d6-8339-ee283cb955c5",
+    "name": "open-source invoice",
+    "email": "Wanda.Durgan@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

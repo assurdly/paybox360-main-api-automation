@@ -1,0 +1,8 @@
+{
+    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
+    "customer_id": "1",
+    "name": "Lamar Fisher",
+    "email": "Glenna_Dickinson@mailinator.com",
+    "phone": "08049175856",
+    "address": "3727 Therese Crescent"
+}
