@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + firewall",
+    "company_id": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "+23407034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "+2348031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

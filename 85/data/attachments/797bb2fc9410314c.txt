@@ -1,7 +1,0 @@
-{
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
-    "branch": "631858c1-2d7a-45a6-b522-fbb237adcb791",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Izaiah.Beatty78@mailinator.com"
-}

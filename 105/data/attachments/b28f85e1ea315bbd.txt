@@ -1,0 +1,8 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "branch": "78a0b428-a24b-453d-92e3-6ce8445b100c",
+    "name": "Antonio Murphy",
+    "email": "naima1905@gmail.com",
+    "phone": "08079568315",
+    "address": "817 Enoch Mountain"
+}

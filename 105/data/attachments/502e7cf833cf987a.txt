@@ -1,0 +1,8 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c631",
+    "customer_id": "",
+    "name": "Tommie Wisozk",
+    "email": "Antwan.Dicki41@mailinator.com",
+    "phone": "08036176367",
+    "address": "32719 Kuhic Greens"
+}

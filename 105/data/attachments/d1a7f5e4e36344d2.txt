@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "North Gabrielton",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

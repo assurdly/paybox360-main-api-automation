@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"1ec2d08d-bb4d-4898-9f27-e250dc3b7187","created_at":"2024-10-25T19:08:01.002076+01:00","title":"Cross-Platform Tax","rate":0.0,"company":"Idy-Tan-Circuit","branch":"O'Fallon"},"errors":null}

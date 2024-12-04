@@ -1,0 +1,1 @@
+{"message":"successful","successful_beneficiary":[{"account_number":"0117373096","account_name":"Roosevelt Toy","bank_code":"000133","bank_name":"GTbank","narration":"Test.","amount":40000.0}],"unsuccessful_beneficiary":[]}

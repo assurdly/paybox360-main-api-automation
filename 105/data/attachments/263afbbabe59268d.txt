@@ -1,0 +1,42 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Granite Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Wooden Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jasonmarkjones_128.jpg",    
+                    "item": "Handmade Frozen Salad",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

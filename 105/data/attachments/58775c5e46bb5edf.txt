@@ -1,0 +1,42 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Steel Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Rubber Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/codepoet_ru_128.jpg",    
+                    "item": "Practical Granite Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

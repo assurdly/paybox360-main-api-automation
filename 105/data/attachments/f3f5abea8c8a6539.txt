@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"2371d104-2c3c-4a6c-aea4-27c24380fc4a","created_at":"2024-12-04T19:06:28.144011+01:00","name":"Captain Category","has_products":false,"company":"c67a443f-89e4-4720-ac3c-e1b838c12c63","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Gold-Bus","stock_count":0},"errors":null}

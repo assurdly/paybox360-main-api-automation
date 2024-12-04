@@ -1,7 +1,0 @@
-{
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
-    "customer_id": "",
-    "city": "Kassulkemouth",
-    "state": "Lagsos - Test",
-    "country": "Antarctica (the territory South of 60 deg S)"
-}

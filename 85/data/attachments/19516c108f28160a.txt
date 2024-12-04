@@ -1,8 +1,0 @@
-{
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
-    "customer_id": "",
-    "name": "Alfonso Yundt",
-    "email": "Gonzalo5@mailinator.com",
-    "phone": "08010069243",
-    "address": "02617 Darrick Ville"
-}

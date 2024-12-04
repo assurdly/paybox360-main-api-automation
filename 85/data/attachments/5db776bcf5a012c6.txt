@@ -1,8 +1,0 @@
-{
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a1",
-    "customer_id": "",
-    "name": "Joan Toy",
-    "email": "Elza.Anderson@mailinator.com",
-    "phone": "08068188005",
-    "address": "0775 Bashirian Park"
-}

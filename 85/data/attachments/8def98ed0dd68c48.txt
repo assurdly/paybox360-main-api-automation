@@ -1,7 +1,0 @@
-{
-    "name": "Carolyn Barrows",
-    "email": "Darrel_Hudson15@mailinator.com",
-    "phone_number": "08020849481",
-    "address": "Idumota, Lagos",
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a"
-}

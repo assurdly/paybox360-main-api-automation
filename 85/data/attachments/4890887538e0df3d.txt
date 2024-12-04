@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "New Josie",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

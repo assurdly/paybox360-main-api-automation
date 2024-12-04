@@ -1,0 +1,42 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Rubber Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Concrete Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gregsqueeb_128.jpg",    
+                    "item": "Tasty Granite Table",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

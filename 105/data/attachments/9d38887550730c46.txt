@@ -1,0 +1,11 @@
+{
+    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
+    "branch": "78a0b428-a24b-453d-92e3-6ce8445b100c",
+    "name": "haptic invoice",
+    "email": "Jonatan_Ebert@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

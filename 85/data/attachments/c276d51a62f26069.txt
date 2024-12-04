@@ -1,8 +1,0 @@
-{
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a",
-    "customer_id": "",
-    "name": "Freddie Armstrong",
-    "email": "Leopoldo.Moore82@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "05951 Gibson Points"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Bessie Dickinson",
-    "email": "Adam53",
-    "phone_number": "08058666435",
-    "address": "Idumota, Lagos",
-    "company": "0029b0ec-2a5d-4c11-a08d-bd261ea8905a"
-}
