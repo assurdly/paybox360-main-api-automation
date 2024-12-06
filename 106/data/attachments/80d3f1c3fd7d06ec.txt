@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "619cc9f2-5102-413f-b698-aa8327803616",
+    "name": "solid state invoice",
+    "email": "Kaylie_Okuneva92@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

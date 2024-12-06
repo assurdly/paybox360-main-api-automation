@@ -1,0 +1,7 @@
+{
+    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0fe",
+    "branch": "4b9f96e5-1bf2-480b-92b6-ec7c8761a1f1",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": "jdcjayu",
+    "email": "Enrico.Schowalter0@mailinator.com"
+}

@@ -1,0 +1,23 @@
+{
+    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0febeans",
+    "branch": "619cc9f2-5102-413f-b698-aa8327803616", 
+    "items": [
+        {
+            "item_description": "item bandwidth",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop array",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "c0f434a1-e932-4d4d-9e1b-9029c580973b",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

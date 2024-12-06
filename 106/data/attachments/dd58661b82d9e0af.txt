@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched price list details.","price_lists":[],"count":0,"total_price_lists":0},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Feilton",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

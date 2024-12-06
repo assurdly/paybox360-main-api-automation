@@ -1,8 +1,0 @@
-{
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
-    "customer_id": "",
-    "name": "Erica Sanford",
-    "email": "Pierce_Zieme31@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "020 Ebert Shoals"
-}

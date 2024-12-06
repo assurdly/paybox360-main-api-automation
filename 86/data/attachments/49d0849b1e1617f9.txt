@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "2b87f193-5c94-4503-a1bd-a8c677a85499", 
-    "title": "optical tax",
-    "rate": 1.5
-}

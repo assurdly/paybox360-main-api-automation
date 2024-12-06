@@ -1,8 +1,0 @@
-{
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
-    "branch": "5bf1a876-1724-4e50-8f55-0ad760515f67",
-    "name": "Lloyd Koepp",
-    "email": "Hadley44",
-    "phone": "08018958394",
-    "address": "2891 Langosh Avenue"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Owen Heathcote DVM",
-    "email": "Kariane.Macejkovic34@mailinator.com",
-    "phone_number": "08064453443erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

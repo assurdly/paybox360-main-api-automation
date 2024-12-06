@@ -1,0 +1,11 @@
+{
+    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0febeans",
+    "branch": "619cc9f2-5102-413f-b698-aa8327803616",
+    "name": "1080p invoice",
+    "email": "Ofelia_Koss@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

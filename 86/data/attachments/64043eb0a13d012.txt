@@ -1,7 +1,0 @@
-{
-    "name": "Brendan Cormier",
-    "email": "Marquise_Wolf85",
-    "phone_number": "08071896981",
-    "address": "Idumota, Lagos",
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625"
-}

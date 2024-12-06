@@ -1,7 +1,0 @@
-{
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b6251",
-    "branch": "2b87f193-5c94-4503-a1bd-a8c677a85499",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Brenda_Walker37@mailinator.com"
-}

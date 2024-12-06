@@ -1,8 +1,0 @@
-{
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
-    "branch": "5bf1a876-1724-4e50-8f55-0ad760515f67",
-    "name": "Allison Jacobi",
-    "email": "Maria.Zieme@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "6998 Rau Park"
-}

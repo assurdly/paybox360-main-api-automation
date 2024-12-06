@@ -1,0 +1,24 @@
+{
+    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0fe",
+    "branch": "4b9f96e5-1bf2-480b-92b6-ec7c8761a1f1",
+    "customer": "",
+    "invoice": "",
+    "choice": "SWAP",
+    "reason": "OTHERS",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NO",
+    "old_items": [
+        {
+            "item": "0b809756-c74c-410a-a4f6-792e948d2d32",
+            "quantity": "hefu",
+            "unit_price": 1750
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "5aa47e31-8743-479b-95cf-36cb86522b60",
+            "quantity": "hds",
+            "amount": 1750
+        }
+    ]
+}

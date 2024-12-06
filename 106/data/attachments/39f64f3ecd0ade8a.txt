@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"0cf92b8b-fa9c-4d56-bb48-365a58a375a6","name":"Chips"},{"id":"e61cae8b-8d23-44ab-bd23-05511d99899d","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "1ff13a4a-034a-4791-9636-f1c94e74b625",
-    "customer_id": "",
-    "city": "Lake Deja",
-    "state": "Abuja",
-    "country": "Nigeria"
-}
