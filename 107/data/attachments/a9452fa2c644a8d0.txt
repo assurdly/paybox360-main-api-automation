@@ -1,0 +1,7 @@
+{
+    "name": "Joe McCullough I",
+    "email": "Mariah_Brown95@mailinator.com",
+    "phone_number": "08065587775erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f"
+}

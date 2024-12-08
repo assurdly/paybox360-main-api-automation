@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "card",
+            "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+            "branch": "bed2918c-bf8b-4924-8541-ad9182a146d8",
+            "no_of_seats": 4,
+            "categories": ["b76eae73-8575-48fc-83d8-57cb0fc36f18"],
+            "all_categories": "False"
+        },
+        {
+            "name": "y",
+            "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+            "branch": "bed2918c-bf8b-4924-8541-ad9182a146d8",
+            "no_of_seats": 6,
+            "categories": ["b76eae73-8575-48fc-83d8-57cb0fc36f18"],
+            "all_categories": "True"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Fresh Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Cotton Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bighanddesign_128.jpg",    
+                    "item": "Small Concrete Soap",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

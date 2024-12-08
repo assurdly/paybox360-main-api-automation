@@ -1,0 +1,45 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joannefournier_128.jpg", 
+                    "item": "Licensed Cotton Fish",
+                    "quantity": 150, 
+                    "stock_price": 5743.20, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Steel Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kevinjohndayy_128.jpg",    
+                    "item": "Generic Fresh Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

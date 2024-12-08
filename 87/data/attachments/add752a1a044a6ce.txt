@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null1",
-    "name": "Miss Kayla Johns",
-    "email": "Jazmyn_Sipes93@mailinator.com",
-    "phone": "08075520092",
-    "address": "60105 Pearline Flats"
-}

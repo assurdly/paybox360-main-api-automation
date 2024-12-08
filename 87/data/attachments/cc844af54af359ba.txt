@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Mrs. Whitney Kautzer",
-    "email": "Malcolm.Heathcote40",
-    "phone": "08044545933",
-    "address": "80927 Fahey Terrace"
-}

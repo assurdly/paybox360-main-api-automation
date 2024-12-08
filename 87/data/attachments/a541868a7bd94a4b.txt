@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Robyn Stanton",
-    "email": "Heidi_Heaney@mailinator.com",
-    "phone": "08099517260",
-    "address": "97870 Stefan Fork"
-}

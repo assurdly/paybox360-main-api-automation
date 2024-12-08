@@ -1,0 +1,8 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+    "customer_id": "1",
+    "name": "Edmund Aufderhar",
+    "email": "Katarina_Hirthe@mailinator.com",
+    "phone": "08006338553",
+    "address": "3118 Amber Lodge"
+}

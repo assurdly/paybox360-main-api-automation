@@ -1,0 +1,8 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f1",
+    "branch": "a0016912-deb0-4a39-b068-60750414982b",
+    "name": "Tyler Douglas",
+    "email": "Murl20@mailinator.com",
+    "phone": "08081902227",
+    "address": "5049 Batz Drive"
+}

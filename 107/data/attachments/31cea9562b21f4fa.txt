@@ -1,0 +1,7 @@
+{
+    "name": "Yvonne Boyer",
+    "email": "Gregorio.Altenwerth6@mailinator.com",
+    "phone_number": "08034921368",
+    "address": "Idumota, Lagos",
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Lucia Hilll",
-    "email": "Kaci.Hyatt@mailinator.com",
-    "phone_number": "08067611267",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,0 +1,11 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6fbeans",
+    "branch": "bed2918c-bf8b-4924-8541-ad9182a146d8",
+    "name": "wireless invoice",
+    "email": "Donnie_Hane@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

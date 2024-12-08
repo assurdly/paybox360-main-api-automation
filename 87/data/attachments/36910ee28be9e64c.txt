@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "", 
-    "title": "1080p1428 tax",
-    "rate": 1.5
-}

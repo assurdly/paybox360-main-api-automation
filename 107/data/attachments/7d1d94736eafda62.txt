@@ -1,0 +1,45 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kolsvein_128.jpg", 
+                    "item": "Licensed Plastic Bacon",
+                    "quantity": 150, 
+                    "stock_price": 5743.20, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Soft Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/buleswapnil_128.jpg",    
+                    "item": "Incredible Frozen Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

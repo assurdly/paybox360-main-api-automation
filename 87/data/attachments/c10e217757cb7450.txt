@@ -1,7 +1,0 @@
-{
-    "name": "Shannon Bednar",
-    "email": "Billie.Graham",
-    "phone_number": "08047703786",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

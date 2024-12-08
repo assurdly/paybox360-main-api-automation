@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "beans",
-    "city": "Port Keshawnville",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

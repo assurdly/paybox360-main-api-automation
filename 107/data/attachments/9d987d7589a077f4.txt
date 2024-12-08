@@ -1,0 +1,8 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+    "branch": "bed2918c-bf8b-4924-8541-ad9182a146d8",
+    "name": "Robyn Cassin",
+    "email": "naima1905@gmail.com",
+    "phone": "08003088822",
+    "address": "9548 Marc Pines"
+}

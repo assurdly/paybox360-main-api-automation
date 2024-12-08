@@ -1,7 +1,0 @@
-{
-    "name": "Herman Hartmann",
-    "email": "Ethyl_Torp@mailinator.com",
-    "phone_number": "08034771705",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

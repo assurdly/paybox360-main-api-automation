@@ -1,0 +1,8 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+    "customer_id": "",
+    "name": "Dr. Brett Fay",
+    "email": "Antonietta62",
+    "phone": "08015688971",
+    "address": "421 Gerhold Branch"
+}

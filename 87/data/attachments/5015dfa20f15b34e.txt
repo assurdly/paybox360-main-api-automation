@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Leslie Bayer",
-    "email": "April_Walker@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "65188 Wunsch Center"
-}

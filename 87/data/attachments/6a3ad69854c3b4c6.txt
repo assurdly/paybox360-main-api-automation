@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Johns Creek",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

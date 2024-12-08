@@ -1,0 +1,8 @@
+{
+    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
+    "branch": "a0016912-deb0-4a39-b068-60750414982b",
+    "name": "Forrest Will",
+    "email": "Agustina29@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "58444 Hilda Motorway"
+}

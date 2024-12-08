@@ -1,7 +1,0 @@
-{
-    "company": "beans",
-    "customer_id": "",
-    "city": "Port Orange",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

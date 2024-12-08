@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "null",
-    "name": "Lyle Haag",
-    "email": "Jaqueline51@mailinator.com",
-    "phone": "08002489069",
-    "address": "545 Thompson Trail"
-}

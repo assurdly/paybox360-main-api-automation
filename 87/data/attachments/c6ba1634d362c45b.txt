@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "request_id": "",
-    "status": "DECLINED",
-    "decline_reason": "goods are currently not available at the moment."
-}
