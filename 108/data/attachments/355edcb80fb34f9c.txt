@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "West Huldamouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

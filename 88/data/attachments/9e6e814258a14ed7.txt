@@ -1,7 +1,0 @@
-{
-    "name": "Adrienne Rutherford",
-    "email": "Juana.VonRueden3@mailinator.com",
-    "phone_number": "08045548201erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

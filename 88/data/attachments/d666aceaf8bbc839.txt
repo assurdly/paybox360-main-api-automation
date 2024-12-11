@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "category": "",
-    "item": "",
-    "quantity_requested": 50,
-    "request_reason": "Basic supply needs for manufacturing."
-}

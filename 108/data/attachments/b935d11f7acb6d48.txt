@@ -1,0 +1,11 @@
+{
+    "company": "67ce5101-ccde-4359-8a5b-e69089988821beans",
+    "branch": "8be315a0-bbbd-4143-9e7b-55269fa807f6",
+    "name": "auxiliary invoice",
+    "email": "Hortense.Wilkinson32@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

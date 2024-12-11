@@ -1,0 +1,7 @@
+{
+    "company": "67ce5101-ccde-4359-8a5b-e690899888211",
+    "name": "Hampton",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

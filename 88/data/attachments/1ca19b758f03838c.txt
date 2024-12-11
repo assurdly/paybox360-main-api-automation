@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "1",
-    "name": "Timothy Collins",
-    "email": "Keeley_Watsica62@mailinator.com",
-    "phone": "08023544815",
-    "address": "8760 Devin Motorway"
-}

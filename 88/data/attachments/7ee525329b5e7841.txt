@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port Maymiemouth",
-    "state": "Lagsos - Test",
-    "country": "Northern Mariana Islands"
-}

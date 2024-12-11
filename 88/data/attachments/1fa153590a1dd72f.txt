@@ -1,7 +1,0 @@
-{
-    "name": "Brad Oberbrunner",
-    "email": "Lelah80@mailinator.com",
-    "phone_number": "08034418783",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

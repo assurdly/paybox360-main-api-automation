@@ -1,0 +1,8 @@
+{
+    "company": "67ce5101-ccde-4359-8a5b-e69089988821",
+    "customer_id": "",
+    "name": "Erik Corwin",
+    "email": "Wilma.Walker65@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "9473 Goodwin Field"
+}

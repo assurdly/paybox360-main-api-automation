@@ -1,7 +1,0 @@
-{
-    "name": "Guadalupe Fay",
-    "email": "Doug_Douglas@mailinator.com",
-    "phone_number": "08084570204",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

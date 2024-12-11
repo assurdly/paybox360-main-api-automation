@@ -1,0 +1,11 @@
+{
+    "company": "67ce5101-ccde-4359-8a5b-e69089988821",
+    "branch": "8be315a0-bbbd-4143-9e7b-55269fa807f6",
+    "name": "redundant invoice",
+    "email": "Destiny69@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

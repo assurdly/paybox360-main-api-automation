@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Latoya Hauck",
-    "email": "Jeffry_Collins@mailinator.com",
-    "phone": "08061757594",
-    "address": "37144 Alisha Mountain"
-}

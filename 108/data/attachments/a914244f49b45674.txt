@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"233239cd-5a76-4a7d-a73b-1ea720070fd3","created_at":"2024-12-11T19:06:35.581448+01:00","name":"Captain Category","has_products":false,"company":"67ce5101-ccde-4359-8a5b-e69089988821","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Ivory-Monitor","stock_count":0},"errors":null}

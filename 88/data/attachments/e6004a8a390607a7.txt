@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null1",
-    "name": "Ellen Morissette",
-    "email": "Alexis.Feeney@mailinator.com",
-    "phone": "08013037155",
-    "address": "239 Precious Light"
-}

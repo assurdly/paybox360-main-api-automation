@@ -1,0 +1,42 @@
+{
+    "company": "67ce5101-ccde-4359-8a5b-e69089988821",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Concrete Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Cotton Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/tonymillion_128.jpg",    
+                    "item": "Gorgeous Granite Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

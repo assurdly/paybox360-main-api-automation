@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "null",
-    "name": "Marty Hessel",
-    "email": "Larissa_Breitenberg@mailinator.com",
-    "phone": "08024901841",
-    "address": "292 Clemens Corners"
-}

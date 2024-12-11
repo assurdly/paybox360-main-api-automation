@@ -1,0 +1,7 @@
+{
+    "company": "67ce5101-ccde-4359-8a5b-e69089988821",
+    "branch": "216d287d-ccf9-4439-83a8-f4219eb461b91",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Lionel.Koepp@mailinator.com"
+}
