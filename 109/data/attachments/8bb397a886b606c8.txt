@@ -1,0 +1,7 @@
+{
+    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
+    "branch": "c000f40a-0ecb-4334-a348-3bb67b587c78",
+    "request_id": "",
+    "status": "DECLINED",
+    "decline_reason": "goods are currently not available at the moment."
+}

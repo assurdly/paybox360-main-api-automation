@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Agnes Farrell",
-    "email": "Harrison_Metz5",
-    "phone": "08021763893",
-    "address": "3910 Willa Track"
-}

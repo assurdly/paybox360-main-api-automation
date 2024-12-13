@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": -3898,
-    "email": "Darren_Borer52@mailinator.com"
-}

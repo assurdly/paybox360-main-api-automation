@@ -1,0 +1,42 @@
+{
+    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Rubber Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Cotton Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/carlfairclough_128.jpg",    
+                    "item": "Incredible Concrete Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

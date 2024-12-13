@@ -1,7 +1,0 @@
-{
-    "name": "Shelly Runolfsson III",
-    "email": "Vida_Ryan86@mailinator.com",
-    "phone_number": "08095500968",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

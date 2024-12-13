@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null1",
-    "name": "Jody Kub",
-    "email": "Ada75@mailinator.com",
-    "phone": "08058606728",
-    "address": "130 Schaefer Avenue"
-}

@@ -1,7 +1,0 @@
-{
-    "company": "beans",
-    "customer_id": "",
-    "city": "Carrollbury",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

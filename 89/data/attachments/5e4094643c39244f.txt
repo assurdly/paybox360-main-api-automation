@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Sylvia Kerluke",
-    "email": "Camilla.Rutherford@mailinator.com",
-    "phone": "08034366985",
-    "address": "494 Kulas Spurs"
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"80fed4f5-19ef-4a37-b0ca-762cab6e6052","created_at":"2024-12-13T19:09:46.040062+01:00","title":"Cross-Platform1428 Tax","rate":1.5,"company":"Idy-Teal-Bus","branch":"South Ilenehaven"},"errors":null}

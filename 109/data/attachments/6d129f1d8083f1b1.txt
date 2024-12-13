@@ -1,0 +1,42 @@
+{
+    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Soft Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Soft Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mkginfo_128.jpg",    
+                    "item": "Generic Concrete Pizza",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

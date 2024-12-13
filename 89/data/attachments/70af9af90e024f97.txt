@@ -1,7 +1,0 @@
-{
-    "name": "Gwen Legros",
-    "email": "Kristin.Jones@mailinator.com",
-    "phone_number": "08027725417erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

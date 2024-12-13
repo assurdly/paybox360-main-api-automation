@@ -1,0 +1,45 @@
+{
+    "company": "8ab15831-dfea-4ed9-9af9-645cb850e6372",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ashernatali_128.jpg", 
+                    "item": "Gorgeous Metal Salad",
+                    "quantity": 150, 
+                    "stock_price": 7057.55, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Soft Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/larrybolt_128.jpg",    
+                    "item": "Rustic Cotton Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

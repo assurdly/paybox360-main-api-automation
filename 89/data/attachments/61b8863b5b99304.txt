@@ -1,7 +1,0 @@
-{
-    "name": "Marlene Murphy",
-    "email": "Lorine.Schultz6@mailinator.com",
-    "phone_number": "08027525480",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

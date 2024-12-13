@@ -1,0 +1,43 @@
+{
+    "company_id": "8ab15831-dfea-4ed9-9af9-645cb850e637",
+    "branch_id" : "29816959-1d1c-41e1-acf6-b0845ddcbe8f",
+    "cart": [
+        {
+            "id": "0a2942b9-6dfc-4e23-b34d-999b4bca702a",
+            "price": 30000,
+            "product_description": "",
+            "product_img": "https://nyc3.digitaloceanspaces.com/requisition-space/prod_docs/cart.jpg?AWSAccessKeyId=DO00RFUZQBAXKQXVRK7W&Signature=NOEoEpn8M1sGjxTtTZTmhtNjLr4%3D&Expires=1719396550",
+            "product_name": "Nike Sb Low",
+            "quantity": 1,
+            "subTotal": 30000
+        },
+        {
+            "id": "348f7e08-a6ca-49ef-bfcf-7dbc77866462",
+            "price": 100000,
+            "product_description": "This cutting-edge item combines sleek design with powerful performance to keep you connected and productive on the go.",
+            "product_img": "https://nyc3.digitaloceanspaces.com/requisition-space/prod_docs/cart.jpg?AWSAccessKeyId=DO00RFUZQBAXKQXVRK7W&Signature=NOEoEpn8M1sGjxTtTZTmhtNjLr4%3D&Expires=1719396550",
+            "product_name": "Fruit Banana",
+            "quantity": 1,
+            "subTotal": 100000
+        }
+    ],
+    "shipping": 50,
+    "discount": 200,
+    "tax": 300,
+    "total_price": 130150,
+   
+    "buyer": {
+        "first_name": "Kim",
+        "middle_name": "Jin",
+        "last_name": "Wallace",
+        "country": "Nigeria",
+        "address": "Alara street",
+        "state": "Lagos",
+        "city": "Yaba",
+        "email": "kimwallace@gmail.com",
+        "phone_number": "09094788365",
+        "ship_to_different_address": false,
+        "paymentOption": "CARD",
+        "addition_information": "Yo Yo Yo"
+    }
+}

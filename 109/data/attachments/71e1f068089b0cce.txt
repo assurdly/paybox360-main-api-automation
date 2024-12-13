@@ -1,0 +1,6 @@
+{
+    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
+    "branch": "", 
+    "title": "haptic1431 tax",
+    "rate": 1.5
+}

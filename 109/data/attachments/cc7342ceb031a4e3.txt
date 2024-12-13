@@ -1,0 +1,45 @@
+{
+    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/loganjlambert_128.jpg", 
+                    "item": "Intelligent Frozen Car",
+                    "quantity": 150, 
+                    "stock_price": 7057.55, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Plastic Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adamawesomeface_128.jpg",    
+                    "item": "Handcrafted Metal Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

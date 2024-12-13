@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"91938c43-6def-4854-98e6-5d76b610cb35","created_at":"2024-12-13T19:09:46.813860+01:00","title":"Wireless Tax","rate":0.0,"company":"Idy-Teal-Bus","branch":"South Ilenehaven"},"errors":null}

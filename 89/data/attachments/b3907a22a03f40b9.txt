@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Lake Gladys",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

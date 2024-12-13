@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "1",
-    "name": "Eddie Sawayn Sr.",
-    "email": "Violette.Rath87@mailinator.com",
-    "phone": "08084881488",
-    "address": "323 Zieme Valleys"
-}
