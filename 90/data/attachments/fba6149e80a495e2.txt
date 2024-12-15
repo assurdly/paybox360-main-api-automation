@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "1",
-    "name": "Darlene Bins",
-    "email": "Cletus.Armstrong@mailinator.com",
-    "phone": "08077676640",
-    "address": "92793 Blick Greens"
-}

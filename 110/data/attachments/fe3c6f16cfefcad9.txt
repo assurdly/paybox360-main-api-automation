@@ -1,0 +1,6 @@
+{
+    "company": "e3546881-562b-4eb6-920a-502b5d384df3",
+    "branch": "512e3053-ee95-4782-a53d-22842a2d7de5",
+    "batch_id": "20240617-uG5zz5Ud",
+    "action_type": "CANCELLED"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"company":"ce33c0a6-97c9-4d54-a771-10307904a47a","company_name":"Idy-Salmon-Pixel","id":"04a20877-6155-498c-a5e0-cabcb7a78310","name":"Computer Accessories"}],"count":1,"total_categories":1},"errors":null}

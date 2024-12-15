@@ -1,0 +1,7 @@
+{
+    "name": "Crystal Lakin",
+    "email": "Sandra1",
+    "phone_number": "08088563101",
+    "address": "Idumota, Lagos",
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a"
+}

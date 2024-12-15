@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null1",
-    "name": "Julio Hilpert",
-    "email": "Margaretta_Kshlerin@mailinator.com",
-    "phone": "08056368341",
-    "address": "8391 Joanne Run"
-}

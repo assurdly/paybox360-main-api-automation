@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d936d289-aaac-4f12-9a1a-5c498d5b2e1c","created_at":"2024-12-15T21:04:11.507176+01:00","title":"Virtual1428 Tax","rate":1.5,"company":"Application","branch":"Greenville"},"errors":null}

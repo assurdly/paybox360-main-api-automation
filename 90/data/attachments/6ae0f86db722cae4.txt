@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "branch": "null",
-    "name": "Bridget Bergstrom",
-    "email": "Lelah_Bruen@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "0343 Bernier View"
-}

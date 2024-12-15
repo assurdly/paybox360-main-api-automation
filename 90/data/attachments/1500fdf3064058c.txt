@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "branch": "null",
-    "name": "Melinda Oberbrunner V",
-    "email": "Misael_Satterfield@mailinator.com",
-    "phone": "08098489356",
-    "address": "236 Malcolm Spurs"
-}

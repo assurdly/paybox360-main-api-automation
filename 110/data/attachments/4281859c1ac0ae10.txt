@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"8253c43c-a1f1-4799-9f2f-a645d4ed4610","created_at":"2024-12-15T21:04:12.297083+01:00","title":"Auxiliary Tax","rate":-10.0,"company":"Application","branch":"Greenville"},"errors":null}

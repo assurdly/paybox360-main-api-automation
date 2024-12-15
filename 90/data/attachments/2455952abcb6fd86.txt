@@ -1,7 +1,0 @@
-{
-    "name": "Wendy Ebert",
-    "email": "Jocelyn_Champlin@mailinator.com",
-    "phone_number": "08028845005",
-    "address": "Idumota, Lagos",
-    "company": "7"
-}

@@ -1,0 +1,45 @@
+{
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joshaustin_128.jpg", 
+                    "item": "Gorgeous Frozen Gloves",
+                    "quantity": 150, 
+                    "stock_price": 223.40, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Concrete Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/marciotoledo_128.jpg",    
+                    "item": "Gorgeous Rubber Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

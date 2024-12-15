@@ -1,0 +1,11 @@
+{
+    "Authorization": "Basic Og==",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "75a2dc1e-8f48-44d3-adc6-21d8a375f9d3",
+    "Host": "management.libertypayng.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "sessionid=g4g69ty71i8kbqakympo6y8tfm31ztm5"
+}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "West Anika",
-    "state": "Lagsos - Test",
-    "country": "Sao Tome and Principe"
-}

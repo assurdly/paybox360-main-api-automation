@@ -1,0 +1,7 @@
+{
+    "company": "e3546881-562b-4eb6-920a-502b5d384df3",
+    "customer_id": "",
+    "city": "Oro Valley",
+    "state": "Lagsos - Test",
+    "country": "Djibouti"
+}

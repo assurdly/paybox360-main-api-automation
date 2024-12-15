@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "c93fa23e-12ef-47fd-97b1-725d4433b1a1",
+    "name": "wireless invoice",
+    "email": "Madonna.Friesen@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

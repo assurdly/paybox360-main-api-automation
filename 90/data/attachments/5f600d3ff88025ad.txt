@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Zakaryport",
-    "state": "North Juliusmouth",
-    "country": ""
-}

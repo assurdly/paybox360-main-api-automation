@@ -1,0 +1,42 @@
+{
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Fresh Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Soft Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/geneseleznev_128.jpg",    
+                    "item": "Ergonomic Metal Cheese",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

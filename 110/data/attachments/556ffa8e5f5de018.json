@@ -1,0 +1,13 @@
+{
+    "token": "",
+    "Content-Type": "application/json",
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM0NzI0ODkyLCJqdGkiOiI4YzE1M2UwNzBmNzU0NmFjYThkNDdmMzhlYzFlMzhkMiIsInVzZXJfaWQiOjY5Mzd9.aW1aRBUWYd47YtFupcDkDxkSqDyJW-rkv-nMM5QmvC0",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "17961291-4257-4dc9-ae5a-8a6f98b21a18",
+    "Host": "api.youverify.co",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "96"
+}

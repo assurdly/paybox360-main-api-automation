@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "Glen Tromp",
-    "email": "Marilyne.Brekke@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "5760 Ziemann Grove"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Vivian Leannon PhD",
-    "email": "Julio.Hodkiewicz42@mailinator.com",
-    "phone_number": "08078049431",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

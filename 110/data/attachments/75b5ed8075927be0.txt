@@ -1,0 +1,7 @@
+{
+    "name": "Raquel Morar",
+    "email": "Margarete.Bergnaum88@mailinator.com",
+    "phone_number": "08032268752erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a"
+}

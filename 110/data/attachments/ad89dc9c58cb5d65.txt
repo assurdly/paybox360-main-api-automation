@@ -1,0 +1,8 @@
+{
+    "company": "e3546881-562b-4eb6-920a-502b5d384df31",
+    "customer_id": "",
+    "name": "Christy Schaden IV",
+    "email": "Fletcher_Yundt@mailinator.com",
+    "phone": "08013503558",
+    "address": "15521 Dickinson Glen"
+}

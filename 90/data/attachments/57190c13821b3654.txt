@@ -1,7 +1,0 @@
-{
-    "name": "Elsie Block",
-    "email": "Juliet60",
-    "phone_number": "08073049397",
-    "address": "Idumota, Lagos",
-    "company": ""
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"79439332-c2df-4b3e-b721-1356dce2ec41","name":"Soap"},{"id":"469bc7b9-0df7-4ddc-a369-5bfb2688a59d","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}

@@ -1,8 +1,0 @@
-{
-    "company": "1",
-    "customer_id": "",
-    "name": "Willis Murazik",
-    "email": "Darien.Howell@mailinator.com",
-    "phone": "08068938443",
-    "address": "0680 Jonatan Motorway"
-}

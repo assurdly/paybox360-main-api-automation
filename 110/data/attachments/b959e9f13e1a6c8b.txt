@@ -1,0 +1,7 @@
+{
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
+    "name": "Redmond",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": "agshkkw",
+    "is_super_branch": false
+}
