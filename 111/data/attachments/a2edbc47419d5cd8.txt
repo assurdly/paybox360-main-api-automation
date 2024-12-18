@@ -1,0 +1,23 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25beans",
+    "branch": "51875f67-6a2b-44bc-903c-32fff2859b72", 
+    "items": [
+        {
+            "item_description": "item application",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop transmitter",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "eac8417a-9b16-4f7a-9cdf-a5c67bd22581",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

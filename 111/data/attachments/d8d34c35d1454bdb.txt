@@ -1,0 +1,42 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Granite Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Frozen Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kumarrajan12123_128.jpg",    
+                    "item": "Handmade Wooden Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8fbeans",
-    "customer_id": "",
-    "city": "West Babylon",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

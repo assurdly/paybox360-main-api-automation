@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"dac21b3a-9159-4c78-bfa8-dfbf3807261a","created_at":"2024-12-18T19:06:53.559298+01:00","title":"Primary Tax","rate":0.0,"company":"Idy-Mint Green-Bandwidth","branch":"Chelseystad"},"errors":null}

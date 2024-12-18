@@ -1,0 +1,42 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Granite Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Rubber Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adhiardana_128.jpg",    
+                    "item": "Rustic Concrete Computer",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

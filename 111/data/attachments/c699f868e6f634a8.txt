@@ -1,0 +1,6 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "branch": "beans", 
+    "title": "auxiliary1432 tax",
+    "rate": 1.5
+}

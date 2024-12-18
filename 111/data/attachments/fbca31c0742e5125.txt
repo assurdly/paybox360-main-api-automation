@@ -1,0 +1,1 @@
+{"branch":["“f042ac98-fb36-4019-ab3e-6576c13ef2aa1” is not a valid UUID."],"stocks":[{"category":["This field may not be null."],"item":["This field may not be null."]}]}

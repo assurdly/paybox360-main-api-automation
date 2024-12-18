@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2024-11-04T09:10:30.722364+01:00","reference":"INV-NOV-otq2d3G1","company":"Idy-Azure-Sensor","branch":"South Ahmadshire","customer":null,"amount":"-8408.77","due_date":"2024-12-31","status":"PENDING"}},"errors":null}

@@ -1,0 +1,45 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c252",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mvdheuvel_128.jpg", 
+                    "item": "Handcrafted Granite Car",
+                    "quantity": 150, 
+                    "stock_price": 5900.12, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Plastic Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andresdjasso_128.jpg",    
+                    "item": "Sleek Frozen Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Ada Turner",
-    "email": "Demond_Lebsack@mailinator.com",
-    "phone_number": "08040081390erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f"
-}

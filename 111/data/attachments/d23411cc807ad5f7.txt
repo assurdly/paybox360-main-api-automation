@@ -1,0 +1,42 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Rubber Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Wooden Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/buzzusborne_128.jpg",    
+                    "item": "Refined Cotton Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

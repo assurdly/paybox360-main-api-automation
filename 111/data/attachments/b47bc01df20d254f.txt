@@ -1,0 +1,8 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "customer_id": "",
+    "name": "Ms. Kevin Glover",
+    "email": "Tatyana85@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "291 Wilson Ridge"
+}

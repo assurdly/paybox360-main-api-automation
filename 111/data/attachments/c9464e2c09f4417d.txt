@@ -1,0 +1,42 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Steel Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Soft Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/konus_128.jpg",    
+                    "item": "Fantastic Metal Tuna",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Wilbert Lockman",
+    "email": "Aidan_OKeefe@mailinator.com",
+    "phone_number": "08057884606",
+    "address": "Idumota, Lagos",
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c257"
+}

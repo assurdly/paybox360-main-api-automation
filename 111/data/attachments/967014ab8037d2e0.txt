@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"eac8417a-9b16-4f7a-9cdf-a5c67bd22581","created_at":"2024-12-18T19:06:52.846013+01:00","title":"Mobile1428 Tax","rate":1.5,"company":"Idy-Mint Green-Bandwidth","branch":"Chelseystad"},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "branch": "f042ac98-fb36-4019-ab3e-6576c13ef2aa",
+    "name": "Mrs. Willard Dicki",
+    "email": "Fritz.Hamill53",
+    "phone": "08063104444",
+    "address": "43122 Kihn Shore"
+}

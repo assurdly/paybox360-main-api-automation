@@ -1,0 +1,8 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "customer_id": "1",
+    "name": "Mr. Stanley Wilkinson",
+    "email": "Avery.Krajcik93@mailinator.com",
+    "phone": "08055370710",
+    "address": "922 Bergnaum Lodge"
+}

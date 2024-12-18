@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"1f807035-d5c8-4dbb-a04c-99bc54504c25","company_name":"Idy-mint green-bandwidth","industry":"BANKING AND FINANCE","size":5}}

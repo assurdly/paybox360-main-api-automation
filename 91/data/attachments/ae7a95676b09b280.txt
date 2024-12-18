@@ -1,7 +1,0 @@
-{
-    "name": "Katherine Collier MD",
-    "email": "Telly_Wunsch",
-    "phone_number": "08086586484",
-    "address": "Idumota, Lagos",
-    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f"
-}

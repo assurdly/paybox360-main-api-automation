@@ -1,0 +1,11 @@
+{
+    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
+    "branch": "51875f67-6a2b-44bc-903c-32fff2859b72",
+    "name": "virtual invoice",
+    "email": "Jordon96@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

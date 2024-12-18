@@ -1,0 +1,10 @@
+{
+    "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzM0OTc3MDU0LCJqdGkiOiI5NmQ1YzYxNGE2MDQ0Yjk2YmI5MGFhN2VkNGZlZjI2MCIsInVzZXJfaWQiOjY5Mzd9.0rqGs7tsAE6MUNAjfI9mb5OI_d6OZeJQN5868cFpkAM",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "c5050035-6a70-4d76-9640-2441783ab673",
+    "Host": "{{instant_web_local_url}}instant_web",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

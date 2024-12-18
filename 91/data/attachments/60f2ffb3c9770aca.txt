@@ -1,8 +1,0 @@
-{
-    "company": "a1fbd53a-8218-425a-bcac-d6490b42fe8f1",
-    "branch": "31416847-3508-46ab-b13d-9f5594e44df2",
-    "name": "Yvette Rosenbaum",
-    "email": "Afton91@mailinator.com",
-    "phone": "08003513910",
-    "address": "4989 Marcella Estates"
-}
