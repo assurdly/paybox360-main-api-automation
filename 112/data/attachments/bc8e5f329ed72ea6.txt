@@ -1,0 +1,11 @@
+{
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
+    "branch": "",
+    "name": "virtual invoice",
+    "email": "Meagan.Stiedemann33@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

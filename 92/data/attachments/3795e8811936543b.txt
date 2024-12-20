@@ -1,7 +1,0 @@
-{
-    "name": "May Lubowitz",
-    "email": "Ara.Leannon81",
-    "phone_number": "08058895147",
-    "address": "Idumota, Lagos",
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af"
-}

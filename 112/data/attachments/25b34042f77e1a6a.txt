@@ -1,0 +1,45 @@
+{
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/eduardostuart_128.jpg", 
+                    "item": "Awesome Plastic Keyboard",
+                    "quantity": 150, 
+                    "stock_price": 5488.01, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Granite Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vc27_128.jpg",    
+                    "item": "Sleek Steel Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

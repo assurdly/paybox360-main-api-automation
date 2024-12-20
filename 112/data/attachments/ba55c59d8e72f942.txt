@@ -1,0 +1,42 @@
+{
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Steel Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Metal Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rikas_128.jpg",    
+                    "item": "Fantastic Rubber Soap",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

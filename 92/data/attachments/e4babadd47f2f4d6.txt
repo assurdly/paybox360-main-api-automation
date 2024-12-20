@@ -1,7 +1,0 @@
-{
-    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
-    "customer_id": "beans",
-    "city": "Scottyfort",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

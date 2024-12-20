@@ -1,7 +1,0 @@
-{
-    "name": "Gertrude Berge",
-    "email": "Ernestina_Casper85@mailinator.com",
-    "phone_number": "08074586410erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af"
-}

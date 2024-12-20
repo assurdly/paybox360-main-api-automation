@@ -1,0 +1,7 @@
+{
+    "name": "Lewis Carroll",
+    "email": "Elton.Kassulke10@mailinator.com",
+    "phone_number": "08073889423",
+    "address": "Idumota, Lagos",
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b"
+}

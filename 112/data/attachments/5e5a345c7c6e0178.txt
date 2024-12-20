@@ -1,0 +1,7 @@
+{
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
+    "name": "Lake Orphafurt",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

@@ -1,0 +1,42 @@
+{
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Rustic Fresh Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Cotton Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thimo_cz_128.jpg",    
+                    "item": "Licensed Concrete Chips",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

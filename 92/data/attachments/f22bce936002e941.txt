@@ -1,7 +1,0 @@
-{
-    "name": "Angel Tromp",
-    "email": "Fabian28@mailinator.com",
-    "phone_number": "08017201644",
-    "address": "Idumota, Lagos",
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af"
-}

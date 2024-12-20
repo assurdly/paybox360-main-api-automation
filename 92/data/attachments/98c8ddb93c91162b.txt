@@ -1,8 +1,0 @@
-{
-    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
-    "branch": "326c6758-3628-4dc3-93ca-ab6a1309a3d4",
-    "name": "Kim Keeling",
-    "email": "Lonie_Cummings",
-    "phone": "08020307322",
-    "address": "69608 Dietrich Divide"
-}

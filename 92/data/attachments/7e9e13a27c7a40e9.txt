@@ -1,8 +1,0 @@
-{
-    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e611",
-    "customer_id": "",
-    "name": "Mrs. Julian Mayer",
-    "email": "Earnestine94@mailinator.com",
-    "phone": "08058806994",
-    "address": "6482 Oral Garden"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"25f171ed-a128-4b78-bbed-57035061ab45","created_at":"2024-11-06T19:07:19.474902+01:00","title":"Multi-Byte1428 Tax","rate":1.5,"company":"Bandwidth","branch":"Stammton"},"errors":null}

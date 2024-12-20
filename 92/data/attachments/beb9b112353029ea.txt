@@ -1,8 +1,0 @@
-{
-    "company": "6320ba49-6ee7-40c2-9dc4-06b408bf0e61",
-    "customer_id": "1",
-    "name": "Genevieve Ratke",
-    "email": "Ezekiel.Kessler@mailinator.com",
-    "phone": "08017759230",
-    "address": "12947 Boyer Light"
-}

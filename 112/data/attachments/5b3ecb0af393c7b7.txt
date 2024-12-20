@@ -1,0 +1,8 @@
+{
+    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b1",
+    "customer_id": "",
+    "name": "Clifton Hauck III",
+    "email": "Reba.Greenholt@mailinator.com",
+    "phone": "08019575991",
+    "address": "00045 Konopelski Islands"
+}

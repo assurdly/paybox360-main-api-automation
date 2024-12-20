@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"company":"cc32b70d-44d9-4dc0-a5ef-b9ed566a14af","company_name":"Idy-Azure-Port","id":"04a20877-6155-498c-a5e0-cabcb7a78310","name":"Computer Accessories"}],"count":1,"total_categories":1},"errors":null}

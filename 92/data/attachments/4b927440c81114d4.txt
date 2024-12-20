@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"cc32b70d-44d9-4dc0-a5ef-b9ed566a14af","company_name":"Idy-azure-port","industry":"BANKING AND FINANCE","size":5}}

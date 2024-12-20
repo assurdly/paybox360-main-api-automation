@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"8ba4bfa4-e8c3-42c8-801b-10335e4fcecd","name":"Ball"},{"id":"1c2c7728-6bb2-4ddb-991f-5a4420e8cd8e","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}
