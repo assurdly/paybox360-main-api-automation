@@ -1,8 +1,0 @@
-{
-    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
-    "branch": "cb5818b6-92c6-4bd5-a0b0-691b68123a17",
-    "name": "Kari Kertzmann",
-    "email": "Jules.Lynch4",
-    "phone": "08039953941",
-    "address": "4688 Annamae Center"
-}

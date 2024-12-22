@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "78f4e219-1048-4bcb-bed9-f787eb7f6c61",
+    "name": "primary invoice",
+    "email": "Willard73@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + feed","company_id":"ce33c0a6-97c9-4d54-a771-10307904a47a","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"1596d52f-5a1a-408f-8357-8bbd083254c5"}}

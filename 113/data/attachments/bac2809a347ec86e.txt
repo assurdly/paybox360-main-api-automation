@@ -1,0 +1,11 @@
+{
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
+    "branch": "78f4e219-1048-4bcb-bed9-f787eb7f6c61",
+    "name": "optical invoice",
+    "email": "@3Holly_Kuphal5@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

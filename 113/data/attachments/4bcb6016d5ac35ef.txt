@@ -1,0 +1,8 @@
+{
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
+    "customer_id": "",
+    "name": "Gladys Rohan",
+    "email": "Adeline51",
+    "phone": "08062650625",
+    "address": "65673 Annamarie Isle"
+}

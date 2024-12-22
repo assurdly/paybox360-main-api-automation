@@ -1,8 +1,0 @@
-{
-    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
-    "customer_id": "",
-    "name": "Lorene Herzog",
-    "email": "Carmel68",
-    "phone": "08003993725",
-    "address": "2968 Fermin Meadow"
-}

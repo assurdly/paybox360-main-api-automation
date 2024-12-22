@@ -1,0 +1,11 @@
+{
+    "Authorization": "Bearer {{user_token}}",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "ecd9972c-3a75-4648-9f0c-f519b99e6b7b",
+    "Host": "management.libertypayng.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "sessionid=h5zkiwym3ueoc02l2tgx3wyyme3ajkaj"
+}

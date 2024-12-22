@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"bdc508c4-2542-4cd1-a222-66d5817f1a95","company_name":"Idy-white-system","industry":"BANKING AND FINANCE","size":5}}

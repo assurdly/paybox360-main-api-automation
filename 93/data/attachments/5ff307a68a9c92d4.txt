@@ -1,8 +1,0 @@
-{
-    "company": "bdc508c4-2542-4cd1-a222-66d5817f1a95",
-    "customer_id": "",
-    "name": "Sylvia Douglas",
-    "email": "Emmanuel_Koepp10@mailinator.com",
-    "phone": "08000448612",
-    "address": "04072 Wolf River"
-}

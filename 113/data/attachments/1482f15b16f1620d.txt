@@ -1,0 +1,8 @@
+{
+    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
+    "branch": "4d532b07-bdd7-4325-aed1-d586951513831",
+    "name": "Michael MacGyver III",
+    "email": "Denis.Reilly@mailinator.com",
+    "phone": "08044166314",
+    "address": "29415 Amiya Springs"
+}

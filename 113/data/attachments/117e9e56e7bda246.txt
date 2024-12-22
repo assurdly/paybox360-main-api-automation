@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"07605c2e-1978-4462-a383-95a91911e782","created_at":"2024-12-22T21:04:34.998494+01:00","title":"Mobile1431 Tax","rate":1.5,"company":"Idy-Salmon-Pixel","branch":""},"errors":null}
