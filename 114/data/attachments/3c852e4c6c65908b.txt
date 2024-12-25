@@ -1,0 +1,45 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/IsaryAmairani_128.jpg", 
+                    "item": "Intelligent Granite Computer",
+                    "quantity": 150, 
+                    "stock_price": 7258.80, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Plastic Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/AM_Kn2_128.jpg",    
+                    "item": "Handcrafted Steel Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

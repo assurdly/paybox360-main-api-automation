@@ -1,8 +1,0 @@
-{
-    "company": "db423b77-fd42-4085-a1d4-3eb10fd96f98",
-    "customer_id": "1",
-    "name": "Jeff Nader",
-    "email": "Rebeka_Olson@mailinator.com",
-    "phone": "08007700608",
-    "address": "91697 Wintheiser Rapid"
-}

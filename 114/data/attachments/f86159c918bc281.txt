@@ -1,0 +1,8 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
+    "customer_id": "1",
+    "name": "Charlene Reichert",
+    "email": "Violette.Dibbert91@mailinator.com",
+    "phone": "08058736017",
+    "address": "83055 Leffler Bridge"
+}

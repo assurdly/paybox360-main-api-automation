@@ -1,8 +1,0 @@
-{
-    "company": "db423b77-fd42-4085-a1d4-3eb10fd96f981",
-    "customer_id": "",
-    "name": "Andrew Tillman",
-    "email": "Jacinto_Paucek@mailinator.com",
-    "phone": "08057751254",
-    "address": "69877 Hudson Bypass"
-}

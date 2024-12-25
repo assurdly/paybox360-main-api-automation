@@ -1,0 +1,13 @@
+{
+    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f11",
+    "sender_id": "491bd0df-788e-46ef-aae8-6966e525a2af",
+    "message": "Testing SMS for paybox, please ignore",
+    "contacts": [
+        "08162771727"
+    ],
+    "campaign_name": "test campaign",
+    "priority_route": false,
+    "flash_route": false,
+    "send_later": false,
+    "send_date": "2024-12-31 17:59:00" 
+}

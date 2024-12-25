@@ -1,7 +1,0 @@
-{
-    "name": "Paula Skiles",
-    "email": "Antonio59",
-    "phone_number": "08018407919",
-    "address": "Idumota, Lagos",
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6"
-}

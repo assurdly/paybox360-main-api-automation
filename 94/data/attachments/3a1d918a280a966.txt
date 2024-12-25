@@ -1,8 +1,0 @@
-{
-    "company": "db423b77-fd42-4085-a1d4-3eb10fd96f98",
-    "branch": "62a1953e-dde4-4133-9373-4443bc69203f",
-    "name": "Jodi Jones",
-    "email": "Keyon_Thiel9@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "5496 Reyes Ferry"
-}

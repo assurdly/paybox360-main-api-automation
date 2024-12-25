@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"ebebf15f-abe2-4887-bd27-1849f22aac3b","created_at":"2024-12-25T19:08:39.946480+01:00","title":"1080P Tax","rate":-10.0,"company":"Idy-Green-Bandwidth","branch":"Tryciamouth"},"errors":null}
