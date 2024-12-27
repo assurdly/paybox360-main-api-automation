@@ -1,0 +1,8 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "customer_id": "1",
+    "name": "Elbert Jerde",
+    "email": "Elmore.Brakus@mailinator.com",
+    "phone": "08034413333",
+    "address": "113 Vince Neck"
+}

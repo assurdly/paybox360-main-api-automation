@@ -1,8 +1,0 @@
-{
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
-    "customer_id": "1",
-    "name": "Herman Hackett",
-    "email": "Nedra38@mailinator.com",
-    "phone": "08066504256",
-    "address": "432 Schroeder Unions"
-}

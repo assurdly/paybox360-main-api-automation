@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Idy-Gold-System","branches":3,"teams":0,"total_stock_value":195812700.0,"total_sales_values":173250.0,"total_expected_profit":7299100.0},"errors":null}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"b92a9af9-fc82-4b38-8edd-ecb6cda8d558","created_at":"2024-12-27T19:09:56.369160+01:00","title":"Primary Tax","rate":0.0,"company":"Idy-Gold-System","branch":"Brownstad"},"errors":null}

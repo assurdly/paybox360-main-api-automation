@@ -1,0 +1,45 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/finchjke_128.jpg", 
+                    "item": "Gorgeous Frozen Pants",
+                    "quantity": 150, 
+                    "stock_price": 7192.53, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Cotton Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/yesmeck_128.jpg",    
+                    "item": "Rustic Frozen Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

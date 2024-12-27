@@ -1,0 +1,11 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89beans",
+    "branch": "d8c5cfdc-c917-45aa-8909-34d21a071be1",
+    "name": "auxiliary invoice",
+    "email": "Jessika83@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

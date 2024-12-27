@@ -1,7 +1,0 @@
-{
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
-    "name": "Mireilleville",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": "agshkkw",
-    "is_super_branch": false
-}

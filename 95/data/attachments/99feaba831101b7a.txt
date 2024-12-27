@@ -1,8 +1,0 @@
-{
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e61",
-    "customer_id": "",
-    "name": "Dr. Garrett Mayert",
-    "email": "Garry28@mailinator.com",
-    "phone": "08007420707",
-    "address": "3566 Stehr Station"
-}

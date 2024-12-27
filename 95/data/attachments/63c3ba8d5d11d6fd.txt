@@ -1,8 +1,0 @@
-{
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
-    "branch": "e54f2e58-277d-4d4b-b31c-bbe236fc222c",
-    "name": "Steven Prohaska",
-    "email": "Sedrick_Mueller@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "97636 Collier Curve"
-}

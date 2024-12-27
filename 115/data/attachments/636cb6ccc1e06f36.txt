@@ -1,0 +1,8 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec891",
+    "branch": "7be8c4cb-39a9-48ae-95d1-b9f6dc967284",
+    "name": "Glenda Koelpin",
+    "email": "Alexandra_Ziemann96@mailinator.com",
+    "phone": "08075690216",
+    "address": "78203 Hansen Rapid"
+}

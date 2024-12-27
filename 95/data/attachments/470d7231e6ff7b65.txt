@@ -1,8 +1,0 @@
-{
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
-    "branch": "e54f2e58-277d-4d4b-b31c-bbe236fc222c",
-    "name": "Kelly Funk",
-    "email": "Jo.Daniel35",
-    "phone": "08050898755",
-    "address": "08886 Adele Points"
-}

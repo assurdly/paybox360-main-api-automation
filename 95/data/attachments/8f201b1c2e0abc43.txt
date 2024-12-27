@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"3f5516bb-469f-407b-8b4c-ca4b0d680d23","created_at":"2024-11-13T19:08:23.775362+01:00","title":"Auxiliary Tax","rate":-10.0,"company":"Idy-Purple-Bus","branch":"Justineside"},"errors":null}

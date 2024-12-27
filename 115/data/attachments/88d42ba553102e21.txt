@@ -1,0 +1,45 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec892",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/anatolinicolae_128.jpg", 
+                    "item": "Gorgeous Frozen Shirt",
+                    "quantity": 150, 
+                    "stock_price": 7192.53, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Steel Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/yassiryahya_128.jpg",    
+                    "item": "Rustic Fresh Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Cotton Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Wooden Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lebinoclard_128.jpg",    
+                    "item": "Practical Fresh Chicken",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

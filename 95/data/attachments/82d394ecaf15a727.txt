@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"company":"Idy-Purple-Bus","branches":3,"teams":2,"total_stock_value":200094500.0,"total_sales_values":0.0,"total_expected_profit":7468500.0},"errors":null}

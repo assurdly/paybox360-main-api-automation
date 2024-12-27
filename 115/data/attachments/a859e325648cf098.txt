@@ -1,0 +1,42 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Frozen Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Wooden Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/flashmurphy_128.jpg",    
+                    "item": "Incredible Rubber Fish",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "company": "39a64743-6835-432f-9593-ae23c865ec89",
+    "branch": "7be8c4cb-39a9-48ae-95d1-b9f6dc9672841",
+    "name": "Jean Christiansen",
+    "email": "Noble12@mailinator.com",
+    "phone": "08094870502",
+    "address": "3650 Trudie Green"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "b1d1684b-cf0f-4a1c-99a1-e081027b44e6",
-    "branch": "e54f2e58-277d-4d4b-b31c-bbe236fc222c1",
-    "name": "Maryann Donnelly Jr.",
-    "email": "Carlo_Buckridge62@mailinator.com",
-    "phone": "08084003508",
-    "address": "152 Spinka Crest"
-}

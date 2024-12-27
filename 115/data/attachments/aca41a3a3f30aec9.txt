@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"3a207714-64dc-4447-a015-25757345d23f","created_at":"2024-12-27T19:09:55.525836+01:00","title":"Optical1428 Tax","rate":1.5,"company":"Idy-Gold-System","branch":"Brownstad"},"errors":null}

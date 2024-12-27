@@ -1,0 +1,1 @@
+{"total_transactions":7,"total_transaction_volume":"1046500.00","total_online":"0.00","total_offline":"0.00","transactions_by_month":{"Aug":"1046500.00"},"transaction_source":{"CASH":"173250.00","None":"873250.00"},"gross_profit":{"Aug":"1046500.00"},"net_profit":{"Aug":"1163087.50"}}

@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "0f9f4a3b-3553-4408-ab5c-c72410776b29", 
-    "title": "wireless tax",
-    "rate": 1.5
-}
