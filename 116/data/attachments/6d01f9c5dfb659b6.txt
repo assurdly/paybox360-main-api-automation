@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"035cd4c0-d982-4017-b7df-90b86497a534","created_at":"2024-12-29T21:04:33.435509+01:00","title":"Optical Tax","rate":-10.0,"company":"Idy-Violet-Application","branch":"South Rachaelfort"},"errors":null}

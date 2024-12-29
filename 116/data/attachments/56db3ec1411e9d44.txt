@@ -1,0 +1,8 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
+    "customer_id": "1",
+    "name": "Guillermo Leffler",
+    "email": "Rudolph81@mailinator.com",
+    "phone": "08032517459",
+    "address": "3685 Demarco Rue"
+}

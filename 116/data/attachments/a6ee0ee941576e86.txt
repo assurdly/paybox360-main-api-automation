@@ -1,0 +1,45 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/chadengle_128.jpg", 
+                    "item": "Gorgeous Soft Tuna",
+                    "quantity": 150, 
+                    "stock_price": 9615.37, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Concrete Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/grrr_nl_128.jpg",    
+                    "item": "Handcrafted Fresh Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

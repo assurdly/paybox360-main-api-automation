@@ -1,8 +1,0 @@
-{
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
-    "customer_id": "",
-    "name": "Lena Hackett",
-    "email": "Ottis28@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "1533 Paucek Park"
-}

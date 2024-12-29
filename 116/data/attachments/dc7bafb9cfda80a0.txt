@@ -1,0 +1,8 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
+    "branch": "d495aae3-fc2d-4b34-ac0a-eda836ee38681",
+    "name": "Felicia Carter",
+    "email": "Maida.Grady@mailinator.com",
+    "phone": "08017455688",
+    "address": "2554 Emmerich Station"
+}

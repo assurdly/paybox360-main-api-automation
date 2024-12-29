@@ -1,8 +1,0 @@
-{
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
-    "customer_id": "1",
-    "name": "Vanessa Fadel DVM",
-    "email": "Allene_Wilkinson30@mailinator.com",
-    "phone": "08081895580",
-    "address": "7606 Moore Motorway"
-}

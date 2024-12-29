@@ -1,0 +1,7 @@
+{
+    "name": "Salvador Hayes IV",
+    "email": "Charley_Fadel88@mailinator.com",
+    "phone_number": "08032453902",
+    "address": "Idumota, Lagos",
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5"
+}

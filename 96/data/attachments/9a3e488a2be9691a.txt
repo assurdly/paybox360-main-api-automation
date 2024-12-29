@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "West Maribel",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

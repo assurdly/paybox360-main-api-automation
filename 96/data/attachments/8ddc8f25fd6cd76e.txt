@@ -1,1 +1,0 @@
-{"email":["Enter a valid email address."],"category":["This field is required."]}

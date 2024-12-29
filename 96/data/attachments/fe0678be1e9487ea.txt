@@ -1,7 +1,0 @@
-{
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
-    "branch": "b7a27bdc-c95c-4b75-9cc9-fd6d1b82f6a6",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Daniella89"
-}

@@ -1,0 +1,42 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Granite Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Rubber Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/safrankov_128.jpg",    
+                    "item": "Ergonomic Metal Gloves",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Granite Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Plastic Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thibaut_re_128.jpg",    
+                    "item": "Sleek Concrete Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f52",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/miguelkooreman_128.jpg", 
+                    "item": "Gorgeous Metal Ball",
+                    "quantity": 150, 
+                    "stock_price": 9615.37, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Metal Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/oktayelipek_128.jpg",    
+                    "item": "Practical Soft Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

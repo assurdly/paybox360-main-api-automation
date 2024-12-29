@@ -1,8 +1,0 @@
-{
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af1",
-    "customer_id": "",
-    "name": "Crystal Schuppe",
-    "email": "Johanna29@mailinator.com",
-    "phone": "08011816913",
-    "address": "45660 Terry Ranch"
-}

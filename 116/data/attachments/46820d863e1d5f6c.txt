@@ -1,0 +1,7 @@
+{
+    "name": "Kurt Lang",
+    "email": "Markus.Gleichner@mailinator.com",
+    "phone_number": "08019902571",
+    "address": "Idumota, Lagos",
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f57"
+}

@@ -1,0 +1,11 @@
+{
+    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5beans",
+    "branch": "37d4f51d-71f6-4281-aecc-af860a4b7bd3",
+    "name": "online invoice",
+    "email": "Hallie_Howe57@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

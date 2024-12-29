@@ -1,8 +1,0 @@
-{
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af1",
-    "branch": "b7a27bdc-c95c-4b75-9cc9-fd6d1b82f6a6",
-    "name": "Mrs. Katherine Lehner",
-    "email": "Theo.Sanford@mailinator.com",
-    "phone": "08052689799",
-    "address": "2397 Rasheed Rest"
-}

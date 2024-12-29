@@ -1,8 +1,0 @@
-{
-    "company": "cc32b70d-44d9-4dc0-a5ef-b9ed566a14af",
-    "customer_id": "",
-    "name": "Shawna Koch",
-    "email": "Mortimer.McKenzie@mailinator.com",
-    "phone": "08009571695",
-    "address": "985 Bins Vista"
-}

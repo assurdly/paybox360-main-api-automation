@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + pixel",
+    "company_id": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "+23407034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "+2348031814579",
+            "role": "ADMIN"
+        }
+    ]
+}
