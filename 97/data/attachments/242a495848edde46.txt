@@ -1,7 +1,0 @@
-{
-    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be",
-    "branch": "61c9f65a-1eff-407b-8005-e7e287b4a0f41",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Chesley24@mailinator.com"
-}

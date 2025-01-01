@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"f804e211-2d5d-4646-a1ee-72db2b58e6c7","created_at":"2025-01-01T19:08:05.688163+01:00","title":"Digital Tax","rate":0.0,"company":"Idy-Purple-Application","branch":"Wauwatosa"},"errors":null}

@@ -1,0 +1,42 @@
+{
+    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Concrete Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Steel Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/amayvs_128.jpg",    
+                    "item": "Handmade Rubber Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

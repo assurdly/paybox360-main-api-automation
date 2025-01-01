@@ -1,0 +1,8 @@
+{
+    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "branch": "f4660d93-f632-4d1f-8872-02e60b3834c7",
+    "name": "Annie DuBuque",
+    "email": "Uriah4",
+    "phone": "08062520439",
+    "address": "56448 Dolores Village"
+}

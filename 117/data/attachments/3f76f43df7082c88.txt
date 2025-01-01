@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + array",
+    "company_id": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "+23407034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "+2348031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

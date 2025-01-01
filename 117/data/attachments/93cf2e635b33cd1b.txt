@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "3ebbe384-0cd2-4671-9d29-e4340d799aec",
+    "name": "bluetooth invoice",
+    "email": "Litzy59@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

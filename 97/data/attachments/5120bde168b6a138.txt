@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Downey",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

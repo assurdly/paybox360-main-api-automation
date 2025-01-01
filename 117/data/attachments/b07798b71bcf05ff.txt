@@ -1,0 +1,42 @@
+{
+    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Steel Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Granite Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/falling_soul_128.jpg",    
+                    "item": "Awesome Metal Mouse",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

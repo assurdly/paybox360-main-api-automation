@@ -1,0 +1,8 @@
+{
+    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "customer_id": "",
+    "name": "Bryant Batz",
+    "email": "Garrison.Johnston@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "78651 Kaci Groves"
+}

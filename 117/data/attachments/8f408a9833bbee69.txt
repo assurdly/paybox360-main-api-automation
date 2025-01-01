@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"944cd595-1eba-49fc-b4ab-e3a4b4a58790","created_at":"2025-01-01T19:08:04.772198+01:00","title":"1080P1428 Tax","rate":1.5,"company":"Idy-Purple-Application","branch":"Wauwatosa"},"errors":null}

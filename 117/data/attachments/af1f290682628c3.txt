@@ -1,0 +1,11 @@
+{
+    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "branch": "",
+    "name": "solid state invoice",
+    "email": "Scarlett_Klocko59@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

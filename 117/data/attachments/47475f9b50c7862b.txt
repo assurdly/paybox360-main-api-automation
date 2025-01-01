@@ -1,0 +1,21 @@
+{
+    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
+    "price_lists": [
+        {
+            "category": "",
+            "item": "",
+            "size_or_volume": "1",
+            "price": 12000,
+            "all_branches": true
+        },
+        {
+            "category": "",
+            "item": "",
+            "size_or_volume": "1",
+            "price": 500,
+            "selected_branches": [
+                "3ebbe384-0cd2-4671-9d29-e4340d799aec"
+            ]
+        }
+    ]
+}

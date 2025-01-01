@@ -1,8 +1,0 @@
-{
-    "company": "d2ebaa42-b1c1-43af-9140-82c64ab022be1",
-    "branch": "61c9f65a-1eff-407b-8005-e7e287b4a0f4",
-    "name": "Evelyn Williamson",
-    "email": "Tom42@mailinator.com",
-    "phone": "08049853170",
-    "address": "785 Elroy Trail"
-}
