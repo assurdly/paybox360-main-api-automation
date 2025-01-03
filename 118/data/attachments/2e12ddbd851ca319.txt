@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"bff37999-64da-4246-abe4-cb3e6f885ad9","created_at":"2025-01-03T19:10:19.046574+01:00","title":"Digital Tax","rate":0.0,"company":"Idy-Cyan-Firewall","branch":"Ileneberg"},"errors":null}

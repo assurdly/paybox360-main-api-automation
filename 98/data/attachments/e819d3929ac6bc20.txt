@@ -1,7 +1,0 @@
-{
-    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
-    "branch": "e4b42a1e-1263-4a67-9fb5-e83f46b4c6c0",
-    "batch_id": "",
-    "amount": 500000,
-    "email": "augustine@libertyng.com"
-}

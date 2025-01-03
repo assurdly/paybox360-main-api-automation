@@ -1,8 +1,0 @@
-{
-    "company": "523033c9-73fd-42b7-abe1-6d0c7e5320041",
-    "branch": "af5732d7-7d19-4419-8b48-866a0f6725d9",
-    "name": "Paul Monahan",
-    "email": "Katrine97@mailinator.com",
-    "phone": "08093250032",
-    "address": "38984 Ike Wells"
-}

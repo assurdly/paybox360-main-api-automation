@@ -1,8 +1,0 @@
-{
-    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
-    "customer_id": "",
-    "name": "Ms. Susan Hermann",
-    "email": "Cornell64@mailinator.com",
-    "phone": "08099932114",
-    "address": "3698 Stacy Via"
-}

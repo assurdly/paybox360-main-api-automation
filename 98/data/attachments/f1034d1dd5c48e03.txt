@@ -1,7 +1,0 @@
-{
-    "name": "Peggy Gislason",
-    "email": "Rosalinda.Hoeger",
-    "phone_number": "08005894528",
-    "address": "Idumota, Lagos",
-    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004"
-}

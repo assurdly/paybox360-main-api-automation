@@ -1,8 +1,0 @@
-{
-    "company": "523033c9-73fd-42b7-abe1-6d0c7e5320041",
-    "customer_id": "",
-    "name": "Sophie Borer",
-    "email": "Colleen51@mailinator.com",
-    "phone": "08012531429",
-    "address": "7035 Grady Route"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "523033c9-73fd-42b7-abe1-6d0c7e532004",
-    "customer_id": "",
-    "name": "Lois Parker",
-    "email": "Raoul.Baumbach4@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "96161 Kilback Landing"
-}

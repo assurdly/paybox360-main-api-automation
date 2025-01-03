@@ -1,0 +1,8 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
+    "customer_id": "1",
+    "name": "Jackie McKenzie",
+    "email": "Mckayla_Bernhard@mailinator.com",
+    "phone": "08050038178",
+    "address": "7560 Langosh Causeway"
+}

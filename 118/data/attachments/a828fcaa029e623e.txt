@@ -1,0 +1,8 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
+    "customer_id": "",
+    "name": "Jeremy Wiegand",
+    "email": "Onie_OHara@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "8950 Virgil Rue"
+}

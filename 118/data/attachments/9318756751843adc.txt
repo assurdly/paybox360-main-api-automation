@@ -1,0 +1,8 @@
+{
+    "company": "138d17a7-c135-43a2-bcc3-93e3733091641",
+    "customer_id": "",
+    "name": "Paula McClure",
+    "email": "Liliane_Renner@mailinator.com",
+    "phone": "08047394960",
+    "address": "209 Holly Crescent"
+}
