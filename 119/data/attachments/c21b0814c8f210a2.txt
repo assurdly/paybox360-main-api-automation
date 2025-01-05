@@ -1,0 +1,7 @@
+{
+    "name": "Marlene Quigley",
+    "email": "Rolando_Lesch@mailinator.com",
+    "phone_number": "08012642267",
+    "address": "Idumota, Lagos",
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187"
+}

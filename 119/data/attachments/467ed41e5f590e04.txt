@@ -1,0 +1,8 @@
+{
+    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
+    "customer_id": "",
+    "name": "Dr. Alice Schiller",
+    "email": "Rudolph.Ferry40",
+    "phone": "08043388352",
+    "address": "0186 Carol Centers"
+}

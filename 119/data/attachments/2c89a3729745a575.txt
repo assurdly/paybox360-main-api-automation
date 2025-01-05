@@ -1,0 +1,7 @@
+{
+    "name": "Kristy Russel IV",
+    "email": "Abdullah46@mailinator.com",
+    "phone_number": "08022833938",
+    "address": "Idumota, Lagos",
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac1877"
+}

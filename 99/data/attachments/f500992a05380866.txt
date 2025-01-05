@@ -1,8 +1,0 @@
-{
-    "company": "07e8b1c1-9328-4709-9abd-c367d576b3ad",
-    "branch": "6b23dab6-1da7-4b38-a466-fd3b5365bb631",
-    "name": "Eva Miller PhD",
-    "email": "Hassan5@mailinator.com",
-    "phone": "08021440224",
-    "address": "9323 Nichole Way"
-}

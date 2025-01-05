@@ -1,0 +1,7 @@
+{
+    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c1",
+    "branch": "9e5b471b-0fdc-411e-95f3-a15d5a046def",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Myrtice_Collins@mailinator.com"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
+    "customer_id": "1",
+    "name": "Chelsea Lakin",
+    "email": "Damian29@mailinator.com",
+    "phone": "08056377210",
+    "address": "30727 Weber Oval"
+}

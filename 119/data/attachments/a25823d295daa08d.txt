@@ -1,0 +1,7 @@
+{
+    "name": "Owen Mosciski",
+    "email": "Millie70",
+    "phone_number": "08021289484",
+    "address": "Idumota, Lagos",
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187"
+}

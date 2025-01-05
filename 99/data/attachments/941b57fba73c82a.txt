@@ -1,1 +1,0 @@
-{"company":["This field may not be null."],"branch":["This field may not be null."],"batch_id":["This field may not be blank."],"means_of_payment":["\"\" is not a valid choice."]}

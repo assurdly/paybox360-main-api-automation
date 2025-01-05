@@ -1,0 +1,8 @@
+{
+    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c1",
+    "branch": "c29dd537-3437-4525-9eda-992cf89461a6",
+    "name": "Mr. Leroy Schaden",
+    "email": "Jadyn24@mailinator.com",
+    "phone": "08028252958",
+    "address": "9952 Zieme Parks"
+}

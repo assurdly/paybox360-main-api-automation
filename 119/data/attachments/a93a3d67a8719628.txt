@@ -1,0 +1,45 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac1872",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ssbb_me_128.jpg", 
+                    "item": "Handcrafted Concrete Soap",
+                    "quantity": 150, 
+                    "stock_price": 7493.18, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Concrete Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/hai_ninh_nguyen_128.jpg",    
+                    "item": "Handmade Plastic Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

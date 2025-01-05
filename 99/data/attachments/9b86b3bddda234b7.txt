@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"cbd59ab3-7cb1-4206-846a-d682cbcc01d7","created_at":"2024-11-22T19:10:46.312277+01:00","title":"Redundant1431 Tax","rate":1.5,"company":"Idy-Violet-Capacitor","branch":""},"errors":null}

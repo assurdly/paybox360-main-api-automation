@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"9b2f99b2-2d4d-4218-afdf-a2f6711ac187","company_name":"Idy-white-monitor","industry":"BANKING AND FINANCE","size":5}}

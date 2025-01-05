@@ -1,0 +1,42 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Steel Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Fresh Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/deviljho__128.jpg",    
+                    "item": "Intelligent Fresh Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
