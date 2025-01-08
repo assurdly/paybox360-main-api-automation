@@ -1,0 +1,45 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac1872",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kudretkeskin_128.jpg", 
+                    "item": "Incredible Rubber Chicken",
+                    "quantity": 150, 
+                    "stock_price": 9008.29, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Soft Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/divya_128.jpg",    
+                    "item": "Practical Steel Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

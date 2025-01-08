@@ -1,0 +1,7 @@
+{
+    "name": "Oliver Deckow",
+    "email": "Carmelo.Sauer39@mailinator.com",
+    "phone_number": "08044262565",
+    "address": "Idumota, Lagos",
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac1877"
+}

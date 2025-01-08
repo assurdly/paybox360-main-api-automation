@@ -1,0 +1,42 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Concrete Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Granite Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/notbadart_128.jpg",    
+                    "item": "Unbranded Wooden Shirt",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

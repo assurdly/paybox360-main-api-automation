@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Port Alta",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

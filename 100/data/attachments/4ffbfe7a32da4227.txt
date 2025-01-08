@@ -1,8 +1,0 @@
-{
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b451",
-    "customer_id": "",
-    "name": "Vera Quitzon",
-    "email": "Lottie36@mailinator.com",
-    "phone": "08047075414",
-    "address": "5168 O'Connell Fords"
-}

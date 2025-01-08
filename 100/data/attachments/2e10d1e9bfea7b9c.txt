@@ -1,8 +1,0 @@
-{
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
-    "customer_id": "1",
-    "name": "Darlene Macejkovic",
-    "email": "Darius.Kohler@mailinator.com",
-    "phone": "08053037939",
-    "address": "321 Owen Terrace"
-}

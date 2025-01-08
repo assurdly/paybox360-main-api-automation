@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"e4fdb21b-5302-4ca2-906a-3cfe60e8dfe8","created_at":"2024-11-24T21:03:52.981669+01:00","name":"Captain Category","has_products":false,"company":"4715b48d-358d-43bb-b574-48eb77d39b45","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Violet-Transmitter","stock_count":0},"errors":null}

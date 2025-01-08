@@ -1,7 +1,0 @@
-{
-    "name": "Elias Blanda",
-    "email": "Deshawn.Price",
-    "phone_number": "08009015635",
-    "address": "Idumota, Lagos",
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45"
-}

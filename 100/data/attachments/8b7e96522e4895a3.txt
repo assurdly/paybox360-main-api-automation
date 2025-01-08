@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"company":"Idy-Violet-Transmitter","branches":4,"teams":0,"total_stock_value":389609550.0,"total_sales_values":0.0,"total_expected_profit":14538450.0},"errors":null}

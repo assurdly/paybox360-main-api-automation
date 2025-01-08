@@ -1,0 +1,7 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
+    "customer_id": "",
+    "city": "Lake Kianachester",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

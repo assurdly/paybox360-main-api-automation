@@ -1,0 +1,6 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
+    "branch": "beans", 
+    "title": "wireless1432 tax",
+    "rate": 1.5
+}

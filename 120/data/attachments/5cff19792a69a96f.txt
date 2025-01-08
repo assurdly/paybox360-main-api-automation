@@ -1,0 +1,8 @@
+{
+    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac1871",
+    "branch": "92155951-9bd9-4581-9c36-d49988311b6d",
+    "name": "Mr. Ashley West",
+    "email": "Cielo.Ebert64@mailinator.com",
+    "phone": "08040262414",
+    "address": "62606 Green Valley"
+}

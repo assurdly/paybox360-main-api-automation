@@ -1,8 +1,0 @@
-{
-    "company": "4715b48d-358d-43bb-b574-48eb77d39b45",
-    "customer_id": "",
-    "name": "Angie Larson",
-    "email": "Garrett40",
-    "phone": "08065729117",
-    "address": "120 Durgan Crescent"
-}

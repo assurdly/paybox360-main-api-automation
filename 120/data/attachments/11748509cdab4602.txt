@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"280c57ee-92fe-4084-ae7f-6aef76d849be","created_at":"2025-01-08T19:07:10.498912+01:00","title":"Multi-Byte Tax","rate":0.0,"company":"Idy-White-Monitor","branch":"Lorenzaville"},"errors":null}

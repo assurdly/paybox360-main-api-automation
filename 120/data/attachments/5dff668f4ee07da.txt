@@ -1,0 +1,3 @@
+{
+    "industry": "solid state-Test industry"
+}
