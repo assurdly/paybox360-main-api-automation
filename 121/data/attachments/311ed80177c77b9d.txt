@@ -1,0 +1,8 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
+    "customer_id": "",
+    "name": "Samantha Treutel",
+    "email": "Nathanial.Graham@mailinator.com",
+    "phone": "08068004791",
+    "address": "848 Mraz Islands"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
+    "customer_id": "",
+    "name": "Marcus Weimann",
+    "email": "Dorothy.Cormier73",
+    "phone": "08092356809",
+    "address": "92241 Dietrich Lane"
+}

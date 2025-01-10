@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"companies":197,"branches":431,"team_members":3,"total_stock":2925,"stock_value":1641675505.0},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb",
-    "branch": "53520b54-8053-46b2-8b5b-c3e3b831a6cd",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Diamond_Schimmel@mailinator.com"
-}

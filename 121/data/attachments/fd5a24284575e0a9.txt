@@ -1,0 +1,8 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
+    "branch": "2e77ff03-60ce-4331-a011-761987dbffe51",
+    "name": "Erma Cremin",
+    "email": "Jaydon12@mailinator.com",
+    "phone": "08091548906",
+    "address": "5500 Hilpert Island"
+}

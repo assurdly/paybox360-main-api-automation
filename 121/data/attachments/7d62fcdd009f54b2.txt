@@ -1,0 +1,42 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Fresh Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Cotton Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/llun_128.jpg",    
+                    "item": "Refined Rubber Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

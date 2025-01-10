@@ -1,7 +1,0 @@
-{
-    "name": "Forrest Moore",
-    "email": "Deion7@mailinator.com",
-    "phone_number": "08051042233",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb7"
-}

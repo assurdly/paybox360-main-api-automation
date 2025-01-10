@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"f46be73d-ab19-4339-bc91-640e23683a51","created_at":"2025-01-10T19:07:30.741452+01:00","name":"Captain Category","has_products":false,"company":"8f5e19ff-adfb-4d71-a88e-60cbfc8eb254","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Green-Driver","stock_count":0},"errors":null}

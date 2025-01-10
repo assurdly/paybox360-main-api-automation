@@ -1,7 +1,0 @@
-{
-    "name": "Tanya Block",
-    "email": "Elijah_Romaguera10",
-    "phone_number": "08040731826",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb"
-}

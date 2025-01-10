@@ -1,0 +1,8 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb2541",
+    "customer_id": "",
+    "name": "Johnnie Emmerich",
+    "email": "Kristina65@mailinator.com",
+    "phone": "08005373081",
+    "address": "15304 Dannie Lane"
+}

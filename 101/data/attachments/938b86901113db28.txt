@@ -1,8 +1,0 @@
-{
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb1",
-    "branch": "53520b54-8053-46b2-8b5b-c3e3b831a6cd",
-    "name": "Delores O'Keefe",
-    "email": "Charlene_Stoltenberg4@mailinator.com",
-    "phone": "08040353817",
-    "address": "222 D'Amore Bypass"
-}

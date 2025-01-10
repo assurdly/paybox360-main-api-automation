@@ -1,7 +1,0 @@
-{
-    "name": "Bradley Franecki",
-    "email": "Tremayne71@mailinator.com",
-    "phone_number": "08091643277erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb"
-}

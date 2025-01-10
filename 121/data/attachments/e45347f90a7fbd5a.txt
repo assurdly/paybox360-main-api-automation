@@ -1,0 +1,8 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
+    "branch": "2e77ff03-60ce-4331-a011-761987dbffe5",
+    "name": "Mrs. Emily Gutkowski",
+    "email": "Elda.Rolfson@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "7326 Amira Drive"
+}

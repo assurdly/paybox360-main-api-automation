@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "1319e3f4-4abe-4350-b3a8-3b7f6c295e1f",
+    "name": "wireless invoice",
+    "email": "Jaylan_Mosciski@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

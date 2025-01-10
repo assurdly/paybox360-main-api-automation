@@ -1,0 +1,11 @@
+{
+    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
+    "branch": "1319e3f4-4abe-4350-b3a8-3b7f6c295e1fbeans",
+    "name": "primary invoice",
+    "email": "Avis.Frami@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "fbac0540-aa06-4199-93de-fe977941e4fb1",
-    "customer_id": "",
-    "name": "Kim Erdman Jr.",
-    "email": "Nova_Gorczany@mailinator.com",
-    "phone": "08052459644",
-    "address": "654 Creola Summit"
-}
