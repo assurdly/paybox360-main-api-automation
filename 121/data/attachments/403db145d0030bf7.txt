@@ -1,0 +1,8 @@
+{
+    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e",
+    "customer_id": "",
+    "name": "Lois Abshire",
+    "email": "Felicita86",
+    "phone": "08096429346",
+    "address": "725 Lucile Avenue"
+}

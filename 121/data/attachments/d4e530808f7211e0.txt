@@ -1,0 +1,42 @@
+{
+    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Metal Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Plastic Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/alek_djuric_128.jpg",    
+                    "item": "Intelligent Frozen Chips",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e",
+    "branch": "9d5f2112-aad9-47f4-9efe-0a2b58692c8a", 
+    "items": [
+        {
+            "item_description": "item transmitter",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop transmitter",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "db48fa35-1543-4637-9c3f-07d09ac67a3d",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

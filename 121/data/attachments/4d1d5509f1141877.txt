@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"db48fa35-1543-4637-9c3f-07d09ac67a3d","created_at":"2025-01-12T18:26:13.992533+01:00","title":"Redundant1428 Tax","rate":1.5,"company":"Idy-Gold-Panel","branch":"Cedrickburgh"},"errors":null}

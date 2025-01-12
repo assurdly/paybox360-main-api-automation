@@ -1,7 +1,0 @@
-{
-    "name": "Jason Bednar",
-    "email": "Ludie55",
-    "phone_number": "08089127538",
-    "address": "Idumota, Lagos",
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa"
-}

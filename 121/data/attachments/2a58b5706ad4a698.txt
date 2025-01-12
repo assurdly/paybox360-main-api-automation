@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"d115396c-3e7c-4873-a94e-2d6f975565ef","created_at":"2025-01-12T18:25:20.188407+01:00","name":"Captain Category","has_products":false,"company":"067d51db-c6d3-4765-8352-d1fb2bf5089e","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Gold-Panel","stock_count":0},"errors":null}

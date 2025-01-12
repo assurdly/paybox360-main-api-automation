@@ -1,8 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
-    "customer_id": "",
-    "name": "Emilio Stark",
-    "email": "Patience.Quitzon",
-    "phone": "08044209786",
-    "address": "4683 Stokes Springs"
-}

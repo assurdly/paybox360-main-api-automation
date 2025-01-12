@@ -1,0 +1,42 @@
+{
+    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Rubber Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Granite Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/coreyhaggard_128.jpg",    
+                    "item": "Sleek Fresh Mouse",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

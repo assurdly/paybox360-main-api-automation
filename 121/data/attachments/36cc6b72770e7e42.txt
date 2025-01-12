@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"2dcc9766-e8fb-4033-9335-af5de0d7eb13","created_at":"2025-01-12T18:26:14.292162+01:00","title":"Neural1431 Tax","rate":1.5,"company":"Idy-Gold-Panel","branch":""},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e1",
+    "branch": "52865d3f-3096-47d2-ada1-d62951d83657",
+    "name": "Rhonda Lueilwitz",
+    "email": "Emmet_Beer31@mailinator.com",
+    "phone": "08013146359",
+    "address": "95631 Ressie Ridge"
+}

@@ -1,7 +1,0 @@
-{
-    "company": "2362767f-8b25-420b-b8b9-6d7db6d9d5aa",
-    "branch": "04ef41b7-326e-4288-b689-3d7a12ebb66c1",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Audie.Tremblay72@mailinator.com"
-}

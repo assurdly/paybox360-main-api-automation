@@ -1,0 +1,45 @@
+{
+    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/maiklam_128.jpg", 
+                    "item": "Incredible Fresh Tuna",
+                    "quantity": 150, 
+                    "stock_price": 1678.10, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Wooden Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/g3d_128.jpg",    
+                    "item": "Refined Fresh Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
