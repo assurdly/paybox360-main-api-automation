@@ -1,0 +1,45 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vonachoo_128.jpg", 
+                    "item": "Intelligent Concrete Pants",
+                    "quantity": 150, 
+                    "stock_price": 1820.05, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Plastic Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/m_kalibry_128.jpg",    
+                    "item": "Intelligent Concrete Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

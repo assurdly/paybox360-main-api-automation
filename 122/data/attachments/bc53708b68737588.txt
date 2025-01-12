@@ -1,0 +1,6 @@
+{
+    "deduction_name": "HMO",
+    "fixed_amount": 0,
+    "is_custom": true,
+    "custom_amount": 3000
+}

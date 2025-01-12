@@ -1,0 +1,8 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
+    "branch": "53851ef7-c21b-4bd0-a332-86d23a7abc47",
+    "name": "Lauren Simonis",
+    "email": "Bradley_Grady30@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "802 Trisha Pine"
+}

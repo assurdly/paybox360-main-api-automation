@@ -1,0 +1,29 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
+    "branch": "78e9e162-6be9-4758-ab67-49b6a6ce9451", 
+    "items": [
+        {
+            "item_description": "MacBook Air 2022",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "MacBook Air 2015",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2024-12-31", 
+    "tax": "46d0ba2c-fee2-482b-b02e-1680666a3116",
+    "received_part_payment": true, 
+    "amount_recieved": -1000, 
+    "logo": "" 
+}

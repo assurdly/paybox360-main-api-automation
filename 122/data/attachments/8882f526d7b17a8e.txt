@@ -1,0 +1,29 @@
+{
+    "company": "",
+    "branch": "78e9e162-6be9-4758-ab67-49b6a6ce9451", 
+    "items": [
+        {
+            "item_description": "item hard drive",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop hard drive",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "46d0ba2c-fee2-482b-b02e-1680666a3116",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

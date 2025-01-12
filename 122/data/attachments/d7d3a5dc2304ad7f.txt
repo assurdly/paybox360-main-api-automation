@@ -1,0 +1,4 @@
+{
+    "name": "New Balance",
+    "product_description": "This is a size 43 New Balance"
+}

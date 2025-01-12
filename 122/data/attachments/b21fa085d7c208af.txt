@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"ee9c4f40-0687-48e4-b4f7-541722ab9191","name":"Awesome cotton pizza"}]},"errors":null}

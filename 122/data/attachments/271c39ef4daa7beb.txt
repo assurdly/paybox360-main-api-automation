@@ -1,0 +1,42 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Wooden Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Frozen Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/beweinreich_128.jpg",    
+                    "item": "Sleek Plastic Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

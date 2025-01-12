@@ -1,0 +1,7 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
+    "branch": "53851ef7-c21b-4bd0-a332-86d23a7abc47",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Jacinthe_Bernier"
+}

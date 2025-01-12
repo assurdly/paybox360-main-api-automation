@@ -1,0 +1,8 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
+    "customer_id": "",
+    "name": "Vanessa Hodkiewicz",
+    "email": "Dianna_Schowalter57@mailinator.com",
+    "phone": "08023174499",
+    "address": "16553 Nikolaus Flats"
+}

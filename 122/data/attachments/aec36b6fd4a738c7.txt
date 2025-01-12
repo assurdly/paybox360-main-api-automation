@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"de666c31-9671-4528-af01-159c3ab8595c","created_at":"2025-01-12T18:44:06.972652+01:00","title":"Solid State Tax","rate":0.0,"company":"Grey##@@","branch":"South Elvamouth"},"errors":null}

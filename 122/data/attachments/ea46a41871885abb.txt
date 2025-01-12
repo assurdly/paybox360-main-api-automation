@@ -1,0 +1,5 @@
+{
+    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Blick and Sons"
+}
