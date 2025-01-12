@@ -1,0 +1,8 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca5991",
+    "branch": "c69fdc67-df45-4817-a4ac-601533d3f096",
+    "name": "Tracy Champlin",
+    "email": "Giovanni98@mailinator.com",
+    "phone": "08002041993",
+    "address": "9585 Fahey Corners"
+}

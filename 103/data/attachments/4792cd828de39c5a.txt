@@ -1,8 +1,0 @@
-{
-    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d1",
-    "customer_id": "",
-    "name": "Dan Morissette I",
-    "email": "Deshaun.Jacobs26@mailinator.com",
-    "phone": "08099852616",
-    "address": "809 Martine Springs"
-}

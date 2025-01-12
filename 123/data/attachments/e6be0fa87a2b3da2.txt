@@ -1,0 +1,8 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
+    "customer_id": "",
+    "name": "Dr. Madeline Kovacek",
+    "email": "Dessie.Bernier16@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "39134 Charles Stream"
+}

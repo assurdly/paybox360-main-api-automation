@@ -1,8 +1,0 @@
-{
-    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
-    "branch": "bbfc3f44-7afd-494a-b9eb-a4d926a09c3f",
-    "name": "Alfonso Rolfson",
-    "email": "Jessy77@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "41033 Jeremy Curve"
-}

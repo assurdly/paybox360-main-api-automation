@@ -1,0 +1,11 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
+    "branch": "fbaa64ca-a595-4bb9-9103-52842465d9be",
+    "name": "open-source invoice",
+    "email": "Kayleigh75@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}

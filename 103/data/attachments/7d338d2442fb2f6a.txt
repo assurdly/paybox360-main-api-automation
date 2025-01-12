@@ -1,8 +1,0 @@
-{
-    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
-    "customer_id": "",
-    "name": "Mr. Judith Prohaska",
-    "email": "Nick_Crooks@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "94167 Weldon Viaduct"
-}

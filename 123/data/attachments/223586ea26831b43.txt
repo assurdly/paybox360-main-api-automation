@@ -1,0 +1,23 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599beans",
+    "branch": "fbaa64ca-a595-4bb9-9103-52842465d9be", 
+    "items": [
+        {
+            "item_description": "item feed",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop protocol",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "19288895-bd02-49b6-89d7-e78f658842b8",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

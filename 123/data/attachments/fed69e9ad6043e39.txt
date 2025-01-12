@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + program","company_id":"26dc767f-5cf3-48d8-968e-89dedfaca599","members":[{"email":"soloyede708@gmail.com","phone_no":"+2347034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"SUB_ADMIN"}],"invited_members":[],"team_id":"794d052c-2afa-4655-a5bf-cf7a0ff76581"}}

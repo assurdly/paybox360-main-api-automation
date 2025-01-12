@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "fbaa64ca-a595-4bb9-9103-52842465d9be",
+    "name": "solid state invoice",
+    "email": "Elza_Brakus0@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

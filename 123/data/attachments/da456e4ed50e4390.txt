@@ -1,0 +1,42 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Plastic Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Soft Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vladarbatov_128.jpg",    
+                    "item": "Practical Metal Ball",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

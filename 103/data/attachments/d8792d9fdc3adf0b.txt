@@ -1,9 +1,0 @@
-{
-    "company": "54916979-51f4-4b9a-9f5e-a539c1382b7d",
-    "team": "29b3cff6-03fd-4a75-b41d-1e8e51f4085b",
-    "budget_type": "COMPANY",
-    "budget_name": "",
-    "budget_amount": "",
-    "start_date": "",
-    "end_date": ""
-}

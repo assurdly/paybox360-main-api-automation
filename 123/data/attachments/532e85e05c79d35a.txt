@@ -1,0 +1,8 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca5991",
+    "customer_id": "",
+    "name": "Stacey Frami",
+    "email": "Lucienne37@mailinator.com",
+    "phone": "08025684035",
+    "address": "9294 Jessyca Ports"
+}

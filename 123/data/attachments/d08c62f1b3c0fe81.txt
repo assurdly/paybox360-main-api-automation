@@ -1,0 +1,42 @@
+{
+    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Soft Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Rubber Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ceekaytweet_128.jpg",    
+                    "item": "Practical Concrete Keyboard",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

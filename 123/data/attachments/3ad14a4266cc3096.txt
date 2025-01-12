@@ -1,0 +1,1 @@
+{"message":"successful","successful_beneficiary":[{"account_number":"0149292595","account_name":"Roosevelt Kohler","bank_code":"000133","bank_name":"GTbank","narration":"Test.","amount":40000.0}],"unsuccessful_beneficiary":[]}
