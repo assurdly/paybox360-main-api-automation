@@ -1,0 +1,1 @@
+{"error":"error","message":"You Need to complete at least one level of KYC first","complete_kyc_link":"https://backend.libertypayng.com/send/complete_kyc/"}

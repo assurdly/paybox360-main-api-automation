@@ -1,6 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "branch": "4faa3ddd-4267-49d6-8339-ee283cb955c5", 
-    "title": "virtual tax",
-    "rate": -10
-}

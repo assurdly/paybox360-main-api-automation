@@ -1,7 +1,0 @@
-{
-    "name": "Daisy McLaughlin",
-    "email": "Ronny_Paucek@mailinator.com",
-    "phone_number": "08049055160",
-    "address": "Idumota, Lagos",
-    "company": "07dda66c-d152-45ee-8f81-557b71ce10807"
-}

@@ -1,0 +1,42 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Cotton Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Frozen Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/tomas_janousek_128.jpg",    
+                    "item": "Licensed Soft Pizza",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d71e4e6b-dc96-4bf4-9d62-d84a09610445","created_at":"2025-01-15T19:19:47.912814+01:00","title":"Primary1450 Tax","rate":1.5,"company":"Idy-Lavender-Microchip","branch":"North Marilie"},"errors":null}

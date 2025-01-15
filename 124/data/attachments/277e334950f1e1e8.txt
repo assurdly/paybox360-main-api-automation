@@ -1,0 +1,8 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "customer_id": "",
+    "name": "Mr. Lance Kshlerin",
+    "email": "Rusty.Bosco99",
+    "phone": "08086511995",
+    "address": "679 Jammie Expressway"
+}

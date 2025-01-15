@@ -1,7 +1,0 @@
-{
-    "name": "Dr. Curtis Bernhard",
-    "email": "Maritza45",
-    "phone_number": "08002476355",
-    "address": "Idumota, Lagos",
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080"
-}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Myronland",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

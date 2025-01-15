@@ -1,8 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "customer_id": "",
-    "name": "Ms. Rhonda Marks",
-    "email": "Margarita_Sanford7@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "3988 Delphia Pine"
-}

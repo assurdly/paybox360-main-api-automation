@@ -1,0 +1,22 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "branch": "a2a776a1-c686-48cd-b2b7-4b9a7979b520",
+    "invoice": "",
+    "customer": "",
+    "choice": "REFUND",
+    "reason": "DAMAGED OR DEFECTIVE ITEM",
+    "restock": "NO",
+    "payment_method": "CASH",
+    "items": [
+        {
+            "item": "4da9d987-0160-402f-b8f4-afe3b25c814a",
+            "quantity": "duh",
+            "unit_price": 1750
+        },
+        {
+            "item": "6ffbfdc2-72bf-45b8-8f13-ffdeb2d62971",
+            "quantity": "djsnj",
+            "unit_price": 1750
+        }
+    ]
+}

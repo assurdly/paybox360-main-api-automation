@@ -1,0 +1,42 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Intelligent Steel Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Granite Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/_yardenoon_128.jpg",    
+                    "item": "Handcrafted Plastic Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

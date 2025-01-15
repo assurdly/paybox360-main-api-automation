@@ -1,7 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "branch": "305a5a7d-2db2-4fb2-831e-22fbbabce117",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Hollie_Koss@mailinator.com"
-}

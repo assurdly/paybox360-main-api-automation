@@ -1,8 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "customer_id": "",
-    "name": "Craig Johnson",
-    "email": "Weldon74",
-    "phone": "08096546415",
-    "address": "9511 Nitzsche Route"
-}

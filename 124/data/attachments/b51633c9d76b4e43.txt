@@ -1,0 +1,6 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "branch": "", 
+    "title": "virtual1453 tax",
+    "rate": 1.5
+}

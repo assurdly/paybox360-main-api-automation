@@ -1,0 +1,42 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Concrete Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Metal Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/superoutman_128.jpg",    
+                    "item": "Unbranded Wooden Towels",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

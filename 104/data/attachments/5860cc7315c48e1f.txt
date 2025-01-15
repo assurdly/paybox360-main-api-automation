@@ -1,7 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080",
-    "customer_id": "beans",
-    "city": "New Baby",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

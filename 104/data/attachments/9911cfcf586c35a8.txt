@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"company":"Idy-Green-Panel","branches":3,"teams":0,"total_stock_value":199574500.0,"total_sales_values":0.0,"total_expected_profit":7438500.0},"errors":null}

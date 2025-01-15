@@ -1,8 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce10801",
-    "customer_id": "",
-    "name": "Kerry Rohan",
-    "email": "Eldridge_Murphy63@mailinator.com",
-    "phone": "08076618784",
-    "address": "71466 Murray Streets"
-}

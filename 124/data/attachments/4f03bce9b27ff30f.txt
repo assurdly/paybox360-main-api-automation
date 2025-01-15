@@ -1,0 +1,7 @@
+{
+    "name": "Regina Steuber",
+    "email": "Reece0",
+    "phone_number": "08071837879",
+    "address": "Idumota, Lagos",
+    "company": "1624380e-be92-4950-957e-16c9816519ea"
+}

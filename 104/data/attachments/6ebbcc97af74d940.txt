@@ -1,7 +1,0 @@
-{
-    "name": "Nicolas Monahan",
-    "email": "Antonietta_Leannon",
-    "phone_number": "08009502959",
-    "address": "Idumota, Lagos",
-    "company": "07dda66c-d152-45ee-8f81-557b71ce1080"
-}

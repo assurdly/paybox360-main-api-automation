@@ -1,0 +1,42 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Wooden Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Steel Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/timgthomas_128.jpg",    
+                    "item": "Incredible Frozen Towels",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,1 +1,0 @@
-{"id":"4fed67b7-d217-412a-9fe8-b5ce734318bb","created_at":"2024-12-01T21:04:34.202037+01:00","updated_at":"2024-12-01T21:04:34.202071+01:00","mode_of_transaction":"CARD","amount":"45.09","transaction_date":"2024-12-01","order":"0a27a57c-5b1f-47cf-bd0a-a0d1d77a91b1"}

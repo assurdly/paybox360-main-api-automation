@@ -1,0 +1,8 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "branch": "a2a776a1-c686-48cd-b2b7-4b9a7979b520",
+    "name": "Francisco Gerhold",
+    "email": "Catherine.Rowe",
+    "phone": "08046673249",
+    "address": "852 Stracke Pines"
+}

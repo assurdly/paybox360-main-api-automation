@@ -1,0 +1,8 @@
+{
+    "company": "1624380e-be92-4950-957e-16c9816519ea",
+    "customer_id": "1",
+    "name": "Laverne Jast IV",
+    "email": "Dereck.Ernser@mailinator.com",
+    "phone": "08003693154",
+    "address": "89383 Luettgen Circle"
+}

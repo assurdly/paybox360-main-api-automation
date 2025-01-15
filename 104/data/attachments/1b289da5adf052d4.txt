@@ -1,7 +1,0 @@
-{
-    "company": "07dda66c-d152-45ee-8f81-557b71ce10801",
-    "branch": "4faa3ddd-4267-49d6-8339-ee283cb955c5",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Elton80@mailinator.com"
-}
