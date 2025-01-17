@@ -1,0 +1,42 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Frozen Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Metal Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adhamdannaway_128.jpg",    
+                    "item": "Handcrafted Soft Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

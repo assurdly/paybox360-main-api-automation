@@ -1,0 +1,42 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Incredible Metal Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Frozen Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/langate_128.jpg",    
+                    "item": "Sleek Steel Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

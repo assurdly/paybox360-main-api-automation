@@ -1,0 +1,45 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/murrayswift_128.jpg", 
+                    "item": "Sleek Rubber Towels",
+                    "quantity": 150, 
+                    "stock_price": 3740.56, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Plastic Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jagan123_128.jpg",    
+                    "item": "Awesome Plastic Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

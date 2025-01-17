@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"1741dd33-dd39-451f-8cd7-d7a0667421a4","created_at":"2025-01-17T10:23:38.119681+01:00","name":"Captain Category","has_products":false,"company":"5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Red-Transmitter","stock_count":0},"errors":null}

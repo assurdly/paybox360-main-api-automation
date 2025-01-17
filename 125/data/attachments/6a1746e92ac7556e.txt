@@ -1,0 +1,45 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe762",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gonzalorobaina_128.jpg", 
+                    "item": "Ergonomic Granite Mouse",
+                    "quantity": 150, 
+                    "stock_price": 3740.56, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Wooden Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/brandonburke_128.jpg",    
+                    "item": "Generic Soft Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Bryant Simonis",
+    "email": "Morgan_Kunde44@mailinator.com",
+    "phone_number": "08006371792erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76"
+}

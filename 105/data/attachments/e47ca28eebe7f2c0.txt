@@ -1,1 +1,0 @@
-{"price_lists":[{"category":["“23” is not a valid UUID."]},{"selected_branches":["Invalid pk \"32b1ea54-9b0b-4c9d-9d81-13495f48b19f\" - object does not exist."],"category":["“12” is not a valid UUID."]}]}

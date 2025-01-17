@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "",
+            "company": "",
+            "branch": "",
+            "no_of_seats": 4,
+            "categories": [""],
+            "all_categories": "False"
+        },
+        {
+            "name": "Second table",
+            "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+            "branch": "dc7b6913-f563-4f54-803e-0f57f7616c23",
+            "no_of_seats": 6,
+            "categories": ["1741dd33-dd39-451f-8cd7-d7a0667421a4"],
+            "all_categories": "True"
+        }
+    ]
+}

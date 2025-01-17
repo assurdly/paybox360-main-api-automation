@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"7e47834b-cf5b-4167-a714-e8980f53cf3f","created_at":"2024-12-04T19:07:42.680888+01:00","title":"Optical1428 Tax","rate":1.5,"company":"Idy-Gold-Bus","branch":"Westtown"},"errors":null}

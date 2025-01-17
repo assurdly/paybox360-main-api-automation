@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"18e8998e-53e6-411d-83c2-2aebcf530650","created_at":"2025-01-17T10:25:00.816512+01:00","title":"Solid State Tax","rate":-10.0,"company":"Idy-Red-Transmitter","branch":"Schowalterberg"},"errors":null}

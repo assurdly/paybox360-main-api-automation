@@ -1,0 +1,8 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "customer_id": "",
+    "name": "Robin Bins DDS",
+    "email": "Nathanial33",
+    "phone": "08081932951",
+    "address": "7486 Nathanael Circle"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
-    "customer_id": "1",
-    "name": "Della Cummings",
-    "email": "Cedrick_Ortiz@mailinator.com",
-    "phone": "08099111140",
-    "address": "7799 Greenholt Pass"
-}

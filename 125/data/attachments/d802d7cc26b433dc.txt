@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"60880604-84be-48f1-80cc-dcb13740edbe","name":"Sleek steel pants"}]},"errors":null}

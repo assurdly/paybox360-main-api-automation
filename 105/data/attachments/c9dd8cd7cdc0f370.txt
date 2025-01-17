@@ -1,7 +1,0 @@
-{
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63beans",
-    "customer_id": "",
-    "city": "Graysonburgh",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "customer_id": "",
+    "name": "Tyler Gutmann",
+    "email": "Reanna94@mailinator.com",
+    "phone": "08067403034",
+    "address": "7307 Hoeger Meadow"
+}

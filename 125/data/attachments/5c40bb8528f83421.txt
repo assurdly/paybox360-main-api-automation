@@ -1,0 +1,8 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "branch": "a0b87083-cdf3-4738-bea8-781ca725319d",
+    "name": "Clark Haley",
+    "email": "Jesse73",
+    "phone": "08015079583",
+    "address": "102 Bernhard Shoal"
+}

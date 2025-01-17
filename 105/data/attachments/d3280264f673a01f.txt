@@ -1,8 +1,0 @@
-{
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c63",
-    "customer_id": "",
-    "name": "Christy Romaguera",
-    "email": "Santino.Collins35",
-    "phone": "08058327239",
-    "address": "19143 Macejkovic Island"
-}

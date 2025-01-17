@@ -1,0 +1,8 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "customer_id": "",
+    "name": "Benny Ernser",
+    "email": "Kris_Lang@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "591 Bechtelar Ports"
+}

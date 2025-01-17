@@ -1,7 +1,0 @@
-{
-    "name": "April Weissnat",
-    "email": "Vern.Schmitt@mailinator.com",
-    "phone_number": "08041896195",
-    "address": "Idumota, Lagos",
-    "company": "c67a443f-89e4-4720-ac3c-e1b838c12c637"
-}

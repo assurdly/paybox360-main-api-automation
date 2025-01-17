@@ -1,0 +1,8 @@
+{
+    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
+    "branch": "a0b87083-cdf3-4738-bea8-781ca725319d1",
+    "name": "Katherine Dach",
+    "email": "Vladimir.Jaskolski78@mailinator.com",
+    "phone": "08004387339",
+    "address": "9338 Kirlin Trace"
+}
