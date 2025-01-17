@@ -1,0 +1,29 @@
+{
+    "company": "",
+    "branch": "84f784a7-0606-4d55-b73f-1e40d9d40a06", 
+    "items": [
+        {
+            "item_description": "item panel",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop sensor",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "b2166091-2ccc-4438-bc75-414d9d38e904",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

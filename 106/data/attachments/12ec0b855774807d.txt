@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"daf2d46c-f18f-4356-84cb-07c74ca6b0fe","company_name":"bus","industry":"BANKING AND FINANCE","size":5}}

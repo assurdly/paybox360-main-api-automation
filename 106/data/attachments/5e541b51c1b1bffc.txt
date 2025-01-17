@@ -1,8 +1,0 @@
-{
-    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0fe",
-    "customer_id": "",
-    "name": "Dana McGlynn",
-    "email": "Keshawn.Hodkiewicz37@mailinator.com",
-    "phone": "08059479430",
-    "address": "19607 Filomena Village"
-}

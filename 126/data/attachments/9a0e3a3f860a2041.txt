@@ -1,0 +1,45 @@
+{
+    "company": "158a5863-8449-4f52-b0b4-49c39899a5ec2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joki4_128.jpg", 
+                    "item": "Fantastic Cotton Shoes",
+                    "quantity": 150, 
+                    "stock_price": 101.90, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Concrete Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aroon_sharma_128.jpg",    
+                    "item": "Sleek Cotton Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

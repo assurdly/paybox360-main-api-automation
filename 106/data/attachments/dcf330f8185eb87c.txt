@@ -1,8 +1,0 @@
-{
-    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0fe1",
-    "branch": "4b9f96e5-1bf2-480b-92b6-ec7c8761a1f1",
-    "name": "Inez Schowalter",
-    "email": "Lorna.Dach@mailinator.com",
-    "phone": "08038170004",
-    "address": "498 Ona Squares"
-}

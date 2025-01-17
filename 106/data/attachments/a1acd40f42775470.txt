@@ -1,7 +1,0 @@
-{
-    "name": "Julian Abshire",
-    "email": "Katheryn22",
-    "phone_number": "08057808322",
-    "address": "Idumota, Lagos",
-    "company": "6c7804fc-0006-445c-914d-82082f1efa6f"
-}

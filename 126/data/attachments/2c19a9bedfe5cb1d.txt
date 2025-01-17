@@ -1,0 +1,8 @@
+{
+    "company": "158a5863-8449-4f52-b0b4-49c39899a5ec1",
+    "branch": "d0c57922-6411-477f-820e-49335f3d0614",
+    "name": "Franklin Cronin",
+    "email": "Lucio57@mailinator.com",
+    "phone": "08072072071",
+    "address": "072 Brekke Terrace"
+}

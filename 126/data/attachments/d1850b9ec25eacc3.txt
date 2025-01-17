@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"5bb46d41-9c13-4e0c-bb67-58d63e1751e0","created_at":"2025-01-17T19:22:47.364779+01:00","title":"Solid State Tax","rate":0.0,"company":"Idy-Violet-Alarm","branch":"Thalialand"},"errors":null}

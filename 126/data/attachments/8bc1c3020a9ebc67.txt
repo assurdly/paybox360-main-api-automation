@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "84f784a7-0606-4d55-b73f-1e40d9d40a06", 
+    "title": "wireless tax",
+    "rate": 1.5
+}

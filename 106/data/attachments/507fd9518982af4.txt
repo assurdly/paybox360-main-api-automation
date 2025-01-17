@@ -1,7 +1,0 @@
-{
-    "name": "Cristina Bartell DDS",
-    "email": "Elvera_Bednar29@mailinator.com",
-    "phone_number": "08046464659",
-    "address": "Idumota, Lagos",
-    "company": "6c7804fc-0006-445c-914d-82082f1efa6f"
-}

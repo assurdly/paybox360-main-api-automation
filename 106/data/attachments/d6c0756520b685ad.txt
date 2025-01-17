@@ -1,7 +1,0 @@
-{
-    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0fe",
-    "customer_id": "beans",
-    "city": "Davemouth",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

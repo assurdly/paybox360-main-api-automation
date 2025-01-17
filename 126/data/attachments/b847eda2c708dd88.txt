@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"dec12532-7029-47db-b9cd-2c0c8bb97a4a","created_at":"2025-01-17T19:22:47.521729+01:00","title":"Cross-Platform Tax","rate":-10.0,"company":"Idy-Violet-Alarm","branch":"Thalialand"},"errors":null}

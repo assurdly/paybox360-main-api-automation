@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"6c7804fc-0006-445c-914d-82082f1efa6f","company_name":"Idy-plum-card","industry":"BANKING AND FINANCE","size":5}}

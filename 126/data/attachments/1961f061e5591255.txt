@@ -1,0 +1,42 @@
+{
+    "company": "158a5863-8449-4f52-b0b4-49c39899a5ec",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Handmade Concrete Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Granite Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/falvarad_128.jpg",    
+                    "item": "Intelligent Metal Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

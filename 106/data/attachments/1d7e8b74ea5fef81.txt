@@ -1,6 +1,0 @@
-{
-    "company": "daf2d46c-f18f-4356-84cb-07c74ca6b0fe",
-    "branch": "619cc9f2-5102-413f-b698-aa8327803616",
-    "batch_id": "",
-    "action_type": "CANCELLED"
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"536136d3-27c4-4147-a570-1b86d989d98b","created_at":"2025-01-17T19:21:23.002686+01:00","name":"Captain Category","has_products":false,"company":"158a5863-8449-4f52-b0b4-49c39899a5ec","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Violet-Alarm","stock_count":0},"errors":null}
