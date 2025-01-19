@@ -1,0 +1,42 @@
+{
+    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Soft Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Soft Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/xravil_128.jpg",    
+                    "item": "Incredible Fresh Tuna",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

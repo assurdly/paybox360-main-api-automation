@@ -1,0 +1,42 @@
+{
+    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Steel Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Frozen Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joeymurdah_128.jpg",    
+                    "item": "Licensed Cotton Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

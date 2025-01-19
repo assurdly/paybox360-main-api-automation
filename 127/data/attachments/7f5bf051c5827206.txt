@@ -1,0 +1,1 @@
+{"wallet_balance":0.0,"sms_unit":0,"account_details":{"account_name":"Idy-Green-Pixel","account_number":"8420246734","bank_name":"Wema Bank Plc"}}

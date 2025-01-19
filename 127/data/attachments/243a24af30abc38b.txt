@@ -1,0 +1,7 @@
+{
+    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c761",
+    "name": "Domingofort",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

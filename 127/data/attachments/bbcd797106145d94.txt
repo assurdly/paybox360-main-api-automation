@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"45f68ffa-01d3-4a23-b962-0d8af8ff9609","created_at":"2025-01-19T21:12:45.078160+01:00","title":"Mobile Tax","rate":0.0,"company":"Idy-Green-Pixel","branch":"Baumbachshire"},"errors":null}

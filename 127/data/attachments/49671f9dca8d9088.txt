@@ -1,0 +1,5 @@
+let count = parseInt(pm.collectionVariables.get("count")|| 1,10)
+
+count++;
+
+pm.collectionVariables.set("count", count);

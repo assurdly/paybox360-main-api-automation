@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Lake Melisa",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

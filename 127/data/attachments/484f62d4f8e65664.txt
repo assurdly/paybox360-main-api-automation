@@ -1,0 +1,11 @@
+{
+    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
+    "branch": "",
+    "name": "redundant invoice",
+    "email": "Lolita72@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Custom Stage ",
+        "description": "Description for Custom Stage "
+    },
+    {
+        "name": "Another Custom Stage",
+        "description": "Description for Another Custom Stage"
+    }
+]

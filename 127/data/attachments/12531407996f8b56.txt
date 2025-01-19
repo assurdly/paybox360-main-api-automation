@@ -1,0 +1,45 @@
+{
+    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c762",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aeon56_128.jpg", 
+                    "item": "Incredible Steel Towels",
+                    "quantity": 150, 
+                    "stock_price": 4847.24, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Cotton Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/markjenkins_128.jpg",    
+                    "item": "Ergonomic Soft Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

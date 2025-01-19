@@ -1,0 +1,1 @@
+{"send_date":["Date format must be DD-MM-YYYY HH:MM"]}

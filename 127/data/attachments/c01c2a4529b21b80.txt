@@ -1,0 +1,8 @@
+{
+    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
+    "customer_id": "1",
+    "name": "Jeannette Fahey",
+    "email": "Brendan_Lubowitz88@mailinator.com",
+    "phone": "08021591398",
+    "address": "526 Kihn Junctions"
+}

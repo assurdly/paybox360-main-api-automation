@@ -1,0 +1,8 @@
+{
+   "employee_last_name": "Buddy",
+   "employee_first_name": "Ted",
+   "employee_other_deductions": 90000,
+   "employee_other_amount": 87656,
+   "pension_admin_id": 1
+
+}
