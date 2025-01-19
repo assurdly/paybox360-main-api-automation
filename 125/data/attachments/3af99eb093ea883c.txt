@@ -1,0 +1,8 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce71",
+    "branch": "172f3dbb-e493-403c-916d-e4fcdd1bf8f6",
+    "name": "Dave Ullrich IV",
+    "email": "Karl.Hirthe@mailinator.com",
+    "phone": "08077430860",
+    "address": "5528 Pfannerstill Plaza"
+}

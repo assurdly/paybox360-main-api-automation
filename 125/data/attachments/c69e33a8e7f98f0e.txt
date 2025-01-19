@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"e944f5b2-44ba-4528-8d9f-1d04db396654","name":"Car"},{"id":"8cf34852-577c-45df-9f69-94591421bb83","name":"Captain Category"},{"id":"9d5a8d0f-4891-4487-84e9-f749de800297","name":"Cheese"}],"count":3,"total_categories":3},"errors":null}

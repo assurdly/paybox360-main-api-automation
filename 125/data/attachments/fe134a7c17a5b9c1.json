@@ -1,0 +1,14 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Sun, 19 Jan 2025 09:27:42 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "183",
+    "Connection": "keep-alive",
+    "WWW-Authenticate": "Bearer realm=\"api\", error=\"invalid_token\", error_description=\"Authentication required\", status_code=401",
+    "Vary": "Accept, origin",
+    "Allow": "POST, PATCH, OPTIONS",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin"
+}

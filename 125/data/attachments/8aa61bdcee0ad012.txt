@@ -1,0 +1,8 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "branch": "172f3dbb-e493-403c-916d-e4fcdd1bf8f6",
+    "name": "Dr. Carole Champlin",
+    "email": "Hildegard.Gislason",
+    "phone": "08083100842",
+    "address": "43037 Fausto Cliffs"
+}

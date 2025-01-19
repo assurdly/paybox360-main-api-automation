@@ -1,0 +1,7 @@
+{
+    "name": "Jan Greenfelder III",
+    "email": "Rebeka_Jerde22@mailinator.com",
+    "phone_number": "08086204494",
+    "address": "Idumota, Lagos",
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7"
+}

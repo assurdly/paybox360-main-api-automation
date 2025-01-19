@@ -1,0 +1,42 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Soft Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Cotton Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/solid_color_128.jpg",    
+                    "item": "Intelligent Concrete Chips",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

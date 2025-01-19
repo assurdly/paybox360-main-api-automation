@@ -1,0 +1,8 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "customer_id": "1",
+    "name": "Joy Ondricka III",
+    "email": "Kayley96@mailinator.com",
+    "phone": "08049722214",
+    "address": "386 Kathleen Mills"
+}

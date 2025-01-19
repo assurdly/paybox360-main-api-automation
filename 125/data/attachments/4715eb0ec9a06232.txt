@@ -1,0 +1,8 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce71",
+    "customer_id": "",
+    "name": "Lillie Gleason II",
+    "email": "Marcelina_Kshlerin@mailinator.com",
+    "phone": "08019829121",
+    "address": "09002 Jacobi Radial"
+}

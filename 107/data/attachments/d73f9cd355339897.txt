@@ -1,6 +1,0 @@
-{
-    "company": "beans",
-    "branch": "bed2918c-bf8b-4924-8541-ad9182a146d8", 
-    "title": "1080p tax",
-    "rate": 1.5
-}

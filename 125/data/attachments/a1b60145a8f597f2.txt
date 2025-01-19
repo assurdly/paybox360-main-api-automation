@@ -1,0 +1,42 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Steel Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Frozen Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/woodydotmx_128.jpg",    
+                    "item": "Tasty Concrete Chicken",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "customer_id": "",
+    "name": "Cecil Macejkovic",
+    "email": "Precious.Hilll@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "537 Shaylee Camp"
+}

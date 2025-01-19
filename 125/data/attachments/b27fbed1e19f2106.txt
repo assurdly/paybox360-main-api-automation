@@ -1,0 +1,1 @@
+[{"id":"3f1a8ada-c799-4d86-bb31-24095e041bac","name":"Bayow Films International","phone":"08093456789","bank_name":"Wema Bank Plc","account_name":"Liberty/Bayowa International","bank_number":"842xxxxxx1"},{"id":"46fb5df9-3810-4523-970f-d8393cbfc4a9","name":"Neolife","phone":"2348145677676","bank_name":"WEMA","account_name":"LIBERTYNG","bank_number":"123456789"}]

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Mission Viejo",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

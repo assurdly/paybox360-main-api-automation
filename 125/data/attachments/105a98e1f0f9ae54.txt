@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"ebcdb160-affd-437f-8104-577aa2a62e60","created_at":"2025-01-19T10:29:06.217926+01:00","title":"Multi-Byte Tax","rate":0.0,"company":"Idy-Grey-Application","branch":"Aracelistad"},"errors":null}

@@ -1,5 +1,0 @@
-{
-    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
-    "branch": "bed2918c-bf8b-4924-8541-ad9182a146d8",
-    "batch_id": "20240701-H08chi3W"
-}

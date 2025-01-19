@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Lake Laury",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

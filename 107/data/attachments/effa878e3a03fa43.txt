@@ -1,8 +1,0 @@
-{
-    "company": "6c7804fc-0006-445c-914d-82082f1efa6f",
-    "customer_id": "",
-    "name": "Thomas Bode",
-    "email": "Earlene.Mills@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "2797 Lydia Landing"
-}

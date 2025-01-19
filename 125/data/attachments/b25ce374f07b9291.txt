@@ -1,0 +1,7 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "branch": "172f3dbb-e493-403c-916d-e4fcdd1bf8f6",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Hugh_Prosacco67"
+}

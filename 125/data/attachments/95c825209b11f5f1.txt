@@ -1,0 +1,42 @@
+{
+    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Concrete Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Steel Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/d33pthought_128.jpg",    
+                    "item": "Ergonomic Frozen Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
