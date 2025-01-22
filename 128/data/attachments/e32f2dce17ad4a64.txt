@@ -1,0 +1,29 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "branch": "54d8510b-6777-43f2-b12b-af55d9a32216", 
+    "items": [
+        {
+            "item_description": "item driver",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop firewall",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "cd8551b9-b78e-4451-b827-88f3a1ee3349",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

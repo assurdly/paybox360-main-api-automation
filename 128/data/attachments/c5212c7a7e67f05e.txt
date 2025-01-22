@@ -1,0 +1,11 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "branch": "",
+    "name": "back-end invoice",
+    "email": "Rickie_Wiegand@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

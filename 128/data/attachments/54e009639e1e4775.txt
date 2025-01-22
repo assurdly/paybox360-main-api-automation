@@ -1,0 +1,8 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "customer_id": "",
+    "name": "Betty Morar",
+    "email": "Trace27@mailinator.com",
+    "phone": "08081484239",
+    "address": "487 Keshaun Drive"
+}

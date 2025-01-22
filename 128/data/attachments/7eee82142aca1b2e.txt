@@ -1,0 +1,16 @@
+{
+    "team_id": "50dcf54a-7f9f-4622-bc9a-6479aec750c7",
+    "products": [
+        {
+            "id": "05bc19b2-a37a-4fd5-964a-2ef54606e3bb",
+            "product_id": "78c7cb66-875c-4b80-ac9e-f3208150601c", 
+            "amount": 500, 
+            "quantity": 10 
+        }
+    ],
+    "indent_id": "test123",
+    "vendor_id": "5daf2159-da2f-4f97-be33-e5f48cd9aa90",
+    "payment_condition": "ON_DELIVERY",
+    "deliver_to": "21, Alara Street, Lagos",
+    "delivery_date": "2024-12-10"
+}

@@ -1,0 +1,18 @@
+{
+    "company_id": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "branch_id": "cabc453d-637b-496c-8acd-32f9b6960c3f",
+    "team_name": "Cassandra Reichert",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "company": "67ce5101-ccde-4359-8a5b-e690899888211",
-    "branch": "216d287d-ccf9-4439-83a8-f4219eb461b9",
-    "name": "Mr. Andrew Vandervort",
-    "email": "Ryann12@mailinator.com",
-    "phone": "08092815734",
-    "address": "9464 Myra Glens"
-}

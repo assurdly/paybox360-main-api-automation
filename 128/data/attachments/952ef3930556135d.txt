@@ -1,0 +1,11 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "branch": "54d8510b-6777-43f2-b12b-af55d9a32216",
+    "name": "open-source invoice",
+    "email": "Chelsie.Altenwerth22@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

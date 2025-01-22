@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"cd8551b9-b78e-4451-b827-88f3a1ee3349","created_at":"2025-01-22T19:19:40.863085+01:00","title":"Virtual1450 Tax","rate":1.5,"company":"Idy-Pink-System","branch":"East Tamiaberg"},"errors":null}

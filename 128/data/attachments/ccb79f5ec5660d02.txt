@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"043d588b-5794-4ec1-bb65-2c202bf2c3d9","created_at":"2025-01-22T19:19:41.410394+01:00","title":"Primary Tax","rate":0.0,"company":"Idy-Pink-System","branch":"East Tamiaberg"},"errors":null}

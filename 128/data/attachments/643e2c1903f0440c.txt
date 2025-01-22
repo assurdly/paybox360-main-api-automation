@@ -1,0 +1,7 @@
+{
+    "name": "Johnnie O'Connell",
+    "email": "Jett4@mailinator.com",
+    "phone_number": "08099427157",
+    "address": "Idumota, Lagos",
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f597"
+}

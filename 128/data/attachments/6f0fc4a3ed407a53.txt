@@ -1,0 +1,42 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Fresh Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Plastic Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nerrsoft_128.jpg",    
+                    "item": "Ergonomic Fresh Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f591",
+    "customer_id": "",
+    "name": "Francisco Weber",
+    "email": "Calista22@mailinator.com",
+    "phone": "08023263674",
+    "address": "7800 Durgan Mill"
+}

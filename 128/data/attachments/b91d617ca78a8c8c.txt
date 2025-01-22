@@ -1,0 +1,42 @@
+{
+    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Wooden Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Fresh Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/haydn_woods_128.jpg",    
+                    "item": "Rustic Cotton Mouse",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
