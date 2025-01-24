@@ -1,0 +1,42 @@
+{
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Metal Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Cotton Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/_williamguerra_128.jpg",    
+                    "item": "Rustic Wooden Pizza",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

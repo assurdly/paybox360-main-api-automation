@@ -1,0 +1,11 @@
+{
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
+    "branch": "",
+    "name": "neural invoice",
+    "email": "Brennon_Friesen@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

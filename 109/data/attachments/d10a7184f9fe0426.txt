@@ -1,7 +1,0 @@
-{
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e6371",
-    "branch": "c000f40a-0ecb-4334-a348-3bb67b587c78",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Destinee67@mailinator.com"
-}

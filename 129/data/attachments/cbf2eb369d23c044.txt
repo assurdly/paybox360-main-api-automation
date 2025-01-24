@@ -1,0 +1,5 @@
+{
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff0",
+    "price_list_id": "",
+    "price": "3381.47"
+}

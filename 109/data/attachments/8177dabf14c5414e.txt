@@ -1,8 +1,0 @@
-{
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
-    "customer_id": "",
-    "name": "Jeannette Klocko IV",
-    "email": "Arnaldo.Oberbrunner",
-    "phone": "08050008593",
-    "address": "39155 Heathcote Circles"
-}

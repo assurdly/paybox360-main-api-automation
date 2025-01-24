@@ -1,0 +1,7 @@
+{
+    "name": "Julie Altenwerth",
+    "email": "Jillian.Shanahan64@mailinator.com",
+    "phone_number": "08038630729",
+    "address": "Idumota, Lagos",
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff7"
+}

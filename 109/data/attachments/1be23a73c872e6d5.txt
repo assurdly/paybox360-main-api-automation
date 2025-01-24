@@ -1,8 +1,0 @@
-{
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
-    "branch": "29816959-1d1c-41e1-acf6-b0845ddcbe8f1",
-    "name": "Doris Hammes",
-    "email": "Earl0@mailinator.com",
-    "phone": "08066619616",
-    "address": "720 Bosco Passage"
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"088249ae-b64b-458e-970b-4d5f2357e36c","created_at":"2025-01-24T19:23:27.566393+01:00","title":"Neural Tax","rate":-10.0,"company":"Idy-Azure-Interface","branch":"East Merleshire"},"errors":null}

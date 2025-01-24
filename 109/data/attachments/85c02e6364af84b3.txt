@@ -1,7 +1,0 @@
-{
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637",
-    "branch": "29816959-1d1c-41e1-acf6-b0845ddcbe8f",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Greta_Predovic26@mailinator.com"
-}

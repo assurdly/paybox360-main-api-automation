@@ -1,7 +1,0 @@
-{
-    "name": "Kristie Bode",
-    "email": "Lilly_Bailey57",
-    "phone_number": "08043074631",
-    "address": "Idumota, Lagos",
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637"
-}

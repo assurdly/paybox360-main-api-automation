@@ -1,0 +1,45 @@
+{
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/itskawsar_128.jpg", 
+                    "item": "Generic Granite Pants",
+                    "quantity": 150, 
+                    "stock_price": 3954.12, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Metal Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/namankreative_128.jpg",    
+                    "item": "Tasty Soft Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

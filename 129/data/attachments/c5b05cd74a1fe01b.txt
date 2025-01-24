@@ -1,0 +1,42 @@
+{
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Steel Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Fresh Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/justinrgraham_128.jpg",    
+                    "item": "Sleek Cotton Salad",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

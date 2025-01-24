@@ -1,7 +1,0 @@
-{
-    "name": "Sara Towne",
-    "email": "Elias94@mailinator.com",
-    "phone_number": "08094250257",
-    "address": "Idumota, Lagos",
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e6377"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Marcus Bosco",
-    "email": "Donavon.Leffler@mailinator.com",
-    "phone_number": "08099261371erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637"
-}

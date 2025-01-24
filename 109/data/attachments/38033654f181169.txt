@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"8ab15831-dfea-4ed9-9af9-645cb850e637","company_name":"Idy-teal-bus","industry":"BANKING AND FINANCE","size":5}}

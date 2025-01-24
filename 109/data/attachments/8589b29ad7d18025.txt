@@ -1,7 +1,0 @@
-{
-    "name": "Minnie Gutkowski",
-    "email": "Eduardo.Welch@mailinator.com",
-    "phone_number": "08049542299",
-    "address": "Idumota, Lagos",
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e637"
-}

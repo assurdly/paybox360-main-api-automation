@@ -1,0 +1,8 @@
+{
+    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
+    "customer_id": "",
+    "name": "Jeannette Rohan",
+    "email": "Vince_Powlowski13@mailinator.com",
+    "phone": "08019193785",
+    "address": "31281 Norbert Grove"
+}

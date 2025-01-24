@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"5d28fc0a-0bd2-4899-8d5a-3389cb916db9","name":"Generic rubber bacon"}]},"errors":null}

@@ -1,8 +1,0 @@
-{
-    "company": "8ab15831-dfea-4ed9-9af9-645cb850e6371",
-    "customer_id": "",
-    "name": "Emanuel Smitham",
-    "email": "Winnifred_Carroll84@mailinator.com",
-    "phone": "08021518740",
-    "address": "46263 Schuster Square"
-}

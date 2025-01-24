@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"459a54d3-5d5f-4885-8729-51035e8ed654","created_at":"2024-12-13T19:08:38.585218+01:00","name":"Captain Category","has_products":false,"company":"8ab15831-dfea-4ed9-9af9-645cb850e637","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Teal-Bus","stock_count":0},"errors":null}
