@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"3dc04378-1abf-4f1a-b9d6-fd7a68417109","created_at":"2025-01-26T21:10:38.704534+01:00","name":"Captain Category","has_products":false,"company":"f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Olive-Firewall","stock_count":0},"errors":null}

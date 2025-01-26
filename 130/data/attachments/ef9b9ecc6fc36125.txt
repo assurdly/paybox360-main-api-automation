@@ -1,0 +1,7 @@
+{
+    "name": "Gerard Friesen",
+    "email": "Wendy.Morissette",
+    "phone_number": "08026706368",
+    "address": "Idumota, Lagos",
+    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Rudy Hickle",
-    "email": "Breanne_Dickinson76@mailinator.com",
-    "phone_number": "08039535866",
-    "address": "Idumota, Lagos",
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a7"
-}

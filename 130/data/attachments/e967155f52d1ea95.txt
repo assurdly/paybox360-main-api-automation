@@ -1,0 +1,45 @@
+{
+    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/LucasPerdidao_128.jpg", 
+                    "item": "Handmade Concrete Ball",
+                    "quantity": 150, 
+                    "stock_price": 4897.24, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Fresh Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/diesellaws_128.jpg",    
+                    "item": "Refined Soft Gloves",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

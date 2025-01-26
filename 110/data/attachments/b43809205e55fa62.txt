@@ -1,7 +1,0 @@
-{
-    "company": "e3546881-562b-4eb6-920a-502b5d384df3beans",
-    "customer_id": "",
-    "city": "Nitzschetown",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

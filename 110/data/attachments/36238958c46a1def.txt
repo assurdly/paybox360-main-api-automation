@@ -1,5 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Fisher, Kunde and Morar"
-}

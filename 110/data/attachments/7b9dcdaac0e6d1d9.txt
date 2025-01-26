@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"42df2ed4-0d0f-409e-8a1f-1965cca0ebae","created_at":"2024-12-15T21:04:12.170211+01:00","title":"Redundant Tax","rate":0.0,"company":"Application","branch":"Greenville"},"errors":null}

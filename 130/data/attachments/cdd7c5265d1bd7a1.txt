@@ -1,0 +1,8 @@
+{
+    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc",
+    "customer_id": "",
+    "name": "Aaron Paucek",
+    "email": "Linwood_Lemke@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "148 Koch Tunnel"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "e3546881-562b-4eb6-920a-502b5d384df3",
-    "customer_id": "1",
-    "name": "Celia Schulist",
-    "email": "Ernestina_Strosin23@mailinator.com",
-    "phone": "08051521247",
-    "address": "68747 Angie Manors"
-}

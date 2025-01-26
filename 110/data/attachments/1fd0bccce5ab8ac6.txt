@@ -1,8 +1,0 @@
-{
-    "company": "e3546881-562b-4eb6-920a-502b5d384df3",
-    "branch": "d4a28cf8-cba4-4389-af0b-28432cb1801e1",
-    "name": "Hilda Gutmann",
-    "email": "Aida.Block@mailinator.com",
-    "phone": "08049349551",
-    "address": "532 Skiles Spur"
-}

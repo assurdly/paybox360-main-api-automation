@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc","company_name":"Idy-olive-firewall","industry":"BANKING AND FINANCE","size":5}}

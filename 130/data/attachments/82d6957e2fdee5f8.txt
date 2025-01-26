@@ -1,0 +1,42 @@
+{
+    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Metal Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Fresh Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/konus_128.jpg",    
+                    "item": "Incredible Rubber Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

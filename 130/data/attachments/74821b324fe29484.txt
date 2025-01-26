@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"6dd4d8e2-4684-422c-92b2-8849dc7c3695","created_at":"2025-01-26T21:11:59.477305+01:00","title":"Neural Tax","rate":0.0,"company":"Idy-Olive-Firewall","branch":"West Lauratown"},"errors":null}
