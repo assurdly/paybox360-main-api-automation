@@ -130,7 +130,7 @@ jobs:
           SLACK_CHANNEL: 'C070KUKPDLZ'
           SLACK_MESSAGE: |
             *Paybox360 - API Quality Readiness*
-            *Contributors - Gambo Usman, Moses George*
+            *Contributors - Ayomide Liasu, Abisola Oyedotun*
             Status: ${{ job.status }}
             Passing Tests: ${{ steps.parse_json.outputs.passing_percentage }}%
             Failing Tests: ${{ steps.parse_json.outputs.failing_percentage }}%
