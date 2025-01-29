@@ -1,0 +1,11 @@
+{
+    "company": "a1d0d3d8-e33b-455d-a7a1-a4ef3fdfeb61beans",
+    "branch": "88ffe790-0094-4b94-a84f-9c24c6f1d536",
+    "name": "digital invoice",
+    "email": "Johnathon_Ernser88@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

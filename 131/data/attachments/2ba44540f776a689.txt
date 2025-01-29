@@ -1,0 +1,42 @@
+{
+    "company": "a1d0d3d8-e33b-455d-a7a1-a4ef3fdfeb61",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Concrete Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Wooden Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lvovenok_128.jpg",    
+                    "item": "Unbranded Concrete Mouse",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

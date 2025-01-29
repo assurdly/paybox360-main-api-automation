@@ -1,0 +1,18 @@
+{
+    "company": "3a90781c-621c-4857-91c2-515f5f798a9b",
+    "branch": "f02cdea0-f6bf-44bf-a4aa-68e99b204713",
+    "batch_id": "20241117-41MpuPn3",
+    "device": "WEB",
+    "sales": [
+        {
+            "category_id": "df335b52-959a-4d8e-99cf-71b367a5466c",
+            "item_id": "15fd9ce4-7d4a-4fd7-b5d8-19524732bdb8",
+            "quantity": 5,
+            "amount": 1750.00
+        }
+    ]
+    
+    
+    
+    
+}

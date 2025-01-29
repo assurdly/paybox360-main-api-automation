@@ -1,7 +1,0 @@
-{
-    "name": "Tom Zulauf",
-    "email": "Kennedi_Schumm94",
-    "phone_number": "08079368975",
-    "address": "Idumota, Lagos",
-    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25"
-}

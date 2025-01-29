@@ -1,0 +1,42 @@
+{
+    "company": "a1d0d3d8-e33b-455d-a7a1-a4ef3fdfeb61",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Unbranded Concrete Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Fresh Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/marshallchen__128.jpg",    
+                    "item": "Tasty Rubber Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

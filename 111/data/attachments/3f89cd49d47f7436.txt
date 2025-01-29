@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"249110b0-022b-4cec-b09c-d4b8724145ee","created_at":"2024-12-18T19:05:52.518772+01:00","name":"Captain Category","has_products":false,"company":"1f807035-d5c8-4dbb-a04c-99bc54504c25","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Mint Green-Bandwidth","stock_count":0},"errors":null}

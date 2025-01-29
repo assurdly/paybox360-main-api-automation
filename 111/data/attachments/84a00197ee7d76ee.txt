@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"47528285-b935-4c3b-9b49-70038a481654","created_at":"2024-12-18T19:06:53.199530+01:00","title":"Multi-Byte1431 Tax","rate":1.5,"company":"Idy-Mint Green-Bandwidth","branch":""},"errors":null}

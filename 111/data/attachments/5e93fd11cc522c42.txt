@@ -1,8 +1,0 @@
-{
-    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c251",
-    "customer_id": "",
-    "name": "Gladys Feeney",
-    "email": "Ashton.Franecki11@mailinator.com",
-    "phone": "08010222661",
-    "address": "63023 O'Hara Mills"
-}

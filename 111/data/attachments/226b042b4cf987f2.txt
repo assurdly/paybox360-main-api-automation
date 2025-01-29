@@ -1,7 +1,0 @@
-{
-    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25",
-    "branch": "f042ac98-fb36-4019-ab3e-6576c13ef2aa",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Josh.Towne37"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Olivia Ziemann",
-    "email": "Brandyn52@mailinator.com",
-    "phone_number": "08044145272erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "1f807035-d5c8-4dbb-a04c-99bc54504c25"
-}

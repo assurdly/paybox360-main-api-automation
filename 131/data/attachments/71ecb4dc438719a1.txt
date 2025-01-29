@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "a15f6113-e9f1-40b3-b1d7-bc9c6dbc254d"
+        },
+        {
+            "name": "Computer"
+        }
+    ]
+}

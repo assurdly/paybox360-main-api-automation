@@ -1,0 +1,8 @@
+{
+    "company": "a1d0d3d8-e33b-455d-a7a1-a4ef3fdfeb611",
+    "branch": "185273ce-b663-4d0f-a69c-993215fd0c93",
+    "name": "Alice Murphy",
+    "email": "Yadira.Krajcik@mailinator.com",
+    "phone": "08047098876",
+    "address": "164 Jonathan Rest"
+}
