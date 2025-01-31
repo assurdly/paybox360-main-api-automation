@@ -1,0 +1,42 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Concrete Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Metal Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mgonto_128.jpg",    
+                    "item": "Intelligent Concrete Salad",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

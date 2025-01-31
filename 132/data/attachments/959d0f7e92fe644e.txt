@@ -1,0 +1,29 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
+    "branch": "65dc856f-234a-4ba0-81e4-867a7c926713", 
+    "items": [
+        {
+            "item_description": "item circuit",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop sensor",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "dd125464-183e-47be-805f-43a2accaee5c",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

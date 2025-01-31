@@ -1,5 +1,0 @@
-{
-    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Feeney LLC"
-}

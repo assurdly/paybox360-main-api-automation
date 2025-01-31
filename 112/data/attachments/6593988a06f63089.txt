@@ -1,7 +1,0 @@
-{
-    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
-    "branch": "080a2cd9-ccd2-4fd5-9558-62d3f1a2157d",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Sarina_Muller"
-}

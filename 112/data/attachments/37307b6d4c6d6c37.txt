@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"1c2c7728-6bb2-4ddb-991f-5a4420e8cd8e","created_at":"2024-12-20T19:07:39.993938+01:00","name":"Captain Category","has_products":false,"company":"8802f4d2-a6b9-4272-98c3-9784f6d4523b","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Green-Feed","stock_count":0},"errors":null}

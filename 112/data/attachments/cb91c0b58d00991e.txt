@@ -1,5 +1,0 @@
-{
-    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
-    "price_list_id": "",
-    "price": "8256.89esetd"
-}

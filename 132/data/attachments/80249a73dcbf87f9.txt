@@ -1,0 +1,8 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
+    "customer_id": "",
+    "name": "Nathaniel Schulist",
+    "email": "Stacey.DuBuque14@mailinator.com",
+    "phone": "08029438699",
+    "address": "55534 Sylvan Loaf"
+}

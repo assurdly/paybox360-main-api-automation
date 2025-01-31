@@ -1,7 +1,0 @@
-{
-    "name": "Domingo Monahan",
-    "email": "Nathanael_Keeling96@mailinator.com",
-    "phone_number": "08022803992",
-    "address": "Idumota, Lagos",
-    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b7"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"790ecdc2-859f-4674-9936-076b1134c798","created_at":"2024-12-20T19:08:21.134188+01:00","title":"Open-Source Tax","rate":-10.0,"company":"Idy-Green-Feed","branch":"Lake Orphafurt"},"errors":null}

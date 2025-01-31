@@ -1,0 +1,8 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
+    "customer_id": "",
+    "name": "Ms. Alexandra Cole",
+    "email": "Llewellyn32@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "4964 Jeffry Mountains"
+}

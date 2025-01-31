@@ -1,0 +1,11 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399beans",
+    "branch": "65dc856f-234a-4ba0-81e4-867a7c926713",
+    "name": "mobile invoice",
+    "email": "Thalia_Stiedemann51@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
+    "customer_id": "",
+    "name": "Victor Davis V",
+    "email": "Velva.Gerhold0@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "852 Dejon Glens"
+}

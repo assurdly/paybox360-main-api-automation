@@ -1,0 +1,7 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae3991",
+    "branch": "65dc856f-234a-4ba0-81e4-867a7c926713",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Delores_Schowalter@mailinator.com"
+}

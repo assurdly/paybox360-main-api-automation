@@ -1,8 +1,0 @@
-{
-    "company": "8802f4d2-a6b9-4272-98c3-9784f6d4523b",
-    "customer_id": "1",
-    "name": "Dr. Mercedes Fahey",
-    "email": "Bobbie84@mailinator.com",
-    "phone": "08032545573",
-    "address": "92383 Gibson Station"
-}

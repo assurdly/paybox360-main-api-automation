@@ -1,0 +1,8 @@
+{
+    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
+    "customer_id": "1",
+    "name": "Emmett Welch",
+    "email": "Griffin_Ward91@mailinator.com",
+    "phone": "08043020722",
+    "address": "882 Thompson Courts"
+}
