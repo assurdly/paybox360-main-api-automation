@@ -1,0 +1,8 @@
+{
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
+    "customer_id": "",
+    "name": "Kenny Gleichner",
+    "email": "Ole_Skiles@mailinator.com",
+    "phone": "08007398206",
+    "address": "532 Kirk Lodge"
+}

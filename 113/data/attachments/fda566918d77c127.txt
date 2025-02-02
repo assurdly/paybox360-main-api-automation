@@ -1,8 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a1",
-    "customer_id": "",
-    "name": "Sarah Franecki",
-    "email": "Horace_Ferry@mailinator.com",
-    "phone": "08014329852",
-    "address": "33770 Watsica Junctions"
-}

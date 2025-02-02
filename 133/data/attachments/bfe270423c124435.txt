@@ -1,0 +1,8 @@
+{
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
+    "customer_id": "",
+    "name": "Mr. Alberta Deckow",
+    "email": "Eldred49",
+    "phone": "08087586411",
+    "address": "3052 Wyatt Neck"
+}

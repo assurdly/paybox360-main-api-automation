@@ -1,0 +1,42 @@
+{
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Refined Rubber Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Fresh Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mhesslow_128.jpg",    
+                    "item": "Handcrafted Wooden Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

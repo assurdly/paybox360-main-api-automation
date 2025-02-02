@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"8d15b70c-c02c-4f0d-843f-c452c7f296ab","created_at":"2024-12-22T21:04:34.779319+01:00","title":"Bluetooth1428 Tax","rate":1.5,"company":"Idy-Salmon-Pixel","branch":"Nicolestad"},"errors":null}

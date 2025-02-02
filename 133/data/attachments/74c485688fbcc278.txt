@@ -1,0 +1,8 @@
+{
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca1",
+    "customer_id": "",
+    "name": "Ernest Homenick",
+    "email": "Buster_Rodriguez@mailinator.com",
+    "phone": "08042158453",
+    "address": "855 Katarina Club"
+}

@@ -1,0 +1,45 @@
+{
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/davidmerrique_128.jpg", 
+                    "item": "Unbranded Wooden Chips",
+                    "quantity": 150, 
+                    "stock_price": 8020.93, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Cotton Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/cloudstudio_128.jpg",    
+                    "item": "Unbranded Cotton Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

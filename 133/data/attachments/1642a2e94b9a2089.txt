@@ -1,0 +1,7 @@
+{
+    "name": "Rita Herman",
+    "email": "Sheila.Hessel84",
+    "phone_number": "08040901475",
+    "address": "Idumota, Lagos",
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca"
+}

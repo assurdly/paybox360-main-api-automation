@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"f4cc2ff8-3464-4520-a235-9bcf5a198a96","created_at":"2025-02-02T21:09:22.057509+01:00","name":"Captain Category","has_products":false,"company":"404ad9dd-73cb-4f81-9009-6ad19373c1ca","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Yellow-Feed","stock_count":0},"errors":null}

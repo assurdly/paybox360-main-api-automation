@@ -1,7 +1,0 @@
-{
-    "name": "Randal Dietrich",
-    "email": "Ora.Lebsack15",
-    "phone_number": "08031758443",
-    "address": "Idumota, Lagos",
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a"
-}

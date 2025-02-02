@@ -1,7 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
-    "branch": "4d532b07-bdd7-4325-aed1-d58695151383",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Chase31"
-}

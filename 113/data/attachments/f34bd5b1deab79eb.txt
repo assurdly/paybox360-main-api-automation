@@ -1,7 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a1",
-    "branch": "78f4e219-1048-4bcb-bed9-f787eb7f6c61",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Willy_Adams@mailinator.com"
-}

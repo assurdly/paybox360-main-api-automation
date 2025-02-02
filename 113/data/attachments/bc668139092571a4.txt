@@ -1,6 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
-    "branch": "", 
-    "title": "mobile1431 tax",
-    "rate": 1.5
-}

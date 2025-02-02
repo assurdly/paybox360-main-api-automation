@@ -1,8 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a1",
-    "branch": "4d532b07-bdd7-4325-aed1-d58695151383",
-    "name": "Earnest Jacobi",
-    "email": "Sammie_Jones@mailinator.com",
-    "phone": "08024614844",
-    "address": "241 Glover Court"
-}

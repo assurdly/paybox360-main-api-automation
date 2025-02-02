@@ -1,8 +1,0 @@
-{
-    "company": "ce33c0a6-97c9-4d54-a771-10307904a47a",
-    "branch": "4d532b07-bdd7-4325-aed1-d58695151383",
-    "name": "Denise Reichert",
-    "email": "Shanon92",
-    "phone": "08088780949",
-    "address": "8577 Spencer Row"
-}

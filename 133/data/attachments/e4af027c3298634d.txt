@@ -1,0 +1,8 @@
+{
+    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
+    "customer_id": "1",
+    "name": "Lucille Mraz",
+    "email": "Jakayla_Watsica52@mailinator.com",
+    "phone": "08055565247",
+    "address": "12769 Luettgen Tunnel"
+}
