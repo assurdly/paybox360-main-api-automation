@@ -1,0 +1,42 @@
+{
+    "company": "e483391c-f81b-4871-8d52-775336c00eaa",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Fresh Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Frozen Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jydesign_128.jpg",    
+                    "item": "Handmade Soft Soap",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

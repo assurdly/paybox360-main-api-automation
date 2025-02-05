@@ -1,7 +1,0 @@
-{
-    "name": "Marilyn Strosin",
-    "email": "Citlalli.Weber85@mailinator.com",
-    "phone_number": "08007920423",
-    "address": "Idumota, Lagos",
-    "company": "97d321e8-b9d2-460a-97a6-a1bcbb8f2f117"
-}

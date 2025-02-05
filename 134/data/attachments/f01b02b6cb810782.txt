@@ -1,0 +1,8 @@
+{
+    "company": "e483391c-f81b-4871-8d52-775336c00eaa",
+    "customer_id": "1",
+    "name": "Cathy Schowalter",
+    "email": "Pamela_Koelpin15@mailinator.com",
+    "phone": "08085894981",
+    "address": "032 Tre Hill"
+}

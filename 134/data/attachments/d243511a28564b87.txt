@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"67f7256b-a5b0-4d07-beea-1946984345c8","created_at":"2025-02-05T19:22:50.260685+01:00","title":"Wireless Tax","rate":-10.0,"company":"Hjgj","branch":"Oshkosh"},"errors":null}

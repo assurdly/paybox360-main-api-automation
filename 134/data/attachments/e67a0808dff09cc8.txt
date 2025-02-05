@@ -1,0 +1,45 @@
+{
+    "company": "e483391c-f81b-4871-8d52-775336c00eaa2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/anoff_128.jpg", 
+                    "item": "Licensed Frozen Tuna",
+                    "quantity": 150, 
+                    "stock_price": 3581.87, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Plastic Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/xadhix_128.jpg",    
+                    "item": "Refined Rubber Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
