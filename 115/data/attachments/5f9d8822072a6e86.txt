@@ -1,1 +1,0 @@
-{"message":["Product name already exists"]}

@@ -1,0 +1,7 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "name": "New Weldonfurt",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 1000,
+    "is_super_branch": false
+}

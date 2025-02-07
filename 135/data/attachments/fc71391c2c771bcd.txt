@@ -1,0 +1,8 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "customer_id": "1",
+    "name": "Amber Paucek",
+    "email": "Reta42@mailinator.com",
+    "phone": "08024391103",
+    "address": "0564 Schaden Course"
+}

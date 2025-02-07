@@ -1,7 +1,0 @@
-{
-    "name": "Silvia Runolfsson",
-    "email": "Reymundo_Lakin9",
-    "phone_number": "08042210411",
-    "address": "Idumota, Lagos",
-    "company": "39a64743-6835-432f-9593-ae23c865ec89"
-}

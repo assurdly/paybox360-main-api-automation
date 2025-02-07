@@ -1,0 +1,45 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gabrielizalo_128.jpg", 
+                    "item": "Handmade Soft Mouse",
+                    "quantity": 150, 
+                    "stock_price": 6583.97, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Steel Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/iduuck_128.jpg",    
+                    "item": "Awesome Concrete Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

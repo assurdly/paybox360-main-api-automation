@@ -1,7 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "name": "East Albert",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

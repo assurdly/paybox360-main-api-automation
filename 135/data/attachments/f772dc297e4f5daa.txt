@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"ffd8f67f-d8c3-4407-936d-3b64d988af8e","name":"Handcrafted wooden soap"}]},"errors":null}

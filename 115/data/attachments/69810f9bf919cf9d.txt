@@ -1,7 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "customer_id": "",
-    "city": "Oxnard",
-    "state": "",
-    "country": "Nigeria"
-}

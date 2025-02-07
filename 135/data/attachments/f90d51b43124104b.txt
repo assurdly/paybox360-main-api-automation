@@ -1,0 +1,8 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "customer_id": "",
+    "name": "Miss Byron Abshire",
+    "email": "Emmie31@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "13018 Gottlieb Knoll"
+}

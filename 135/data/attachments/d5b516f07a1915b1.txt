@@ -1,0 +1,42 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Steel Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Fresh Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jqiuss_128.jpg",    
+                    "item": "Fantastic Plastic Pants",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

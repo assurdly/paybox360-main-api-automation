@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"27c1125c-94d9-48a9-8397-c67ceb246d1d","created_at":"2025-02-07T19:23:31.960666+01:00","title":"Open-Source1450 Tax","rate":1.5,"company":"Idy-Pink-Panel","branch":"New Akeemport"},"errors":null}

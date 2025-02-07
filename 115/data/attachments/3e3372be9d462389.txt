@@ -1,7 +1,0 @@
-{
-    "name": "Caleb Borer",
-    "email": "Xzavier_Bernier69@mailinator.com",
-    "phone_number": "08020235988",
-    "address": "Idumota, Lagos",
-    "company": "39a64743-6835-432f-9593-ae23c865ec897"
-}

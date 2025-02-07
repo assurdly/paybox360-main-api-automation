@@ -1,8 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec891",
-    "customer_id": "",
-    "name": "Estelle Christiansen",
-    "email": "Kathleen34@mailinator.com",
-    "phone": "08010126022",
-    "address": "73187 Reuben Terrace"
-}

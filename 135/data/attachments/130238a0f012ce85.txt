@@ -1,0 +1,42 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Refined Granite Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Metal Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sreejithexp_128.jpg",    
+                    "item": "Handcrafted Wooden Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

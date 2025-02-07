@@ -1,0 +1,8 @@
+{
+    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
+    "branch": "b22cbb4c-f3ff-4347-ac5a-e3bc4f1d3b46",
+    "name": "Lynne Konopelski",
+    "email": "Domenic_Klocko54",
+    "phone": "08028841807",
+    "address": "854 Arvel Brook"
+}

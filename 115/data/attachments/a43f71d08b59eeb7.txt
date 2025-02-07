@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"fdbcf32c-0ffd-4343-a144-4c90cb4b58ba","created_at":"2024-12-27T19:09:55.950997+01:00","title":"Online1431 Tax","rate":1.5,"company":"Idy-Gold-System","branch":""},"errors":null}

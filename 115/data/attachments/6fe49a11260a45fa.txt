@@ -1,7 +1,0 @@
-{
-    "company": "39a64743-6835-432f-9593-ae23c865ec89",
-    "branch": "7be8c4cb-39a9-48ae-95d1-b9f6dc967284",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Cielo56@mailinator.com"
-}
