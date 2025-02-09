@@ -1,8 +1,0 @@
-{
-    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
-    "customer_id": "",
-    "name": "Faith Stanton",
-    "email": "Amie17",
-    "phone": "08028864827",
-    "address": "4274 Delaney Roads"
-}

@@ -1,7 +1,0 @@
-{
-    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
-    "branch": "d495aae3-fc2d-4b34-ac0a-eda836ee3868",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Gabrielle41@mailinator.com"
-}

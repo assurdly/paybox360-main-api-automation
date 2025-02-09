@@ -1,0 +1,42 @@
+{
+    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Plastic Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Plastic Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mohanrohith_128.jpg",    
+                    "item": "Practical Plastic Fish",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Daryl Berge",
-    "email": "Gustave22",
-    "phone_number": "08019477901",
-    "address": "Idumota, Lagos",
-    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5"
-}

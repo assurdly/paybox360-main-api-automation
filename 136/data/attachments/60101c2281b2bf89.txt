@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "ea393b3f-035b-4549-b2cf-1078b00c71c0", 
+    "title": "digital tax",
+    "rate": 1.5
+}

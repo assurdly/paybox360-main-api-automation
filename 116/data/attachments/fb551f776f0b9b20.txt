@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"b77fc360-303c-4bf4-b014-d7c10ec9b43c","created_at":"2024-12-29T21:04:33.344623+01:00","title":"Open-Source Tax","rate":0.0,"company":"Idy-Violet-Application","branch":"South Rachaelfort"},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "fb1caa3f-8957-46d6-b3de-b7e1078358801",
+    "customer_id": "",
+    "name": "Rufus Nikolaus PhD",
+    "email": "Garret11@mailinator.com",
+    "phone": "08069658164",
+    "address": "6880 Jacobi Forest"
+}

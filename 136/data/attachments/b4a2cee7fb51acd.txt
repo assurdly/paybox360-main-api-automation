@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"ba709c2b-1182-489a-aff4-a496eea954b0","name":"Refined frozen shirt"}]},"errors":null}

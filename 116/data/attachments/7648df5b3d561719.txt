@@ -1,8 +1,0 @@
-{
-    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
-    "customer_id": "",
-    "name": "Melba Rosenbaum",
-    "email": "Kariane.Tromp39@mailinator.com",
-    "phone": "08008882231",
-    "address": "4384 Oberbrunner Union"
-}

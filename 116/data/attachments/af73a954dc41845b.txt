@@ -1,8 +1,0 @@
-{
-    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f51",
-    "branch": "d495aae3-fc2d-4b34-ac0a-eda836ee3868",
-    "name": "Dr. Angelina Botsford",
-    "email": "Berniece.Schinner0@mailinator.com",
-    "phone": "08017639913",
-    "address": "3839 Genesis Courts"
-}

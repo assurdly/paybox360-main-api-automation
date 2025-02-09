@@ -1,0 +1,8 @@
+{
+    "company": "fb1caa3f-8957-46d6-b3de-b7e1078358801",
+    "branch": "90f3dd3a-46fc-4269-b585-33933e405917",
+    "name": "Edna O'Connell",
+    "email": "Berniece.Bode@mailinator.com",
+    "phone": "08010991758",
+    "address": "72054 Fay Center"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880",
+    "branch": "90f3dd3a-46fc-4269-b585-33933e4059171",
+    "name": "Roy Lehner",
+    "email": "Lia.Stanton@mailinator.com",
+    "phone": "08060685288",
+    "address": "29964 Wayne Meadow"
+}

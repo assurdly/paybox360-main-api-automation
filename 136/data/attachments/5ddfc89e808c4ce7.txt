@@ -1,0 +1,11 @@
+{
+    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880",
+    "branch": "ea393b3f-035b-4549-b2cf-1078b00c71c0",
+    "name": "neural invoice",
+    "email": "Vicenta_Bartell55@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

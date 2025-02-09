@@ -1,0 +1,7 @@
+{
+    "name": "Jan Romaguera",
+    "email": "Isidro_Adams34@mailinator.com",
+    "phone_number": "08075748792erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880"
+}

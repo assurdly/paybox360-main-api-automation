@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"company":"003aa843-a995-41e5-8338-8f0ce1feb9f5","company_name":"Idy-Violet-Application","id":"04a20877-6155-498c-a5e0-cabcb7a78310","name":"Computer Accessories"}],"count":1,"total_categories":1},"errors":null}

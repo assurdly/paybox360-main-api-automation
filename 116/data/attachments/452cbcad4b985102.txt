@@ -1,7 +1,0 @@
-{
-    "company": "003aa843-a995-41e5-8338-8f0ce1feb9f5",
-    "customer_id": "",
-    "city": "New Trentton",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

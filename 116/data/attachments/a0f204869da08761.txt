@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"003aa843-a995-41e5-8338-8f0ce1feb9f5","company_name":"Idy-violet-application","industry":"BANKING AND FINANCE","size":5}}
