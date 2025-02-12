@@ -1,0 +1,8 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "customer_id": "1",
+    "name": "Maureen Kassulke",
+    "email": "Rowland_Bogan@mailinator.com",
+    "phone": "08041720374",
+    "address": "1271 Benny Branch"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "customer_id": "",
+    "name": "Norman Cartwright",
+    "email": "Elian12@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "172 Catalina Overpass"
+}

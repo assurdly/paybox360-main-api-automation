@@ -1,0 +1,45 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/shojberg_128.jpg", 
+                    "item": "Gorgeous Frozen Tuna",
+                    "quantity": 150, 
+                    "stock_price": 6131.06, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Rubber Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/okcoker_128.jpg",    
+                    "item": "Rustic Steel Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

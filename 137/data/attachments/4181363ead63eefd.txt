@@ -1,0 +1,8 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd71",
+    "branch": "860b5649-0273-4a47-83b6-e1c7bdc0f9ca",
+    "name": "Mrs. Gretchen Walsh",
+    "email": "Nickolas.Swift49@mailinator.com",
+    "phone": "08033395271",
+    "address": "156 Marshall Divide"
+}

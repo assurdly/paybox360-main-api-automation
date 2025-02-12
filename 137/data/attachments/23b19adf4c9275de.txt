@@ -1,0 +1,11 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "branch": "2cc4c66c-55ae-411e-abf6-016cd4ad6a46",
+    "name": "haptic invoice",
+    "email": "Erwin.Dicki@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

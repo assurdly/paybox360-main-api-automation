@@ -1,0 +1,5 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Kuhic Inc"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "customer_id": "",
+    "name": "Constance Nolan",
+    "email": "Rahul80",
+    "phone": "08078047590",
+    "address": "0509 Herman Coves"
+}

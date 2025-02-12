@@ -1,0 +1,7 @@
+{
+    "name": "Kim Jacobson Jr.",
+    "email": "Larue72@mailinator.com",
+    "phone_number": "08009980527",
+    "address": "Idumota, Lagos",
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7"
+}

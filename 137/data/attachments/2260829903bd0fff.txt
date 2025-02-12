@@ -1,0 +1,7 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "branch": "860b5649-0273-4a47-83b6-e1c7bdc0f9ca",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Mozelle_Torphy"
+}

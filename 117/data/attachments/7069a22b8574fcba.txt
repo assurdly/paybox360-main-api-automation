@@ -1,7 +1,0 @@
-{
-    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
-    "name": "Plano",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

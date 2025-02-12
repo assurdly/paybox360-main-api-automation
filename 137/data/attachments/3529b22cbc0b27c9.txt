@@ -1,0 +1,8 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "customer_id": "",
+    "name": "Dennis Abernathy",
+    "email": "Gwen_Welch@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "8745 Emory Junctions"
+}

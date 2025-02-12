@@ -1,0 +1,7 @@
+{
+    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
+    "name": "Summermouth",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

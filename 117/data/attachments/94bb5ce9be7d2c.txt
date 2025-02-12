@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "The Hammocks",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

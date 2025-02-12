@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "430b92e1-8fb6-4da7-930e-e7af3e4af30e"
+        },
+        {
+            "name": "Soap"
+        }
+    ]
+}

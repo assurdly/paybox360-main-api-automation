@@ -1,7 +1,0 @@
-{
-    "company": "39575b67-46f3-4c6a-a078-92d7d7196d65",
-    "branch": "f4660d93-f632-4d1f-8872-02e60b3834c7",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Freddy.Ankunding@mailinator.com"
-}
