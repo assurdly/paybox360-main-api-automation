@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"aad012b2-841c-4aa1-afe5-f29f003f5f77","created_at":"2025-02-14T19:23:04.888065+01:00","title":"Mobile Tax","rate":-10.0,"company":"Idy-Lime-Bus","branch":"Larsonhaven"},"errors":null}

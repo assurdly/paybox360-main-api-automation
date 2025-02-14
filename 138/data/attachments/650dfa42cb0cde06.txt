@@ -1,0 +1,7 @@
+{
+    "name": "Renee Casper",
+    "email": "Ashtyn.Buckridge@mailinator.com",
+    "phone_number": "08009085668erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a74"
+}

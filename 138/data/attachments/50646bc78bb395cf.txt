@@ -1,0 +1,45 @@
+{
+    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a742",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/funwatercat_128.jpg", 
+                    "item": "Handmade Rubber Bacon",
+                    "quantity": 150, 
+                    "stock_price": 5089.20, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Cotton Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/Talbi_ConSept_128.jpg",    
+                    "item": "Gorgeous Frozen Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

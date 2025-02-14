@@ -1,8 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
-    "customer_id": "",
-    "name": "Ross Mosciski",
-    "email": "Britney.Zieme11",
-    "phone": "08003395274",
-    "address": "1402 Skyla Village"
-}

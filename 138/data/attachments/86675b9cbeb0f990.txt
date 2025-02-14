@@ -1,0 +1,18 @@
+{
+    "company_id": "75f06299-afb2-40ba-bdcd-8ebe29929a74",
+    "branch_id": "2d02d810-e65f-4ab1-827b-d7751d7917f3",
+    "team_name": "Kay Hegmann",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

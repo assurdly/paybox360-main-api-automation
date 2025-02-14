@@ -1,5 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Legros, Adams and Mohr"
-}

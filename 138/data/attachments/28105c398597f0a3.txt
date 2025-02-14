@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "1e33e636-765d-4de2-bfab-cd50645c357e", 
+    "title": "optical tax",
+    "rate": 1.5
+}

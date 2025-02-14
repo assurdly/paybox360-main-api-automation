@@ -1,7 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
-    "branch": "c0a53025-ab60-4b59-bd30-ca8b548d880e",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Justyn_Breitenberg49@mailinator.com"
-}

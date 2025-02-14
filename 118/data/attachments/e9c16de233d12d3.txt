@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"company":"Idy-Cyan-Firewall","branches":2,"teams":1,"total_stock_value":50122500.0,"total_sales_values":173250.0,"total_expected_profit":7142500.0},"errors":null}

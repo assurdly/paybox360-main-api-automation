@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"bc9f1a40-745f-4325-aeed-e64d4768511e","created_at":"2025-01-03T19:08:54.735048+01:00","name":"Captain Category","has_products":false,"company":"138d17a7-c135-43a2-bcc3-93e373309164","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Cyan-Firewall","stock_count":0},"errors":null}

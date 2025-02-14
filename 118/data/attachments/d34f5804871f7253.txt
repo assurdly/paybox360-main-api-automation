@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Sterling Heights",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

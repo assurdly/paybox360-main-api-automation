@@ -1,8 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
-    "branch": "c0a53025-ab60-4b59-bd30-ca8b548d880e1",
-    "name": "Crystal Jenkins",
-    "email": "Noelia56@mailinator.com",
-    "phone": "08006255060",
-    "address": "6643 Farrell Ramp"
-}

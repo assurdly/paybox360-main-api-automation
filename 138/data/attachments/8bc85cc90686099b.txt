@@ -1,0 +1,8 @@
+{
+    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a74",
+    "customer_id": "",
+    "name": "Joy Abshire",
+    "email": "Moses.Wyman@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "0575 Marquardt Highway"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e3733091641",
-    "branch": "c0a53025-ab60-4b59-bd30-ca8b548d880e",
-    "name": "Kristy Quigley",
-    "email": "Deshaun.Marks@mailinator.com",
-    "phone": "08065396550",
-    "address": "086 Hammes Parkways"
-}

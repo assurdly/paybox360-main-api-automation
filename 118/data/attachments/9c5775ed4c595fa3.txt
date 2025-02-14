@@ -1,6 +1,0 @@
-{
-    "company": "138d17a7-c135-43a2-bcc3-93e373309164",
-    "branch": "afdb6a28-22c1-4647-9221-78e4e4ce4364",
-    "batch_id": "20240701-H08chi3W",
-    "rrn": "003-sample-rrn-libpay"
-}
