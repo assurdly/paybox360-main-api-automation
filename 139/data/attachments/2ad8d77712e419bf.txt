@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "customer_id": "",
+    "name": "Tim Grant",
+    "email": "Katheryn.Kunde@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "3459 Garland Mews"
+}

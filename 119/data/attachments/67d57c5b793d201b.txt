@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"354a17e8-486f-4146-a04c-72ebf886db2d","created_at":"2025-01-05T21:04:30.012142+01:00","title":"Bluetooth Tax","rate":0.0,"company":"Alarm","branch":"New Gordon"},"errors":null}

@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "customer_id": "",
+    "name": "Delbert Crist",
+    "email": "Moises.Mueller55",
+    "phone": "08052342882",
+    "address": "182 Mayra Haven"
+}

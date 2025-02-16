@@ -1,0 +1,7 @@
+{
+    "name": "Glenn Kohler",
+    "email": "Mireya.Thiel@mailinator.com",
+    "phone_number": "08078812465",
+    "address": "Idumota, Lagos",
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec"
+}

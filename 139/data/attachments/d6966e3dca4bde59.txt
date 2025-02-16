@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "customer_id": "",
+    "name": "Lisa Schamberger",
+    "email": "Travon.Ankunding42@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "4781 Champlin Way"
+}

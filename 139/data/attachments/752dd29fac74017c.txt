@@ -1,0 +1,42 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Metal Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Steel Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/privetwagner_128.jpg",    
+                    "item": "Incredible Concrete Bike",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

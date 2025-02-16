@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "branch": "547545a3-1a17-4bf8-bf03-67e1db979e761",
+    "name": "Mrs. Beatrice Littel",
+    "email": "Samanta49@mailinator.com",
+    "phone": "08098598309",
+    "address": "2531 Kuvalis Wall"
+}

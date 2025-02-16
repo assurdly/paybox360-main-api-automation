@@ -1,0 +1,18 @@
+{
+    "company_id": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "branch_id": "547545a3-1a17-4bf8-bf03-67e1db979e76",
+    "team_name": "Ron Ferry",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

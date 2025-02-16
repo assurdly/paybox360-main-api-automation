@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "customer_id": "1",
+    "name": "Rosemarie Kohler",
+    "email": "Leone21@mailinator.com",
+    "phone": "08019807774",
+    "address": "24342 Jerrod Street"
+}

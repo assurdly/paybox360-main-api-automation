@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec1",
+    "customer_id": "",
+    "name": "Mr. Ginger Davis",
+    "email": "Rigoberto.Langworth92@mailinator.com",
+    "phone": "08020714868",
+    "address": "647 Ebony Place"
+}

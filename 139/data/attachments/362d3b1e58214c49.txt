@@ -1,0 +1,11 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "branch": "a1bb474f-c17d-462d-8f18-770401236b8e",
+    "name": "solid state invoice",
+    "email": "Jameson.Pfannerstill@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

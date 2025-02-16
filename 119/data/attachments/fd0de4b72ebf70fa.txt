@@ -1,7 +1,0 @@
-{
-    "name": "Darla Monahan Sr.",
-    "email": "Marques49@mailinator.com",
-    "phone_number": "08090893598erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187"
-}

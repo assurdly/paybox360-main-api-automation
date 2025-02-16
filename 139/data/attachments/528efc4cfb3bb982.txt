@@ -1,0 +1,42 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Granite Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Soft Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ssiskind_128.jpg",    
+                    "item": "Small Steel Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

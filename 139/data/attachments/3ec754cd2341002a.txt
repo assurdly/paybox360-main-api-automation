@@ -1,0 +1,7 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "name": "Purdychester",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 1000,
+    "is_super_branch": false
+}

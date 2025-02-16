@@ -1,0 +1,26 @@
+{
+    "team_id": "50dcf54a-7f9f-4622-bc9a-6479aec750c7",
+    "bulk_data": [
+        {
+            "supplier_id": "5daf2159-da2f-4f97-be33-e5f48cd9aa90",
+            "supplier_name": "Sunday Olaofe",
+            "products": [
+                {
+                    "product_id": "78c7cb66-875c-4b80-ac9e-f3208150601c",
+                    "product_name": "Test Product 1",
+                    "quantity": 2,
+                    "amount": 100
+                },
+                {
+                    "product_id": "0b1ea162-2233-4ca3-b1d0-37b83b48f74e",
+                    "product_name": "Test Product 2",
+                    "quantity": 1,
+                    "amount": 200
+                }
+            ]
+        }
+    ],
+    "payment_condition": "AFTER_DELIVERY",
+    "deliver_to": "1 Alara Street",
+    "delivery_date": "2024-12-10"
+}

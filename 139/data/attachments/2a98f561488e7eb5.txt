@@ -1,0 +1,11 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "branch": "a1bb474f-c17d-462d-8f18-770401236b8e",
+    "name": "1080p invoice",
+    "email": "",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

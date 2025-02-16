@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"55c93266-ad52-41fc-b099-a74567f203d4","name":"Incredible metal chair"}]},"errors":null}

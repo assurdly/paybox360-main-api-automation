@@ -1,7 +1,0 @@
-{
-    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
-    "branch": "c29dd537-3437-4525-9eda-992cf89461a6",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Jerrell.Mueller@mailinator.com"
-}

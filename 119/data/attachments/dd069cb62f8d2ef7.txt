@@ -1,8 +1,0 @@
-{
-    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
-    "customer_id": "",
-    "name": "Ms. Patty Ullrich",
-    "email": "Daniella_Olson@mailinator.com",
-    "phone": "08020912472",
-    "address": "7434 Kiehn Freeway"
-}

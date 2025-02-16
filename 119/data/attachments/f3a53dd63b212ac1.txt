@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"24899097-2f2d-4b6c-bf24-3c142a835e9c","company_name":"alarm","industry":"BANKING AND FINANCE","size":5}}

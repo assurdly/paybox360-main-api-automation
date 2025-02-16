@@ -1,7 +1,0 @@
-{
-    "name": "Helen Kirlin",
-    "email": "Tara_Rohan97",
-    "phone_number": "08037635390",
-    "address": "Idumota, Lagos",
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187"
-}

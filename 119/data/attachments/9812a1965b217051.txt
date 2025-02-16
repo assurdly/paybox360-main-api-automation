@@ -1,7 +1,0 @@
-{
-    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
-    "branch": "c29dd537-3437-4525-9eda-992cf89461a61",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Fanny.Lubowitz26@mailinator.com"
-}

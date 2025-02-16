@@ -1,8 +1,0 @@
-{
-    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
-    "branch": "c29dd537-3437-4525-9eda-992cf89461a6",
-    "name": "Emmett Larkin",
-    "email": "Daren65",
-    "phone": "08039036318",
-    "address": "37255 Antonette Island"
-}

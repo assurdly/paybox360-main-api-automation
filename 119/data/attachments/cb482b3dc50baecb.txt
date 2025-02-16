@@ -1,6 +1,0 @@
-{
-    "company": "24899097-2f2d-4b6c-bf24-3c142a835e9c",
-    "branch": "beans", 
-    "title": "optical1432 tax",
-    "rate": 1.5
-}

@@ -1,0 +1,8 @@
+{
+    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
+    "customer_id": "",
+    "name": "Dominic Lindgren",
+    "email": "Newell_Harvey@mailinator.com",
+    "phone": "08074900407",
+    "address": "37124 Verla Square"
+}
