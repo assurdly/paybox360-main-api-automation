@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"6dff190b-3ffa-49c0-8cff-ebfd156fba81","created_at":"2025-02-19T19:20:40.353807+01:00","title":"Wireless1450 Tax","rate":1.5,"company":"Idy-Salmon-Bandwidth","branch":"Ledaborough"},"errors":null}

@@ -1,8 +1,0 @@
-{
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
-    "customer_id": "1",
-    "name": "Eddie Dach",
-    "email": "Emily_Keebler34@mailinator.com",
-    "phone": "08027168553",
-    "address": "3657 Jerde Rest"
-}

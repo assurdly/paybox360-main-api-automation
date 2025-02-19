@@ -1,0 +1,21 @@
+{
+  "document_date": "2024-11-18T15:10:07.620Z",
+  "due_date": "2024-11-18T15:10:07.620Z",
+ "purchase_order": "396d8bf0-391e-4b5f-b01f-318a74880f92",
+    "pi_requester": "e0c51614-7e92-45fd-a50f-6091826a80c6",
+    "pi_approver": "2ef9d8b6-51e5-4ae1-92d0-173ee5fe8f04",
+    "procured_for": "d48207a9-d0ab-4824-a1ea-bea825072745",
+  "vendor": "61543555-634a-4583-91c6-8d2028716475",
+  "procurement_type": "LOCAL",
+  "no_of_items": 260,
+  "no_shipped": 209,
+  "shipping_fee": 0,
+  "vat": 7.5,
+  "accepted": false,
+  "paid": "PENDING",
+  "amount_paid": 0.0,
+"received_date": "2024-11-18",
+"payment_terms": "PENDING",
+"notes": "I don post up",
+"allocation_balance": "7571e4a0-a05a-405b-aa94-d4900e8e5875"
+}

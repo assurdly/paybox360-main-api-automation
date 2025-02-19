@@ -1,0 +1,11 @@
+{
+    "company": "c16670c7-4dba-4f95-ac3d-9e573ac21561",
+    "branch": "7730fa07-259a-46b9-b384-d43f1f4fe1e4",
+    "name": "cross-platform invoice",
+    "email": "Sigmund_Huels@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}

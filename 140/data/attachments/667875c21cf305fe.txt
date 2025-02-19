@@ -1,0 +1,42 @@
+{
+    "company": "c16670c7-4dba-4f95-ac3d-9e573ac21561",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Generic Metal Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Plastic Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/meln1ks_128.jpg",    
+                    "item": "Tasty Soft Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

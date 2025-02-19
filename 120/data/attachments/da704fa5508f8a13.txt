@@ -1,7 +1,0 @@
-{
-    "name": "Stephen Renner IV",
-    "email": "Amanda.Dickens@mailinator.com",
-    "phone_number": "08038197914erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187"
-}

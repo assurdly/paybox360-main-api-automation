@@ -1,8 +1,0 @@
-{
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac1871",
-    "customer_id": "",
-    "name": "Roy Breitenberg",
-    "email": "Kaitlin.Bechtelar@mailinator.com",
-    "phone": "08053372047",
-    "address": "529 Dach Forks"
-}

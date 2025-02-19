@@ -1,0 +1,8 @@
+{
+    "company": "c16670c7-4dba-4f95-ac3d-9e573ac215611",
+    "branch": "93a40f3a-a9f4-42ef-900f-4eeaf67295bf",
+    "name": "Salvatore Adams",
+    "email": "Jon.Steuber@mailinator.com",
+    "phone": "08072068718",
+    "address": "1757 Maurice Track"
+}

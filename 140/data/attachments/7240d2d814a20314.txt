@@ -1,0 +1,18 @@
+{
+    "company_id": "c16670c7-4dba-4f95-ac3d-9e573ac21561",
+    "branch_id": "93a40f3a-a9f4-42ef-900f-4eeaf67295bf",
+    "team_name": "Wendell McDermott",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

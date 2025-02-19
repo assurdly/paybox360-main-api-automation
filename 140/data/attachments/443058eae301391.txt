@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"ee1c87f0-0569-48b7-bfcc-25de65d063d8","name":"Tasty soft chicken"}]},"errors":null}

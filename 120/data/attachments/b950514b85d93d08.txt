@@ -1,8 +1,0 @@
-{
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
-    "customer_id": "",
-    "name": "Alex Schowalter",
-    "email": "Zackery_Gibson83@mailinator.com",
-    "phone": "08052393836",
-    "address": "254 Wilkinson River"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"8a0aa6e7-a65f-4537-b4dd-5c376793d2e4","created_at":"2025-01-08T19:07:09.622292+01:00","title":"Back-End1428 Tax","rate":1.5,"company":"Idy-White-Monitor","branch":"Lorenzaville"},"errors":null}

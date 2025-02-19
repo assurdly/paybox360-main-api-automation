@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"1ceec985-bde1-4d5e-a068-14f24913ffcf","created_at":"2025-02-19T19:20:41.150274+01:00","title":"Virtual Tax","rate":0.0,"company":"Idy-Salmon-Bandwidth","branch":"Ledaborough"},"errors":null}

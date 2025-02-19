@@ -1,6 +1,0 @@
-{
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
-    "branch": "", 
-    "title": "online1431 tax",
-    "rate": 1.5
-}

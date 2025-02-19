@@ -1,7 +1,0 @@
-{
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187",
-    "branch": "92155951-9bd9-4581-9c36-d49988311b6d",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Destiny.Medhurst66@mailinator.com"
-}

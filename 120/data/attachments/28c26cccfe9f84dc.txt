@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "New Ewaldhaven",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

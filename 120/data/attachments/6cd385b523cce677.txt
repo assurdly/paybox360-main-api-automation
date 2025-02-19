@@ -1,7 +1,0 @@
-{
-    "name": "Ted Kihn",
-    "email": "Rebeka67@mailinator.com",
-    "phone_number": "08071645839",
-    "address": "Idumota, Lagos",
-    "company": "9b2f99b2-2d4d-4218-afdf-a2f6711ac187"
-}
