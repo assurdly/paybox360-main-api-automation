@@ -1,0 +1,42 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Metal Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Cotton Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/d_kobelyatsky_128.jpg",    
+                    "item": "Sleek Cotton Car",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

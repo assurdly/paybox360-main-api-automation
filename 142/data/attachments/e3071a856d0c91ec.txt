@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"dd1443fe-bac3-4304-b219-15b0b776f920","created_at":"2025-02-21T19:23:16.611925+01:00","title":"Online1450 Tax","rate":1.5,"company":"Idy-Orchid-Pixel","branch":"Port Dimitri"},"errors":null}

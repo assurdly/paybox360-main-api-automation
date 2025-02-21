@@ -1,0 +1,42 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Fresh Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Rubber Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/felipecsl_128.jpg",    
+                    "item": "Awesome Metal Bike",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

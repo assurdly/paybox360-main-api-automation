@@ -1,0 +1,11 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "branch": "a7680720-d427-43e1-9cdf-38ee9e5cd30e",
+    "name": "mobile invoice",
+    "email": "Gerald25@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

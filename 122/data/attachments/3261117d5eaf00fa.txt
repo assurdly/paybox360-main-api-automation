@@ -1,6 +1,0 @@
-{
-    "company": "510893f3-8ae6-4407-8a2b-eae2b77d6a9c",
-    "branch": "78e9e162-6be9-4758-ab67-49b6a6ce9451", 
-    "title": "cross-platform1450 tax",
-    "rate": 1.5
-}

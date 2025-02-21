@@ -1,0 +1,45 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/pechkinator_128.jpg", 
+                    "item": "Refined Metal Hat",
+                    "quantity": 150, 
+                    "stock_price": 6093.98, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Metal Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sterlingrules_128.jpg",    
+                    "item": "Intelligent Fresh Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

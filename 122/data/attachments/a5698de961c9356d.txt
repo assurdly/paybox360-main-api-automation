@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"d90c6e38-6d60-46e8-9558-2a97d61e2273","name":"Captain Category"},{"id":"1adca2d5-4c33-4fac-8e2d-a2ba7b13784e","name":"Mouse"},{"id":"10cf30b4-72d0-438e-bbc9-a891a62c429d","name":"Pizza"}],"count":3,"total_categories":3},"errors":null}

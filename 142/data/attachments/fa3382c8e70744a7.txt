@@ -1,0 +1,8 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "customer_id": "",
+    "name": "Roger Kuphal",
+    "email": "Raheem47@mailinator.com",
+    "phone": "08097666294",
+    "address": "6321 Kailyn Canyon"
+}

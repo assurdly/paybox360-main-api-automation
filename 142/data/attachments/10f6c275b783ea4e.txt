@@ -1,0 +1,18 @@
+{
+    "company_id": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "branch_id": "d50e836e-288a-46bb-974c-c561275225e2",
+    "team_name": "Marshall Gerlach",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

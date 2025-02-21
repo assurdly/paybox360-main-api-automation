@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "",
+    "city": "Lake Magnus",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

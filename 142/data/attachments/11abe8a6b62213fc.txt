@@ -1,0 +1,8 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "customer_id": "",
+    "name": "Julio Walsh",
+    "email": "Judah.Green@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "76600 Christiansen Mount"
+}

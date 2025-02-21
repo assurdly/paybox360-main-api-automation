@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"fd6faa47-9219-4eb5-9f33-b2bd7ccb3dc2","created_at":"2025-02-21T19:21:14.132867+01:00","name":"Captain Category","has_products":false,"company":"6406c6dc-ee7b-4933-bf33-809091d5148b","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Orchid-Pixel","stock_count":0},"errors":null}

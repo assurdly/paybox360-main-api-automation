@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"adc24668-3453-4da7-9657-c9526a40373e","created_at":"2025-02-21T19:23:17.385433+01:00","title":"Cross-Platform Tax","rate":0.0,"company":"Idy-Orchid-Pixel","branch":"Port Dimitri"},"errors":null}

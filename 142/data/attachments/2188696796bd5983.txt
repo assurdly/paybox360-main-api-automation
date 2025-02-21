@@ -1,0 +1,6 @@
+{
+    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
+    "branch": "a7680720-d427-43e1-9cdf-38ee9e5cd30e", 
+    "title": "online1450 tax",
+    "rate": 1.5
+}

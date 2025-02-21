@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"05cac5a3-bac2-4d06-bfd9-8c5a756a4e69","name":"Practical frozen towels"}]},"errors":null}

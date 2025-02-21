@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"ddb509f0-ab95-4ece-a553-50fc9f3f60d4","name":"Sausages"},{"id":"e8d97561-1c7f-4f96-9c01-550bceb26dfa","name":"Shoes"},{"id":"fd6faa47-9219-4eb5-9f33-b2bd7ccb3dc2","name":"Captain Category"}],"count":3,"total_categories":3},"errors":null}
