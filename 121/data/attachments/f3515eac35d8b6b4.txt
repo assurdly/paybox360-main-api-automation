@@ -1,1 +1,0 @@
-{"status":true,"pin":true,"message":"Requisition transaction pin exists"}

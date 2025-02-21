@@ -1,8 +1,0 @@
-{
-    "bank_name": "Polaris",
-    "account_name": "VGHBnlek BGFGHBkjks",
-    "account_number": "01265465761",
-    "bvn_number": "456789087654",
-    "bank_code": "123233",
-    "swift_code": "NULL"
-}

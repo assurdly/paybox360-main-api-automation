@@ -1,0 +1,7 @@
+{
+    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
+    "branch": "e0aec2ed-a4ce-45c6-b9a3-881d9e3038eb",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Douglas16@mailinator.com"
+}

@@ -1,0 +1,42 @@
+{
+    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Concrete Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Plastic Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/akmur_128.jpg",    
+                    "item": "Intelligent Wooden Keyboard",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Tanya Gusikowski",
-    "email": "Fletcher80",
-    "phone_number": "08050941866",
-    "address": "Idumota, Lagos",
-    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254"
-}

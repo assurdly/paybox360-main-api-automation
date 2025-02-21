@@ -1,0 +1,7 @@
+{
+    "name": "Marguerite Swift",
+    "email": "Lucienne_Quitzon24@mailinator.com",
+    "phone_number": "08072841831",
+    "address": "Idumota, Lagos",
+    "company": "8f50a0b3-66a8-4054-8804-c82648501210"
+}

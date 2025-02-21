@@ -1,5 +1,0 @@
-{
-    "payroll_pin": "",
-    "is_recurring": "", 
-    "payroll_date": ""
-}

@@ -1,0 +1,14 @@
+{
+    "company_id": "fa3423db-9ed4-420e-ad4b-d0dd971b3fc8",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Sholly Business",
+            "business_email": "sholl@yopmail.com"
+        }, 
+        {
+            "business_name": "Starkers", 
+            "business_email": "starkers@tesla.com"
+        }
+    ]
+}

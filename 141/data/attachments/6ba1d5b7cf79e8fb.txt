@@ -1,0 +1,42 @@
+{
+    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Unbranded Wooden Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Steel Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/scott_riley_128.jpg",    
+                    "item": "Fantastic Fresh Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

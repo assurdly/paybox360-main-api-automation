@@ -1,6 +1,0 @@
-{
-    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
-    "branch": "", 
-    "title": "wireless1431 tax",
-    "rate": 1.5
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"8c1ae1a2-c37b-430d-88cb-c00784c745e8","created_at":"2025-01-10T19:08:53.397509+01:00","title":"Bluetooth Tax","rate":-10.0,"company":"Idy-Green-Driver","branch":"Monahanton"},"errors":null}

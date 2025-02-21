@@ -1,8 +1,0 @@
-{
-    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254",
-    "branch": "1319e3f4-4abe-4350-b3a8-3b7f6c295e1f",
-    "name": "Sylvia Erdman",
-    "email": "naima1905@gmail.com",
-    "phone": "08095386493",
-    "address": "770 Susanna Court"
-}

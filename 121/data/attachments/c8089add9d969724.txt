@@ -1,6 +1,0 @@
-{
-    "company": "beans",
-    "branch": "9d5f2112-aad9-47f4-9efe-0a2b58692c8a", 
-    "title": "redundant tax",
-    "rate": 1.5
-}

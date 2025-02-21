@@ -1,3 +1,0 @@
-{
-    "pay_grade_id":"711b6bc2-ae2b-4c52-8841-e6abcdda3dcff"
-}

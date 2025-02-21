@@ -1,7 +1,0 @@
-{
-    "name": "Becky Sauer",
-    "email": "Afton.Goodwin",
-    "phone_number": "08011817235",
-    "address": "Idumota, Lagos",
-    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Leigh Gutkowski",
-    "email": "Wallace_Huel93@mailinator.com",
-    "phone_number": "08046957998",
-    "address": "Idumota, Lagos",
-    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254"
-}

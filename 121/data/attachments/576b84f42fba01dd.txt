@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"d366b356-c567-4f1a-b978-d1aad00bfbc1","created_at":"2025-01-12T18:26:14.595809+01:00","title":"Multi-Byte Tax","rate":0.0,"company":"Idy-Gold-Panel","branch":"Cedrickburgh"},"errors":null}

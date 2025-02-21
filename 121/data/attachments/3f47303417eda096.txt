@@ -1,7 +1,0 @@
-{
-    "resumption_time":"8:00",
-    "closing_time":"17:00", 
-    "break_duration":"1:00:00",
-    "work_duration":"8:00:00", 
-    "overtime_duration":"4:00:00"
-    }

@@ -1,3 +1,0 @@
-{
-    "pay_group_name": "Developer"
-}

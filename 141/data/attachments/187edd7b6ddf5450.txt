@@ -1,0 +1,7 @@
+{
+    "company": "8f50a0b3-66a8-4054-8804-c82648501210beans",
+    "customer_id": "",
+    "city": "Morissetteborough",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

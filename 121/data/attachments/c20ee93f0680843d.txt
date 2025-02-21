@@ -1,9 +1,0 @@
-{
-    "department_data":[
-        {
-        "department_name": ""
-    },{
-        "department_name": ""
-    }
-    ]
-}

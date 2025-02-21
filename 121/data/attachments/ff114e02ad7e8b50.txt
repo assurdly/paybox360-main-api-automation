@@ -1,9 +1,0 @@
-{
-    "name": "",
-    "email": "",
-    "phone_number": "08093456789",
-    "address": "Idumota, Lagos",
-    "bank_name": "Wema Bank Plc",
-    "bank_account_name": "Liberty/Bayowa International",
-    "bank_account_number": "842xxxxxx1"
-}

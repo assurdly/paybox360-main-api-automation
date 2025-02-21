@@ -1,0 +1,13 @@
+{
+    "Server": "nginx/1.18.0 (Ubuntu)",
+    "Date": "Fri, 21 Feb 2025 17:57:03 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "672",
+    "Connection": "keep-alive",
+    "Vary": "Accept, origin",
+    "Allow": "GET, POST, PATCH, DELETE, HEAD, OPTIONS",
+    "X-Frame-Options": "DENY",
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "same-origin",
+    "Cross-Origin-Opener-Policy": "same-origin"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e1",
-    "customer_id": "",
-    "name": "Scott Berge",
-    "email": "Prince.Turcotte@mailinator.com",
-    "phone": "08037304874",
-    "address": "4564 Green Port"
-}

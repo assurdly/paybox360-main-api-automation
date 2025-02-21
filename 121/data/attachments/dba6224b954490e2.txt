@@ -1,7 +1,0 @@
-{
-    "name": "Natalie Reynolds DDS",
-    "email": "Clifton42@mailinator.com",
-    "phone_number": "08058766262erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "8f5e19ff-adfb-4d71-a88e-60cbfc8eb254"
-}

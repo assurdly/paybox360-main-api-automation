@@ -1,8 +1,0 @@
-{
-    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e",
-    "customer_id": "1",
-    "name": "Nichole Hickle",
-    "email": "Ulises53@mailinator.com",
-    "phone": "08076146005",
-    "address": "6589 Marcia Springs"
-}

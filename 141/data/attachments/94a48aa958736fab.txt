@@ -1,0 +1,42 @@
+{
+    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Rubber Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Steel Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/illyzoren_128.jpg",    
+                    "item": "Fantastic Soft Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

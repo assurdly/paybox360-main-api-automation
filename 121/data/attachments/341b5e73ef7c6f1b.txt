@@ -1,7 +1,0 @@
-{
-    "name": "Beatrice Wehner",
-    "email": "Cortez_Upton",
-    "phone_number": "08086627469",
-    "address": "Idumota, Lagos",
-    "company": "067d51db-c6d3-4765-8352-d1fb2bf5089e"
-}

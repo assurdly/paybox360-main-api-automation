@@ -1,8 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "name": "",
-    "email": "",
-    "phone": "",
-    "address": ""
-}
