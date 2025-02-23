@@ -1,0 +1,7 @@
+{
+    "company": "8715a9cb-9a75-4dcb-a94f-5971587e048f",
+    "name": "New Mellieport",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

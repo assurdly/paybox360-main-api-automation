@@ -1,5 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Skiles - Kerluke"
-}

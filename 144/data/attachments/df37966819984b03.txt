@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + driver","company_id":"8715a9cb-9a75-4dcb-a94f-5971587e048f","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"69299f44-ac9e-4acc-9b79-79dc0043e673"}}

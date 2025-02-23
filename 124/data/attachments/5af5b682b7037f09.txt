@@ -1,6 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea",
-    "branch": "e2d2d5cc-883e-49d9-b5a9-60b01b83e2ba", 
-    "title": "primary1450 tax",
-    "rate": 1.5
-}

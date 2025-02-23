@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"02b1a0b7-0167-4f46-b7ce-1d9c0ef23c4b","created_at":"2025-02-23T21:14:28.747824+01:00","title":"Bluetooth Tax","rate":0.0,"company":"Idy-Black-Sensor","branch":"New Mellieport"},"errors":null}

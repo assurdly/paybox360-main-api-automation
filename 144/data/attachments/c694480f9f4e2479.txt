@@ -1,0 +1,45 @@
+{
+    "company": "8715a9cb-9a75-4dcb-a94f-5971587e048f2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jcubic_128.jpg", 
+                    "item": "Refined Cotton Pizza",
+                    "quantity": 150, 
+                    "stock_price": 5052.20, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Metal Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/angelceballos_128.jpg",    
+                    "item": "Incredible Granite Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

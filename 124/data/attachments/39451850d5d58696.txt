@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Ernserside",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"790507a2-b040-4f2a-adf8-dcc8d62a3bbf","name":"Captain Category"},{"id":"bc161fe4-7661-4a1f-a1b7-340afb3b1622","name":"Gloves"},{"id":"07058dd3-697b-4588-a499-b742338a2512","name":"Shirt"}],"count":3,"total_categories":3},"errors":null}

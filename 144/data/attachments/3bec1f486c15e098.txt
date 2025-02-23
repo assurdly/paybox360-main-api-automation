@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"6253b6b4-f23a-47bd-b4bd-a85ca6e4d911","name":"Small plastic sausages"}]},"errors":null}

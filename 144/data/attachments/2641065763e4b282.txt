@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d9f55cac-2206-4e08-a271-51085a4db597","created_at":"2025-02-23T21:14:27.919755+01:00","title":"Optical1450 Tax","rate":1.5,"company":"Idy-Black-Sensor","branch":"New Mellieport"},"errors":null}

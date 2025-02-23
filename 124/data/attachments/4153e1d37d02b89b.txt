@@ -1,8 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea",
-    "customer_id": "",
-    "name": "Miss Arlene Tremblay",
-    "email": "Pablo16@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "5652 Wyman Groves"
-}

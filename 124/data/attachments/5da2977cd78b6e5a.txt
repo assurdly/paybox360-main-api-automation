@@ -1,7 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea",
-    "branch": "a2a776a1-c686-48cd-b2b7-4b9a7979b520",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": "jdcjayu",
-    "email": "Brittany.Schimmel@mailinator.com"
-}

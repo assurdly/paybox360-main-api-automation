@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"dd881868-9fa5-4555-965f-b5f1df5b218b","created_at":"2025-02-23T21:14:28.887670+01:00","title":"1080P Tax","rate":-10.0,"company":"Idy-Black-Sensor","branch":"New Mellieport"},"errors":null}

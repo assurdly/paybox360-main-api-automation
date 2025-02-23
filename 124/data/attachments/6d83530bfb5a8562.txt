@@ -1,6 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea",
-    "branch": "512e3053-ee95-4782-a53d-22842a2d7de5",
-    "batch_id": "20240617-uG5zz5Ud",
-    "action_type": "CANCELLED"
-}

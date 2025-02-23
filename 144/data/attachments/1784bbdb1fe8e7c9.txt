@@ -1,0 +1,42 @@
+{
+    "company": "8715a9cb-9a75-4dcb-a94f-5971587e048f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Cotton Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Steel Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/hellofeverrrr_128.jpg",    
+                    "item": "Handmade Plastic Soap",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

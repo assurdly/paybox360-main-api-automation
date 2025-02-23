@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"df9027bf-a2e2-401d-a5a4-9aa0e3a879e9","name":"Handcrafted plastic car"}]},"errors":null}

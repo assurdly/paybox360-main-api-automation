@@ -1,0 +1,12 @@
+{
+    "company": "8715a9cb-9a75-4dcb-a94f-5971587e048f",
+    "sender_id": "491bd0df-788e-46ef-aae8-6966e525a2af",
+    "message": "Testing SMS for paybox, please ignore",
+    "contacts": [
+        "09028906357"
+    ],
+    "campaign_name": "paybox360 manager",
+    "priority_route": false,
+    "flash_route": false,
+    "send_later": false
+}

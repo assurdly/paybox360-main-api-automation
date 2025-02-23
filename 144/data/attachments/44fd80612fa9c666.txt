@@ -1,0 +1,1 @@
+{"company_id":["Invalid UUID was supplied: 8715a9cb-9a75-4dcb-a94f-5971587e048f1"],"store_description":["This field is required."]}

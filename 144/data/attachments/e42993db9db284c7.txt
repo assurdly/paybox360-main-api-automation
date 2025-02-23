@@ -1,0 +1,7 @@
+{
+    "name": "Karla Konopelski",
+    "email": "Cleta26@mailinator.com",
+    "phone_number": "08047774998erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "8715a9cb-9a75-4dcb-a94f-5971587e048f"
+}

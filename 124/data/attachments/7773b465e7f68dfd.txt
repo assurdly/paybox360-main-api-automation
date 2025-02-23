@@ -1,8 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea1",
-    "customer_id": "",
-    "name": "Jonathon Rohan",
-    "email": "Abbie.Gleichner@mailinator.com",
-    "phone": "08021806667",
-    "address": "47776 Witting Alley"
-}

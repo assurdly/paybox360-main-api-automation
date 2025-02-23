@@ -1,8 +1,0 @@
-{
-    "company": "1624380e-be92-4950-957e-16c9816519ea",
-    "customer_id": "",
-    "name": "Ms. Bernice Tromp",
-    "email": "Easton_Dibbert78@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "11438 Schuppe Trail"
-}
