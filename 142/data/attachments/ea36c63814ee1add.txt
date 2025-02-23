@@ -1,0 +1,45 @@
+{
+    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/findingjenny_128.jpg", 
+                    "item": "Refined Wooden Fish",
+                    "quantity": 150, 
+                    "stock_price": 2349.80, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Frozen Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/perfectflow_128.jpg",    
+                    "item": "Awesome Plastic Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

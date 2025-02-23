@@ -1,7 +1,0 @@
-{
-    "company": "26dc767f-5cf3-48d8-968e-89dedfaca5991",
-    "branch": "fbaa64ca-a595-4bb9-9103-52842465d9be",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Gerda.Hilll8@mailinator.com"
-}

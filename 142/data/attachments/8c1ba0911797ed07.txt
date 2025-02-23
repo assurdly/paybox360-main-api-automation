@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"998e7c5b-b149-4a39-a5ce-a58b0b9782ea","created_at":"2025-02-23T08:53:50.356738+01:00","name":"Captain Category","has_products":false,"company":"14f9d3d4-2d21-47fb-9b43-5300d232f74f","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Idy-Salmon-Application","stock_count":0},"errors":null}

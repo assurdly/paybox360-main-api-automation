@@ -1,7 +1,0 @@
-{
-    "name": "Miss Sam Zulauf",
-    "email": "Audrey_Goldner8",
-    "phone_number": "08096213421",
-    "address": "Idumota, Lagos",
-    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"aeb901de-4ea4-4f4c-a0d0-373bb90842c5","name":"Generic steel chips"}]},"errors":null}

@@ -1,8 +1,0 @@
-{
-    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
-    "customer_id": "",
-    "name": "Miss Greg Crooks",
-    "email": "Hilbert_Leuschke87@mailinator.com",
-    "phone": "08064914351",
-    "address": "130 Justen Estates"
-}

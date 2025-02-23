@@ -1,0 +1,42 @@
+{
+    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Frozen Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Wooden Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ssbb_me_128.jpg",    
+                    "item": "Gorgeous Rubber Cheese",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

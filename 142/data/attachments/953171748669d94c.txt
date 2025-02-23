@@ -1,0 +1,42 @@
+{
+    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Soft Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Steel Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/christianoliff_128.jpg",    
+                    "item": "Gorgeous Cotton Pants",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

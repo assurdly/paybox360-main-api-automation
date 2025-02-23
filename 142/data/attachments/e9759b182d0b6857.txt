@@ -1,0 +1,8 @@
+{
+    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f1",
+    "branch": "9f972ede-44e4-4563-b209-3557de449f17",
+    "name": "Ms. Darla Hane",
+    "email": "Mafalda.Gusikowski@mailinator.com",
+    "phone": "08073957023",
+    "address": "560 Hettinger Mission"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"1d04fb89-93db-4a1e-8c80-41f0c594b0ca","created_at":"2025-02-23T08:54:29.061846+01:00","title":"Mobile Tax","rate":0.0,"company":"Idy-Salmon-Application","branch":"New Mireille"},"errors":null}

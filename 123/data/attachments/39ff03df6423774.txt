@@ -1,8 +1,0 @@
-{
-    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
-    "customer_id": "",
-    "name": "Mattie Stanton",
-    "email": "Vida.Heathcote@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "35376 Virgie Roads"
-}

@@ -1,7 +1,0 @@
-{
-    "name": "Clark Reichel",
-    "email": "Jairo_Hilll@mailinator.com",
-    "phone_number": "08052974253",
-    "address": "Idumota, Lagos",
-    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599"
-}

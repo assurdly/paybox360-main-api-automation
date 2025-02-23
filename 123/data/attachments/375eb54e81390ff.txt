@@ -1,7 +1,0 @@
-{
-    "company": "26dc767f-5cf3-48d8-968e-89dedfaca599",
-    "branch": "c69fdc67-df45-4817-a4ac-601533d3f096",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Milford5"
-}

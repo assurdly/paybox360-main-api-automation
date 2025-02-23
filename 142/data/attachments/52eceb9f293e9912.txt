@@ -1,0 +1,45 @@
+{
+    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vj_demien_128.jpg", 
+                    "item": "Practical Cotton Towels",
+                    "quantity": 150, 
+                    "stock_price": 2349.80, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Steel Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/frankiefreesbie_128.jpg",    
+                    "item": "Handmade Granite Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

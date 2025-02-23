@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"14f9d3d4-2d21-47fb-9b43-5300d232f74f","company_name":"Idy-salmon-application","industry":"BANKING AND FINANCE","size":5}}
