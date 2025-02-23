@@ -1,0 +1,42 @@
+{
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d22",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Granite Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Soft Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/zvchkelly_128.jpg",    
+                    "item": "Gorgeous Granite Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

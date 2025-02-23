@@ -1,0 +1,1 @@
+{"old_items":[{"quantity":["A valid integer is required."]}],"new_items":[{"category_id":["This field is required."],"quantity":["A valid integer is required."]}],"branch":["Invalid pk \"1f9129ab-a58e-40cd-8d2b-e04f25ad45fb\" - object does not exist."],"invoice":["This field may not be null."],"customer":["This field may not be null."]}

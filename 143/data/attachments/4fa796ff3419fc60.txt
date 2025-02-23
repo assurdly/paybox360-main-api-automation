@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"4142f9dc-228a-4f38-b489-44303203f8eb","name":"Unbranded concrete sausages"}]},"errors":null}

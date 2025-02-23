@@ -1,0 +1,11 @@
+{
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d22",
+    "branch": "",
+    "name": "mobile invoice",
+    "email": "Johnpaul63@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

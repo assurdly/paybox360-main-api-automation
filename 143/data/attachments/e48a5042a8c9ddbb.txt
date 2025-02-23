@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "7e3e79a0-c05f-458f-bcb6-909f62fa510e", 
+    "title": "cross-platform tax",
+    "rate": 1.5
+}

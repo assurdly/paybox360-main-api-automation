@@ -1,0 +1,7 @@
+{
+    "name": "qr code tester2",
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d22",
+    "branch" : "7e3e79a0-c05f-458f-bcb6-909f62fa510e",
+    "categories": ["e7019587-a286-468f-8b38-1d39b570b2d0"],
+    "all_categories": "False"
+}

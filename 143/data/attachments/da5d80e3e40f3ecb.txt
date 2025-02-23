@@ -1,0 +1,11 @@
+{
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d22",
+    "branch": "7e3e79a0-c05f-458f-bcb6-909f62fa510e",
+    "name": "auxiliary invoice",
+    "email": "Osbaldo49@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

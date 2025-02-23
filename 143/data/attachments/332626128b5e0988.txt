@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"7184ff15-926a-403d-b6c5-c0abec430d22","company_name":"Idy-azure-capacitor","industry":"BANKING AND FINANCE","size":5}}

@@ -1,0 +1,8 @@
+{
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d221",
+    "branch": "1f9129ab-a58e-40cd-8d2b-e04f25ad45fb",
+    "name": "Ms. Katie Boehm",
+    "email": "Andreane26@mailinator.com",
+    "phone": "08019298284",
+    "address": "2336 Hegmann Ferry"
+}

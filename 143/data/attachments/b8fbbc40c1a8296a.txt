@@ -1,0 +1,1 @@
+level: warn, messages: runtime~jwt.auth: could not sign the request: Invalid secret key. Enter a valid key.

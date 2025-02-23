@@ -1,0 +1,11 @@
+{
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d22",
+    "branch": "7e3e79a0-c05f-458f-bcb6-909f62fa510e",
+    "name": "cross-platform invoice",
+    "email": "Laney.Shanahan29@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}

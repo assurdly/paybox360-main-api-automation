@@ -1,0 +1,8 @@
+{
+    "company": "7184ff15-926a-403d-b6c5-c0abec430d221",
+    "customer_id": "",
+    "name": "Bradley Wehner",
+    "email": "Anabel.Flatley@mailinator.com",
+    "phone": "08013083111",
+    "address": "626 Bartoletti View"
+}

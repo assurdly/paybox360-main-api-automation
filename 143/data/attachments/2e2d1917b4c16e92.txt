@@ -1,0 +1,1 @@
+{"status":"failure","status_code":400,"data":null,"errors":{"details":"invalid ID type provided for company or branch."}}
