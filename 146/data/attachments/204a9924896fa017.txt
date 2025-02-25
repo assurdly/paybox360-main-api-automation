@@ -1,0 +1,42 @@
+{
+    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Rubber Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Wooden Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kylefrost_128.jpg",    
+                    "item": "Handcrafted Cotton Salad",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

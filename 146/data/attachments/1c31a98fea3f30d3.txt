@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "65557f0c-3599-44bb-a672-5d11e17b5f8b",
+    "name": "neural invoice",
+    "email": "Kay.Wyman@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

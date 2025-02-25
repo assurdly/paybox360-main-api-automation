@@ -1,0 +1,11 @@
+{
+    "company": "0631c279-da03-415c-837e-5ce303f65ba4",
+    "branch": "65557f0c-3599-44bb-a672-5d11e17b5f8b",
+    "name": "neural invoice",
+    "email": "Braulio_DAmore10@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

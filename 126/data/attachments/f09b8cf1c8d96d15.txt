@@ -1,6 +1,0 @@
-{
-    "update_type": "CHANGE_PASSWORD",
-    "current_password": "Sunday@1234567",
-    "new_password": "Sunday@123456",
-    "confirm_password": "Sunday@123456"
-}

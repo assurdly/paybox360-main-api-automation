@@ -1,0 +1,32 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Lavina", 
+            "last_name": "Hoeger", 
+            "business_name": "Use the multi-byte SMTP microchip, then you can calculate the mobile system! Ltd",
+            "business_email": "Carole@mailinator.com",
+            "address": "6680 O'Conner Ports",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

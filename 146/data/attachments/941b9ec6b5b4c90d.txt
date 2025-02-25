@@ -1,0 +1,8 @@
+{
+    "company": "0631c279-da03-415c-837e-5ce303f65ba4",
+    "customer_id": "bf2b437c-11ab-4235-8b2b-6960d5b20350",
+    "name": "Marlon Marks",
+    "email": "Danyka_Ratke27@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "2005 Wiza Island"
+}

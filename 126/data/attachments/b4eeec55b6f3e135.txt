@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"7cf164b3-9f78-4af4-a391-a08678dd8172","name":"Intelligent metal pants"}]},"errors":null}

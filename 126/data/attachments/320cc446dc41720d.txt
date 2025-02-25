@@ -1,1 +1,0 @@
-{"message":"successful","successful_beneficiary":[{"account_number":"0190276237","account_name":"Roosevelt Gaylord","bank_code":"000133","bank_name":"GTbank","narration":"Test.","amount":40000.0}],"unsuccessful_beneficiary":[]}

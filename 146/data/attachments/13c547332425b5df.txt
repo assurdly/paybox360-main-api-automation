@@ -1,0 +1,45 @@
+{
+    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/newbrushes_128.jpg", 
+                    "item": "Practical Frozen Chair",
+                    "quantity": 150, 
+                    "stock_price": 3929.51, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Steel Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/knilob_128.jpg",    
+                    "item": "Small Fresh Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

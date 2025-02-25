@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"d7e65fc5-6bf3-4ed2-b15d-0b4cd72fb462","name":"Chips"},{"id":"f18b331a-da3f-4a07-82e3-a66d5086a45c","name":"Soap"},{"id":"fe2a76b8-2b8f-4ae0-8dbb-b19cc08646f6","name":"Captain Category"}],"count":3,"total_categories":3},"errors":null}

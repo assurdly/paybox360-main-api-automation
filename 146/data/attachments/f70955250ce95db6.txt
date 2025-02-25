@@ -1,0 +1,7 @@
+{
+    "company": "0631c279-da03-415c-837e-5ce303f65ba41",
+    "branch": "65557f0c-3599-44bb-a672-5d11e17b5f8b",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Aubree_Ruecker@mailinator.com"
+}

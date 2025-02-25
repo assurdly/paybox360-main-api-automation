@@ -1,0 +1,6 @@
+{
+    "company_id": "dc4789bc-71e1-4db9-8e2c-5b1379305c8c",
+    "lead": 1,
+    "title": "Plan Communication schedule for the week",
+    "description": "Confirm convenient time with client and plan a schedule for the week" 
+}

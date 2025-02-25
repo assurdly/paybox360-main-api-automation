@@ -1,5 +1,0 @@
-{
-    "company": "158a5863-8449-4f52-b0b4-49c39899a5ec",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Sanford Inc"
-}

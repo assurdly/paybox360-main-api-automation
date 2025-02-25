@@ -1,0 +1,7 @@
+{
+    "company": "0631c279-da03-415c-837e-5ce303f65ba4",
+    "branch": "f5db5cbf-2616-495d-8933-2f0706e918d41",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Kaitlyn_Moen@mailinator.com"
+}

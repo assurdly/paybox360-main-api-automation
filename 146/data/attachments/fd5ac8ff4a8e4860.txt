@@ -1,0 +1,8 @@
+{
+    "company": "0631c279-da03-415c-837e-5ce303f65ba4",
+    "branch": "f5db5cbf-2616-495d-8933-2f0706e918d4",
+    "name": "Bill Frami",
+    "email": "Isom_Beier@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "428 Pacocha Well"
+}

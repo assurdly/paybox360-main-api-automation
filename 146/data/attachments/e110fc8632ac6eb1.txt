@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"fe2a76b8-2b8f-4ae0-8dbb-b19cc08646f6","created_at":"2025-02-25T20:48:50.214344+01:00","name":"Captain Category","has_products":false,"company":"7a105ab4-18f5-4744-9df9-13cff8e40acf","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Steuber Llc","stock_count":0},"errors":null}

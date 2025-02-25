@@ -1,0 +1,7 @@
+{
+    "company": "0631c279-da03-415c-837e-5ce303f65ba4",
+    "customer_id": "b3ff436e-5140-4f79-9e4f-05cb18e3d6dc",
+    "city": "Smithton",
+    "state": "",
+    "country": "Nigeria"
+}

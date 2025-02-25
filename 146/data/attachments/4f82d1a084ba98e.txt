@@ -1,0 +1,45 @@
+{
+    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/marcobarbosa_128.jpg", 
+                    "item": "Practical Plastic Cheese",
+                    "quantity": 150, 
+                    "stock_price": 3929.51, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Concrete Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/hota_v_128.jpg",    
+                    "item": "Tasty Granite Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"57a48304-0f3b-457b-9fd1-846392ca3f40","created_at":"2025-02-25T20:50:39.677118+01:00","title":"Primary Tax","rate":0.0,"company":"Sensor Plc","branch":"Apopka"},"errors":null}
