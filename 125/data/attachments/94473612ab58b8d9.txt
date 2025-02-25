@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"7d09fce1-208e-43c6-8836-8ed8e468e8a4","created_at":"2025-01-17T10:25:00.711957+01:00","title":"Open-Source Tax","rate":0.0,"company":"Idy-Red-Transmitter","branch":"Schowalterberg"},"errors":null}

@@ -1,8 +1,0 @@
-{
-    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
-    "customer_id": "",
-    "name": "Billy Miller",
-    "email": "Ethelyn_Nitzsche47@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "0326 Hammes Route"
-}

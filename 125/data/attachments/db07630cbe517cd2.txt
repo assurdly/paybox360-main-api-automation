@@ -1,8 +1,0 @@
-{
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
-    "customer_id": "1",
-    "name": "Ms. Patrick Carroll",
-    "email": "Amie_Labadie38@mailinator.com",
-    "phone": "08074358688",
-    "address": "0074 Buckridge Junction"
-}

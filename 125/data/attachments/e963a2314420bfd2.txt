@@ -1,6 +1,0 @@
-{
-    "new_position":
-    ["82b98e88-f4fc-449b-a698-0a4bf08e1582", "5fdac2af-ed1b-4429-9a8d-a5631bb024af"
-    
-    ]
-}

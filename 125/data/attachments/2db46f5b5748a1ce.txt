@@ -1,1 +1,0 @@
-{"id":"dc8f26f1-4361-4dc0-8f46-6126b66435a4","name":"Excellent Name","email_subject":null,"email_body":null,"email_text":null,"email_notification_enabled":false,"order_count":null,"position":128,"pipeline":"726f0996-2a08-44a9-a39e-d15314de8b47"}

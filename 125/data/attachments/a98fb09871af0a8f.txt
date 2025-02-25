@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"3466eb40-b48b-4b39-8031-9a1ebd8e4f40","name":"Licensed wooden pizza"}]},"errors":null}

@@ -1,5 +1,0 @@
-{
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Nicolas, Tillman and Bayer"
-}

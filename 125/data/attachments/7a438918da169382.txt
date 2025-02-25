@@ -1,8 +1,0 @@
-{
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe761",
-    "customer_id": "",
-    "name": "Isaac Cummerata DVM",
-    "email": "Miles33@mailinator.com",
-    "phone": "08026539921",
-    "address": "29833 Chasity Brook"
-}

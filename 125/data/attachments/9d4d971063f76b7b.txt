@@ -1,1 +1,0 @@
-{"status":"Success","data":{"team_id":"1940e95f-768b-4b05-a312-84ab621e0b7a","team_member_id":"1785cec9-eb07-4285-bb5d-cb2c9c2b405f","admin_password":"123459","role":"MEMBER"}}

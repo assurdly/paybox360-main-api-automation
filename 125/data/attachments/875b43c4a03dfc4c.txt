@@ -1,4 +1,0 @@
-{
-    "requisition_pin": "5555",
-    "requisition_pin_retry": "5556"
-}

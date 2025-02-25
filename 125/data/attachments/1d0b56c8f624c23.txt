@@ -1,7 +1,0 @@
-{
-    "name": "Natasha Kilback",
-    "email": "Tanner_Hilll@mailinator.com",
-    "phone_number": "08022739361",
-    "address": "Idumota, Lagos",
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76"
-}

@@ -1,5 +1,0 @@
-{
-    "old_pin": "1234",
-    "pin": "1234tre",
-    "repeat_pin": "1234tre"
-}

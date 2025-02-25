@@ -1,4 +1,0 @@
-{
-    "secret_question": "What is your mother's maiden name?",
-    "secret_answer": "ololade"
-}

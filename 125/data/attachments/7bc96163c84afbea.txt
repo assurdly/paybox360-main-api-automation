@@ -1,1 +1,0 @@
-{"message":"Cannot select a past date for delivery"}

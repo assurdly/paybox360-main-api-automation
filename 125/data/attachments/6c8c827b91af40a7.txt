@@ -1,1 +1,0 @@
-{"detail":"you do not have the necessary permissions to perform this action."}

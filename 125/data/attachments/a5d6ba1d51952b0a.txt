@@ -1,5 +1,0 @@
-{
-    "purchase_order_id": "1efc2d0d-06e8-4772-91e9-974eac124260",
-    "approval_status": "ACCEPTED", 
-    "decline_reason": "All checks out" 
-}

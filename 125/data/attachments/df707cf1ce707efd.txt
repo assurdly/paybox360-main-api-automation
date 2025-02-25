@@ -1,5 +1,0 @@
-{
-    "work_type":"REMOTE",
-    "for_who":"ALL"
-
-}

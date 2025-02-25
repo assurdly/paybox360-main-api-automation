@@ -1,8 +1,0 @@
-{
-    "company": "0f633c76-0b9a-4160-a09d-8c9f0007cce7",
-    "customer_id": "",
-    "name": "Rodney Gutkowski",
-    "email": "Efrain.Casper",
-    "phone": "08072526206",
-    "address": "5842 Yazmin Vista"
-}

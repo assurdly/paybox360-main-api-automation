@@ -1,8 +1,0 @@
-{
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
-    "branch": "a0b87083-cdf3-4738-bea8-781ca725319d",
-    "name": "Tommy Predovic",
-    "email": "Josiah.Goldner33@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "96209 Aileen Cliffs"
-}

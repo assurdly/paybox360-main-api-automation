@@ -1,5 +1,0 @@
-{
-    "previous_email": "",
-    "new_email": "",
-    "app_name": "Liberty paiy"
-}

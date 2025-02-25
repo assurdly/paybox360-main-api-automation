@@ -1,1 +1,0 @@
-{"status":"failure","status_code":400,"data":null,"errors":{"message":"no image provided for upload."}}

@@ -1,1 +1,0 @@
-{"status":"success","active":true,"data":{"cac_num":"RC1720206","verification_id":"ccb2e374-58d7-4c04-9f67-15fbae65653f","requires_tin_verification":false}}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "San Bruno",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

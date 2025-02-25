@@ -1,3 +1,0 @@
-{
-    "clock_type":"CLOCK_IN"
-}

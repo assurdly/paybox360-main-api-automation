@@ -1,2 +1,0 @@
-level: warn, messages: Form param `return_products[0]image`, file load error: "/Users/obinnaagim/Downloads/liberty.png", no such file
-level: warn, messages: Form param `return_products[1]image`, file load error: "/Users/obinnaagim/Downloads/liberty.png", no such file

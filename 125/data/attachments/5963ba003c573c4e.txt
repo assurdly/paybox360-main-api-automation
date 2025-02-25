@@ -1,6 +1,0 @@
-{
-    "employee":[1, 2],
-    "title":"Post Midnight Shift", 
-    "shift_resumption_time":"0:00",
-    "shift_closing_time":"5:59"
-    }

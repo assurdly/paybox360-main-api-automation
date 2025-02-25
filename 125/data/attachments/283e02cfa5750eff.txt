@@ -1,7 +1,0 @@
-{
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76",
-    "branch": "a0b87083-cdf3-4738-bea8-781ca725319d",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": -3898,
-    "email": "Sylvester.Heathcote@mailinator.com"
-}

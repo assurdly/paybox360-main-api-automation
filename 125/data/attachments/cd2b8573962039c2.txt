@@ -1,8 +1,0 @@
-{
-    "payroll_pin": "1234",
-    "payroll_date": "2024-11-30",
-    "narration": "OCT_PAYROLL",
-    "payroll_month": "october",
-    "payroll_year": "2024",
-    "is_recurring": false
-}

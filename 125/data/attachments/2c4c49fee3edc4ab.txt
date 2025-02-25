@@ -1,1 +1,0 @@
-{"wallet_balance":0.0,"sms_unit":0,"account_details":{"account_name":"Idy-Grey-Application","account_number":"8420057682","bank_name":"Wema Bank Plc"}}

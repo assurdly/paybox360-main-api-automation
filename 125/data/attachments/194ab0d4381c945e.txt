@@ -1,4 +1,0 @@
-{
-    "company": "3a90781c-621c-4857-91c2-515f5f798a9b",
-    "name": "flash sale"
-}

@@ -1,1 +1,0 @@
-{"error":"error","message":"You do not have the necessary permission to perform this action."}

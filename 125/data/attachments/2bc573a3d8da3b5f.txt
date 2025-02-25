@@ -1,7 +1,0 @@
-{
-    "name": "Marsha Kohler",
-    "email": "Kareem.Grant36",
-    "phone_number": "08054905977",
-    "address": "Idumota, Lagos",
-    "company": "5e7a2b0b-d83d-44cf-ac45-34eff9f6fe76"
-}
