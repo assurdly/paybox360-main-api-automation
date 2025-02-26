@@ -1,8 +1,0 @@
-{
-    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc",
-    "customer_id": "1",
-    "name": "Teresa Fay",
-    "email": "Bettye_Stark@mailinator.com",
-    "phone": "08007849029",
-    "address": "42185 Collier Isle"
-}

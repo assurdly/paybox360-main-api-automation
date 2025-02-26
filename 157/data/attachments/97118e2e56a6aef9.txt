@@ -1,0 +1,7 @@
+{
+    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
+    "branch": "ab37f1ba-084b-430b-9958-b238a7397b03",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Agnes14"
+}

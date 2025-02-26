@@ -1,0 +1,11 @@
+{
+    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
+    "branch": "1cbf8a58-fc03-40bc-a03a-cd075ac07846",
+    "name": "back-end invoice",
+    "email": "",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

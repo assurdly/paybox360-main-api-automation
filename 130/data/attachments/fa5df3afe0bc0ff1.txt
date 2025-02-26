@@ -1,7 +1,0 @@
-{
-    "name": "Tom Nicolas",
-    "email": "Cornell_Schuster64@mailinator.com",
-    "phone_number": "08040234571",
-    "address": "Idumota, Lagos",
-    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc"
-}

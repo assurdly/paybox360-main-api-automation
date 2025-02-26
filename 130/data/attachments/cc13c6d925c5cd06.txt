@@ -1,1 +1,0 @@
-{"wallet_balance":0.0,"sms_unit":0,"account_details":{"account_name":"Idy-Olive-Firewall","account_number":"8420248166","bank_name":"Wema Bank Plc"}}

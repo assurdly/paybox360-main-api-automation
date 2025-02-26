@@ -1,0 +1,42 @@
+{
+    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Concrete Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Frozen Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/brandclay_128.jpg",    
+                    "item": "Licensed Rubber Soap",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Granite Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Fresh Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ovall_128.jpg",    
+                    "item": "Awesome Granite Cheese",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

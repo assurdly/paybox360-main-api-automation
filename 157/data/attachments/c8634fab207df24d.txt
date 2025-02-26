@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"76a53463-d517-4250-8480-10e9dd0ae029","name":"Gorgeous cotton hat"}]},"errors":null}

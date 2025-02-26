@@ -1,7 +1,0 @@
-{
-    "name": "Carlton Mills",
-    "email": "Shanel.Weissnat@mailinator.com",
-    "phone_number": "08086107723",
-    "address": "Idumota, Lagos",
-    "company": "f0a46a63-ee1b-4cd4-a8bd-6fa4dafbd7bc7"
-}

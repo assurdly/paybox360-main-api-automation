@@ -1,0 +1,45 @@
+{
+    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe42",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/matbeedotcom_128.jpg", 
+                    "item": "Rustic Fresh Salad",
+                    "quantity": 150, 
+                    "stock_price": 6853.23, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Plastic Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/theonlyzeke_128.jpg",    
+                    "item": "Small Soft Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

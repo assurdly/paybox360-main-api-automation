@@ -1,0 +1,7 @@
+{
+    "name": "Kristi Bergnaum",
+    "email": "Gideon49@mailinator.com",
+    "phone_number": "08084870556",
+    "address": "Idumota, Lagos",
+    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe47"
+}
