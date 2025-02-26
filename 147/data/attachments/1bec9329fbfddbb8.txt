@@ -1,0 +1,7 @@
+{
+    "company": "f87b0719-18b8-494e-89dc-9e98be9ef657",
+    "customer_id": "85e96e48-76aa-4c3d-96c5-3dba28b20de5",
+    "city": "West Emily",
+    "state": "",
+    "country": "Nigeria"
+}

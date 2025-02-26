@@ -1,0 +1,1 @@
+{"new_items":[{"category_id":["This field is required."]}],"branch":["Invalid pk \"860d250e-a308-4732-850e-9609b5953c64\" - object does not exist."],"invoice":["“null” is not a valid UUID."],"customer":["“37c6d031-f027-49db-b84b-4631ae6c8e991” is not a valid UUID."]}

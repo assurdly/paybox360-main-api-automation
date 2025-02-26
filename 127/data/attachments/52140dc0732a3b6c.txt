@@ -1,7 +1,0 @@
-{
-    "name": "Antoinette Kilback",
-    "email": "Blake_Strosin22@mailinator.com",
-    "phone_number": "08019712871erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76"
-}

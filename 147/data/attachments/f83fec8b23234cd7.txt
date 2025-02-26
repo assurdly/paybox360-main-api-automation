@@ -1,0 +1,42 @@
+{
+    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Plastic Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Fresh Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mbilderbach_128.jpg",    
+                    "item": "Rustic Fresh Pants",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

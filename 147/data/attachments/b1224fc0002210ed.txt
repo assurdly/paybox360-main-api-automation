@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Kris", 
+            "last_name": "Mills", 
+            "business_name": "backing up the hard drive won't do anything, we need to parse the cross-platform SAS hard drive! Ltd",
+            "business_email": "Kiera@mailinator.com",
+            "address": "376 Melyna Corner",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Caesar", 
+            "last_name": "Schmeler", 
+            "business_name": "Use the auxiliary FTP interface, then you can hack the primary sensor! Ltd",
+            "business_email": "Jacquelyn@mailinator.com",
+            "address": "889 Corwin Wells",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Reyna", 
+            "last_name": "Quigley", 
+            "business_name": "We need to synthesize the auxiliary AI circuit! Ltd",
+            "business_email": "Emmet@mailinator.com",
+            "address": "6130 Ledner Springs",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Zetta", 
+            "last_name": "Stroman", 
+            "business_name": "copying the capacitor won't do anything, we need to calculate the multi-byte HDD pixel! Ltd",
+            "business_email": "Gladys@mailinator.com",
+            "address": "86438 Daija Throughway",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

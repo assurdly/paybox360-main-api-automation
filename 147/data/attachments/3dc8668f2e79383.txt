@@ -1,0 +1,11 @@
+{
+    "company": "f87b0719-18b8-494e-89dc-9e98be9ef657",
+    "branch": "",
+    "name": "cross-platform invoice",
+    "email": "Mario.Wunsch@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

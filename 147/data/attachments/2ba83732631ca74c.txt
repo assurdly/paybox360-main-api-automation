@@ -1,0 +1,7 @@
+{
+    "company": "f87b0719-18b8-494e-89dc-9e98be9ef657",
+    "customer_id": "",
+    "city": "Laurytown",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

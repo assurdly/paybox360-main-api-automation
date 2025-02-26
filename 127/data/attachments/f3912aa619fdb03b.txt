@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"e306e75d-8b6b-445e-be6c-23443c4c2d15","created_at":"2025-01-19T21:12:45.233037+01:00","title":"Bluetooth Tax","rate":-10.0,"company":"Idy-Green-Pixel","branch":"Baumbachshire"},"errors":null}

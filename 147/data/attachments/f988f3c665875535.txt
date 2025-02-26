@@ -1,0 +1,45 @@
+{
+    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sterlingrules_128.jpg", 
+                    "item": "Refined Granite Chair",
+                    "quantity": 150, 
+                    "stock_price": 678.89, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Wooden Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gseguin_128.jpg",    
+                    "item": "Unbranded Concrete Pizza",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

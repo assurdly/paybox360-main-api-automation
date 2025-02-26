@@ -1,7 +1,0 @@
-{
-    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
-    "branch": "5c7bf469-61c7-4343-8dfe-02a84e66f6eb",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Bobby_Haag"
-}

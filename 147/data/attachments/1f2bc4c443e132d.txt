@@ -1,0 +1,42 @@
+{
+    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Wooden Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Cotton Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/josep_martins_128.jpg",    
+                    "item": "Small Fresh Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

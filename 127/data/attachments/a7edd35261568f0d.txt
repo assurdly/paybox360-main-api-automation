@@ -1,8 +1,0 @@
-{
-    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
-    "customer_id": "",
-    "name": "Alfred Pouros",
-    "email": "Zoe_Aufderhar@mailinator.com",
-    "phone": "08016237603",
-    "address": "111 Runolfsson Walks"
-}

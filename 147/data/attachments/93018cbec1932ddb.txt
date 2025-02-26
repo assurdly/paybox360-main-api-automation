@@ -1,0 +1,7 @@
+{
+    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea",
+    "name": "Nellieport",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 1000,
+    "is_super_branch": false
+}

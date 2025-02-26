@@ -1,0 +1,22 @@
+{
+    "team_id": "1b11fa66-52f0-497b-b67d-77e944527e76",
+    "products": [
+        {
+            
+            "product_id": "36dd6bd2-5cd7-41d1-9f78-6be5aadeb4fe", 
+            "amount": 0,
+            "quantity": 3
+        }
+       
+            
+            
+            
+            
+       
+    ],
+    
+    "vendor_id": "c6d37fa5-a65f-4ae9-9ceb-cbb3b18b236c",
+    "payment_condition": "ON_DELIVERY",
+    "deliver_to": "21, Alara Street, Lagos",
+    "delivery_date": "2025-02-12"
+}

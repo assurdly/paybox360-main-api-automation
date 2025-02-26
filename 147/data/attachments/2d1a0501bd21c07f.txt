@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + bandwidth",
+    "company_id": "8de18bbd-3806-4754-93a7-0e87e5b01dea",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "+23407034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "+2348031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

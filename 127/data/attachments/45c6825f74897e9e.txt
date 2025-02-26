@@ -1,5 +1,0 @@
-{
-    "company": "96e20eba-fd6e-4727-a0ec-dea5268a0c76",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "McGlynn, Davis and Schimmel"
-}
