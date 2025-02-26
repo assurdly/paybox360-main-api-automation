@@ -1,7 +1,0 @@
-{
-    "name": "Robyn Deckow",
-    "email": "Rebekah56",
-    "phone_number": "08067761775",
-    "address": "Idumota, Lagos",
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff"
-}

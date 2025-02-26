@@ -1,7 +1,0 @@
-{
-    "name": "Mrs. Louis Streich",
-    "email": "Finn.Witting82@mailinator.com",
-    "phone_number": "08076808812",
-    "address": "Idumota, Lagos",
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff"
-}

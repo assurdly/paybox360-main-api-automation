@@ -1,5 +1,0 @@
-{
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Willms - Lind"
-}

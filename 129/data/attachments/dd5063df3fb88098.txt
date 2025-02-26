@@ -1,6 +1,0 @@
-{
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
-    "branch": "beans", 
-    "title": "neural1454 tax",
-    "rate": 1.5
-}

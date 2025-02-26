@@ -1,8 +1,0 @@
-{
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
-    "customer_id": "",
-    "name": "Harriet Brown",
-    "email": "Mustafa_Vandervort",
-    "phone": "08027069438",
-    "address": "4856 Emmerich Cliffs"
-}

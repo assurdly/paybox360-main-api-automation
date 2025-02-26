@@ -1,0 +1,42 @@
+{
+    "company": "5f59f25b-eb86-4d06-b73a-373d3f1f5a14",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Wooden Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Soft Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/primozcigler_128.jpg",    
+                    "item": "Tasty Wooden Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

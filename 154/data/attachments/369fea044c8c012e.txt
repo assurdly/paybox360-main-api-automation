@@ -1,0 +1,42 @@
+{
+    "company": "5f59f25b-eb86-4d06-b73a-373d3f1f5a14",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Intelligent Wooden Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Plastic Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/seyedhossein1_128.jpg",    
+                    "item": "Practical Frozen Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Claire Collins",
-    "email": "Pearline69@mailinator.com",
-    "phone_number": "08014710280erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff"
-}

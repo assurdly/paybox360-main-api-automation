@@ -1,0 +1,42 @@
+{
+    "company": "5f59f25b-eb86-4d06-b73a-373d3f1f5a14",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Cotton Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Concrete Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/alecarpentier_128.jpg",    
+                    "item": "Awesome Frozen Table",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

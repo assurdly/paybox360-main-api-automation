@@ -1,0 +1,7 @@
+{
+    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
+    "branch": "34dc5b98-8ac3-4e52-abd8-6d98a5feaba2",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Alford.Haag"
+}

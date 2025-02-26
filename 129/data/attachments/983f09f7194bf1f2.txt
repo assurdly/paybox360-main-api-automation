@@ -1,1 +1,0 @@
-level: warn, messages: Form param `certificate_of_reg`, file load error: "/Users/obinnaagim/Downloads/liberty.png", no such file

@@ -1,0 +1,7 @@
+{
+    "name": "Lorraine Goyette",
+    "email": "Dylan35",
+    "phone_number": "08005011080",
+    "address": "Idumota, Lagos",
+    "company": "5f59f25b-eb86-4d06-b73a-373d3f1f5a14"
+}

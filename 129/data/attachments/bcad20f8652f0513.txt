@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"f3947487-a7cc-4270-bf3d-ecd3363261d6","created_at":"2025-01-24T19:23:27.371426+01:00","title":"Auxiliary Tax","rate":0.0,"company":"Idy-Azure-Interface","branch":"East Merleshire"},"errors":null}

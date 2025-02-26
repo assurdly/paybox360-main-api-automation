@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Kayleigh", 
+            "last_name": "Cruickshank", 
+            "business_name": "You can't calculate the microchip without navigating the digital USB bus! Ltd",
+            "business_email": "Roxanne@mailinator.com",
+            "address": "77705 Yost Lane",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Jeanette", 
+            "last_name": "Murphy", 
+            "business_name": "The CSS array is down, compress the bluetooth system so we can hack the FTP interface! Ltd",
+            "business_email": "Brisa@mailinator.com",
+            "address": "7150 Pfannerstill Bridge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Madie", 
+            "last_name": "Johnston", 
+            "business_name": "The ADP application is down, generate the redundant feed so we can generate the EXE microchip! Ltd",
+            "business_email": "Silas@mailinator.com",
+            "address": "63742 Amy Squares",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Kian", 
+            "last_name": "Emmerich", 
+            "business_name": "You can't transmit the sensor without programming the digital XSS driver! Ltd",
+            "business_email": "Augustine@mailinator.com",
+            "address": "92503 Abernathy Mount",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

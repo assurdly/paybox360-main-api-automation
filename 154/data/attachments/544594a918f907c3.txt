@@ -1,0 +1,7 @@
+{
+    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
+    "customer_id": "",
+    "city": "Antwanbury",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"95d93456-cdfd-467f-91ad-418b10860484","created_at":"2025-01-24T19:23:26.904052+01:00","title":"Haptic1453 Tax","rate":1.5,"company":"Idy-Azure-Interface","branch":""},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "name": "Rick Bergnaum",
-    "email": "Brain.Lowe36",
-    "phone_number": "08016981230",
-    "address": "Idumota, Lagos",
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff"
-}

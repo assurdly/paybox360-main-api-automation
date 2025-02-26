@@ -1,0 +1,8 @@
+{
+    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
+    "customer_id": "407cd7c1-b456-4520-a424-ef172b322a75",
+    "name": "Roger Kshlerin",
+    "email": "Candace_Lebsack@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "556 Juston Locks"
+}

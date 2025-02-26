@@ -1,0 +1,42 @@
+{
+    "company": "5f59f25b-eb86-4d06-b73a-373d3f1f5a14",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Wooden Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Cotton Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/oktayelipek_128.jpg",    
+                    "item": "Practical Plastic Soap",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

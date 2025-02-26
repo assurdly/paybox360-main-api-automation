@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Donnelly, Williamson And Marks","branch_location":"Ryanfurt","members":0,"request":0,"approved":0,"pending":0,"declined":0},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "ee473dbd-cc35-4d13-bb98-d0d5e3c875ff",
-    "name": "Lake Abigaleport",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": "agshkkw",
-    "is_super_branch": false
-}

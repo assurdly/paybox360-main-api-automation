@@ -1,0 +1,12 @@
+{
+    "team_id": "ce7025f4-04df-411f-840f-9a7c799fc56f",
+    "team_name": "Team Beta",
+    "admin_password": "123456",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "+23407034256781",
+            "role": "MEMBER"
+        }
+    ]
+}
