@@ -1,8 +1,0 @@
-{
-    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
-    "customer_id": "",
-    "name": "Nicolas Tromp",
-    "email": "Kali_Wuckert23",
-    "phone": "08068611990",
-    "address": "0730 Kovacek Spur"
-}

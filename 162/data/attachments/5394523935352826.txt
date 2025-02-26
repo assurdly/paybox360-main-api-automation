@@ -1,0 +1,11 @@
+{
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8",
+    "branch": "ce3ed6f7-82e5-4a3c-b4c6-4a90c445accf",
+    "name": "back-end invoice",
+    "email": "Fern.Wyman92@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

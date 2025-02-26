@@ -1,0 +1,7 @@
+{
+    "name": "Ed O'Hara",
+    "email": "Marjolaine30",
+    "phone_number": "08067442037",
+    "address": "Idumota, Lagos",
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8"
+}

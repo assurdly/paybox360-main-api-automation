@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"17d7a29c-a353-4d2d-bd07-71ebda73c7f7","created_at":"2025-02-26T08:42:20.585140+01:00","title":"Virtual Tax","rate":-10.0,"company":"Parisian Inc","branch":"Cassinville"},"errors":null}

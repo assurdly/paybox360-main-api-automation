@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Cartwright - Kiehn Business",
+            "business_email": "Beryl82@yopmail.com"
+        }, 
+        {
+            "business_name": "Heathcote - Paucek inc.", 
+            "business_email": "Ebba73@mailinator.com"
+        }
+    ]
+}

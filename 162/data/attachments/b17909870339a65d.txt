@@ -1,0 +1,42 @@
+{
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Small Frozen Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Granite Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/cboller1_128.jpg",    
+                    "item": "Ergonomic Steel Car",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

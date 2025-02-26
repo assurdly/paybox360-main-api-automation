@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "New Dwight",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

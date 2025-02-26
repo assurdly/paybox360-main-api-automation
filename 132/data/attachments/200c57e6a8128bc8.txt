@@ -1,7 +1,0 @@
-{
-    "name": "Beulah Treutel",
-    "email": "Marcelino79",
-    "phone_number": "08020100329",
-    "address": "Idumota, Lagos",
-    "company": "8824e7de-97e0-4935-881a-6d350f0ae399"
-}

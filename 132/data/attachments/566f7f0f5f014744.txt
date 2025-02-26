@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"8824e7de-97e0-4935-881a-6d350f0ae399","company_name":"Idy-lavender-panel","industry":"BANKING AND FINANCE","size":5}}

@@ -1,1 +1,0 @@
-{"company":["“8824e7de-97e0-4935-881a-6d350f0ae3991” is not a valid UUID."],"stocks":[{"category":["This field may not be null."],"item":["This field may not be null."]}]}

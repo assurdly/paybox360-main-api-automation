@@ -1,0 +1,42 @@
+{
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Frozen Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Fresh Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/moscoz_128.jpg",    
+                    "item": "Unbranded Metal Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

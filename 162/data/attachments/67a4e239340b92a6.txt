@@ -1,0 +1,42 @@
+{
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Rustic Rubber Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Plastic Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/shojberg_128.jpg",    
+                    "item": "Refined Wooden Bacon",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

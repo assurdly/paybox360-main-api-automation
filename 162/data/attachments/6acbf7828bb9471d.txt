@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "76a47197-f1da-41c2-bb49-be43c3b6a42b",
+    "city": "South Randallshire",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

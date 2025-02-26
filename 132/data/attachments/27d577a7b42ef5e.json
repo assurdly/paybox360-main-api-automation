@@ -1,9 +1,0 @@
-{
-    "User-Agent": "PostmanRuntime/7.39.1",
-    "Accept": "*/*",
-    "Cache-Control": "no-cache",
-    "Postman-Token": "d94fb8f2-42f5-4b20-b81c-965078adcb72",
-    "Host": "{{instant_web_local_url}}orders",
-    "Accept-Encoding": "gzip, deflate, br",
-    "Connection": "keep-alive"
-}

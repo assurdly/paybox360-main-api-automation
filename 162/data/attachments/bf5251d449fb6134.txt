@@ -1,0 +1,45 @@
+{
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f82",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/russell_baylis_128.jpg", 
+                    "item": "Handcrafted Soft Gloves",
+                    "quantity": 150, 
+                    "stock_price": 9810.43, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Steel Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/madysondesigns_128.jpg",    
+                    "item": "Generic Metal Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

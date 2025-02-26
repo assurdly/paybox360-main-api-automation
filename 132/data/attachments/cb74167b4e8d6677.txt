@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"company":"Idy-Lavender-Panel","branch_location":"New Adolfotown","members":0,"request":0,"approved":0,"pending":0,"declined":0},"errors":null}

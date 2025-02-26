@@ -1,8 +1,0 @@
-{
-    "company": "8824e7de-97e0-4935-881a-6d350f0ae3991",
-    "branch": "75cf5945-04f6-4590-91c1-aa51563d5d3b",
-    "name": "Roger Stanton",
-    "email": "Angelo.Roob@mailinator.com",
-    "phone": "08021065134",
-    "address": "976 Hudson Cliff"
-}

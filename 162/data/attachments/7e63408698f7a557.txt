@@ -1,0 +1,7 @@
+{
+    "name": "Rachel Hickle",
+    "email": "Kristy_Anderson@mailinator.com",
+    "phone_number": "08085933269",
+    "address": "Idumota, Lagos",
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f87"
+}

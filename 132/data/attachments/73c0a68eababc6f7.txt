@@ -1,7 +1,0 @@
-{
-    "company": "8824e7de-97e0-4935-881a-6d350f0ae399",
-    "branch": "75cf5945-04f6-4590-91c1-aa51563d5d3b",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Francis56"
-}

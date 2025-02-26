@@ -1,0 +1,1 @@
+{"new_items":[{"category_id":["This field is required."]}],"restock":["\"NOoooo\" is not a valid choice."],"branch":["Invalid pk \"f8036d82-0c62-43a3-8687-caed5ec9aa22\" - object does not exist."],"invoice":["“null” is not a valid UUID."]}

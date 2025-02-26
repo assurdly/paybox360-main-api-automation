@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "2de9f9c5-9b3f-425c-a103-9cf0e119ff77"
+        },
+        {
+            "name": "Gloves"
+        }
+    ]
+}

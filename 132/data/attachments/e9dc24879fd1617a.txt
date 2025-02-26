@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"6079a801-904b-4298-814a-57c634e449f2","name":"Refined concrete towels"}]},"errors":null}

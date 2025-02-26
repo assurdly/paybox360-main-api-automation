@@ -1,0 +1,7 @@
+{
+    "name": "Luis Collier II",
+    "email": "Greta_Kling53",
+    "phone_number": "08037618346",
+    "address": "Idumota, Lagos",
+    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8"
+}

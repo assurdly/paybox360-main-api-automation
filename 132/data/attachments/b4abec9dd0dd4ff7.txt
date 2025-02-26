@@ -1,8 +1,0 @@
-{
-    "company": "8824e7de-97e0-4935-881a-6d350f0ae3991",
-    "customer_id": "",
-    "name": "Jo Kihn",
-    "email": "Dejon_Torphy@mailinator.com",
-    "phone": "08053105063",
-    "address": "554 Judd Summit"
-}

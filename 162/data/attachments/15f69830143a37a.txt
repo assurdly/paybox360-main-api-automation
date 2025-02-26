@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Rhoda", 
+            "last_name": "Hansen", 
+            "business_name": "If we connect the sensor, we can get to the EXE monitor through the virtual COM alarm! Ltd",
+            "business_email": "Elliot@mailinator.com",
+            "address": "2716 Miller Place",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Hassie", 
+            "last_name": "Quigley", 
+            "business_name": "generating the monitor won't do anything, we need to index the bluetooth JBOD monitor! Ltd",
+            "business_email": "Anita@mailinator.com",
+            "address": "83643 Farrell Vista",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Giles", 
+            "last_name": "Schumm", 
+            "business_name": "If we copy the bus, we can get to the SQL transmitter through the primary COM firewall! Ltd",
+            "business_email": "Isabella@mailinator.com",
+            "address": "913 Jarrod Square",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Raul", 
+            "last_name": "Sanford", 
+            "business_name": "hacking the microchip won't do anything, we need to parse the solid state AGP alarm! Ltd",
+            "business_email": "Orval@mailinator.com",
+            "address": "10251 Aleen Motorway",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}
