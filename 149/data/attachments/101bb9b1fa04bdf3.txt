@@ -1,0 +1,42 @@
+{
+    "company": "d66098f0-5abd-401d-8479-31d0f9ae8268",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Plastic Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Rubber Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/incubo82_128.jpg",    
+                    "item": "Rustic Metal Car",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

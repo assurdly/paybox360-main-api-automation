@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"9202acf7-6f61-471a-9235-3ce6b59d9786","company_name":"matrix PLC","industry":"BANKING AND FINANCE","size":10}}

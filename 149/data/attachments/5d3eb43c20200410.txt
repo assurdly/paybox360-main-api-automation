@@ -1,0 +1,45 @@
+{
+    "company": "d66098f0-5abd-401d-8479-31d0f9ae82682",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/scottgallant_128.jpg", 
+                    "item": "Tasty Rubber Pizza",
+                    "quantity": 150, 
+                    "stock_price": 1338.12, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Metal Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/gregsqueeb_128.jpg",    
+                    "item": "Rustic Rubber Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

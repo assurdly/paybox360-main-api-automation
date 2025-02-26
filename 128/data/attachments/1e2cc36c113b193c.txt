@@ -1,8 +1,0 @@
-{
-    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
-    "customer_id": "",
-    "name": "Joe Jerde",
-    "email": "Makenzie.Herzog1@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "8329 Vincent Port"
-}

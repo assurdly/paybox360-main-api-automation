@@ -1,0 +1,45 @@
+{
+    "company": "d66098f0-5abd-401d-8479-31d0f9ae8268",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/d_kobelyatsky_128.jpg", 
+                    "item": "Unbranded Fresh Pants",
+                    "quantity": 150, 
+                    "stock_price": 1338.12, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Cotton Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/elbuscainfo_128.jpg",    
+                    "item": "Rustic Frozen Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

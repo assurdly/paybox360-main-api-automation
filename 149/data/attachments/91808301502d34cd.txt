@@ -1,0 +1,8 @@
+{
+    "company": "9202acf7-6f61-471a-9235-3ce6b59d9786",
+    "customer_id": "9b56b71b-3db1-4b29-95fb-b80d4ef393761",
+    "name": "Miriam McCullough",
+    "email": "Reuben56@mailinator.com",
+    "phone": "08021296624",
+    "address": "255 Spencer Unions"
+}

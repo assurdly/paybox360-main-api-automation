@@ -1,0 +1,24 @@
+{
+    "company": "9202acf7-6f61-471a-9235-3ce6b59d9786",
+    "branch": "286b496b-69d9-435b-b0f2-636844732ef4",
+    "customer": "9b56b71b-3db1-4b29-95fb-b80d4ef39376",
+    "invoice": "null",
+    "choice": "SWAP",
+    "reason": "OTHERSss",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NO",
+    "old_items": [
+        {
+            "item": "4da9d987-0160-402f-b8f4-afe3b25c814a",
+            "quantity": 1,
+            "unit_price": 1750
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "6ffbfdc2-72bf-45b8-8f13-ffdeb2d62971",
+            "quantity": 1,
+            "amount": 1750
+        }
+    ]
+}

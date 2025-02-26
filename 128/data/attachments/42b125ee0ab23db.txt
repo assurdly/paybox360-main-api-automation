@@ -1,8 +1,0 @@
-{
-    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
-    "customer_id": "",
-    "name": "Della Senger",
-    "email": "Francisco_Rohan10@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "4562 Hane Plaza"
-}

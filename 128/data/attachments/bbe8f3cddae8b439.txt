@@ -1,7 +1,0 @@
-{
-    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
-    "branch": "cabc453d-637b-496c-8acd-32f9b6960c3f",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": 2000,
-    "email": "Lorine30"
-}

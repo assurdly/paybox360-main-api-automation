@@ -1,0 +1,42 @@
+{
+    "company": "d66098f0-5abd-401d-8479-31d0f9ae8268",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Concrete Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Cotton Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/anaami_128.jpg",    
+                    "item": "Handmade Metal Car",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,8 +1,0 @@
-{
-    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
-    "branch": "cabc453d-637b-496c-8acd-32f9b6960c3f1",
-    "name": "Cesar Block",
-    "email": "Orlando.Cassin74@mailinator.com",
-    "phone": "08010639402",
-    "address": "663 Abernathy Harbors"
-}

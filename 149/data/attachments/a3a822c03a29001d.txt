@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"b2caf2f6-6127-4a93-a341-9f4db7a58655","created_at":"2025-02-26T07:52:26.106693+01:00","name":"Captain Category","has_products":false,"company":"d66098f0-5abd-401d-8479-31d0f9ae8268","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Beier - Borer","stock_count":0},"errors":null}

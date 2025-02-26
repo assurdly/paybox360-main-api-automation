@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Zora", 
+            "last_name": "Graham", 
+            "business_name": "I'll hack the bluetooth JBOD hard drive, that should matrix the HDD port! Ltd",
+            "business_email": "Marlon@mailinator.com",
+            "address": "9085 Hegmann Meadow",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Ara", 
+            "last_name": "Toy", 
+            "business_name": "The PCI card is down, transmit the optical feed so we can index the ADP pixel! Ltd",
+            "business_email": "Emily@mailinator.com",
+            "address": "2583 Hertha Ports",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Syble", 
+            "last_name": "Daniel", 
+            "business_name": "I'll parse the auxiliary JSON hard drive, that should monitor the SCSI program! Ltd",
+            "business_email": "Demarcus@mailinator.com",
+            "address": "06138 Lubowitz Cove",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Jaylin", 
+            "last_name": "Kiehn", 
+            "business_name": "You can't quantify the matrix without compressing the mobile SSL sensor! Ltd",
+            "business_email": "Eugene@mailinator.com",
+            "address": "186 Lester Islands",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

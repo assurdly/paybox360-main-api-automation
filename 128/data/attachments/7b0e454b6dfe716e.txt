@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Boscoshire",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

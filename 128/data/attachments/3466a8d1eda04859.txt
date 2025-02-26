@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"70c8458c-2127-4d06-8cb7-f734aa6fa902","created_at":"2025-01-22T19:19:41.131697+01:00","title":"Multi-Byte1453 Tax","rate":1.5,"company":"Idy-Pink-System","branch":""},"errors":null}

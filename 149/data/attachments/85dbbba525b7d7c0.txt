@@ -1,0 +1,8 @@
+{
+    "company": "9202acf7-6f61-471a-9235-3ce6b59d9786",
+    "branch": "286b496b-69d9-435b-b0f2-636844732ef4",
+    "name": "Gina Ryan",
+    "email": "Marvin_Waelchi",
+    "phone": "08047053383",
+    "address": "993 Rau Vista"
+}

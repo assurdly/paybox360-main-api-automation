@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"f043906c-113b-4cad-a239-0ae5cfe45f59","company_name":"Idy-pink-system","industry":"BANKING AND FINANCE","size":5}}

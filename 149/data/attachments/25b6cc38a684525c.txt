@@ -1,0 +1,42 @@
+{
+    "company": "d66098f0-5abd-401d-8479-31d0f9ae8268",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Awesome Frozen Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Soft Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/spedwig_128.jpg",    
+                    "item": "Licensed Soft Tuna",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

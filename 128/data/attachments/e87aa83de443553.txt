@@ -1,8 +1,0 @@
-{
-    "company": "f043906c-113b-4cad-a239-0ae5cfe45f59",
-    "customer_id": "1",
-    "name": "Geoffrey Bashirian",
-    "email": "Halle.Raynor@mailinator.com",
-    "phone": "08044074353",
-    "address": "674 Leonardo Springs"
-}
