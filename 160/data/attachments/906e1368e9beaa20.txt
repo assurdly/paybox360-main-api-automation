@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "e68e0842-c0f1-46b6-814d-f7427f212397",
+    "name": "mobile invoice",
+    "email": "Georgianna_Hand@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

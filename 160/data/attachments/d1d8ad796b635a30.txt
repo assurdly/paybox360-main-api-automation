@@ -1,0 +1,8 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f90",
+    "branch": "cc92d277-4067-421d-b077-44418621be2b",
+    "name": "Toni Leuschke",
+    "email": "Jacinto.Keeling@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "778 Swift Junction"
+}

@@ -1,0 +1,7 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f901",
+    "branch": "e68e0842-c0f1-46b6-814d-f7427f212397",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Dandre_Trantow@mailinator.com"
+}

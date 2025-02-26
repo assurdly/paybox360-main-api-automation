@@ -1,0 +1,8 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f901",
+    "customer_id": "de3c37a4-5a50-4fa7-95dd-893bf1920ed8",
+    "name": "Allan Grimes Sr.",
+    "email": "Margot_Lebsack@mailinator.com",
+    "phone": "08036661733",
+    "address": "60019 Asia Orchard"
+}

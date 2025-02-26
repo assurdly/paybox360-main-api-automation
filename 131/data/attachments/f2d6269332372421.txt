@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Rock Hill",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

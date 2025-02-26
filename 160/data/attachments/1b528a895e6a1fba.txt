@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "e68e0842-c0f1-46b6-814d-f7427f212397", 
+    "title": "solid state tax",
+    "rate": 1.5
+}

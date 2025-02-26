@@ -1,7 +1,0 @@
-{
-    "name": "Lynne Parisian",
-    "email": "Marquise66@mailinator.com",
-    "phone_number": "08054164356",
-    "address": "Idumota, Lagos",
-    "company": "a1d0d3d8-e33b-455d-a7a1-a4ef3fdfeb617"
-}

@@ -1,0 +1,11 @@
+{
+    "company": "c34b90be-d257-4a02-b69c-4424b251e432",
+    "categories": [
+        {
+            "name": "Table"
+        },
+        {
+            "name": "Pizza"
+        }
+    ]
+}

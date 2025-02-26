@@ -1,0 +1,7 @@
+{
+    "name": "Mrs. Jamie West",
+    "email": "Brielle8",
+    "phone_number": "08094161971",
+    "address": "Idumota, Lagos",
+    "company": "c34b90be-d257-4a02-b69c-4424b251e432"
+}

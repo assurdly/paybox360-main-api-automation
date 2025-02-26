@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"8d3aa574-ab22-4736-a016-f27c13c29ea7","created_at":"2025-02-26T08:32:10.718002+01:00","title":"Neural Tax","rate":0.0,"company":"Interface Plc","branch":"Lake Reneebury"},"errors":null}

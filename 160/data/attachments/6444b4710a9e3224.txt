@@ -1,0 +1,32 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Annette", 
+            "last_name": "Anderson", 
+            "business_name": "If we reboot the array, we can get to the THX application through the open-source FTP array! Ltd",
+            "business_email": "Ignatius@mailinator.com",
+            "address": "84591 Josie Ranch",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

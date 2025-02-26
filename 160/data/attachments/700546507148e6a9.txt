@@ -1,0 +1,11 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f90",
+    "branch": "e68e0842-c0f1-46b6-814d-f7427f212397",
+    "name": "",
+    "email": "Beulah_McKenzie25@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

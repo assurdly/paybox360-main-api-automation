@@ -1,0 +1,8 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f90",
+    "customer_id": "de3c37a4-5a50-4fa7-95dd-893bf1920ed81",
+    "name": "Andrew Gaylord",
+    "email": "Vincenzo.Lebsack73@mailinator.com",
+    "phone": "08071252585",
+    "address": "400 Durgan Road"
+}

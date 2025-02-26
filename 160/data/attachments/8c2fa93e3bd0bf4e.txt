@@ -1,0 +1,7 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f90",
+    "customer_id": "d52a0258-a85e-4ef2-9a09-9860a1bcedc5beans",
+    "city": "Port Roberta",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

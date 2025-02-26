@@ -1,0 +1,15 @@
+{
+    "phone_number": "2348093562266",
+    "username": "Myah_Johns14",
+    "first_name": "Hita46chi@£",
+    "last_name": "Ibejih",
+    "email": "nagato14@mailsac.com",
+    "state": "Lagos",
+    "lga": "Awoyaya",
+    "nearest_landmark": "Awoyaya",
+    "street": "global gate road,container bus stop, awoyaya Lagos",
+    "type_of_user": "AGENT",
+    "referal_code": "912",
+    "business_name": "Glowtone Integrated Services Ltd",
+    "gender": "Male"
+}

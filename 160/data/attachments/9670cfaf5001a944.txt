@@ -1,0 +1,6 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f90",
+    "branch": "", 
+    "title": "bluetooth1905 tax",
+    "rate": 1.5
+}

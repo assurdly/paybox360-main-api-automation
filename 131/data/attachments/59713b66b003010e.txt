@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"ca3731f5-d08c-40f4-bd57-53db6e40d78a","created_at":"2025-01-29T19:20:36.742365+01:00","title":"Wireless1450 Tax","rate":1.5,"company":"Idy-White-Application","branch":"South Timmothyview"},"errors":null}

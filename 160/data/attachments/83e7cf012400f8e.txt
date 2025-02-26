@@ -1,0 +1,42 @@
+{
+    "company": "c34b90be-d257-4a02-b69c-4424b251e432",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Rubber Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Rubber Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adhiardana_128.jpg",    
+                    "item": "Practical Metal Computer",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

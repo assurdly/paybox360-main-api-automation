@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"186f87d3-c8c5-4fee-9a31-c72e7a7ba92d","name":"Incredible soft shirt"}]},"errors":null}

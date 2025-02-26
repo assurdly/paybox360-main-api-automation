@@ -1,7 +1,0 @@
-{
-    "company": "a1d0d3d8-e33b-455d-a7a1-a4ef3fdfeb61",
-    "name": "Port Curt",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

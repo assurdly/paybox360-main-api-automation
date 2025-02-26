@@ -1,0 +1,8 @@
+{
+    "company": "e87a7855-0477-42db-becc-132a2c828f901",
+    "branch": "cc92d277-4067-421d-b077-44418621be2b",
+    "name": "Marvin Ritchie",
+    "email": "Lizzie16@mailinator.com",
+    "phone": "08045152447",
+    "address": "533 Bernhard Plains"
+}

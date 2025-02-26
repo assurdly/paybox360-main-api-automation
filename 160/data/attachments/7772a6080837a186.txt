@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"1570ee72-22b2-41e4-a338-35d3a9637c87","name":"Pizza"},{"id":"72b6ad46-51c3-4357-a3c3-de9e60697437","name":"Captain Category"}],"count":2,"total_categories":2},"errors":null}

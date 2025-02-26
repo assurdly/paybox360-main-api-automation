@@ -1,0 +1,7 @@
+{
+    "name": "Jacqueline Bogan",
+    "email": "Herminia.Herman@mailinator.com",
+    "phone_number": "08045494901",
+    "address": "Idumota, Lagos",
+    "company": "c34b90be-d257-4a02-b69c-4424b251e432"
+}

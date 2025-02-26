@@ -1,0 +1,9 @@
+
+
+pm.test("Response status code is 200", function () {
+    pm.response.to.have.status(200);
+});
+  var jsonData = pm.response.json();
+pm.test("Success response is returned", function () {
+    pm.expect(jsonData.message).to.eql("company goal cloned successfully");
+});
