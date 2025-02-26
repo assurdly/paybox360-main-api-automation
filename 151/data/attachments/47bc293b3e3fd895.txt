@@ -1,0 +1,8 @@
+{
+    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
+    "customer_id": "cf5a7184-572e-4457-aa28-190811a118a8",
+    "name": "Ora Paucek",
+    "email": "Henri_Cremin",
+    "phone": "08087075833",
+    "address": "005 McClure Port"
+}

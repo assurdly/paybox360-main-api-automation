@@ -1,7 +1,0 @@
-{
-    "company": "9202acf7-6f61-471a-9235-3ce6b59d9786beans",
-    "customer_id": "8a2be68d-d87f-4223-ac0d-c1e4813e9fe3",
-    "city": "Rippinchester",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

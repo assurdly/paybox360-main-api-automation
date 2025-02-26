@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Berge - Wolff Business",
+            "business_email": "Rudolph.Beatty22@yopmail.com"
+        }, 
+        {
+            "business_name": "Jenkins, Kuhn and Kuphal inc.", 
+            "business_email": "Lacy33@mailinator.com"
+        }
+    ]
+}

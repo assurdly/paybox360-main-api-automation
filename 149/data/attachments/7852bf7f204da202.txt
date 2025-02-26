@@ -1,8 +1,0 @@
-{
-    "company": "9202acf7-6f61-471a-9235-3ce6b59d9786",
-    "branch": "b2ddd2dd-5d47-4b22-9c9e-4a5f2b5352f6",
-    "name": "Ms. Vicki Schumm",
-    "email": "naima1905@gmail.com",
-    "phone": "08052257539",
-    "address": "033 Bogisich Station"
-}

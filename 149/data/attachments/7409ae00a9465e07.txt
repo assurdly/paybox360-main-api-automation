@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"2fb1d896-6d30-4aa1-b795-673c666bbca1","name":"Handcrafted metal bacon"}]},"errors":null}

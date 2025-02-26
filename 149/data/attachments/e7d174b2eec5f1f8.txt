@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"wallet_balance":0.0,"account_name":"Beier - Borer - Schillerview","bank":"Wema Bank Plc","nuban":"8420255784","payments":[],"count":0,"total_payments":0},"errors":null}

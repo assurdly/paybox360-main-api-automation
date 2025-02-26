@@ -1,0 +1,42 @@
+{
+    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Cotton Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Cotton Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/haligaliharun_128.jpg",    
+                    "item": "Gorgeous Concrete Shirt",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

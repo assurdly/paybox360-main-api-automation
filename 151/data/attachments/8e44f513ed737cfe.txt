@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Marquise", 
+            "last_name": "Pacocha", 
+            "business_name": "We need to quantify the mobile RAM application! Ltd",
+            "business_email": "Lacy@mailinator.com",
+            "address": "04685 Klein Groves",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Stanford", 
+            "last_name": "Langworth", 
+            "business_name": "The SDD driver is down, input the redundant interface so we can program the SMS capacitor! Ltd",
+            "business_email": "Sonia@mailinator.com",
+            "address": "0541 Tianna Course",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Letitia", 
+            "last_name": "Sanford", 
+            "business_name": "parsing the system won't do anything, we need to back up the bluetooth ADP transmitter! Ltd",
+            "business_email": "Bethany@mailinator.com",
+            "address": "75611 Bessie Lane",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Colton", 
+            "last_name": "Schultz", 
+            "business_name": "bypassing the system won't do anything, we need to calculate the auxiliary SMS port! Ltd",
+            "business_email": "Wava@mailinator.com",
+            "address": "6537 Schaden Unions",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

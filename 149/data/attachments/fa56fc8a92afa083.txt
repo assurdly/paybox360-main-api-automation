@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "8a2be68d-d87f-4223-ac0d-c1e4813e9fe3",
-    "city": "Devanstad",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

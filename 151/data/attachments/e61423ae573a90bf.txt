@@ -1,0 +1,7 @@
+{
+    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
+    "name": "East Isac",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 1000,
+    "is_super_branch": false
+}

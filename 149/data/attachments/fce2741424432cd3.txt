@@ -1,7 +1,0 @@
-{
-    "company": "d66098f0-5abd-401d-8479-31d0f9ae8268",
-    "name": "North Clementinestad",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": "agshkkw",
-    "is_super_branch": false
-}

@@ -1,0 +1,7 @@
+{
+    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
+    "branch": "87c9d2b0-3e5f-4081-9bfc-258735c94c80",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": -3898,
+    "email": "Eveline.Rau68@mailinator.com"
+}

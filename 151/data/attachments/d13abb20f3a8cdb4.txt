@@ -1,0 +1,45 @@
+{
+    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thierrykoblentz_128.jpg", 
+                    "item": "Generic Steel Towels",
+                    "quantity": 150, 
+                    "stock_price": 183.51, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Steel Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/to_soham_128.jpg",    
+                    "item": "Fantastic Wooden Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

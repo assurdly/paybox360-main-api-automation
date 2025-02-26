@@ -1,7 +1,0 @@
-{
-    "name": "Cedric Fisher",
-    "email": "Jazlyn_Roob91@mailinator.com",
-    "phone_number": "08055205943",
-    "address": "Idumota, Lagos",
-    "company": "d66098f0-5abd-401d-8479-31d0f9ae8268"
-}
