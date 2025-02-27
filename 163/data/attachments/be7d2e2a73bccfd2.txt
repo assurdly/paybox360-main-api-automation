@@ -1,0 +1,8 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c21",
+    "customer_id": "edef3f98-b45e-4b10-8791-4c3f49d62277",
+    "name": "Alfred Cronin DDS",
+    "email": "Meredith_Connelly2@mailinator.com",
+    "phone": "08075495809",
+    "address": "17345 Ledner Mountains"
+}

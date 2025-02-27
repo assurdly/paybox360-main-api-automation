@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"795a0b8d-66c3-40f5-aeac-f93607ea06f4","created_at":"2025-02-27T12:05:07.605838+01:00","title":"Solid State Tax","rate":-10.0,"company":"Fisher, Murray And Turner","branch":"Madonnabury"},"errors":null}

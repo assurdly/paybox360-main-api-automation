@@ -1,0 +1,42 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Rustic Fresh Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Granite Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/arishi__128.jpg",    
+                    "item": "Incredible Frozen Ball",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

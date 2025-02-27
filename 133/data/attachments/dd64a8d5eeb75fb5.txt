@@ -1,7 +1,0 @@
-{
-    "name": "Pete Morissette",
-    "email": "Hannah24@mailinator.com",
-    "phone_number": "08007444628",
-    "address": "Idumota, Lagos",
-    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca"
-}

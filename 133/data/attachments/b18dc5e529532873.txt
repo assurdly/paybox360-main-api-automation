@@ -1,5 +1,0 @@
-{
-  "email": "idorenyinankoh@gmail.com",
-  "password": "123486",
-  "device_type": "MOBILE"
-}

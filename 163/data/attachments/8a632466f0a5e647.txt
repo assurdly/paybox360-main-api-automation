@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Zella", 
+            "last_name": "Emmerich", 
+            "business_name": "I'll calculate the back-end EXE protocol, that should firewall the CSS matrix! Ltd",
+            "business_email": "Allan@mailinator.com",
+            "address": "956 Lizeth Freeway",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Fred", 
+            "last_name": "Pacocha", 
+            "business_name": "Use the redundant COM circuit, then you can calculate the open-source alarm! Ltd",
+            "business_email": "Javier@mailinator.com",
+            "address": "116 Altenwerth Falls",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Brooke", 
+            "last_name": "Parker", 
+            "business_name": "Try to hack the THX hard drive, maybe it will synthesize the cross-platform program! Ltd",
+            "business_email": "Mona@mailinator.com",
+            "address": "2796 Walsh Tunnel",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Reina", 
+            "last_name": "Quitzon", 
+            "business_name": "You can't calculate the protocol without synthesizing the 1080p RAM bandwidth! Ltd",
+            "business_email": "Neoma@mailinator.com",
+            "address": "5347 Sipes Plaza",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

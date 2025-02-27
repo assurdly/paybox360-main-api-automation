@@ -1,0 +1,8 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "branch": "4cf0da23-0e5b-4ab5-a388-99729ff75864",
+    "name": "Hector Hegmann",
+    "email": "Albina87",
+    "phone": "08093856415",
+    "address": "07739 Koepp Lock"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c21",
+    "branch": "4cf0da23-0e5b-4ab5-a388-99729ff75864",
+    "name": "Ms. Claudia Satterfield",
+    "email": "Nolan80@mailinator.com",
+    "phone": "08044140911",
+    "address": "1630 Marvin Villages"
+}

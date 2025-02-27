@@ -1,0 +1,7 @@
+{
+    "name": "Naomi Spinka",
+    "email": "Joyce_Hyatt85@mailinator.com",
+    "phone_number": "08006441674",
+    "address": "Idumota, Lagos",
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2"
+}

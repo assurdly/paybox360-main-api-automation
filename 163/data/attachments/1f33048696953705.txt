@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"3b49a922-e805-4c3f-b9bb-f32db8c61ba1","created_at":"2025-02-27T12:05:06.337504+01:00","title":"Auxiliary1902 Tax","rate":1.5,"company":"Fisher, Murray And Turner","branch":"Madonnabury"},"errors":null}

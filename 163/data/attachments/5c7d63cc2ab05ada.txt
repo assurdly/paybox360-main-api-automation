@@ -1,0 +1,8 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "customer_id": "edef3f98-b45e-4b10-8791-4c3f49d62277",
+    "name": "Blanca Klein",
+    "email": "Carmel49@mailinator.com",
+    "phone": "08044095273",
+    "address": "874 Bobby Spur"
+}

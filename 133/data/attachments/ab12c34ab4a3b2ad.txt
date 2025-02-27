@@ -1,8 +1,0 @@
-{
-    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca1",
-    "branch": "1fe16bb5-11e2-401e-a2f2-770493fc8c0a",
-    "name": "Geoffrey Schoen",
-    "email": "Claire.Franecki@mailinator.com",
-    "phone": "08053197308",
-    "address": "8924 Goyette Locks"
-}

@@ -1,0 +1,42 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Rubber Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Metal Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jeffgolenski_128.jpg",    
+                    "item": "Rustic Granite Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "branch": "cfe50df2-1764-4af2-a38d-5eb655bc9827",
+    "name": "Terrance Barton",
+    "email": "naima1905@gmail.com",
+    "phone": "08045146314",
+    "address": "44683 Armstrong Mountains"
+}

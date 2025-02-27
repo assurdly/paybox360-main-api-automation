@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Reichert - Lindgren Business",
+            "business_email": "Athena.Flatley@yopmail.com"
+        }, 
+        {
+            "business_name": "Graham - Crist inc.", 
+            "business_email": "Kyler18@mailinator.com"
+        }
+    ]
+}

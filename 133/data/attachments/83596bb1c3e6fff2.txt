@@ -1,5 +1,0 @@
-{
-    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Effertz LLC"
-}

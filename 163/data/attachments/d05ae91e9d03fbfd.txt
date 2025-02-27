@@ -1,0 +1,42 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Licensed Frozen Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Metal Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aeon56_128.jpg",    
+                    "item": "Incredible Rubber Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

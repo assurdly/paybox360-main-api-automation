@@ -1,0 +1,7 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "customer_id": "505a4a2c-736f-4cc7-935c-6f0e2d28fd8dbeans",
+    "city": "North Catherine",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

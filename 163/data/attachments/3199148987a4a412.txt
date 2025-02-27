@@ -1,0 +1,7 @@
+{
+    "name": "Dr. Earnest Macejkovic",
+    "email": "Mariela.Bins@mailinator.com",
+    "phone_number": "08030835472",
+    "address": "Idumota, Lagos",
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c27"
+}

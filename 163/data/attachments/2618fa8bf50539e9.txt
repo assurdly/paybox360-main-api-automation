@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Blanca Klein","email":"Carmel49@mailinator.com","phone":"08044095273","branch":"Madonnabury","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

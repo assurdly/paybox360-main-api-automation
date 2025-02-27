@@ -1,0 +1,42 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Fresh Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Frozen Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/cicerobr_128.jpg",    
+                    "item": "Fantastic Rubber Shoes",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

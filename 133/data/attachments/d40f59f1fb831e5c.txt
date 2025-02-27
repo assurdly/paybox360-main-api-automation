@@ -1,7 +1,0 @@
-{
-    "name": "Darrel Swaniawski",
-    "email": "Quentin.Gutkowski53@mailinator.com",
-    "phone_number": "08065668653",
-    "address": "Idumota, Lagos",
-    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca7"
-}

@@ -1,0 +1,29 @@
+{
+    "company": "",
+    "branch": "cfe50df2-1764-4af2-a38d-5eb655bc9827", 
+    "items": [
+        {
+            "item_description": "item microchip",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop transmitter",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "3b49a922-e805-4c3f-b9bb-f32db8c61ba1",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

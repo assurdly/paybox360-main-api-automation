@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"efc8f4f4-670b-4a94-bb59-8463f56f04c2","company_name":"Fisher, Murray and Turner","industry":"BANKING AND FINANCE","size":5}}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"da7a2911-c0a9-42de-b348-c2f432545544","created_at":"2025-02-27T12:02:10.954752+01:00","name":"Captain Category","has_products":false,"company":"efc8f4f4-670b-4a94-bb59-8463f56f04c2","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Fisher, Murray And Turner","stock_count":0},"errors":null}

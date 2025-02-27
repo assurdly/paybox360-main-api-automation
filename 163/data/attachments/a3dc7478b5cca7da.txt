@@ -1,0 +1,7 @@
+{
+    "company": "efc8f4f4-670b-4a94-bb59-8463f56f04c21",
+    "branch": "cfe50df2-1764-4af2-a38d-5eb655bc9827",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Claude.Bayer16@mailinator.com"
+}

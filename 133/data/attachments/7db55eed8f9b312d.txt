@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"d3ac8ffa-54fe-43c8-80c5-0e75aae0ef2f","name":"Handcrafted wooden chicken"}]},"errors":null}

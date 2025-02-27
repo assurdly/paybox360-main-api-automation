@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"3a5c5a58-dbf1-4011-8c36-fbd40f63fb4d","name":"Incredible rubber keyboard"}]},"errors":null}

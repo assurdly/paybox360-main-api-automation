@@ -1,8 +1,0 @@
-{
-    "company": "404ad9dd-73cb-4f81-9009-6ad19373c1ca",
-    "customer_id": "",
-    "name": "Mack Schulist",
-    "email": "Kelton_Bernier87@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "390 Gottlieb Ford"
-}
