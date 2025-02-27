@@ -1,0 +1,7 @@
+{
+    "company": "5cc59adf-3580-4db1-a235-5a6fc4cb9c27",
+    "customer_id": "c10e2278-8f3b-4330-84cc-0c7b4e8f9e8c",
+    "city": "Mohammedview",
+    "state": "Lagsos - Test",
+    "country": "Namibia"
+}

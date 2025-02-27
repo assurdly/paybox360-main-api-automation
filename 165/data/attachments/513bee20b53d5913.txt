@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "c10e2278-8f3b-4330-84cc-0c7b4e8f9e8c",
+    "city": "Lake Thelma",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

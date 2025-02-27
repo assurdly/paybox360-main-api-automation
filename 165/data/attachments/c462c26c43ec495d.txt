@@ -1,0 +1,8 @@
+{
+    "company": "5cc59adf-3580-4db1-a235-5a6fc4cb9c271",
+    "customer_id": "e2ccb260-b043-444f-b582-6016de62c591",
+    "name": "Glenn Sawayn",
+    "email": "Romaine50@mailinator.com",
+    "phone": "08051705399",
+    "address": "75127 Cydney Extensions"
+}

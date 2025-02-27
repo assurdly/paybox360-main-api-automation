@@ -1,0 +1,11 @@
+{
+    "company": "5cc59adf-3580-4db1-a235-5a6fc4cb9c27beans",
+    "branch": "6f23b9bc-b6f0-40fd-817f-b10689a5d993",
+    "name": "1080p invoice",
+    "email": "Leland0@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

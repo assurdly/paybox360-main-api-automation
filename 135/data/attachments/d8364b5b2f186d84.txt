@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "West Palm Beach",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

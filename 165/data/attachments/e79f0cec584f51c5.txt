@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Ethan", 
+            "last_name": "Runolfsdottir", 
+            "business_name": "Try to hack the CSS port, maybe it will input the redundant transmitter! Ltd",
+            "business_email": "Hazel@mailinator.com",
+            "address": "7418 Huel Ferry",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Isobel", 
+            "last_name": "Quigley", 
+            "business_name": "Use the primary XML application, then you can generate the virtual protocol! Ltd",
+            "business_email": "Jayne@mailinator.com",
+            "address": "1312 Noel Inlet",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Noel", 
+            "last_name": "Olson", 
+            "business_name": "You can't generate the card without hacking the open-source JSON panel! Ltd",
+            "business_email": "Kiley@mailinator.com",
+            "address": "209 Sammie Manor",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Thelma", 
+            "last_name": "Mayert", 
+            "business_name": "Try to copy the RAM circuit, maybe it will calculate the 1080p panel! Ltd",
+            "business_email": "Howard@mailinator.com",
+            "address": "2201 Gaston Streets",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

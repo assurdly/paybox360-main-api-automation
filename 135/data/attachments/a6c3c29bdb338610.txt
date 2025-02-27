@@ -1,8 +1,0 @@
-{
-    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
-    "customer_id": "",
-    "name": "Viola O'Connell MD",
-    "email": "Gregorio.Connelly91",
-    "phone": "08043776105",
-    "address": "169 Goldner Highway"
-}

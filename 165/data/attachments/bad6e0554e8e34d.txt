@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"5b36fe31-11fe-4d9a-a16c-79cabe166461","created_at":"2025-02-27T14:32:46.433114+01:00","title":"Bluetooth1902 Tax","rate":1.5,"company":"Transmitter Plc","branch":"Erickabury"},"errors":null}

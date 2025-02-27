@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"5cc59adf-3580-4db1-a235-5a6fc4cb9c27","company_name":"transmitter PLC","industry":"BANKING AND FINANCE","size":10}}

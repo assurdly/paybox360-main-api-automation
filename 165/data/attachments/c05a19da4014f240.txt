@@ -1,0 +1,45 @@
+{
+    "company": "3726f906-55ca-4f6d-8e3d-871f8cbc473f",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/alessandroribe_128.jpg", 
+                    "item": "Sleek Wooden Shoes",
+                    "quantity": 150, 
+                    "stock_price": 7515.98, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Wooden Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/webtanya_128.jpg",    
+                    "item": "Refined Cotton Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

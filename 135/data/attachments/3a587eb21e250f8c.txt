@@ -1,8 +1,0 @@
-{
-    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9",
-    "customer_id": "",
-    "name": "Sabrina Jacobson",
-    "email": "Albina.Stracke42@mailinator.com",
-    "phone": "08057489266",
-    "address": "41910 Prohaska Ports"
-}

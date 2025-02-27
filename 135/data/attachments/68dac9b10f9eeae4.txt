@@ -1,7 +1,0 @@
-{
-    "name": "Erik Feeney",
-    "email": "Zelma.Pfannerstill95@mailinator.com",
-    "phone_number": "08048573230erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "94cc7b32-26eb-4b1c-b0d4-35f118655ee9"
-}

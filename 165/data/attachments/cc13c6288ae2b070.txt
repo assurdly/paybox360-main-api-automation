@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"1db27013-17c3-435b-96f6-bcc10ab33936","created_at":"2025-02-27T14:32:47.323484+01:00","title":"Solid State Tax","rate":0.0,"company":"Transmitter Plc","branch":"Erickabury"},"errors":null}

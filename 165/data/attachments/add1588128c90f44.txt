@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "6f23b9bc-b6f0-40fd-817f-b10689a5d993",
+    "name": "auxiliary invoice",
+    "email": "Aracely_Kulas@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

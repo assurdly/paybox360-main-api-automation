@@ -1,8 +1,0 @@
-{
-    "status": "APPROVE_WITH_PO",
-    "indent": ["2ac607a4-73ec-4b68-bf05-864418f254d2"],
-    "transaction_pin": "1234",
-    "team_id": "50dcf54a-7f9f-4622-bc9a-6479aec750c7",
-    "company_id": "09d31467-4bd7-4372-aed0-04ddf7c4b18a",
-    "decline_reason": "This field is required only if status is DECLINED"
-}

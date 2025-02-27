@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "7d5c8473-a78f-4727-bf99-331c44c76b1e"
+        },
+        {
+            "name": "Hat"
+        }
+    ]
+}

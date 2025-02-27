@@ -1,0 +1,45 @@
+{
+    "company": "3726f906-55ca-4f6d-8e3d-871f8cbc473f2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/doooon_128.jpg", 
+                    "item": "Tasty Steel Bacon",
+                    "quantity": 150, 
+                    "stock_price": 7515.98, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Soft Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/twittypork_128.jpg",    
+                    "item": "Refined Frozen Ball",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

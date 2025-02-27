@@ -1,0 +1,8 @@
+{
+    "status": "APPROVE_ONLY", 
+    "indent": ["7c83f69d-d236-43f1-b875-9f4cd4e97396"],
+    "transaction_pin": "1234",
+    "team_id": "af808799-94cd-4a01-bfe5-40fdc0a4e646",
+    "company_id": "d59886b1-a587-4664-9e9d-e89f1ce83c6a",
+    "decline_reason": "," 
+}

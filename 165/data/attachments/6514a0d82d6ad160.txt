@@ -1,0 +1,11 @@
+{
+    "company": "3726f906-55ca-4f6d-8e3d-871f8cbc473f",
+    "categories": [
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        }
+    ]
+}

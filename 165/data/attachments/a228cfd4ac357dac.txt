@@ -1,0 +1,32 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Marisol", 
+            "last_name": "Tremblay", 
+            "business_name": "The XML firewall is down, generate the wireless driver so we can synthesize the RAM bus! Ltd",
+            "business_email": "Yasmin@mailinator.com",
+            "address": "0354 Gibson Neck",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

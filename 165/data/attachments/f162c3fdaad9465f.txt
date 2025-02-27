@@ -1,0 +1,1 @@
+{"check_in_frequency":["“575b2250-c70f-4937-9ec4-5e2da47a4i27” is not a valid UUID."]}

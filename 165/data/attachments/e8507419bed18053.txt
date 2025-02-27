@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"3726f906-55ca-4f6d-8e3d-871f8cbc473f","company_name":"Dicki Group","industry":"BANKING AND FINANCE","size":5}}

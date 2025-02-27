@@ -1,0 +1,8 @@
+{
+    "company": "5cc59adf-3580-4db1-a235-5a6fc4cb9c271",
+    "branch": "d289cf72-0290-4a02-99b9-a1dfc26084bb",
+    "name": "Lynda Hermiston",
+    "email": "Krista18@mailinator.com",
+    "phone": "08046420047",
+    "address": "9429 Maiya Manor"
+}

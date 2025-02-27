@@ -1,0 +1,13 @@
+{
+    "beneficiary_data": [
+        {
+            "account_name": "Roosevelt Donnelly",
+            "account_number": "0102497814",
+            "bank_name": "GTbank",
+            "bank_code": "000133",
+            "amount": 40000,
+            "narration": "Test."
+        }
+    ],
+    "disburse_pin": "1234"
+}

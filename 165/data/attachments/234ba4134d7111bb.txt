@@ -1,0 +1,42 @@
+{
+    "company": "3726f906-55ca-4f6d-8e3d-871f8cbc473f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Plastic Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Plastic Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joki4_128.jpg",    
+                    "item": "Practical Frozen Fish",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
