@@ -9,6 +9,7 @@ on:
     - cron: '0 20 * * 0' # Runs every Sunday by 4pm
 jobs:
   run_tests:
+    if: github.event_name == 'schedule' || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
