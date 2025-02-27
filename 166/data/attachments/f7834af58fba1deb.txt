@@ -1,0 +1,42 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Rubber Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Wooden Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mhaligowski_128.jpg",    
+                    "item": "Generic Rubber Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "branch": "f71b24f4-757f-4dc2-8917-7252d614f71e",
+    "category": "04a20877-6155-498c-a5e0-cabcb7a78310",
+    "stock_quantity": 0,
+    "product_name": "emptystockarray",
+    "product_description": "bandwidth",
+    "product_tag": "MacBook",
+    "stock_alert": 0,
+    "cost_price": 1880900,
+    "selling_price": 1950600,
+    "discount": 1,
+    "currency": "NGN",
+    "sell_without_inventory": false,
+    "restaurant_item": false,
+    "has_variants": true,
+    "product_image_1": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_2": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_3": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_4": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_5": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "variants": [
+        {
+            "description": "color",
+            "product_value": "blue",
+            "quantity": 0,
+            "variant_price": 260000,
+            "selling_price": 275000,
+            "variant_discount": 1,
+            "currency": "NGN"
+        }
+    ]
+}

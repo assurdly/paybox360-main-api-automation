@@ -1,0 +1,45 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bighanddesign_128.jpg", 
+                    "item": "Practical Soft Pants",
+                    "quantity": 150, 
+                    "stock_price": 5149.99, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Soft Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/areandacom_128.jpg",    
+                    "item": "Refined Wooden Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

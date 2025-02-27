@@ -1,0 +1,42 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Tasty Granite Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Soft Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/herbigt_128.jpg",    
+                    "item": "Intelligent Metal Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "f71b24f4-757f-4dc2-8917-7252d614f71e",
+    "name": "open-source invoice",
+    "email": "Zackary.Powlowski@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

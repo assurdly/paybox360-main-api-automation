@@ -1,0 +1,42 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Rustic Cotton Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Concrete Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/chadami_128.jpg",    
+                    "item": "Licensed Fresh Soap",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

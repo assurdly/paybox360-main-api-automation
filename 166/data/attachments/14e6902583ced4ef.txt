@@ -1,0 +1,45 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rweve_128.jpg", 
+                    "item": "Small Frozen Hat",
+                    "quantity": 150, 
+                    "stock_price": 5149.99, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Plastic Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/michaelkoper_128.jpg",    
+                    "item": "Small Cotton Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

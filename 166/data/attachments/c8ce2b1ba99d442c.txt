@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Ruben", 
+            "last_name": "Hagenes", 
+            "business_name": "If we connect the hard drive, we can get to the ADP monitor through the optical SQL sensor! Ltd",
+            "business_email": "Dena@mailinator.com",
+            "address": "77865 Ross Forest",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Karley", 
+            "last_name": "O'Kon", 
+            "business_name": "parsing the driver won't do anything, we need to index the bluetooth SQL interface! Ltd",
+            "business_email": "Jon@mailinator.com",
+            "address": "795 London Plaza",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Joanny", 
+            "last_name": "Toy", 
+            "business_name": "You can't index the bandwidth without generating the multi-byte XML system! Ltd",
+            "business_email": "Kaleigh@mailinator.com",
+            "address": "85082 Fredrick Flats",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Margarette", 
+            "last_name": "Walter", 
+            "business_name": "You can't generate the monitor without compressing the multi-byte RAM panel! Ltd",
+            "business_email": "Jarret@mailinator.com",
+            "address": "27551 Nicolas Mills",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

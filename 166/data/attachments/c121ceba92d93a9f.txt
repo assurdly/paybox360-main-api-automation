@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Ken Jenkins","email":"Marietta_Mills@mailinator.com","phone":"08050816421","branch":"West Xandertown","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

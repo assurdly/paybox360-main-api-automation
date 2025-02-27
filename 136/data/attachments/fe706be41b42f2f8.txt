@@ -1,7 +1,0 @@
-{
-    "name": "Geraldine Larkin",
-    "email": "Candice2@mailinator.com",
-    "phone_number": "08025148829",
-    "address": "Idumota, Lagos",
-    "company": "fb1caa3f-8957-46d6-b3de-b7e1078358807"
-}

@@ -1,0 +1,1 @@
+{"price_lists":[{"category":["This field may not be null."],"item":["“2d969b1a-0c36-4ff5-b2ad-ee5c6970948b1” is not a valid UUID."]},{"selected_branches":["Invalid pk \"a86b0859-978b-490a-9e61-c4e3c321ea41\" - object does not exist."],"category":["This field may not be null."]}]}

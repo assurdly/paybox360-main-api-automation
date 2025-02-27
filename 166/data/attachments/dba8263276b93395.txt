@@ -1,0 +1,1 @@
+{"message":"KPI category does not exist"}

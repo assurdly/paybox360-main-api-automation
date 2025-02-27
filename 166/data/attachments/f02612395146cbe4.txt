@@ -1,0 +1,8 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "customer_id": "02f14a11-a0a5-433f-b8ad-97164c6c59d5",
+    "name": "Ken Jenkins",
+    "email": "Marietta_Mills@mailinator.com",
+    "phone": "08050816421",
+    "address": "1503 Tromp Centers"
+}

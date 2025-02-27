@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "6e57cefc-09d8-4f50-8fa2-729a69aee94d"
+        },
+        {
+            "name": "Keyboard"
+        }
+    ]
+}

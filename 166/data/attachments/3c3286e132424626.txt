@@ -1,0 +1,8 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "branch": "a86b0859-978b-490a-9e61-c4e3c321ea41",
+    "name": "Edmund Beier",
+    "email": "Beverly_Windler@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "48893 Bahringer Stravenue"
+}

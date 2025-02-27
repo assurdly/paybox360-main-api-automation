@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "matrix",
+            "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+            "branch": "f71b24f4-757f-4dc2-8917-7252d614f71e",
+            "no_of_seats": 4,
+            "categories": ["1632e882-b6dc-4440-8edd-1b14d80d04b7"],
+            "all_categories": "False"
+        },
+        {
+            "name": "l",
+            "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+            "branch": "f71b24f4-757f-4dc2-8917-7252d614f71e",
+            "no_of_seats": 6,
+            "categories": ["1632e882-b6dc-4440-8edd-1b14d80d04b7"],
+            "all_categories": "True"
+        }
+    ]
+}

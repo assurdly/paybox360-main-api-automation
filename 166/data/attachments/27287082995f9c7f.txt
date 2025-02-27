@@ -1,0 +1,6 @@
+{
+    "title": "individual",
+    "progress": "progress",
+    "plan": "plan",
+    "problems": "problems" 
+}

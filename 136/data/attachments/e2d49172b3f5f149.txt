@@ -1,7 +1,0 @@
-{
-    "name": "Guy Carroll",
-    "email": "Janessa89@mailinator.com",
-    "phone_number": "08019424801",
-    "address": "Idumota, Lagos",
-    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880"
-}

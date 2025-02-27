@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"006d0814-bf02-4b56-9dce-da4fd9a82dfd","created_at":"2025-02-09T21:11:16.802370+01:00","title":"Auxiliary Tax","rate":0.0,"company":"Idy-Black-System","branch":"Lake Bruce"},"errors":null}

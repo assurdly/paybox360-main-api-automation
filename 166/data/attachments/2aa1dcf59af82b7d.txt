@@ -1,0 +1,11 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "branch": "f71b24f4-757f-4dc2-8917-7252d614f71e",
+    "name": "wireless invoice",
+    "email": "Casimer2@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

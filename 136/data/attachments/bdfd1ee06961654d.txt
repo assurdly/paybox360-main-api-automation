@@ -1,5 +1,0 @@
-{
-    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Muller, Heidenreich and Gottlieb"
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"39780a28-144e-4e5a-8d59-1d087f23e2fb","name":"Intelligent metal sausages"}]},"errors":null}

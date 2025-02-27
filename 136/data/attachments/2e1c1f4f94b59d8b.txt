@@ -1,8 +1,0 @@
-{
-    "company": "fb1caa3f-8957-46d6-b3de-b7e107835880",
-    "branch": "90f3dd3a-46fc-4269-b585-33933e405917",
-    "name": "Mildred Wuckert",
-    "email": "Aglae_Runte",
-    "phone": "08063754217",
-    "address": "8757 Walsh Course"
-}

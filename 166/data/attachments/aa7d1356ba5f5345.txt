@@ -1,0 +1,8 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da1",
+    "branch": "a86b0859-978b-490a-9e61-c4e3c321ea41",
+    "name": "Tasha McLaughlin",
+    "email": "Meagan59@mailinator.com",
+    "phone": "08022159996",
+    "address": "1938 Maggie Ramp"
+}

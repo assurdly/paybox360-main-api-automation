@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Leannon - Turner Business",
+            "business_email": "Eric33@yopmail.com"
+        }, 
+        {
+            "business_name": "Purdy, Lesch and Kunze inc.", 
+            "business_email": "Kristin3@mailinator.com"
+        }
+    ]
+}

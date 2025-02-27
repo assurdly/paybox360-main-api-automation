@@ -1,0 +1,7 @@
+{
+    "name": "Calvin Bergnaum",
+    "email": "Bertram90@mailinator.com",
+    "phone_number": "08075852972",
+    "address": "Idumota, Lagos",
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da7"
+}

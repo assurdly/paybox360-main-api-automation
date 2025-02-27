@@ -1,0 +1,7 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "customer_id": "c95a2a2e-5098-406d-8580-6fd12aceacee",
+    "city": "Corvallis",
+    "state": "East Elysefort",
+    "country": ""
+}

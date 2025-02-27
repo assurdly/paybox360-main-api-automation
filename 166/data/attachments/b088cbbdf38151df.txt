@@ -1,0 +1,8 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "customer_id": "02f14a11-a0a5-433f-b8ad-97164c6c59d51",
+    "name": "Nora Cormier",
+    "email": "Cleveland_Larkin@mailinator.com",
+    "phone": "08096363937",
+    "address": "29133 Miracle Fort"
+}

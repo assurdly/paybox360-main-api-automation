@@ -1,0 +1,7 @@
+{
+    "name": "Juanita Wuckert",
+    "email": "Damian76",
+    "phone_number": "08078719097",
+    "address": "Idumota, Lagos",
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da"
+}

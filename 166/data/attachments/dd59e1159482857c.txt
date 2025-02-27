@@ -1,0 +1,42 @@
+{
+    "company": "dcf6a569-b381-4dbb-8e58-9f298953f4da",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Steel Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Fresh Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/tanveerrao_128.jpg",    
+                    "item": "Unbranded Cotton Cheese",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
