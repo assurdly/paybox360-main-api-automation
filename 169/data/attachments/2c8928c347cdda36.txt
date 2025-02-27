@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d0b11de8-1008-4938-8215-abc1f647b6d8","created_at":"2025-02-27T19:28:49.258900+01:00","title":"Optical1905 Tax","rate":1.5,"company":"Mohr, Sanford And Hegmann","branch":""},"errors":null}

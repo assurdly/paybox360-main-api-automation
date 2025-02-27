@@ -1,0 +1,42 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Fresh Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Soft Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/a1chapone_128.jpg",    
+                    "item": "Ergonomic Cotton Pants",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "name": "",
+    "period_name": "",
+    "period_start_date": "",
+    "period_end_date": "",
+    "key_results": [
+        {
+            "name": "",
+            "check_in_frequency": [""],
+            "tasks": [
+                {
+                  "name": "",
+                  "assign_to": []
+                }
+                
+                
+                
+                
+            ],
+            "kpi_type": "",
+            "period_start_date": "",
+            "period_end_date": "",
+            "kpi_category": "",
+            "upper_limit": "",
+            "lower_limit": "",
+            "owner": [
+                {"id": "", "type": ""}
+                
+                
+                
+            ]
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

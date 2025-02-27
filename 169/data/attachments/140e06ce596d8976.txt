@@ -1,0 +1,8 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c11",
+    "customer_id": "14725868-2942-4c62-8de9-fa54561df34b",
+    "name": "Marjorie Morar",
+    "email": "Liana.Klocko14@mailinator.com",
+    "phone": "08003032513",
+    "address": "39055 Cremin Oval"
+}

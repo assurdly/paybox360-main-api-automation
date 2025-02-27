@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"fdd335d3-0c04-4ed3-9dda-1470c6262ebe","name":"Licensed granite keyboard"}]},"errors":null}

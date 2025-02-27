@@ -1,7 +1,0 @@
-{
-    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
-    "customer_id": "",
-    "city": "Caesarton",
-    "state": "Lagsos - Test",
-    "country": "Cuba"
-}

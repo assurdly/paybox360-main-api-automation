@@ -1,0 +1,13 @@
+{
+    "beneficiary_data": [
+        {
+            "account_name": "Roosevelt Langworth",
+            "account_number": "0147294233",
+            "bank_name": "GTbank",
+            "bank_code": "000133",
+            "amount": 40000,
+            "narration": "Test."
+        }
+    ],
+    "disburse_pin": "1234"
+}

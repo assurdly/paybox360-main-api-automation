@@ -1,0 +1,45 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vijaykarthik_128.jpg", 
+                    "item": "Handcrafted Concrete Chips",
+                    "quantity": 150, 
+                    "stock_price": 9949.93, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Wooden Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/timgthomas_128.jpg",    
+                    "item": "Rustic Plastic Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

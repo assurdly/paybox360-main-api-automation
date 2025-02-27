@@ -1,0 +1,45 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c12",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/SULiik_128.jpg", 
+                    "item": "Handmade Plastic Keyboard",
+                    "quantity": 150, 
+                    "stock_price": 9949.93, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Cotton Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/_kkga_128.jpg",    
+                    "item": "Handcrafted Granite Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

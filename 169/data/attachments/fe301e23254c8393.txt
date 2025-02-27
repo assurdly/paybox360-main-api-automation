@@ -1,0 +1,8 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "customer_id": "14725868-2942-4c62-8de9-fa54561df34b1",
+    "name": "Maria Boehm I",
+    "email": "Schuyler_Champlin@mailinator.com",
+    "phone": "08081409636",
+    "address": "611 Jacobi Springs"
+}

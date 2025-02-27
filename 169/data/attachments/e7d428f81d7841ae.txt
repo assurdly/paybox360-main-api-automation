@@ -1,0 +1,8 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "customer_id": "14725868-2942-4c62-8de9-fa54561df34b",
+    "name": "Harold Fadel",
+    "email": "Elias.Hettinger",
+    "phone": "08059796266",
+    "address": "6175 Marilyne Wells"
+}

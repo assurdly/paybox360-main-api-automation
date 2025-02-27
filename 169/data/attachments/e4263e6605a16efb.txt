@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"581ea3ec-0a9b-4f27-9b43-21868ef087ae","created_at":"2025-02-27T19:27:07.694282+01:00","name":"Captain Category","has_products":false,"company":"51b6de3b-0135-4843-8761-7e135578b2c1","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Mohr, Sanford And Hegmann","stock_count":0},"errors":null}

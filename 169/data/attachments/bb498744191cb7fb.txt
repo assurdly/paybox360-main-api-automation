@@ -1,0 +1,6 @@
+{
+    "company": "beans",
+    "branch": "49c4800d-3a9f-44c9-b5bb-46b91bf1237e", 
+    "title": "back-end tax",
+    "rate": 1.5
+}

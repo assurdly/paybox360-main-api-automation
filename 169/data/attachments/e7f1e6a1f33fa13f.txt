@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"e04d439c-3f8e-452f-870e-ecca29f8ed89","created_at":"2025-02-27T19:28:49.465088+01:00","title":"Auxiliary Tax","rate":0.0,"company":"Mohr, Sanford And Hegmann","branch":"North Miami"},"errors":null}

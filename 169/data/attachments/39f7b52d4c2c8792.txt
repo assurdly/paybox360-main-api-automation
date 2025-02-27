@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "3744f324-f0b8-41a7-bf97-de54d8470551"
+        },
+        {
+            "name": "Shirt"
+        }
+    ]
+}

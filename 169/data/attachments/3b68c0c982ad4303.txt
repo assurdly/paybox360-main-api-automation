@@ -1,0 +1,42 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Awesome Frozen Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Cotton Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/oktayelipek_128.jpg",    
+                    "item": "Fantastic Concrete Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

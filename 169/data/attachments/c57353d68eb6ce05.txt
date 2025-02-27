@@ -1,0 +1,42 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Frozen Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Concrete Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/thimo_cz_128.jpg",    
+                    "item": "Handmade Granite Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

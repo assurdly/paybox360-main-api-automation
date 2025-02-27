@@ -1,0 +1,6 @@
+{
+    "update_type": "CHANGE_PASSWORD",
+    "current_password": "Test123#",
+    "new_password": "Test1234#",
+    "confirm_password": "Test1235#"
+}

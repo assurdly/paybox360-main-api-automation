@@ -1,0 +1,7 @@
+{
+    "name": "Stephanie Franecki Jr.",
+    "email": "Elmore_Sporer95@mailinator.com",
+    "phone_number": "08025574261",
+    "address": "Idumota, Lagos",
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1"
+}

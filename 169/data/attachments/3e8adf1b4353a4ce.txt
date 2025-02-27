@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Eric Walsh","email":"Dallin_Tromp@mailinator.com","phone":"08075823301","branch":"North Miami","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

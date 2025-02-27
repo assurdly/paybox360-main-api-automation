@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Marcos", 
+            "last_name": "Mraz", 
+            "business_name": "overriding the feed won't do anything, we need to index the primary PNG firewall! Ltd",
+            "business_email": "Kamille@mailinator.com",
+            "address": "3401 Casper Row",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Jazmin", 
+            "last_name": "Glover", 
+            "business_name": "I'll transmit the auxiliary SCSI interface, that should alarm the EXE system! Ltd",
+            "business_email": "Yessenia@mailinator.com",
+            "address": "62745 Treutel Plaza",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Name", 
+            "last_name": "Cole", 
+            "business_name": "The SMTP circuit is down, override the solid state driver so we can calculate the SAS driver! Ltd",
+            "business_email": "Joshua@mailinator.com",
+            "address": "985 Labadie Light",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Aurore", 
+            "last_name": "Kilback", 
+            "business_name": "We need to hack the mobile XSS panel! Ltd",
+            "business_email": "Maud@mailinator.com",
+            "address": "541 Serenity Via",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

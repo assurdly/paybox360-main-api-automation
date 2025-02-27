@@ -1,0 +1,8 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "branch": "4fa52039-9e59-4c63-960e-b4a753f77c2e",
+    "name": "Leroy Ritchie",
+    "email": "Josie40@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "32290 Jazmin Port"
+}

@@ -1,6 +1,0 @@
-{
-    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
-    "branch": "beans", 
-    "title": "virtual1454 tax",
-    "rate": 1.5
-}

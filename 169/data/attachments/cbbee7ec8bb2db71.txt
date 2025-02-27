@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"447f168b-3402-49ca-b72c-067963663e96","name":"Fantastic concrete soap"}]},"errors":null}

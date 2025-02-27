@@ -1,7 +1,0 @@
-{
-    "name": "Gary Strosin",
-    "email": "Rhiannon92@mailinator.com",
-    "phone_number": "08047386702",
-    "address": "Idumota, Lagos",
-    "company": "6f93f513-14e8-4ee4-a120-206373dcefd77"
-}

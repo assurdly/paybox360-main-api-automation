@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "49c4800d-3a9f-44c9-b5bb-46b91bf1237e",
+    "name": "primary invoice",
+    "email": "Genesis24@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

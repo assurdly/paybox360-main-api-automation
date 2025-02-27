@@ -1,8 +1,0 @@
-{
-    "company": "6f93f513-14e8-4ee4-a120-206373dcefd71",
-    "customer_id": "",
-    "name": "Inez Bogisich I",
-    "email": "Esmeralda_Rowe@mailinator.com",
-    "phone": "08043392160",
-    "address": "841 Golda Forge"
-}

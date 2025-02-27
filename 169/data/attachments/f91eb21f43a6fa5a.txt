@@ -1,0 +1,7 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c11",
+    "name": "Ornton",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

@@ -1,0 +1,42 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Metal Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Plastic Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dactrtr_128.jpg",    
+                    "item": "Fantastic Wooden Fish",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

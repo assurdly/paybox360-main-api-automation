@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"51b6de3b-0135-4843-8761-7e135578b2c1","company_name":"Mohr, Sanford and Hegmann","industry":"BANKING AND FINANCE","size":5}}

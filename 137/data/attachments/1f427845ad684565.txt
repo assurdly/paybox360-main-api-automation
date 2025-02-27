@@ -1,8 +1,0 @@
-{
-    "company": "6f93f513-14e8-4ee4-a120-206373dcefd7",
-    "customer_id": "",
-    "name": "Jerome Runte",
-    "email": "Brennan.Lehner51@mailinator.com",
-    "phone": "08069716302",
-    "address": "5693 Corene Throughway"
-}

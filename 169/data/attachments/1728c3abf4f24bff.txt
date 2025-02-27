@@ -1,0 +1,8 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "customer_id": "14725868-2942-4c62-8de9-fa54561df34b",
+    "name": "Margie Kling",
+    "email": "Brenna2@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "87504 Hyatt Corners"
+}

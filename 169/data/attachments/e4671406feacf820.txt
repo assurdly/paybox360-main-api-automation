@@ -1,0 +1,42 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Granite Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Cotton Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/christianoliff_128.jpg",    
+                    "item": "Awesome Wooden Pants",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

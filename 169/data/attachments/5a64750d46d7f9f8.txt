@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Mohr, Sanford And Hegmann","branches":1,"teams":0,"total_stock_value":0.0,"total_sales_values":0.0,"total_expected_profit":0},"errors":null}

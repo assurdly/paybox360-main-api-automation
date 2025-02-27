@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "c7b2e1b4-2fbd-4ddb-a7df-ffd8101e401c",
+    "city": "New Marcelinohaven",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

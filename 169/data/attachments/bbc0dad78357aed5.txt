@@ -1,0 +1,11 @@
+{
+    "company": "51b6de3b-0135-4843-8761-7e135578b2c1",
+    "branch": "49c4800d-3a9f-44c9-b5bb-46b91bf1237e",
+    "name": "digital invoice",
+    "email": "Elody39@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}
