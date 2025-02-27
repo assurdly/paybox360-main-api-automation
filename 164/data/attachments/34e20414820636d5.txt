@@ -1,0 +1,42 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Metal Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Steel Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/balintorosz_128.jpg",    
+                    "item": "Practical Cotton Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

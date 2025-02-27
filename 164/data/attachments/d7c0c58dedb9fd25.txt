@@ -1,0 +1,7 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "customer_id": "a4c15f3c-186d-4476-b4e8-041b58be7311",
+    "city": "West Margeville",
+    "state": "East Kylerside",
+    "country": ""
+}

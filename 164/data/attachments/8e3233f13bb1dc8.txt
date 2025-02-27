@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"company":"Erdman Inc","branch":"Port Glennieburgh","vat":7.5,"total_invoices":0,"paid_invoices":0,"pending_invoices":0,"due_invoices":0,"members":[],"last_update":null},"errors":null}

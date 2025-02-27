@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"04d8074a-c0dd-476d-a7ae-3d0d9c2b6b64","created_at":"2025-02-05T19:22:50.115629+01:00","title":"Primary Tax","rate":0.0,"company":"Hjgj","branch":"Oshkosh"},"errors":null}

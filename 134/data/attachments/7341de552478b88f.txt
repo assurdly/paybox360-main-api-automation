@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"22ab628f-dee1-4183-b522-3849615915ba","name":"Handmade fresh chair"}]},"errors":null}

@@ -1,0 +1,45 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kimcool_128.jpg", 
+                    "item": "Tasty Wooden Towels",
+                    "quantity": 150, 
+                    "stock_price": 3079.45, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Plastic Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/stevedesigner_128.jpg",    
+                    "item": "Refined Fresh Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

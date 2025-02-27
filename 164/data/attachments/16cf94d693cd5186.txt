@@ -1,0 +1,45 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d511662",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andyisonline_128.jpg", 
+                    "item": "Licensed Metal Salad",
+                    "quantity": 150, 
+                    "stock_price": 3079.45, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Rubber Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adobi_128.jpg",    
+                    "item": "Awesome Rubber Shirt",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

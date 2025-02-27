@@ -1,0 +1,7 @@
+{
+    "name": "Anne Kohler",
+    "email": "Jefferey_Dickinson@mailinator.com",
+    "phone_number": "08087917808",
+    "address": "Idumota, Lagos",
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d511667"
+}

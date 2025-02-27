@@ -1,7 +1,0 @@
-{
-    "name": "Gilberto Gleichner",
-    "email": "Sarina70",
-    "phone_number": "08051454109",
-    "address": "Idumota, Lagos",
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa"
-}

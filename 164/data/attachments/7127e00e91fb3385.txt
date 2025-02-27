@@ -1,0 +1,7 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d511661",
+    "name": "East Ambrose",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

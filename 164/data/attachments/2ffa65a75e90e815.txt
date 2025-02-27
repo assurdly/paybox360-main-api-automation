@@ -1,0 +1,1 @@
+{"old_items":[{"unit_price":["Ensure this value is greater than or equal to 0.0."]}],"new_items":[{"category_id":["This field is required."],"amount":["A valid amount is required."]}],"branch":["Invalid pk \"40122c44-d284-43c9-ac68-9139f107edf1\" - object does not exist."],"invoice":["“null” is not a valid UUID."]}

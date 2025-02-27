@@ -1,7 +1,0 @@
-{
-    "name": "Ella Bogisich",
-    "email": "Reese.Stokes74",
-    "phone_number": "08027534090",
-    "address": "Idumota, Lagos",
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa"
-}

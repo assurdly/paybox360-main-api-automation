@@ -1,0 +1,42 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Granite Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Concrete Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bcrad_128.jpg",    
+                    "item": "Gorgeous Cotton Sausages",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

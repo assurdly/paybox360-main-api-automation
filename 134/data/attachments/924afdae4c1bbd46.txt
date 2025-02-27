@@ -1,8 +1,0 @@
-{
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa",
-    "customer_id": "",
-    "name": "Leonard Schmeler",
-    "email": "Shanie22",
-    "phone": "08088509324",
-    "address": "7743 Melyssa Street"
-}

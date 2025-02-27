@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"wallet_balance":0.0,"account_name":"Erdman Inc - Port Glennieburgh","bank":"Wema Bank Plc","nuban":"8420255964","payments":[],"count":0,"total_payments":0},"errors":null}

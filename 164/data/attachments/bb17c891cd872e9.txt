@@ -1,0 +1,42 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Granite Chips",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Cotton Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/eduardostuart_128.jpg",    
+                    "item": "Refined Frozen Car",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

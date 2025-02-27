@@ -1,7 +1,0 @@
-{
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa",
-    "name": "Pfeffermouth",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 1000,
-    "is_super_branch": false
-}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"ca2189a5-1f47-43db-a1b1-4f8a56d51166","company_name":"Erdman Inc","industry":"BANKING AND FINANCE","size":5}}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"cf3ef8bc-4485-4b74-a942-379ee275fdf3","name":"Fantastic rubber table"}]},"errors":null}

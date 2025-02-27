@@ -1,0 +1,17 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "branch": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "supplier": "b2997800-cab8-4ada-af98-acdf7aa3299d",
+    "orders": [
+        {
+            "category": "",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

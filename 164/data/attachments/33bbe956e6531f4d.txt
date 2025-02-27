@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "1c66dee1-fcd4-464a-9a17-419566e58230",
+    "name": "multi-byte invoice",
+    "email": "Erick.Abshire@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

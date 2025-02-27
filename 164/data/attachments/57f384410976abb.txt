@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Bernard Paucek","email":"Jeremy99@mailinator.com","phone":"08023970250","branch":"Port Glennieburgh","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

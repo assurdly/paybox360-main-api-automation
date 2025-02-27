@@ -1,0 +1,11 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "branch": "1c66dee1-fcd4-464a-9a17-419566e58230",
+    "name": "auxiliary invoice",
+    "email": "Casimer.Beahan7@mailsac.com",
+    "phone": "0809398456QQ9",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

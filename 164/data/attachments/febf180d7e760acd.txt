@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d7cbfc9e-2483-4eb6-806d-4b1b3cff3c32","created_at":"2025-02-27T13:42:00.469876+01:00","title":"Digital Tax","rate":0.0,"company":"Erdman Inc","branch":"Port Glennieburgh"},"errors":null}

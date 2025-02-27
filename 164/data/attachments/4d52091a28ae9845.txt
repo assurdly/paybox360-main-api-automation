@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-02-27T13:42:01.409658+01:00","reference":"INV-FEB-F1G8n0g6","company":"Erdman Inc","branch":"Port Glennieburgh","customer":null,"amount":54430.5,"due_date":"2029-12-31","status":"PENDING"}},"errors":null}

@@ -1,0 +1,42 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Handmade Granite Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Wooden Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/edhenderson_128.jpg",    
+                    "item": "Fantastic Rubber Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

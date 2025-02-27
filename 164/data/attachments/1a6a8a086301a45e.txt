@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Rosamond", 
+            "last_name": "Dicki", 
+            "business_name": "Use the digital FTP protocol, then you can calculate the neural bus! Ltd",
+            "business_email": "Berry@mailinator.com",
+            "address": "297 Dallin Radial",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Carmine", 
+            "last_name": "Bauch", 
+            "business_name": "calculating the panel won't do anything, we need to generate the redundant RAM card! Ltd",
+            "business_email": "Wilmer@mailinator.com",
+            "address": "149 Treutel Bypass",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Arely", 
+            "last_name": "Murazik", 
+            "business_name": "Try to compress the HTTP protocol, maybe it will parse the 1080p microchip! Ltd",
+            "business_email": "Shirley@mailinator.com",
+            "address": "61340 Nelda Loop",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Noel", 
+            "last_name": "Crist", 
+            "business_name": "The SSL program is down, program the primary sensor so we can calculate the SSL hard drive! Ltd",
+            "business_email": "Vern@mailinator.com",
+            "address": "40168 Schowalter Club",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

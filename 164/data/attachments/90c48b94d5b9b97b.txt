@@ -1,0 +1,8 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "customer_id": "3f1e5768-3f02-44cb-bc23-8e2bf3f16956",
+    "name": "Caroline Ullrich",
+    "email": "Arlie24@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "1937 Klocko Courts"
+}

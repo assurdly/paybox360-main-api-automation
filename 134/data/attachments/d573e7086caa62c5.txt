@@ -1,5 +1,0 @@
-{
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Goyette Group"
-}

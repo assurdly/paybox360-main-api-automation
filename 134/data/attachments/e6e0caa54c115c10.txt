@@ -1,7 +1,0 @@
-{
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa1",
-    "name": "South Franz",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

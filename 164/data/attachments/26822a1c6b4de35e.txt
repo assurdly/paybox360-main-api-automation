@@ -1,0 +1,8 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "branch": "40122c44-d284-43c9-ac68-9139f107edf1",
+    "name": "Clinton Koss",
+    "email": "Bryon_Murray@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "288 Dolores Manor"
+}

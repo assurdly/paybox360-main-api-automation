@@ -1,0 +1,42 @@
+{
+    "company": "ca2189a5-1f47-43db-a1b1-4f8a56d51166",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Cotton Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Metal Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mr_shiznit_128.jpg",    
+                    "item": "Unbranded Wooden Chair",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

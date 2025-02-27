@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "1c66dee1-fcd4-464a-9a17-419566e58230", 
+    "title": "auxiliary tax",
+    "rate": 1.5
+}

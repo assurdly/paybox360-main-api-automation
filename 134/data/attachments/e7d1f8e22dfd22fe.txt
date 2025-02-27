@@ -1,8 +1,0 @@
-{
-    "company": "e483391c-f81b-4871-8d52-775336c00eaa1",
-    "customer_id": "",
-    "name": "Ross Kutch",
-    "email": "Cassandra8@mailinator.com",
-    "phone": "08051325099",
-    "address": "8838 Brian Mountain"
-}
