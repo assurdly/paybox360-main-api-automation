@@ -1,0 +1,42 @@
+{
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Ergonomic Wooden Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Steel Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/markwienands_128.jpg",    
+                    "item": "Practical Granite Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

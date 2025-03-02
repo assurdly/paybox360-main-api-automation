@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "4fe4efed-0057-474d-8a16-523f20f099d4",
+    "city": "Kovacekmouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

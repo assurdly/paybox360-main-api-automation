@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"ea19bcd2-4dea-4d63-8981-3b5f31c7feb7","company_name":"Romaguera LLC","industry":"BANKING AND FINANCE","size":5}}

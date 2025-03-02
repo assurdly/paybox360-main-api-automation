@@ -1,7 +1,0 @@
-{
-    "name": "Tamara Collier",
-    "email": "Kyra_Wisoky47",
-    "phone_number": "08085378995",
-    "address": "Idumota, Lagos",
-    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a74"
-}

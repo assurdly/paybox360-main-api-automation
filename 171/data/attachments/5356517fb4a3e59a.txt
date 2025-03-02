@@ -1,0 +1,42 @@
+{
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Granite Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Fresh Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nicollerich_128.jpg",    
+                    "item": "Awesome Frozen Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

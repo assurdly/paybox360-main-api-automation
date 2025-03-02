@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"751914fa-6323-4a7e-b07a-06f3cee62589","name":"Practical granite sausages"}]},"errors":null}

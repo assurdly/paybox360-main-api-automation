@@ -1,0 +1,45 @@
+{
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/karolkrakowiak__128.jpg", 
+                    "item": "Tasty Fresh Ball",
+                    "quantity": 150, 
+                    "stock_price": 1498.08, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Soft Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/atariboy_128.jpg",    
+                    "item": "Refined Wooden Chicken",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

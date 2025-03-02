@@ -1,0 +1,8 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa98",
+    "customer_id": "253083cb-8d00-4231-b7c0-c6e0cec0e4b7",
+    "name": "Alfred Kovacek",
+    "email": "Eliane_Kshlerin@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "59992 Wiley Centers"
+}

@@ -1,7 +1,0 @@
-{
-    "name": "Dixie Baumbach",
-    "email": "Germaine_Gislason",
-    "phone_number": "08037175560",
-    "address": "Idumota, Lagos",
-    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a74"
-}

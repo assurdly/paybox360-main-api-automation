@@ -1,0 +1,7 @@
+{
+    "name": "Ernest Kessler",
+    "email": "Harry.Emard",
+    "phone_number": "08007804298",
+    "address": "Idumota, Lagos",
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa981",
+    "branch": "676ef6b9-e0ea-42c1-af44-693eb91af3c7",
+    "name": "Francis Mann",
+    "email": "Bryce_Crooks@mailinator.com",
+    "phone": "08008928733",
+    "address": "75316 Roberto Loop"
+}

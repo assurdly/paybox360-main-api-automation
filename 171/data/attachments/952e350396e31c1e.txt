@@ -1,0 +1,42 @@
+{
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Frozen Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Cotton Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/solid_color_128.jpg",    
+                    "item": "Refined Wooden Shoes",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

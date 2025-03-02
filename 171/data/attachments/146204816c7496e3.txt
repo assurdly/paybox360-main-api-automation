@@ -1,0 +1,8 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa98",
+    "customer_id": "253083cb-8d00-4231-b7c0-c6e0cec0e4b7",
+    "name": "Sue Rau",
+    "email": "Jocelyn_Kovacek44",
+    "phone": "08008962457",
+    "address": "8023 Lind Springs"
+}

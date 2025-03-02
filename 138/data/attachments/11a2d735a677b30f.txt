@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"3c16952f-9295-4368-a032-50fee312ac6d","name":"Captain Category"},{"id":"189ac88e-f838-4d6a-96c8-75899f3ef892","name":"Fish"},{"id":"169d1386-d95f-42ae-802d-e6fa2c667cf6","name":"Shoes"}],"count":3,"total_categories":3},"errors":null}

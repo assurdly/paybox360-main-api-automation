@@ -1,0 +1,8 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa981",
+    "customer_id": "253083cb-8d00-4231-b7c0-c6e0cec0e4b7",
+    "name": "Mrs. Harvey Orn",
+    "email": "Chet8@mailinator.com",
+    "phone": "08003693294",
+    "address": "9981 Douglas Falls"
+}

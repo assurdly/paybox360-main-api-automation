@@ -1,0 +1,7 @@
+{
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7",
+    "name": "Sandy",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

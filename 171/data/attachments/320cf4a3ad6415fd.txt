@@ -1,0 +1,42 @@
+{
+    "company": "ea19bcd2-4dea-4d63-8981-3b5f31c7feb7",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Metal Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Frozen Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/amanruzaini_128.jpg",    
+                    "item": "Tasty Cotton Table",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

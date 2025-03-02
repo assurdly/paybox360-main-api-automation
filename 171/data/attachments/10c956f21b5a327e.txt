@@ -1,0 +1,7 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa98",
+    "customer_id": "",
+    "city": "Corvallis",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

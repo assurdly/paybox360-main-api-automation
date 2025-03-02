@@ -1,8 +1,0 @@
-{
-    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a74",
-    "customer_id": "1",
-    "name": "Eduardo Murazik",
-    "email": "Mireille.Cummerata@mailinator.com",
-    "phone": "08019042031",
-    "address": "628 McDermott Knolls"
-}

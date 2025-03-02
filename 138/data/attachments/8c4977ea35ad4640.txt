@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "West Tyreeport",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

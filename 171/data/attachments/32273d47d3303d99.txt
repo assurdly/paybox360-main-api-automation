@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"f8bc4283-3dd3-4137-8100-bbc927a811f0","created_at":"2025-03-02T08:33:42.184477+01:00","name":"Captain Category","has_products":false,"company":"ea19bcd2-4dea-4d63-8981-3b5f31c7feb7","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Romaguera Llc","stock_count":0},"errors":null}

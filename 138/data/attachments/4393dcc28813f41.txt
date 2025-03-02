@@ -1,8 +1,0 @@
-{
-    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a741",
-    "customer_id": "",
-    "name": "Kendra Parisian",
-    "email": "Nyasia.Swaniawski20@mailinator.com",
-    "phone": "08037995311",
-    "address": "24589 Koch Pines"
-}

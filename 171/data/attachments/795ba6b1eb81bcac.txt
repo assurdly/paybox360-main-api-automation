@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"c1dd7b95-74a6-4247-a91d-10ff1a5121ba","created_at":"2025-03-02T08:35:39.788614+01:00","title":"Mobile1902 Tax","rate":1.5,"company":"Microchip Plc","branch":"Schadenport"},"errors":null}

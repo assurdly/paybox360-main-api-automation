@@ -1,8 +1,0 @@
-{
-    "company": "75f06299-afb2-40ba-bdcd-8ebe29929a741",
-    "branch": "2d02d810-e65f-4ab1-827b-d7751d7917f3",
-    "name": "Janis Hickle Sr.",
-    "email": "Virginie_Koepp88@mailinator.com",
-    "phone": "08053881395",
-    "address": "2162 Casper Dale"
-}

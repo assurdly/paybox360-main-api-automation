@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"0d668326-f59c-4314-a6f0-46e2207cdfe9","name":"Refined fresh towels"}]},"errors":null}

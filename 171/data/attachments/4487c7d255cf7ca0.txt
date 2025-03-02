@@ -1,0 +1,7 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa98",
+    "branch": "676ef6b9-e0ea-42c1-af44-693eb91af3c7",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Sanford91@mailinator.com"
+}

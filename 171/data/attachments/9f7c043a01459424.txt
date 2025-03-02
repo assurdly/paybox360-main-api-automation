@@ -1,0 +1,8 @@
+var jsonData = pm.response.json();
+pm.test("Status code is 404", function () {
+    pm.response.to.have.status(404);
+});
+
+pm.test("Verify that a response is returned for an invalid company id", function () {
+    pm.expect(jsonData.message).to.include("company not found");
+});

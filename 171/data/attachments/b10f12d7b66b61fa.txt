@@ -1,0 +1,8 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa98",
+    "branch": "69f0b5b0-988e-4345-a154-30063e7eb8d3",
+    "name": "Lucas Sipes",
+    "email": "naima1905@gmail.com",
+    "phone": "08093656410",
+    "address": "31921 Krystel Valley"
+}

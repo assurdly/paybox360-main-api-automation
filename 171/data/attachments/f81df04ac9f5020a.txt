@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Ruben", 
+            "last_name": "Littel", 
+            "business_name": "We need to reboot the cross-platform CSS hard drive! Ltd",
+            "business_email": "Shemar@mailinator.com",
+            "address": "64249 Tromp Glen",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Ignatius", 
+            "last_name": "Rolfson", 
+            "business_name": "You can't synthesize the microchip without compressing the primary HDD application! Ltd",
+            "business_email": "Carmine@mailinator.com",
+            "address": "761 Cormier Highway",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Alisha", 
+            "last_name": "Morar", 
+            "business_name": "The HTTP matrix is down, bypass the virtual array so we can compress the SCSI application! Ltd",
+            "business_email": "Ariel@mailinator.com",
+            "address": "1187 Runolfsson Curve",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Giovanna", 
+            "last_name": "Schiller", 
+            "business_name": "You can't back up the feed without overriding the bluetooth PCI capacitor! Ltd",
+            "business_email": "Oliver@mailinator.com",
+            "address": "161 Kovacek Shore",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

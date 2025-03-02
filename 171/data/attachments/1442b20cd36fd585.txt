@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + hard drive","company_id":"ea19bcd2-4dea-4d63-8981-3b5f31c7feb7","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"816cbfa9-6527-4245-a154-08cae12ab62c"}}

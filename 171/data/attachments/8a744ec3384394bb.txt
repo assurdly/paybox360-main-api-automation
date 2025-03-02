@@ -1,0 +1,8 @@
+{
+    "company": "accf1b91-8bd7-44e6-9482-cd2369c1fa98",
+    "customer_id": "253083cb-8d00-4231-b7c0-c6e0cec0e4b71",
+    "name": "Dana Donnelly",
+    "email": "Carmelo_Bogan81@mailinator.com",
+    "phone": "08009507904",
+    "address": "065 Mekhi Villages"
+}
