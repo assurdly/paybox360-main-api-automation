@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "25ad47ae-df96-495b-af46-f165fec0ec9f",
+    "city": "Kozeyburgh",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

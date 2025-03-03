@@ -1,0 +1,42 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Fresh Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Wooden Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/chrisslowik_128.jpg",    
+                    "item": "Refined Cotton Towels",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

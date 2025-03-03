@@ -1,8 +1,0 @@
-{
-    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
-    "customer_id": "",
-    "name": "Cynthia Berge",
-    "email": "Bud82",
-    "phone": "08082102053",
-    "address": "24704 Carissa Burgs"
-}

@@ -1,0 +1,42 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Plastic Car",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Fresh Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jayrobinson_128.jpg",    
+                    "item": "Sleek Steel Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

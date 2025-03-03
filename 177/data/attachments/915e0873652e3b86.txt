@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Maximillian", 
+            "last_name": "Bashirian", 
+            "business_name": "Try to input the EXE hard drive, maybe it will back up the multi-byte application! Ltd",
+            "business_email": "Jimmie@mailinator.com",
+            "address": "3315 Dannie Greens",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Herbert", 
+            "last_name": "Tromp", 
+            "business_name": "You can't input the interface without overriding the online THX matrix! Ltd",
+            "business_email": "Kobe@mailinator.com",
+            "address": "60212 Cheyenne Lodge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Eleanore", 
+            "last_name": "Wisoky", 
+            "business_name": "You can't calculate the transmitter without quantifying the haptic CSS array! Ltd",
+            "business_email": "Vito@mailinator.com",
+            "address": "29292 Feeney Glens",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Hester", 
+            "last_name": "Doyle", 
+            "business_name": "If we hack the interface, we can get to the USB interface through the digital JSON card! Ltd",
+            "business_email": "Audrey@mailinator.com",
+            "address": "1039 Lakin Rue",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

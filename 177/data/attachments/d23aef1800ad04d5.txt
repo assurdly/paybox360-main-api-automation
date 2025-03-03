@@ -1,0 +1,6 @@
+{
+    "team_id": "929689cb-353f-4307-9438-b24597a73a8d",
+    "team_member_id": "eafc828d-22aa-4038-b4c5-8cf6dd7fe291",
+    "admin_password": "123456",
+    "role": "MEMB"
+}

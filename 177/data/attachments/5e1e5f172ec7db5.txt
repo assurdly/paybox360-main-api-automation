@@ -1,0 +1,16 @@
+{
+    "product_id": "acf29b29-8ab3-4b3e-8a67-a04be5daf824",
+    "team_id": "4ad6d144-6364-4659-af87-c0957bacce91",
+    "supplier_id": "aac834ba-b8be-472e-860c-de9931ff69f8",
+    "description": "This is a test asset",
+    "asset_no": "",
+    "purchase_cost": 2000000,
+    "purchase_date": "2025-01-01",
+    "depreciation_method": "STRAIGHT_LINE", 
+    "useful_life": 2,
+    "residual_value": 800000,
+    "capex_amount": 10000,
+    "depreciation_rate": 0.02,
+    "total_estimated_units": 2000,
+    "units_produced": 4000
+}

@@ -1,0 +1,42 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Concrete Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Concrete Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/peachananr_128.jpg",    
+                    "item": "Fantastic Plastic Gloves",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

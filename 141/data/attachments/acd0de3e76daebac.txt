@@ -1,8 +1,0 @@
-{
-    "company": "8f50a0b3-66a8-4054-8804-c826485012101",
-    "branch": "e0aec2ed-a4ce-45c6-b9a3-881d9e3038eb",
-    "name": "Sylvia Gislason PhD",
-    "email": "Alvera62@mailinator.com",
-    "phone": "08010237304",
-    "address": "54586 Kelton Orchard"
-}

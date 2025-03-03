@@ -1,0 +1,45 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vladyn_128.jpg", 
+                    "item": "Sleek Plastic Shirt",
+                    "quantity": 150, 
+                    "stock_price": 8227.22, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Cotton Chips"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mtolokonnikov_128.jpg",    
+                    "item": "Licensed Concrete Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

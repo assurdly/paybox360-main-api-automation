@@ -1,0 +1,8 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "customer_id": "51c02b29-c642-468c-8abf-678d354338da",
+    "name": "Annette Strosin Sr.",
+    "email": "Roxane_Parker49@mailinator.com",
+    "phone": "08024910800",
+    "address": "2548 Domingo Knolls"
+}

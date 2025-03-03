@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"9ac749c3-e6f9-4dee-9457-2d0830d87dfd","created_at":"2025-03-03T18:14:21.875991+01:00","title":"Primary Tax","rate":0.0,"company":"Morar - Wisozk","branch":"Port Abdullahfort"},"errors":null}

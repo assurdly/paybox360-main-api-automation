@@ -1,0 +1,5 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Bartell, Weber and Hansen"
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"bfb3ef82-4403-409c-8b0e-6cf75aa58b10","created_at":"2025-02-21T18:58:11.063868+01:00","title":"Neural Tax","rate":0.0,"company":"Idy-Violet-Driver","branch":"North Mayahaven"},"errors":null}

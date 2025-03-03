@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"bfbb1f57-50f2-44a6-9264-10314ceb6758","created_at":"2025-02-21T18:58:10.324521+01:00","title":"Auxiliary1450 Tax","rate":1.5,"company":"Idy-Violet-Driver","branch":"North Mayahaven"},"errors":null}

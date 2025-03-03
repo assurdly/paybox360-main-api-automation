@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"2fd533bb-fe5e-44e7-9d00-120b468f5d20","created_at":"2025-03-03T18:11:40.057944+01:00","name":"Captain Category","has_products":false,"company":"38e9924f-2a26-42e5-887a-da3506846b3c","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Morar - Wisozk","stock_count":0},"errors":null}

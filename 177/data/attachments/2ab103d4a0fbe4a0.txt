@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Annette Strosin Sr.","email":"Roxane_Parker49@mailinator.com","phone":"08024910800","branch":"Port Abdullahfort","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

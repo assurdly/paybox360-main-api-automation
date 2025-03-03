@@ -1,0 +1,7 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "customer_id": "25ad47ae-df96-495b-af46-f165fec0ec9fbeans",
+    "city": "Lake Aliyafort",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Richard Bartell",
+    "email": "Mortimer_Sauer",
+    "phone_number": "08024884137",
+    "address": "Idumota, Lagos",
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c"
+}

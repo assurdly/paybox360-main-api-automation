@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"branch_total_sales":0.0,"branch_cash_in_bank":0.0,"branch_cash_in_hand":0.0,"branch_today_sales":0.0,"branch_average_sales":0.0,"branch_gross_profit":0.0,"branch_post_dated_invoice":0.0,"branch_total_products_sold":0},"errors":null}

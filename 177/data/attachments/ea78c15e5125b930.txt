@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + card",
+    "company_id": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "members": [
+        {
+            "email": "solaiya@gmail.com",
+            "phone_no": "+23407034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "+2348031814579",
+            "role": "ADMIN"
+        }
+    ]
+}

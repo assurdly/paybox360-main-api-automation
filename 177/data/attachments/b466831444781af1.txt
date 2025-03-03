@@ -1,0 +1,32 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Emil", 
+            "last_name": "Crist", 
+            "business_name": "Use the solid state SCSI circuit, then you can reboot the multi-byte transmitter! Ltd",
+            "business_email": "Arno@mailinator.com",
+            "address": "842 Feeney Island",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

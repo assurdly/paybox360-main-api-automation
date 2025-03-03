@@ -1,0 +1,11 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "branch": "adbbff44-3cbf-4ff8-bb4b-480da0b67718beans",
+    "name": "neural invoice",
+    "email": "Dejah17@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

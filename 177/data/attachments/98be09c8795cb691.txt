@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "",
+            "business_email": "Lily@mailinator.com"
+        }, 
+        {
+            "business_name": "Wolff LLC inc.", 
+            "business_email": "Deji@mailinator.com"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Wooden Shoes",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Concrete Towels"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mahdif_128.jpg",    
+                    "item": "Generic Steel Bacon",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

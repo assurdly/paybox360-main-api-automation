@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Brown - McDermott Business",
+            "business_email": "Piper.Leuschke98@yopmail.com"
+        }, 
+        {
+            "business_name": "Schinner, Dickens and Hane inc.", 
+            "business_email": "Alexane31@mailinator.com"
+        }
+    ]
+}

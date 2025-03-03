@@ -1,8 +1,0 @@
-{
-    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
-    "customer_id": "1",
-    "name": "Elvira Maggio",
-    "email": "Sonia_Ondricka@mailinator.com",
-    "phone": "08091563467",
-    "address": "8856 O'Hara Fields"
-}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-03-03T18:14:23.708889+01:00","reference":"INV-MAR-02xyAezN","company":"Morar - Wisozk","branch":"Port Abdullahfort","customer":null,"amount":-20096.8,"due_date":"2024-12-31","status":"PENDING"}},"errors":null}

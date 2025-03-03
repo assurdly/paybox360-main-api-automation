@@ -1,0 +1,42 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Rustic Fresh Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Rubber Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vocino_128.jpg",    
+                    "item": "Unbranded Metal Pizza",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"4249db5b-df4e-4dfc-ac93-0e26b6d4c924","name":"Fantastic fresh soap"}]},"errors":null}

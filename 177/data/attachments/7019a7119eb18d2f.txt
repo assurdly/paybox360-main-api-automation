@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"12ea3865-295e-4c46-ae02-8d1153762a40","created_at":"2025-03-03T18:14:21.042318+01:00","title":"Wireless1902 Tax","rate":1.5,"company":"Morar - Wisozk","branch":"Port Abdullahfort"},"errors":null}

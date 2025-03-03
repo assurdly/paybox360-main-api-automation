@@ -1,7 +1,0 @@
-{
-    "name": "Elisa Koepp IV",
-    "email": "Scarlett.Stoltenberg96@mailinator.com",
-    "phone_number": "08042601650",
-    "address": "Idumota, Lagos",
-    "company": "8f50a0b3-66a8-4054-8804-c826485012107"
-}

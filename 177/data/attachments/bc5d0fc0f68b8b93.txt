@@ -1,0 +1,8 @@
+{
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c",
+    "branch": "3e79f009-83f6-4b19-8ffb-60fc4ea9d8bd",
+    "name": "Ms. Vanessa Stracke",
+    "email": "Gilbert.Greenholt@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "625 Victoria Locks"
+}

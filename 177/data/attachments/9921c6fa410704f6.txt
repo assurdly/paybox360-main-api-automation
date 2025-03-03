@@ -1,0 +1,7 @@
+{
+    "name": "Tom Bins Jr.",
+    "email": "Lucious.Zemlak@mailinator.com",
+    "phone_number": "08048981500erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "38e9924f-2a26-42e5-887a-da3506846b3c"
+}

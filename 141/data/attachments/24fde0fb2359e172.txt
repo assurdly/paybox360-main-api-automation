@@ -1,7 +1,0 @@
-{
-    "company": "8f50a0b3-66a8-4054-8804-c82648501210",
-    "name": "Centreville",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": "agshkkw",
-    "is_super_branch": false
-}
