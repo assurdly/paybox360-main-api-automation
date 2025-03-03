@@ -1,0 +1,11 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676beans",
+    "branch": "7b1a577b-6f00-4902-940a-d801b489807a",
+    "name": "open-source invoice",
+    "email": "Natalia33@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

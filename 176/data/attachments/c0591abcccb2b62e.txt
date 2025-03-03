@@ -1,0 +1,11 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "branch": "7b1a577b-6f00-4902-940a-d801b489807a",
+    "name": "redundant invoice",
+    "email": "Jaycee381847@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

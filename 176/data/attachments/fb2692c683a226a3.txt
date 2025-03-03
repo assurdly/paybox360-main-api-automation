@@ -1,0 +1,8 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e86761",
+    "customer_id": "9d394a92-f1c1-4cae-bdcd-274e661ab05c",
+    "name": "Pat Fay",
+    "email": "Sofia_Gerlach0@mailinator.com",
+    "phone": "08096210406",
+    "address": "501 Chelsie Mission"
+}

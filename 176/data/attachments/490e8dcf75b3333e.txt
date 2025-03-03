@@ -1,0 +1,42 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Plastic Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Frozen Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/j2deme_128.jpg",    
+                    "item": "Rustic Rubber Tuna",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

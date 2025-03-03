@@ -1,0 +1,8 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "branch": "d197de73-18b1-4cc0-89e0-4344fbb360461",
+    "name": "Miss Jaime Kris",
+    "email": "Berenice68@mailinator.com",
+    "phone": "08032570674",
+    "address": "8872 Sonny Motorway"
+}

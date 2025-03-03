@@ -1,0 +1,8 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "customer_id": "9d394a92-f1c1-4cae-bdcd-274e661ab05c1",
+    "name": "Bonnie Stroman",
+    "email": "Eunice.Price@mailinator.com",
+    "phone": "08096003051",
+    "address": "0615 Volkman Harbors"
+}

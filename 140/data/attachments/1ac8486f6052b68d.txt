@@ -1,8 +1,0 @@
-{
-    "company": "c16670c7-4dba-4f95-ac3d-9e573ac21561",
-    "branch": "93a40f3a-a9f4-42ef-900f-4eeaf67295bf1",
-    "name": "Ms. Raquel Feil",
-    "email": "Kristin.Gutkowski@mailinator.com",
-    "phone": "08031350073",
-    "address": "068 Edmond Valleys"
-}

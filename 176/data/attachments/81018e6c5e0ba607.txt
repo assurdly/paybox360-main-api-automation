@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Jaquan", 
+            "last_name": "Gottlieb", 
+            "business_name": "I'll parse the bluetooth FTP microchip, that should application the AGP bandwidth! Ltd",
+            "business_email": "Ricardo@mailinator.com",
+            "address": "445 Bobbie Extension",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Giovanna", 
+            "last_name": "White", 
+            "business_name": "If we hack the capacitor, we can get to the SSL bandwidth through the multi-byte RSS driver! Ltd",
+            "business_email": "Dax@mailinator.com",
+            "address": "6240 Johnston Glens",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Ebba", 
+            "last_name": "Renner", 
+            "business_name": "We need to bypass the virtual AGP application! Ltd",
+            "business_email": "Darien@mailinator.com",
+            "address": "09299 Hand Garden",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Jevon", 
+            "last_name": "Considine", 
+            "business_name": "We need to transmit the solid state HDD application! Ltd",
+            "business_email": "Darrion@mailinator.com",
+            "address": "643 Gibson Shoal",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

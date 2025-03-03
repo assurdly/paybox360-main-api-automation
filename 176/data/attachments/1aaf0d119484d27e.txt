@@ -1,0 +1,7 @@
+{
+    "name": "Tami Lehner II",
+    "email": "Lisette_Rempel99@mailinator.com",
+    "phone_number": "08057961429",
+    "address": "Idumota, Lagos",
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676"
+}

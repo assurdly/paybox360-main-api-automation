@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-03-03T16:13:14.484633+01:00","reference":"INV-MAR-zg96w7iu","company":"O'Conner, Fritsch And Heller","branch":"Casas Adobes","customer":null,"amount":54430.5,"due_date":"2020-12-31","status":"PENDING"}},"errors":null}

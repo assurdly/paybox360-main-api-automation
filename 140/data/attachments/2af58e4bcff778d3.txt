@@ -1,7 +1,0 @@
-{
-    "name": "Kristie Emard",
-    "email": "Alycia_Gulgowski51@mailinator.com",
-    "phone_number": "08041627921erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "c16670c7-4dba-4f95-ac3d-9e573ac21561"
-}

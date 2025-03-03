@@ -1,0 +1,42 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Frozen Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Soft Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/antonyzotov_128.jpg",    
+                    "item": "Tasty Rubber Chair",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

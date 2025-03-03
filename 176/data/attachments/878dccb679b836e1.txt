@@ -1,0 +1,7 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e86761",
+    "name": "Spencerchester",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

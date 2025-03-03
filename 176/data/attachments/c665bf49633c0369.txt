@@ -1,0 +1,8 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "customer_id": "9d394a92-f1c1-4cae-bdcd-274e661ab05c",
+    "name": "Dr. Delores Balistreri",
+    "email": "Gaylord78@mailinator.com",
+    "phone": "08068199418",
+    "address": "3791 Shirley Burgs"
+}

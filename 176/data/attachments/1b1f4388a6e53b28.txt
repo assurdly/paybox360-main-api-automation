@@ -1,0 +1,9 @@
+{
+    "company": "5cbe5dac-a7f3-4ec6-f15587ce9384",
+    "team": "77cf7387-1216-48a9-8416-89dd7b5de1b0",
+    "budget_type": "COMPANY",
+    "budget_name": "Spend Management 23",
+    "budget_amount": 500000,
+    "start_date": "2024-07-16",
+    "end_date": "2024-07-31"
+}

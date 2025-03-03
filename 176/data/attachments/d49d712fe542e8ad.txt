@@ -1,0 +1,8 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e86761",
+    "branch": "d197de73-18b1-4cc0-89e0-4344fbb36046",
+    "name": "Miranda Konopelski",
+    "email": "Thomas_Rice@mailinator.com",
+    "phone": "08015411849",
+    "address": "6438 Fahey Trail"
+}

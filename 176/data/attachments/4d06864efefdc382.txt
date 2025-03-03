@@ -1,0 +1,45 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mactopus_128.jpg", 
+                    "item": "Unbranded Granite Bacon",
+                    "quantity": 150, 
+                    "stock_price": 915.72, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Metal Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/yayteejay_128.jpg",    
+                    "item": "Gorgeous Granite Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676beans",
+    "branch": "7b1a577b-6f00-4902-940a-d801b489807a", 
+    "items": [
+        {
+            "item_description": "item capacitor",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop port",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "3b1dfcb6-3411-4dcf-b240-4b51dab82df1",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

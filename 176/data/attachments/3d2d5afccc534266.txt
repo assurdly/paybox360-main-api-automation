@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Ward Group Business",
+            "business_email": "Mikel93@yopmail.com"
+        }, 
+        {
+            "business_name": "Welch Inc inc.", 
+            "business_email": "Griffin33@mailinator.com"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Ergonomic Metal Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Fresh Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/yecidsm_128.jpg",    
+                    "item": "Unbranded Frozen Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

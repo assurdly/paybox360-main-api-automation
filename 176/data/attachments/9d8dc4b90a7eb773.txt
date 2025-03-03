@@ -1,0 +1,7 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "customer_id": "2b96377c-467b-42e4-be0a-07073edb411d",
+    "city": "Salliehaven",
+    "state": "Lagsos - Test",
+    "country": "Nepal"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "c16670c7-4dba-4f95-ac3d-9e573ac21561",
-    "branch": "93a40f3a-a9f4-42ef-900f-4eeaf67295bf",
-    "name": "Ramiro Erdman",
-    "email": "Shemar10@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "5323 Ankunding Groves"
-}

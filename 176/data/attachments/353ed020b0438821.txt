@@ -1,0 +1,5 @@
+{
+    "amount": 2000,
+    "asset_id": "67b7c41f-afe5-4b1a-95a2-461d1e448289",
+    "expense_type": "MAINTENANCE" 
+}

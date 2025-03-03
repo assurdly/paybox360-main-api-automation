@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "2b96377c-467b-42e4-be0a-07073edb411d",
+    "city": "East Bulah",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Morris Little",
+    "email": "Rogelio_Lemke72",
+    "phone_number": "08058231178",
+    "address": "Idumota, Lagos",
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676"
+}

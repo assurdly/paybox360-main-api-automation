@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "2ceaf4ef-d3c7-455b-bead-66d40c88a07a"
+        },
+        {
+            "name": "Sausages"
+        }
+    ]
+}

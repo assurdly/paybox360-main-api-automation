@@ -1,0 +1,42 @@
+{
+    "company": "10f36420-222a-4976-8d1d-a9aeb10e8676",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Wooden Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Metal Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/itolmach_128.jpg",    
+                    "item": "Ergonomic Granite Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
