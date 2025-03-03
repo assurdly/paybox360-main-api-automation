@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Nicole Kris","email":"Verona_Greenholt62@mailinator.com","phone":"08067342327","branch":"Irondequoit","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

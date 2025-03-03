@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"7388e576-8490-42f7-9325-b60623c8417e","created_at":"2025-02-23T09:23:47.009118+01:00","title":"Wireless1450 Tax","rate":1.5,"company":"Idy-Azure-Capacitor","branch":"Rhodaton"},"errors":null}

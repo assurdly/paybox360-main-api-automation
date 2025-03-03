@@ -1,1 +1,0 @@
-{"price_lists":[{"selected_branches":["“1f9129ab-a58e-40cd-8d2b-e04f25ad45fb1” is not a valid UUID."],"category":["This field may not be null."],"item":["This field may not be null."]}]}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"6cfd486a-5ae5-46a6-abb1-65cf836a8faf","created_at":"2025-03-03T18:31:58.281985+01:00","title":"Solid State Tax","rate":0.0,"company":"Reichel - O'Hara","branch":"Irondequoit"},"errors":null}

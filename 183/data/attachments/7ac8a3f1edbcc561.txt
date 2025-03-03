@@ -1,0 +1,7 @@
+{
+    "name": "Katrina Emard",
+    "email": "Jarod90",
+    "phone_number": "08078548777",
+    "address": "Idumota, Lagos",
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6"
+}

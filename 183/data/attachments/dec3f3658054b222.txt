@@ -1,0 +1,7 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade61",
+    "branch": "081a9883-2263-4583-b2ba-37017598e888",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Jaclyn13@mailinator.com"
+}

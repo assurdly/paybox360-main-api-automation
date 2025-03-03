@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "",
-    "city": "Carterstad",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

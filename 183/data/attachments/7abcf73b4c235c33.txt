@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Cartwright - Turcotte Business",
+            "business_email": "Jesse_Bogisich83@yopmail.com"
+        }, 
+        {
+            "business_name": "Kulas, Sauer and Hauck inc.", 
+            "business_email": "Jadon_Rodriguez@mailinator.com"
+        }
+    ]
+}

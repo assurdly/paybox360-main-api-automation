@@ -1,0 +1,7 @@
+{
+    "name": "Fernando Gislason",
+    "email": "Fae30@mailinator.com",
+    "phone_number": "08018688724",
+    "address": "Idumota, Lagos",
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6"
+}

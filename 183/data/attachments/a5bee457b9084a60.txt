@@ -1,0 +1,11 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "branch": "",
+    "name": "cross-platform invoice",
+    "email": "Retta_Rice@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,42 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Refined Frozen Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Plastic Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kucingbelang4_128.jpg",    
+                    "item": "Gorgeous Fresh Soap",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

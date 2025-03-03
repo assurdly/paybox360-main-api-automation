@@ -1,0 +1,42 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Ergonomic Granite Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Steel Keyboard"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/lonesomelemon_128.jpg",    
+                    "item": "Handcrafted Steel Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

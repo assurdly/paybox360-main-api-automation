@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"504e3065-0fb4-4908-b73a-1aa1f450af3b","created_at":"2025-03-03T18:31:58.381290+01:00","title":"Open-Source Tax","rate":-10.0,"company":"Reichel - O'Hara","branch":"Irondequoit"},"errors":null}

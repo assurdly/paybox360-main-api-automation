@@ -1,0 +1,8 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "branch": "9b38a2ff-63f3-4cb4-93d9-8e426021c664",
+    "name": "Ida Howell",
+    "email": "Rylee_Donnelly87@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "61616 Ferry Mills"
+}

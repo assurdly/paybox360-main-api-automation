@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"8e87b58b-6254-4ab9-a42c-44514ca7e942","created_at":"2025-03-03T18:30:27.275372+01:00","name":"Captain Category","has_products":false,"company":"932d663c-0f82-49ad-bc46-7198a105ade6","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Reichel - O'Hara","stock_count":0},"errors":null}

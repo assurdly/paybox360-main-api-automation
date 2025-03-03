@@ -1,0 +1,8 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade61",
+    "branch": "9b38a2ff-63f3-4cb4-93d9-8e426021c664",
+    "name": "Dr. Martin Zulauf",
+    "email": "King_Hirthe@mailinator.com",
+    "phone": "08079154792",
+    "address": "4746 Jast Summit"
+}

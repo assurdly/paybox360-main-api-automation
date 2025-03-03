@@ -1,0 +1,8 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "branch": "9b38a2ff-63f3-4cb4-93d9-8e426021c6641",
+    "name": "Marty Howell",
+    "email": "Ruthie.Orn@mailinator.com",
+    "phone": "08037457134",
+    "address": "13003 Trenton Stravenue"
+}

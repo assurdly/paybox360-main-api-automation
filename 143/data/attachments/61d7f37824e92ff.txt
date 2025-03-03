@@ -1,7 +1,0 @@
-{
-    "company_address":"Alara 24",
-    "pay_schedule": "MONTHLY",
-    "company_official_email": "abandy@gmail.com"
-
-
-}

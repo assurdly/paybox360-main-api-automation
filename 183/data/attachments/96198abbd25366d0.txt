@@ -1,0 +1,7 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "customer_id": "2ffda0a0-6ad1-4e5f-9dda-61bb67873aad",
+    "city": "Wisozktown",
+    "state": "Kyleechester",
+    "country": ""
+}

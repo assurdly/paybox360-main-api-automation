@@ -1,0 +1,42 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Concrete Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Rubber Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vlajki_128.jpg",    
+                    "item": "Tasty Metal Ball",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,5 +1,0 @@
-{
-    "company": "7184ff15-926a-403d-b6c5-c0abec430d22",
-    "sender_id": "Shopify",
-    "sample_message": "Shop at conveninence."
-}

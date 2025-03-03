@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"932d663c-0f82-49ad-bc46-7198a105ade6","company_name":"Reichel - O'Hara","industry":"BANKING AND FINANCE","size":5}}

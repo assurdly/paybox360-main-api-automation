@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"aeba7638-4ae1-4b22-9164-7cb656a24836","name":"Handcrafted steel chair"}]},"errors":null}

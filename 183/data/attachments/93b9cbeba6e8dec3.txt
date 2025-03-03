@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Dereck", 
+            "last_name": "Orn", 
+            "business_name": "Try to navigate the RAM panel, maybe it will calculate the back-end monitor! Ltd",
+            "business_email": "Mohammad@mailinator.com",
+            "address": "590 McGlynn Spring",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Lonzo", 
+            "last_name": "Gislason", 
+            "business_name": "Use the cross-platform SMTP alarm, then you can generate the digital bus! Ltd",
+            "business_email": "Arden@mailinator.com",
+            "address": "2718 Jack Spring",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Mozelle", 
+            "last_name": "Jenkins", 
+            "business_name": "Try to generate the ADP array, maybe it will back up the cross-platform array! Ltd",
+            "business_email": "Alexandre@mailinator.com",
+            "address": "6661 Larson Stravenue",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "D'angelo", 
+            "last_name": "Hermiston", 
+            "business_name": "I'll hack the 1080p RAM program, that should monitor the CSS sensor! Ltd",
+            "business_email": "Dasia@mailinator.com",
+            "address": "517 Eldon Stravenue",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

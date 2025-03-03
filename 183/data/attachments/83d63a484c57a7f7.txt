@@ -1,0 +1,33 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "branch": "081a9883-2263-4583-b2ba-37017598e888",
+    "category": "04a20877-6155-498c-a5e0-cabcb7a78310",
+    "stock_quantity": 0,
+    "product_name": "emptystockmatrix",
+    "product_description": "protocol",
+    "product_tag": "MacBook",
+    "stock_alert": 0,
+    "cost_price": 1880900,
+    "selling_price": 1950600,
+    "discount": 1,
+    "currency": "NGN",
+    "sell_without_inventory": false,
+    "restaurant_item": false,
+    "has_variants": true,
+    "product_image_1": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_2": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_3": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_4": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_5": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "variants": [
+        {
+            "description": "color",
+            "product_value": "blue",
+            "quantity": 0,
+            "variant_price": 260000,
+            "selling_price": 275000,
+            "variant_discount": 1,
+            "currency": "NGN"
+        }
+    ]
+}

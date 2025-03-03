@@ -1,0 +1,8 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "customer_id": "54fc8d3e-6ff6-4e89-afde-52cd5fe14205",
+    "name": "Ralph Wisoky",
+    "email": "Carolyne_Beatty49@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "5297 Connelly Glen"
+}

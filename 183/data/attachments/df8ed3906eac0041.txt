@@ -1,0 +1,42 @@
+{
+    "company": "932d663c-0f82-49ad-bc46-7198a105ade6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Cotton Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Cotton Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rpatey_128.jpg",    
+                    "item": "Awesome Metal Towels",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
