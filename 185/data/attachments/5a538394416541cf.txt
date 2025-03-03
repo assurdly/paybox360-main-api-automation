@@ -1,0 +1,7 @@
+{
+    "name": "Fernando Stokes",
+    "email": "Karson_Kub@mailinator.com",
+    "phone_number": "08081789746",
+    "address": "Idumota, Lagos",
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d"
+}

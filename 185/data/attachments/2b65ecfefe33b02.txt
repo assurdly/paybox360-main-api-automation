@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "00f53c71-2db1-4140-a87e-a492b72e2074",
+    "city": "South Tyson",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

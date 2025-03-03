@@ -1,0 +1,11 @@
+{
+    "Authorization": "Bearer {{live_token}}",
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "e0aad3f7-d148-49f4-99de-be9eff3fc6a7",
+    "Host": "{{live_base_url}}",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive"
+}

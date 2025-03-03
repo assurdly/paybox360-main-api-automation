@@ -1,0 +1,11 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "branch": "",
+    "name": "multi-byte invoice",
+    "email": "Sophie.Koch37@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"wallet_balance":40.019999999999996,"sms_unit":16,"account_details":{"account_name":"Bug Bash Company","account_number":"8420058557","bank_name":"Wema Bank Plc"}}

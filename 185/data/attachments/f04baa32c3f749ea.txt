@@ -1,0 +1,42 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Unbranded Soft Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Wooden Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/justme_timothyg_128.jpg",    
+                    "item": "Fantastic Frozen Bike",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

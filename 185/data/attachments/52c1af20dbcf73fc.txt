@@ -1,0 +1,8 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d1",
+    "branch": "3a6a5247-245e-47bf-b8c6-d077130512dc",
+    "name": "Lorenzo Collier III",
+    "email": "Titus_Kohler@mailinator.com",
+    "phone": "08072425526",
+    "address": "1046 Joan Plain"
+}

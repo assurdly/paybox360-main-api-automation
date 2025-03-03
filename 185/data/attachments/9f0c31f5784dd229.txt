@@ -1,0 +1,42 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Awesome Concrete Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Rubber Salad"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/fran_mchamy_128.jpg",    
+                    "item": "Intelligent Granite Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

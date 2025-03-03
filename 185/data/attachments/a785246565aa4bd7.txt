@@ -1,0 +1,7 @@
+{
+    "name": "Raymond Toy",
+    "email": "Danyka_Legros",
+    "phone_number": "08086816960",
+    "address": "Idumota, Lagos",
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d"
+}

@@ -1,0 +1,7 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "customer_id": "00f53c71-2db1-4140-a87e-a492b72e2074",
+    "city": "Oak Park",
+    "state": "Lagsos - Test",
+    "country": "Zimbabwe"
+}

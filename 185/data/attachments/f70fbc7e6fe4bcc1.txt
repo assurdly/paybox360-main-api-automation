@@ -1,0 +1,8 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "branch": "3a6a5247-245e-47bf-b8c6-d077130512dc",
+    "name": "Dr. Greg Kunde",
+    "email": "Trever.Powlowski@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "862 Stiedemann Viaduct"
+}

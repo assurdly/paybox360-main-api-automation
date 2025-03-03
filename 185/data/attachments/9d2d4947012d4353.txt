@@ -1,0 +1,23 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5dbeans",
+    "branch": "b3587a45-2a55-455d-8187-73a0676e2aef", 
+    "items": [
+        {
+            "item_description": "item protocol",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop program",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "d65921bf-e331-4b45-aa01-f9a724957e26",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

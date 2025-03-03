@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Junius", 
+            "last_name": "Adams", 
+            "business_name": "Use the 1080p SQL monitor, then you can index the mobile bus! Ltd",
+            "business_email": "Vidal@mailinator.com",
+            "address": "985 Maggio Meadows",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Lexi", 
+            "last_name": "Homenick", 
+            "business_name": "I'll connect the cross-platform RAM bandwidth, that should application the SAS driver! Ltd",
+            "business_email": "Edd@mailinator.com",
+            "address": "3629 Lind Views",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Ruthe", 
+            "last_name": "Krajcik", 
+            "business_name": "Use the digital JSON monitor, then you can back up the primary bus! Ltd",
+            "business_email": "Ethan@mailinator.com",
+            "address": "47841 Felicity Loaf",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Elnora", 
+            "last_name": "Will", 
+            "business_name": "Use the neural JBOD application, then you can calculate the 1080p system! Ltd",
+            "business_email": "Kieran@mailinator.com",
+            "address": "4612 Ezekiel Isle",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

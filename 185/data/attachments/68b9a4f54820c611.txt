@@ -1,0 +1,8 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "customer_id": "6141d819-0533-45d9-a4bd-5bb62cb30ea8",
+    "name": "Jan Watsica",
+    "email": "Carmel.DAmore@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "798 Crist Road"
+}

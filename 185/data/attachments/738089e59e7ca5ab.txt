@@ -1,0 +1,42 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handmade Rubber Towels",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Cotton Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mikaeljorhult_128.jpg",    
+                    "item": "Practical Wooden Fish",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

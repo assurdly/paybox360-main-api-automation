@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"6f0f379c-8ab5-4ea6-8a91-d9b3059a314e","created_at":"2025-03-03T18:39:24.688983+01:00","title":"Open-Source Tax","rate":0.0,"company":"Jast - Mante","branch":"Lake Clarabelle"},"errors":null}

@@ -1,5 +1,0 @@
-{
-    "company": "8715a9cb-9a75-4dcb-a94f-5971587e048f",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Koch - Bins"
-}

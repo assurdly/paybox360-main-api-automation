@@ -1,0 +1,42 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Fresh Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Fresh Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/timmillwood_128.jpg",    
+                    "item": "Fantastic Granite Pizza",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-03-03T18:39:26.861458+01:00","reference":"INV-MAR-vXd9C1J3","company":"Jast - Mante","branch":"Lake Clarabelle","customer":null,"amount":54430.5,"due_date":"2024-12-31","status":"PENDING"}},"errors":null}

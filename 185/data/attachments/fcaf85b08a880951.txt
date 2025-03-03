@@ -1,0 +1,45 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/aiiaiiaii_128.jpg", 
+                    "item": "Fantastic Wooden Towels",
+                    "quantity": 150, 
+                    "stock_price": 9230.30, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Awesome Wooden Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/balintorosz_128.jpg",    
+                    "item": "Generic Frozen Towels",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

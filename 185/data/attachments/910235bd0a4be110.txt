@@ -1,0 +1,18 @@
+{
+    "company_id": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "branch_id": "3a6a5247-245e-47bf-b8c6-d077130512dc",
+    "team_name": "Ms. Brent Yost",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

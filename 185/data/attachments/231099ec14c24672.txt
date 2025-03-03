@@ -1,0 +1,5 @@
+{
+    "budget": "900",
+    "team": "e5ee50fe-3635-4e19-9f6b-c6aca4a83048",
+    "amount": 600
+}

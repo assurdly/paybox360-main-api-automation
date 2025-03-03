@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"e081f66f-556d-454d-9002-6959112f351a","name":"Intelligent granite cheese"}]},"errors":null}

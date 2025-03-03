@@ -1,0 +1,7 @@
+{
+    "company": "ec96fc9d-2275-449c-ac54-70bb5fbf7d5d",
+    "branch": "3a6a5247-245e-47bf-b8c6-d077130512dc",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": "jdcjayu",
+    "email": "Marjorie.Nicolas92@mailinator.com"
+}
