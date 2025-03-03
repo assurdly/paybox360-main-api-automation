@@ -124,7 +124,7 @@ jobs:
         run: sleep 10
 
       - name: Notify Slack
-        if: always()
+        if:  github.event_name == 'schedule'
         uses: rtCamp/action-slack-notify@v2
         env:
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
