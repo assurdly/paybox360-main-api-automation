@@ -1,0 +1,8 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5",
+    "customer_id": "d93af026-e7d8-4dd6-8d77-2b40a2a77910",
+    "name": "Lela Gorczany",
+    "email": "Willa.Borer@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "880 Carmel Courts"
+}

@@ -1,0 +1,5 @@
+{
+    "key_result_to_align": "be20ab0c-6c54-4c91-a0f2-0092879801d9",
+    "aligned_key_results": ["47a0f6db-9d3b-4f5f-9fca-f4450c20c4c4"],
+    "aligned_goals": ["761dadfb-849d-4dc5-8698-01d8175d3fef"]
+}

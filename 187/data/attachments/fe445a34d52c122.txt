@@ -1,0 +1,16 @@
+{
+    "team_name": "Team + program",
+    "company_id": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5",
+    "members": [
+        {
+            "email": "soloyede708@gmail.com",
+            "phone_no": "+2347034256781",
+            "role": "MEMBER"
+        },
+        {
+            "email": "abayomi5991@gmail.com",
+            "phone_no": "+2348031814579",
+            "role": "SUB_ADMIN"
+        }
+    ]
+}

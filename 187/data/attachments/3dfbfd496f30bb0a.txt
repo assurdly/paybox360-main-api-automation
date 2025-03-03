@@ -1,0 +1,7 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e51",
+    "branch": "1f475b67-5857-411c-904a-a1d56a43be49",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Martina.Emard41@mailinator.com"
+}

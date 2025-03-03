@@ -1,0 +1,1 @@
+{"total_goals":0,"total_key_results":0,"total_departments":0,"total_employees":0}

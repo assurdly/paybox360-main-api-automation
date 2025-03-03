@@ -1,0 +1,11 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5beans",
+    "branch": "1f475b67-5857-411c-904a-a1d56a43be49",
+    "name": "mobile invoice",
+    "email": "Rhiannon_Rowe@mailsac.com",
+    "phone": "08093984569",
+    "address": "",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

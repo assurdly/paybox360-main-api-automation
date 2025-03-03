@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"7fa2a6f3-e7b5-41a2-94fa-ea212c66e2d0","name":"Licensed rubber mouse"}]},"errors":null}

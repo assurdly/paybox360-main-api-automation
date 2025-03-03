@@ -1,0 +1,1 @@
+{"id":"398e8004-5fce-42fc-b1d6-040f74d7ba5d","created_at":"2025-03-03T18:53:55.113711+01:00","updated_at":"2025-03-03T18:53:55.113739+01:00","mode_of_transaction":"CARD","amount":45.09,"transaction_date":"2025-03-03","order":"0a27a57c-5b1f-47cf-bd0a-a0d1d77a91b1"}

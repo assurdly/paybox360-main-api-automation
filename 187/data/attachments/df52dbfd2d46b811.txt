@@ -1,0 +1,42 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Wooden Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Rubber Hat"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/iamglimy_128.jpg",    
+                    "item": "Unbranded Fresh Table",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

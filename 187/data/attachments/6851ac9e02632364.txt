@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Gavin", 
+            "last_name": "Rosenbaum", 
+            "business_name": "If we navigate the driver, we can get to the SSL feed through the 1080p RSS protocol! Ltd",
+            "business_email": "Justen@mailinator.com",
+            "address": "620 Lubowitz Bridge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Allan", 
+            "last_name": "Windler", 
+            "business_name": "Try to connect the XML alarm, maybe it will synthesize the solid state firewall! Ltd",
+            "business_email": "Evert@mailinator.com",
+            "address": "59633 Pollich Plaza",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Schuyler", 
+            "last_name": "Gerhold", 
+            "business_name": "If we calculate the driver, we can get to the GB pixel through the open-source HTTP hard drive! Ltd",
+            "business_email": "Fabian@mailinator.com",
+            "address": "7548 Hermiston Pass",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Bryana", 
+            "last_name": "Wunsch", 
+            "business_name": "Use the multi-byte SMTP microchip, then you can navigate the primary transmitter! Ltd",
+            "business_email": "Lyric@mailinator.com",
+            "address": "50019 Bartell Port",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

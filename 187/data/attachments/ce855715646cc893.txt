@@ -1,0 +1,7 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5",
+    "name": "Lake Arielleland",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

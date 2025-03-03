@@ -1,0 +1,7 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5",
+    "customer_id": "2b182abb-3027-4540-8fbe-7941bafa133fbeans",
+    "city": "Delmerland",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

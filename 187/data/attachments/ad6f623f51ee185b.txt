@@ -1,0 +1,22 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e51",
+    "branch": "cad28746-0f39-4c59-b77b-01a44aa31712",
+    "invoice": "null",
+    "customer": "d93af026-e7d8-4dd6-8d77-2b40a2a77910",
+    "choice": "REFUND",
+    "reason": "DAMAGED OR DEFECTIVE ITEM",
+    "restock": "NO",
+    "payment_method": "CASH",
+    "items": [
+        {
+            "item": "4da9d987-0160-402f-b8f4-afe3b25c814a",
+            "quantity": 1,
+            "unit_price": 1750
+        },
+        {
+            "item": "6ffbfdc2-72bf-45b8-8f13-ffdeb2d62971",
+            "quantity": 1,
+            "unit_price": 1750
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "payroll_pin": "5555",
+    "payroll_date": "2023-11-30",
+    "narration": "OCT_PAYROLL",
+    "payroll_month": "october",
+    "payroll_year": "2023",
+    "is_recurring": false
+}

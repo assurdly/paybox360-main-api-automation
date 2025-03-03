@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "1f475b67-5857-411c-904a-a1d56a43be49",
+    "name": "multi-byte invoice",
+    "email": "Augusta93@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

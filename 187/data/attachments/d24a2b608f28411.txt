@@ -1,0 +1,1 @@
+{"company":["Please provide a valid Company ID."],"send_date":["Date format must be DD-MM-YYYY HH:MM"]}

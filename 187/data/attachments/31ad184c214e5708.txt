@@ -1,0 +1,5 @@
+{
+    "company_id": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e51",
+    "description": "This is an example description for the instant website.",
+    "store_url": "https://example.com/store-front/"
+}

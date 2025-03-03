@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "2b182abb-3027-4540-8fbe-7941bafa133f",
+    "city": "North Osbaldobury",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

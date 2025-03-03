@@ -1,0 +1,42 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e5",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Ergonomic Fresh Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Metal Shirt"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/idiot_128.jpg",    
+                    "item": "Handmade Metal Ball",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

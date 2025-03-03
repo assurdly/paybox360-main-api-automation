@@ -1,0 +1,45 @@
+{
+    "company": "f4cf26f4-4201-4be8-ab6d-e676ebb3f5e52",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andytlaw_128.jpg", 
+                    "item": "Refined Metal Chair",
+                    "quantity": 150, 
+                    "stock_price": 766.29, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Wooden Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/arpitnj_128.jpg",    
+                    "item": "Tasty Granite Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

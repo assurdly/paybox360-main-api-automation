@@ -1,0 +1,1 @@
+{"status":true,"message":"Account number resolved","data":{"account_number":"2212979372","account_name":"Ayomide   Liasu","bank_id":21}}
