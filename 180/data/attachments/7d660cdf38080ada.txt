@@ -1,0 +1,45 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ismail_biltagi_128.jpg", 
+                    "item": "Sleek Plastic Keyboard",
+                    "quantity": 150, 
+                    "stock_price": 5196.32, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Fresh Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sydlawrence_128.jpg",    
+                    "item": "Incredible Soft Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

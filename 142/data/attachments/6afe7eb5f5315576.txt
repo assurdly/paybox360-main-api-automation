@@ -1,8 +1,0 @@
-{
-    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
-    "branch": "9f972ede-44e4-4563-b209-3557de449f17",
-    "name": "Anne Leffler DVM",
-    "email": "Tito84",
-    "phone": "08088537524",
-    "address": "66982 Labadie Fort"
-}

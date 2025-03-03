@@ -1,8 +1,0 @@
-{
-    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b1",
-    "customer_id": "",
-    "name": "Leticia Johns",
-    "email": "Max76@mailinator.com",
-    "phone": "08069738702",
-    "address": "467 Roberta Highway"
-}

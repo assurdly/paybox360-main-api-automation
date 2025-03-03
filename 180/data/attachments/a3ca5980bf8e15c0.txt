@@ -1,0 +1,42 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Steel Bacon",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Metal Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/djsherman_128.jpg",    
+                    "item": "Fantastic Frozen Soap",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

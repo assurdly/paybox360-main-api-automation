@@ -1,7 +1,0 @@
-{
-    "name": "Wilma Gorczany",
-    "email": "Donavon30",
-    "phone_number": "08090757875",
-    "address": "Idumota, Lagos",
-    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b"
-}

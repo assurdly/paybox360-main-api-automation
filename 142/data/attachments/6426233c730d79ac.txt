@@ -1,7 +1,0 @@
-{
-    "name": "Eloise Kling PhD",
-    "email": "Meda46@mailinator.com",
-    "phone_number": "08086062678",
-    "address": "Idumota, Lagos",
-    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b"
-}

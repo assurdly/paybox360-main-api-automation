@@ -1,5 +1,0 @@
-{
-    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Dickinson, Hamill and Halvorson"
-}

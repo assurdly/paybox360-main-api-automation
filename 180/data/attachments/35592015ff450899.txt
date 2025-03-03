@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Jackie Zulauf","email":"Emmett40@mailinator.com","phone":"08044807490","branch":"North Alleneton","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

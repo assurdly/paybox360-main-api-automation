@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "",
-    "batch_id": "",
-    "rrn": ""
-}

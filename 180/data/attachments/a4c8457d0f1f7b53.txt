@@ -1,0 +1,8 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd49221",
+    "customer_id": "c31db7e7-ad88-4244-8c8a-58a51a39bb9e",
+    "name": "Margaret Wilkinson",
+    "email": "Kristin46@mailinator.com",
+    "phone": "08038395762",
+    "address": "6447 Kelton Pine"
+}

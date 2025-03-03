@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Katelynn", 
+            "last_name": "Ryan", 
+            "business_name": "The PNG application is down, input the wireless application so we can synthesize the SDD capacitor! Ltd",
+            "business_email": "Eldridge@mailinator.com",
+            "address": "6057 Bashirian Flat",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Eileen", 
+            "last_name": "Bogisich", 
+            "business_name": "You can't compress the application without compressing the mobile EXE bus! Ltd",
+            "business_email": "Viola@mailinator.com",
+            "address": "266 Kelsie Rapids",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Blake", 
+            "last_name": "Kessler", 
+            "business_name": "Try to bypass the XML program, maybe it will bypass the online hard drive! Ltd",
+            "business_email": "Dorian@mailinator.com",
+            "address": "5051 Klocko Place",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Roxane", 
+            "last_name": "Carter", 
+            "business_name": "The SSL system is down, program the multi-byte pixel so we can copy the COM alarm! Ltd",
+            "business_email": "Coleman@mailinator.com",
+            "address": "7986 Denesik Rapids",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

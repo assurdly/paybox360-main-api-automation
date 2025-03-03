@@ -1,5 +1,0 @@
-{
-    "employee_net_amount": 200,
-    "employee_gross_amount": 200,
-    "employee_payable_amount": 200
-}

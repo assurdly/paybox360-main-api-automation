@@ -1,7 +1,0 @@
-{
-    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
-    "name": "Pompano Beach",
-    "address": "105, Broad Street, Lagos, Nigeria",
-    "vat": 7.5,
-    "is_super_branch": false
-}

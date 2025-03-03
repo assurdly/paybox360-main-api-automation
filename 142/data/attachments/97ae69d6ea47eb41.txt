@@ -1,5 +1,0 @@
-{
-    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Lynch, Gulgowski and Zulauf"
-}

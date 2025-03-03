@@ -1,8 +1,0 @@
-{
-    "company": "6406c6dc-ee7b-4933-bf33-809091d5148b",
-    "branch": "a7680720-d427-43e1-9cdf-38ee9e5cd30e",
-    "name": "Gertrude Tremblay",
-    "email": "naima1905@gmail.com",
-    "phone": "08051896490",
-    "address": "007 Daniel Mill"
-}

@@ -1,8 +1,0 @@
-{
-    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f1",
-    "customer_id": "",
-    "name": "Jimmie Boyle PhD",
-    "email": "Clint29@mailinator.com",
-    "phone": "08073452318",
-    "address": "99195 Onie Hollow"
-}

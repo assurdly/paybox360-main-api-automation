@@ -1,0 +1,4 @@
+{
+    "goal_to_align": "dcfacbe6-c5cd-4c99-b9b3-7daa26d321fc",
+    "aligned_goals": ["c4cac800-870a-4bd0-8558-407dd2de2647"]
+}

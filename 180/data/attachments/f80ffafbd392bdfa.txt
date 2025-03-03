@@ -1,0 +1,7 @@
+{
+    "name": "Rachael Ullrich",
+    "email": "Brennan_Kutch64",
+    "phone_number": "08099625512",
+    "address": "Idumota, Lagos",
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922"
+}

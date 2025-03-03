@@ -1,0 +1,7 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd49221",
+    "branch": "4d572b63-b6af-47f4-9899-e775bbeeca6a",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Brent_Bradtke91@mailinator.com"
+}

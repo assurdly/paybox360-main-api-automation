@@ -1,0 +1,6 @@
+{
+    "company": "",
+    "branch": "4d572b63-b6af-47f4-9899-e775bbeeca6a", 
+    "title": "redundant tax",
+    "rate": 1.5
+}

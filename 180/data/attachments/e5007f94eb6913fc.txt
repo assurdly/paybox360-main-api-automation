@@ -1,0 +1,7 @@
+{
+    "name": "Calvin White Sr.",
+    "email": "Stanton.Kihn",
+    "phone_number": "08075904485",
+    "address": "Idumota, Lagos",
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922"
+}

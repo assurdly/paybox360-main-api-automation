@@ -1,0 +1,45 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd49222",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/baliomega_128.jpg", 
+                    "item": "Gorgeous Frozen Salad",
+                    "quantity": 150, 
+                    "stock_price": 5196.32, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Gorgeous Frozen Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sbtransparent_128.jpg",    
+                    "item": "Rustic Metal Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

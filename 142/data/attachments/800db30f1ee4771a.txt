@@ -1,5 +1,0 @@
-{
-    "amount": 100000,
-    "apply_to":"ALL",
-    "apply_type": "BONUS"
-}

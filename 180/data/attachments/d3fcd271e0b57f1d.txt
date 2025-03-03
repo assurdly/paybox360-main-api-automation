@@ -1,0 +1,7 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922",
+    "customer_id": "74e5d174-0100-44ad-a34c-4e96bd12d016beans",
+    "city": "North Ardithfort",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

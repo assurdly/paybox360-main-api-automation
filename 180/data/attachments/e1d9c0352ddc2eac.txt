@@ -1,0 +1,7 @@
+{
+    "name": "Harvey Gaylord",
+    "email": "Lera_Smith35@mailinator.com",
+    "phone_number": "08078649144",
+    "address": "Idumota, Lagos",
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd49227"
+}

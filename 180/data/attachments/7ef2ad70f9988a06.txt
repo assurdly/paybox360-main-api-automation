@@ -1,0 +1,8 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922",
+    "customer_id": "c31db7e7-ad88-4244-8c8a-58a51a39bb9e",
+    "name": "Woodrow Kuvalis IV",
+    "email": "Stephon.Ernser79@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "9475 Katrina Courts"
+}

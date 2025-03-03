@@ -1,0 +1,11 @@
+{
+    "name": "editt 8",
+    "kpi_type": "IN_BETWEEN",
+    "is_active": false,
+    "check_in_frequency": ["5550d028-8bc2-423a-95d4-7d3fa7843311"],
+    "period_start_date": "2024-09-01",
+    "period_end_date": "2024-11-01",
+    "kpi_category": "1d0099ae-3d10-422c-b091-e05233ac4ae3",
+    "lower_limit": 10,
+    "upper_limit": 40
+}

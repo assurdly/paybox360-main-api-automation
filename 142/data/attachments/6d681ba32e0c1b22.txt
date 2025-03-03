@@ -1,3 +1,0 @@
-{
-    "role_id": "c9e9fd31-c8e2-41ca-a40b-f546b467aebb"
-}

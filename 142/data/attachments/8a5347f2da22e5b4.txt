@@ -1,1 +1,0 @@
-{"mode_of_transaction":["\"\" is not a valid choice."],"amount":["A valid number is required."],"order":["This field may not be null."]}

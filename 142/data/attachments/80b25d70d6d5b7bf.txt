@@ -1,8 +1,0 @@
-{
-    "bank_name": "Djijke",
-    "account_name": "VGHBnlek",
-    "account_number": "0126546532",
-    "bvn_number": "000000000",
-    "bank_code": "189209",
-    "swift_code": "NULL"
-}

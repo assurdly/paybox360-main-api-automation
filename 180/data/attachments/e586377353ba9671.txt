@@ -1,0 +1,7 @@
+{
+    "name": "Gabriel Schuppe",
+    "email": "Kamron71@mailinator.com",
+    "phone_number": "08036458943erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922"
+}

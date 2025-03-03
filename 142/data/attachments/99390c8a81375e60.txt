@@ -1,1 +1,0 @@
-level: warn, messages: Form param `stock_file`, file load error: missing file source

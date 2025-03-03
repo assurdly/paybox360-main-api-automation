@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"8739078e-01e1-4817-82ae-137b901b2f55","created_at":"2025-02-21T19:23:16.992890+01:00","title":"Haptic1453 Tax","rate":1.5,"company":"Idy-Orchid-Pixel","branch":""},"errors":null}

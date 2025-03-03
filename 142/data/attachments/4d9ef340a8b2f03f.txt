@@ -1,6 +1,0 @@
-{
-    "company": "beans",
-    "branch": "a7680720-d427-43e1-9cdf-38ee9e5cd30e", 
-    "title": "multi-byte tax",
-    "rate": 1.5
-}

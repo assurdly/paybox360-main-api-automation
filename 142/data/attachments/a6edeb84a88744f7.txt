@@ -1,8 +1,0 @@
-{
-    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
-    "customer_id": "",
-    "name": "Dr. Lauren Grimes",
-    "email": "Chance.Kuphal@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "8470 Sage Trail"
-}

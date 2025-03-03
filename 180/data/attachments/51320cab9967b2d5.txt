@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"0a41675b-abc6-4a0b-b17c-c809a240afcf","created_at":"2025-03-03T18:20:38.431399+01:00","name":"Captain Category","has_products":false,"company":"068088a3-a57c-4262-a6cc-61e5a4cd4922","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Fahey Llc","stock_count":0},"errors":null}

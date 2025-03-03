@@ -1,8 +1,0 @@
-{
-    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
-    "customer_id": "1",
-    "name": "Clifton Hettinger",
-    "email": "Amelie.Wolff@mailinator.com",
-    "phone": "08053104258",
-    "address": "037 Mann Islands"
-}

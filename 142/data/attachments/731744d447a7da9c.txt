@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"95b8321e-2a82-4ddc-9c7e-ed0c23abe96f","name":"Licensed granite shirt"}]},"errors":null}

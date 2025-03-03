@@ -1,0 +1,7 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922",
+    "branch": "df51dab0-62de-48b3-9237-b7b89f2166ca1",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Shanna_McGlynn70@mailinator.com"
+}

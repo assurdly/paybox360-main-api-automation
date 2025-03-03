@@ -1,8 +1,0 @@
-{
-    "company": "14f9d3d4-2d21-47fb-9b43-5300d232f74f",
-    "customer_id": "",
-    "name": "Wade Boyle",
-    "email": "Caleigh63@mailinator.com",
-    "phone": "08074690645",
-    "address": "7428 Keeling Street"
-}

@@ -1,1 +1,0 @@
-{"price_list_id":["This field may not be null."]}

@@ -1,0 +1,42 @@
+{
+    "company": "068088a3-a57c-4262-a6cc-61e5a4cd4922",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Tasty Steel Pants",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Plastic Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/strikewan_128.jpg",    
+                    "item": "Incredible Concrete Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}
