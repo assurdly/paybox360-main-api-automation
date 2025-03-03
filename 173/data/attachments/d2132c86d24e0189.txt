@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched product(s).","items":[{"name":"Turkey","product_description":"Sweet","product_tag":"Turkey","selling_price":6970.0,"images":["https://res.cloudinary.com/dhgp0fmlh/image/upload/v1737036831/liberty/zlafb5xcrhfwsqtx4xc7.jpg",null,null,null,null]}],"count":1,"total_items":1},"errors":null}

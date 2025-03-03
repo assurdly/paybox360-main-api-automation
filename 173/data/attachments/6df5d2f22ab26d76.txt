@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"652e428b-ce0f-4618-bc86-1d1b30d544d5","name":"Handmade fresh shoes"}]},"errors":null}

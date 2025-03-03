@@ -1,0 +1,5 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Labadie, Boyer and Schmidt"
+}

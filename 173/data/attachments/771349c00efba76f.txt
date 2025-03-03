@@ -1,0 +1,11 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "branch": "",
+    "name": "digital invoice",
+    "email": "Daryl_Dooley@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched company's categories stock count.","branches":[{"id":"cbaa7ef4-17a7-44fe-a8c5-8c4a504ee1ee","categories_count":0,"products_count":0,"quantity":0,"stock_on_hold":0,"supervisors":0,"branch":"Head Office"}],"count":1,"total_branches":1},"errors":null}

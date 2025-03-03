@@ -1,0 +1,8 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "branch": "65a29932-ab19-4637-8ff0-485d0b03bde8",
+    "name": "Nathaniel Kerluke",
+    "email": "Marquise.Sporer",
+    "phone": "08044949652",
+    "address": "68370 Jaunita Turnpike"
+}

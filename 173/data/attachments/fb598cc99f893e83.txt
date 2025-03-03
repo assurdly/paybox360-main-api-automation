@@ -1,0 +1,1 @@
+{"count":1,"next":null,"previous":null,"results":[{"id":"a415e3e5-63cf-49cc-9d84-44ea7338525b","created_at":"2025-02-14T12:47:08.413293+01:00","updated_at":"2025-02-14T12:47:08.413324+01:00","name":"Dell","image":null}]}

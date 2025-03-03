@@ -1,0 +1,8 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd21",
+    "customer_id": "b3b13c16-6c47-40be-8e95-ed0022ab220e",
+    "name": "Trevor Daugherty",
+    "email": "Kara_Tromp@mailinator.com",
+    "phone": "08051649741",
+    "address": "20104 Dickinson Avenue"
+}

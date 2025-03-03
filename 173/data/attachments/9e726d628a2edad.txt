@@ -1,0 +1,8 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "customer_id": "b3b13c16-6c47-40be-8e95-ed0022ab220e",
+    "name": "Arlene Pfeffer",
+    "email": "Anthony.Bode1@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "879 Jalyn Village"
+}

@@ -1,8 +1,0 @@
-{
-    "company": "b1c10baf-e165-41e6-855d-c00267f63bec",
-    "branch": "a1bb474f-c17d-462d-8f18-770401236b8e",
-    "name": "Miss Bethany Brown",
-    "email": "naima1905@gmail.com",
-    "phone": "08081155709",
-    "address": "4202 Gerry Forks"
-}

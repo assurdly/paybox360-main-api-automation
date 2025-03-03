@@ -1,7 +1,0 @@
-{
-    "name": "Bennie Marvin",
-    "email": "Tania_Kilback52",
-    "phone_number": "08073005814",
-    "address": "Idumota, Lagos",
-    "company": "b1c10baf-e165-41e6-855d-c00267f63bec"
-}

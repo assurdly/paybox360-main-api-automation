@@ -1,0 +1,45 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd22",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/baumannzone_128.jpg", 
+                    "item": "Rustic Steel Pizza",
+                    "quantity": 150, 
+                    "stock_price": 9020.09, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Steel Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/leandrovaranda_128.jpg",    
+                    "item": "Incredible Granite Cheese",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

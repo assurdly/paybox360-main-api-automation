@@ -1,0 +1,8 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "customer_id": "b3b13c16-6c47-40be-8e95-ed0022ab220e1",
+    "name": "Dr. Laurie Ernser",
+    "email": "Foster.Sipes59@mailinator.com",
+    "phone": "08024506894",
+    "address": "3240 Frami Loop"
+}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"22641709-73f9-4d36-bf30-67b7cfbf6fd2","company_name":"Schinner - Blanda","industry":"BANKING AND FINANCE","size":5}}

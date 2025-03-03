@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-03-03T14:54:26.748024+01:00","reference":"INV-MAR-Rd7Z8Yix","company":"Schinner - Blanda","branch":"Lake Astrid","customer":null,"amount":-20096.8,"due_date":"2024-12-31","status":"PENDING"}},"errors":null}

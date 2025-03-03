@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Myrl", 
+            "last_name": "Welch", 
+            "business_name": "The HTTP monitor is down, index the redundant alarm so we can program the TCP system! Ltd",
+            "business_email": "Esmeralda@mailinator.com",
+            "address": "76587 Zemlak Trace",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Gail", 
+            "last_name": "Kulas", 
+            "business_name": "Try to navigate the SDD program, maybe it will connect the neural hard drive! Ltd",
+            "business_email": "Eileen@mailinator.com",
+            "address": "7623 Icie Shoal",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Laura", 
+            "last_name": "Weissnat", 
+            "business_name": "Use the multi-byte IB system, then you can calculate the neural program! Ltd",
+            "business_email": "Melvin@mailinator.com",
+            "address": "33707 Rice Road",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Doug", 
+            "last_name": "Toy", 
+            "business_name": "If we copy the firewall, we can get to the THX interface through the online GB hard drive! Ltd",
+            "business_email": "Alan@mailinator.com",
+            "address": "9052 Waelchi Lodge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

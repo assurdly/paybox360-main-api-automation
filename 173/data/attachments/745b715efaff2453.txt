@@ -1,0 +1,7 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "customer_id": "b700a574-0c6f-4187-a1dd-763ba3c24eaf",
+    "city": "Lake Lilyanshire",
+    "state": "",
+    "country": "Nigeria"
+}

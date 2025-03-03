@@ -1,0 +1,33 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "branch": "3b9aef6e-d3d1-4491-b33c-ed018873a5fc",
+    "category": "04a20877-6155-498c-a5e0-cabcb7a78310",
+    "stock_quantity": 5,
+    "product_name": "Apple MacBook",
+    "product_description": "MacBook Pro M2",
+    "product_tag": "MacBook",
+    "stock_alert": 10,
+    "cost_price": 1880900,
+    "selling_price": 1950600,
+    "discount": 1,
+    "currency": "NGN",
+    "sell_without_inventory": false,
+    "restaurant_item": false,
+    "has_variants": true,
+    "product_image_1": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_2": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_3": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_4": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_5": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "variants": [
+        {
+            "description": "color",
+            "product_value": "blue",
+            "quantity": 5,
+            "variant_price": 260000,
+            "selling_price": 275000,
+            "variant_discount": 1,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Generic Cotton Chicken",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Unbranded Frozen Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/wake_gs_128.jpg",    
+                    "item": "Handmade Granite Shoes",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

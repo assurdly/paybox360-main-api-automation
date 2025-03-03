@@ -1,7 +1,0 @@
-{
-    "name": "Marguerite Kutch",
-    "email": "Leatha.Haley91",
-    "phone_number": "08033804331",
-    "address": "Idumota, Lagos",
-    "company": "b1c10baf-e165-41e6-855d-c00267f63bec"
-}

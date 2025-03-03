@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"6115365f-6e41-4545-b670-78ee611aa7d4","created_at":"2025-02-16T21:10:18.587109+01:00","name":"Captain Category","has_products":false,"company":"b1c10baf-e165-41e6-855d-c00267f63bec","created_by":"Idorenyin Ankoh","updated_by":"Idorenyin Ankoh","company_name":"Canva1","stock_count":0},"errors":null}

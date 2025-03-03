@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"a4dc7758-5801-421e-8945-a2182ba7f8eb","created_at":"2025-02-16T21:11:32.160937+01:00","title":"Multi-Byte Tax","rate":0.0,"company":"Canva1","branch":"New Freida"},"errors":null}

@@ -1,0 +1,7 @@
+{
+    "name": "Misty Effertz",
+    "email": "Kaylin_Mante@mailinator.com",
+    "phone_number": "08091481727",
+    "address": "Idumota, Lagos",
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd27"
+}

@@ -1,0 +1,8 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd21",
+    "branch": "65a29932-ab19-4637-8ff0-485d0b03bde8",
+    "name": "Dr. Lester Gerlach",
+    "email": "Sammy.Hahn@mailinator.com",
+    "phone": "08030163896",
+    "address": "1704 Imogene Divide"
+}

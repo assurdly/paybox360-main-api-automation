@@ -1,0 +1,28 @@
+{
+    "name": "Girls Trip",
+    "period_start_date": "2023-12-12",
+    "period_end_date": "2025-10-12",
+    "key_results": [
+        {
+            "name": "key 34",
+            "check_in_frequency": ["575b2250-c70f-4937-9ec4-5e2da47a4f27"],
+            "tasks": [
+                {
+                  "name": "always n forver",
+                  "assign_to": [1318]
+                },
+                {
+                  "name": "always to ",
+                  "assign_to": [1318]
+                }
+            ],
+            "kpi_type": "IN_BETWEEN",
+            "period_start_date": "2024-11-11",
+            "period_end_date": "2024-11-12",
+            "kpi_category": "84c3d103-7a17-4652-b9d5-571d38f6f21",
+            "upper_limit": 7,
+            "lower_limit": 2
+            
+        }
+    ]
+}

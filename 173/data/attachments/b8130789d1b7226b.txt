@@ -1,0 +1,7 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "name": "Lake Astrid",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

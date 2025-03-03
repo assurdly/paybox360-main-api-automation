@@ -1,0 +1,45 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/plbabin_128.jpg", 
+                    "item": "Rustic Cotton Fish",
+                    "quantity": 150, 
+                    "stock_price": 9020.09, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Granite Chair"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dnezkumar_128.jpg",    
+                    "item": "Tasty Steel Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

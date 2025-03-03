@@ -1,0 +1,42 @@
+{
+    "company": "22641709-73f9-4d36-bf30-67b7cfbf6fd2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Soft Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handmade Steel Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mactopus_128.jpg",    
+                    "item": "Awesome Soft Hat",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

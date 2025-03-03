@@ -1,6 +1,0 @@
-{
-    "company": "",
-    "branch": "a1bb474f-c17d-462d-8f18-770401236b8e", 
-    "title": "online tax",
-    "rate": 1.5
-}

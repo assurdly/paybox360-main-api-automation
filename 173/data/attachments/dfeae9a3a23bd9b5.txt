@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"9b742c93-856d-4cb2-9cf0-f83910ca961d","created_at":"2025-03-03T14:54:25.094160+01:00","title":"Wireless Tax","rate":-10.0,"company":"Schinner - Blanda","branch":"Lake Astrid"},"errors":null}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "b700a574-0c6f-4187-a1dd-763ba3c24eaf",
+    "city": "Port Germainechester",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

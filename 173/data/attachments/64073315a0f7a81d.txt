@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Francisco Kulas","email":"Shanon_Dickens59@mailinator.com","phone":"08033884016","branch":"Lake Astrid","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}
