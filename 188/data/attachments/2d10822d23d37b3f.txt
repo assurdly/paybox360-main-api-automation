@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"db8681bc-496f-4bce-befc-351632964f17","name":"Fantastic granite soap"}]},"errors":null}

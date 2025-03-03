@@ -1,4 +1,0 @@
-{
-    "name": "Post Sale",
-    "description": "1. Follow-up on payment of expired subscription 2.nFollow up on clientelle usage"
-}

@@ -1,0 +1,7 @@
+{
+    "name": "Brittany Schneider II",
+    "email": "Mylene.Rohan@mailinator.com",
+    "phone_number": "08088104489",
+    "address": "Idumota, Lagos",
+    "company": "e9fa200a-996c-48f8-b631-72048715585a"
+}

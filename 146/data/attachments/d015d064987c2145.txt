@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"abbef56f-bc64-48e3-a0ef-616a69c629c5","created_at":"2025-02-25T20:50:39.759261+01:00","title":"Bluetooth Tax","rate":-10.0,"company":"Sensor Plc","branch":"Apopka"},"errors":null}

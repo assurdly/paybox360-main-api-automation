@@ -1,0 +1,7 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a1",
+    "branch": "60ed4dfe-0cdc-4c43-bc9e-f39f15f714ef",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Jocelyn_Grant@mailinator.com"
+}

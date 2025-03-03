@@ -1,0 +1,33 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "branch": "60ed4dfe-0cdc-4c43-bc9e-f39f15f714ef",
+    "category": "04a20877-6155-498c-a5e0-cabcb7a78310",
+    "stock_quantity": 100,
+    "product_name": "productinterface",
+    "product_description": "hard drive",
+    "product_tag": "MacBook",
+    "stock_alert": 10,
+    "cost_price": 1880900,
+    "selling_price": 1950600,
+    "discount": 1,
+    "currency": "NGN",
+    "sell_without_inventory": false,
+    "restaurant_item": false,
+    "has_variants": true,
+    "product_image_1": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_2": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_3": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_4": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "product_image_5": "https://jam.dev/c/4cc11ca8-b6e7-4988-b0f7-a322d37eff54", 
+    "variants": [
+        {
+            "description": "color",
+            "product_value": "blue",
+            "quantity": 5,
+            "variant_price": 260000,
+            "selling_price": 275000,
+            "variant_discount": 1,
+            "currency": "NGN"
+        }
+    ]
+}

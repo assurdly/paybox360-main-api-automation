@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-02-25T20:50:41.070906+01:00","reference":"INV-FEB-s5OJ6kT4","company":"Sensor Plc","branch":"Apopka","customer":null,"amount":54430.5,"due_date":"2020-12-31","status":"PENDING"}},"errors":null}

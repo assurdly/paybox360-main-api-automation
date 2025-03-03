@@ -1,0 +1,45 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ariil_128.jpg", 
+                    "item": "Licensed Frozen Table",
+                    "quantity": 150, 
+                    "stock_price": 1896.41, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Fresh Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/woodydotmx_128.jpg",    
+                    "item": "Generic Rubber Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

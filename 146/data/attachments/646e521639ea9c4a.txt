@@ -1,1 +1,0 @@
-{"message":"You are currently not attached to any company.","data":[]}

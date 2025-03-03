@@ -1,0 +1,42 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Ergonomic Concrete Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Granite Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/wikiziner_128.jpg",    
+                    "item": "Fantastic Granite Soap",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

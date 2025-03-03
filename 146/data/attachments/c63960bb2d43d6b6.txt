@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"3a1e96a3-a062-45ad-a9a9-98326aec8520","name":"Sleek steel cheese"}]},"errors":null}

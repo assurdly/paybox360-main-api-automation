@@ -1,0 +1,42 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Gorgeous Wooden Hat",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Licensed Rubber Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/justinrhee_128.jpg",    
+                    "item": "Sleek Concrete Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

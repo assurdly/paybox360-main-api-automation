@@ -1,0 +1,8 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "branch": "1c86942a-47cb-491f-a87d-c29e9acaf71d1",
+    "name": "Emily Medhurst",
+    "email": "Eladio_Schuster41@mailinator.com",
+    "phone": "08023685972",
+    "address": "6783 Wilmer Gateway"
+}

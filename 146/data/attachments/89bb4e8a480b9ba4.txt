@@ -1,8 +1,0 @@
-{
-    "company": "0631c279-da03-415c-837e-5ce303f65ba41",
-    "customer_id": "bf2b437c-11ab-4235-8b2b-6960d5b20350",
-    "name": "Leo Wolf",
-    "email": "Salvador.Cronin@mailinator.com",
-    "phone": "08018555269",
-    "address": "838 Corwin Fork"
-}

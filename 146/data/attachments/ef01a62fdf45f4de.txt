@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"0631c279-da03-415c-837e-5ce303f65ba4","company_name":"sensor PLC","industry":"BANKING AND FINANCE","size":10}}

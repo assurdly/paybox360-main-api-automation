@@ -1,4 +1,0 @@
-{
-    
-    "description": "1. Confirm convenient time with client and plan a schedule for the week. Get the contact for the second spokes person " 
-}

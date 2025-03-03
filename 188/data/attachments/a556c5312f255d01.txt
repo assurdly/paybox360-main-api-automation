@@ -1,0 +1,42 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Granite Computer",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Granite Computer"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jm_denis_128.jpg",    
+                    "item": "Sleek Concrete Computer",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

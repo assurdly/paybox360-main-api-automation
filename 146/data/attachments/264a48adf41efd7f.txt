@@ -1,8 +1,0 @@
-{
-    "company_id": "dc4789bc-71e1-4db9-8e2c-5b1379305c8c", 
-    "name": "Perspective"
-    
-    
-    
-    
-}

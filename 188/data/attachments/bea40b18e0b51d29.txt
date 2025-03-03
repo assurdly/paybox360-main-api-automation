@@ -1,0 +1,11 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "categories": [
+        {
+            "name": "Hat"
+        },
+        {
+            "name": "Fish"
+        }
+    ]
+}

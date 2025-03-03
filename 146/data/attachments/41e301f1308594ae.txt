@@ -1,9 +1,0 @@
-{
-	"subject": "Cross Check Sender's name test email",
-	"message": "Cross Check Sender's name email testing",
-	"sender_email": "iniubong.i@libertyng.com",
-    "senders_name": "Ini-ubong Isemin", 
-	"recipient_email": ["iceley007@gmail.com"],
-	"sender_password": "{{sender_password}}",
-    "company_id": "7a105ab4-18f5-4744-9df9-13cff8e40acf"
-}

@@ -1,0 +1,29 @@
+{
+    "company": "",
+    "branch": "60ed4dfe-0cdc-4c43-bc9e-f39f15f714ef", 
+    "items": [
+        {
+            "item_description": "item circuit",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop panel",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "220cafca-d34d-447d-8b2f-af0f7263daf9",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

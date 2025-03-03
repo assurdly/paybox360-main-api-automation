@@ -1,8 +1,0 @@
-{
-    "company": "0631c279-da03-415c-837e-5ce303f65ba41",
-    "branch": "f5db5cbf-2616-495d-8933-2f0706e918d4",
-    "name": "Grant Jerde",
-    "email": "Anabel_Bins@mailinator.com",
-    "phone": "08002804689",
-    "address": "7833 Torp Harbor"
-}

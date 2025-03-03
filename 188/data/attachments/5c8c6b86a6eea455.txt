@@ -1,0 +1,8 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a1",
+    "branch": "1c86942a-47cb-491f-a87d-c29e9acaf71d",
+    "name": "Johnathan Haley",
+    "email": "Adella97@mailinator.com",
+    "phone": "08088378983",
+    "address": "5714 Wolf Row"
+}

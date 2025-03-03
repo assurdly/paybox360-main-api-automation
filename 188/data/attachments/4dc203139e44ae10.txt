@@ -1,0 +1,7 @@
+{
+    "name": "Wilbert Rice IV",
+    "email": "Cristopher37@mailinator.com",
+    "phone_number": "08024826774",
+    "address": "Idumota, Lagos",
+    "company": "e9fa200a-996c-48f8-b631-72048715585a7"
+}

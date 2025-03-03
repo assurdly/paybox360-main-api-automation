@@ -1,5 +1,0 @@
-{
-    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf",
-    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
-    "name": "Jacobson - Reichert"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "24fe1f7c-65e2-4e65-a34d-76c5b292e5ae",
+    "city": "West Kaylie",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,1 +1,0 @@
-{"status":"success","message":"User successfully created and registration passcode sent to email","user_id":8923,"access":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQwNTk5Mjg2LCJqdGkiOiIxYzY3YmMwYy1lMjJlLTQ4NDYtODFlZS0wZWQyMzM1NmU5ZmEiLCJ1c2VyX2lkIjo4OTIzfQ.k81Eqiaqm-TC9NuTqUaswqV3UgYEtKzot62Jm-dr_68"}

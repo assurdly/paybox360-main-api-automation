@@ -1,7 +1,0 @@
-{
-    "name": "Freda Schneider",
-    "email": "Marcelo55@mailinator.com",
-    "phone_number": "08015602828",
-    "address": "Idumota, Lagos",
-    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf7"
-}

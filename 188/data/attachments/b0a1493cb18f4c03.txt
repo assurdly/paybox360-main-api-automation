@@ -1,0 +1,56 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a1",
+    "branch": "60ed4dfe-0cdc-4c43-bc9e-f39f15f714ef",
+    "stocks": [
+        {
+            "supplied_by": "dbd8a21c-47c4-4ed6-a95b-374049e2072c",
+            "category": "",
+            "item": "",
+            "quantity": 125,
+            "stock_price": 750000,
+            "selling_price": 1250000,
+            "has_variants": true,
+            "variants": [
+                {
+                    "description": "Premium Royale",
+                    "quantity": 8,
+                    "stock_alert": 2,
+                    "stock_price": 12000,
+                    "selling_price": 16200
+                },
+                {
+                    "description": "Phantom",
+                    "quantity": 2,
+                    "stock_price": 12000,
+                    "selling_price": 16200
+                }
+            ]
+        }
+     ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

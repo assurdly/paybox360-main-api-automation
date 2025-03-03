@@ -1,0 +1,45 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/liminha_128.jpg", 
+                    "item": "Rustic Granite Towels",
+                    "quantity": 150, 
+                    "stock_price": 1896.41, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Concrete Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/primozcigler_128.jpg",    
+                    "item": "Sleek Metal Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

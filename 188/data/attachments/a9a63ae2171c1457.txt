@@ -1,0 +1,23 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585abeans",
+    "branch": "60ed4dfe-0cdc-4c43-bc9e-f39f15f714ef", 
+    "items": [
+        {
+            "item_description": "item pixel",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop card",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount":"2" 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "220cafca-d34d-447d-8b2f-af0f7263daf9",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

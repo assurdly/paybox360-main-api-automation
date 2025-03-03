@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Cornelius Marquardt PhD","email":"Velva67@mailinator.com","phone":"08098615014","branch":"Delray Beach","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

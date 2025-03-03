@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"d9fd636c-6acc-4dd1-800c-5c74c02319a8","created_at":"2025-03-03T19:37:09.266384+01:00","title":"Wireless Tax","rate":0.0,"company":"Tremblay - Leannon","branch":"Delray Beach"},"errors":null}

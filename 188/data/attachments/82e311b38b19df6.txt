@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"f7346e1b-79fe-4b83-be36-852f8ffd2851","created_at":"2025-03-03T19:34:33.921499+01:00","name":"Captain Category","has_products":false,"company":"e9fa200a-996c-48f8-b631-72048715585a","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Tremblay - Leannon","stock_count":0},"errors":null}

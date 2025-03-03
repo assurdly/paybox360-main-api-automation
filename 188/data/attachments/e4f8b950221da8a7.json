@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "bb0568bf-9e28-4fb7-bd2c-3085d7853eb3",
+    "Host": "management.libertypayng.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "365",
+    "Cookie": "sessionid=dfrwrvcs4rt9etnq6s4u97bs8kjaycx0"
+}

@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Bode Inc Business",
+            "business_email": "Myrl.Ernser28@yopmail.com"
+        }, 
+        {
+            "business_name": "Hudson, Jones and Johnson inc.", 
+            "business_email": "Ima_Swift20@mailinator.com"
+        }
+    ]
+}

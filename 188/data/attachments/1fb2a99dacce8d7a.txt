@@ -1,0 +1,6 @@
+{
+    "key_result": "3a6afb24-9066-4e57-8730-baf86b9dc143",
+    "achieved_value": 2.5,
+    "status": "ON_TRACK",
+    "check_in_date": "2024-11-13"
+}

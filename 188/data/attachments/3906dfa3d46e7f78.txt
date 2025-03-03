@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "60ed4dfe-0cdc-4c43-bc9e-f39f15f714ef",
+    "name": "primary invoice",
+    "email": "Kayden.Morar2@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

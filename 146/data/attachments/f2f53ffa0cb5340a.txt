@@ -1,7 +1,0 @@
-{
-    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf",
-    "branch": "65557f0c-3599-44bb-a672-5d11e17b5f8b",
-    "product": "",
-    "quantity": 1,
-    "reason": "error on input details"
-}

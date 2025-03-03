@@ -1,7 +1,0 @@
-{
-    "name": "Robin Kreiger",
-    "email": "Miracle_Trantow86",
-    "phone_number": "08050326657",
-    "address": "Idumota, Lagos",
-    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf"
-}

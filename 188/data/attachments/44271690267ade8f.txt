@@ -1,0 +1,7 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "customer_id": "24fe1f7c-65e2-4e65-a34d-76c5b292e5aebeans",
+    "city": "South Dedrick",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

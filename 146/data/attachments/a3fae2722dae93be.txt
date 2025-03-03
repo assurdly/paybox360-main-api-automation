@@ -1,7 +1,0 @@
-{
-    "name": "Percy Rath",
-    "email": "Lulu_Littel82@mailinator.com",
-    "phone_number": "08041484177erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "7a105ab4-18f5-4744-9df9-13cff8e40acf"
-}

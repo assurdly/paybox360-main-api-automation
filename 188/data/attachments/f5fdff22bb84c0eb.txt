@@ -1,0 +1,23 @@
+{
+    "company_goal": "59843d61-7c50-47b9-a5c4-7a158ca3387f",
+    "name": "New key Result",
+    "description": "okay",
+    "check_in_frequency": ["575b2250-c70f-4937-9ec4-5e2da47a4f27", "5c6849af-7a76-4013-8c4d-d96ff79ff01f"],
+    "owner": [
+        {"id": "1319", "type": "employee"}
+        
+        
+        
+    ],
+    "kpi_type": "AT_LEAST",
+    "period_start_date": "2025-09-01",
+    "period_end_date": "2025-11-01",
+    
+    
+    "kpi_category": "84c3d103-7a17-4652-b9d5-571d38f6f2a1",
+    
+    
+    "lower_limit": 10
+    
+    
+}

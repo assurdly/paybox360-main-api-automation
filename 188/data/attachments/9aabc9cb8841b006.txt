@@ -1,0 +1,42 @@
+{
+    "company": "e9fa200a-996c-48f8-b631-72048715585a",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Plastic Gloves",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Metal Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/reabo101_128.jpg",    
+                    "item": "Awesome Steel Sausages",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

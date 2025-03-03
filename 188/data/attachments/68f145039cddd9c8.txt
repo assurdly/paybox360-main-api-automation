@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"6099c088-0c00-4b98-9922-3c0ed3c8d5c6","created_at":"2025-03-03T19:37:09.467449+01:00","title":"Primary Tax","rate":-10.0,"company":"Tremblay - Leannon","branch":"Delray Beach"},"errors":null}
