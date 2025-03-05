@@ -1,7 +1,0 @@
-{
-    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
-    "branch": "87c9d2b0-3e5f-4081-9bfc-258735c94c801",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Clarissa63@mailinator.com"
-}

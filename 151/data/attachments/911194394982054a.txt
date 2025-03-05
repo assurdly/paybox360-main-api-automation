@@ -1,7 +1,0 @@
-{
-    "name": "Grant Hammes",
-    "email": "Sandra_McDermott",
-    "phone_number": "08043489423",
-    "address": "Idumota, Lagos",
-    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137"
-}

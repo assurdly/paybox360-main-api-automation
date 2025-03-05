@@ -1,0 +1,8 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea151",
+    "customer_id": "f630de5e-6304-4dac-b9f6-e353ac7169f1",
+    "name": "Lyle Friesen",
+    "email": "Clifton24@mailinator.com",
+    "phone": "08097191279",
+    "address": "6030 Rogahn Union"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Lisa Block",
+    "email": "Mitchell.Larkin@mailinator.com",
+    "phone_number": "08091982991",
+    "address": "Idumota, Lagos",
+    "company": "f30325e9-fed8-4e6a-858a-54fc4bb152937"
+}

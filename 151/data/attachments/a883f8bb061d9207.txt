@@ -1,7 +1,0 @@
-{
-    "name": "Florence Macejkovic",
-    "email": "Daisha46@mailinator.com",
-    "phone_number": "08096538357",
-    "address": "Idumota, Lagos",
-    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137"
-}

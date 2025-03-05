@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"32b6864e-77e8-4b18-80fc-23af9f063bee","name":"Generic cotton fish"}]},"errors":null}

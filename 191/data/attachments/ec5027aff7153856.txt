@@ -1,0 +1,17 @@
+{
+    "company": "f30325e9-fed8-4e6a-858a-54fc4bb15293",
+    "branch": "f30325e9-fed8-4e6a-858a-54fc4bb15293",
+    "supplier": "18ff0854-b660-4423-9141-50c6d0aa84e3",
+    "orders": [
+        {
+            "category": "",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

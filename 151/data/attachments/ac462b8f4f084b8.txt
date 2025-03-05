@@ -1,7 +1,0 @@
-{
-    "name": "Carol Gorczany",
-    "email": "Leslie_Rice",
-    "phone_number": "08007611936",
-    "address": "Idumota, Lagos",
-    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137"
-}

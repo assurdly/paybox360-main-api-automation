@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"b7f942a9-50de-4cb9-9750-029428608524","name":"Handmade granite gloves"}]},"errors":null}

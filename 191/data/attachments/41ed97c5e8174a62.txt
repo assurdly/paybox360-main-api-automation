@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Kavon", 
+            "last_name": "Tremblay", 
+            "business_name": "We need to hack the primary SMTP system! Ltd",
+            "business_email": "Jarrett@mailinator.com",
+            "address": "30505 Hoppe Hills",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Dorthy", 
+            "last_name": "Durgan", 
+            "business_name": "If we program the program, we can get to the HDD sensor through the neural IB driver! Ltd",
+            "business_email": "Lisa@mailinator.com",
+            "address": "8648 Garland Unions",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Delpha", 
+            "last_name": "Gerlach", 
+            "business_name": "Try to index the CSS bus, maybe it will hack the redundant capacitor! Ltd",
+            "business_email": "Barrett@mailinator.com",
+            "address": "4738 Graciela Cliff",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Jordon", 
+            "last_name": "Terry", 
+            "business_name": "Try to compress the AGP interface, maybe it will bypass the digital pixel! Ltd",
+            "business_email": "Sigmund@mailinator.com",
+            "address": "5461 Hickle Ramp",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

@@ -1,6 +1,0 @@
-{
-    "key_result": "be20ab0c-6c54-4c91-a0f2-0092879801d9",
-    "achieved_value": 2.5,
-    "status": "ON_TRACK",
-    "check_in_date": "2024-11-13"
-}

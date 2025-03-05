@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"dcea4119-b779-479b-9558-f932db6565c6","created_at":"2025-02-26T07:58:42.719120+01:00","name":"Captain Category","has_products":false,"company":"d8051c20-903a-4f14-bf2d-74bd34b6f137","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Gibson And Sons","stock_count":0},"errors":null}

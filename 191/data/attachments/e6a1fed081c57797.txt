@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"fb75effb-bf5e-4989-9dcb-e219a131a2e5","created_at":"2025-03-05T16:59:10.895051+01:00","title":"Cross-Platform1907 Tax","rate":1.5,"company":"Hard Drive Plc","branch":""},"errors":null}

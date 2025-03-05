@@ -1,0 +1,45 @@
+{
+    "company": "f30325e9-fed8-4e6a-858a-54fc4bb152932",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jayphen_128.jpg", 
+                    "item": "Incredible Metal Salad",
+                    "quantity": 150, 
+                    "stock_price": 1344.17, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Frozen Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/okansurreel_128.jpg",    
+                    "item": "Intelligent Steel Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

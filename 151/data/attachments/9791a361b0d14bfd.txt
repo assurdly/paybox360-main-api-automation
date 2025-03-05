@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "edf78162-6617-4fc7-8c24-a9e7f7a23249",
-    "city": "Gabriellafort",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

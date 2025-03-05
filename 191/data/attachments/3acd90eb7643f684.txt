@@ -1,0 +1,7 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea15",
+    "branch": "c332eb7a-c746-4102-8afa-1e2391f957a9",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Mable_Armstrong92@mailinator.com"
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"id":"a9be7381-c77b-4478-941a-424529640a7b","created_at":"2025-02-26T08:01:14.466768+01:00","title":"Wireless Tax","rate":0.0,"company":"Gibson And Sons","branch":"Sandy Springs"},"errors":null}

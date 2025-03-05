@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"9d04d8f7-a2f6-45fc-bbe1-cb2141c6ded3","created_at":"2025-03-05T16:59:11.412509+01:00","title":"Primary Tax","rate":-10.0,"company":"Hard Drive Plc","branch":"Bulahberg"},"errors":null}

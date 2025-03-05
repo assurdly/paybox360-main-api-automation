@@ -1,7 +1,0 @@
-{
-    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f137",
-    "customer_id": "edf78162-6617-4fc7-8c24-a9e7f7a23249beans",
-    "city": "Anastasiamouth",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

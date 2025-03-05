@@ -1,8 +1,0 @@
-{
-    "company": "d8051c20-903a-4f14-bf2d-74bd34b6f1371",
-    "customer_id": "cf5a7184-572e-4457-aa28-190811a118a8",
-    "name": "Alice Simonis III",
-    "email": "Cindy.Bergstrom@mailinator.com",
-    "phone": "08050013954",
-    "address": "59791 Mills Plaza"
-}

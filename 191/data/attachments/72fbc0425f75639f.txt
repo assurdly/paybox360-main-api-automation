@@ -1,0 +1,45 @@
+{
+    "company": "f30325e9-fed8-4e6a-858a-54fc4bb15293",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/daniloc_128.jpg", 
+                    "item": "Intelligent Concrete Keyboard",
+                    "quantity": 150, 
+                    "stock_price": 1344.17, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Fresh Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/bluefx__128.jpg",    
+                    "item": "Licensed Fresh Bike",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "6fec1275-878b-4669-8092-0e2f55f2879f",
+    "city": "East River",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

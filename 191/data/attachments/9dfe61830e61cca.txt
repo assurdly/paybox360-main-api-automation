@@ -1,0 +1,7 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea15beans",
+    "customer_id": "6fec1275-878b-4669-8092-0e2f55f2879f",
+    "city": "Lenexa",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

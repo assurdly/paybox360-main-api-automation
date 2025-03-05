@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"dcea4119-b779-479b-9558-f932db6565c6","name":"Captain Category"},{"id":"87df2653-b432-4d79-ad10-e696b5cf7fc0","name":"Keyboard"},{"id":"76a87f32-c9b1-42ba-a366-866b30f61a0f","name":"Sausages"}],"count":3,"total_categories":3},"errors":null}

@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + microchip","company_id":"f30325e9-fed8-4e6a-858a-54fc4bb15293","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"62e7b603-a992-4558-92e0-59c8010878fc"}}

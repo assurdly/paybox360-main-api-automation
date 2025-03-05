@@ -1,0 +1,7 @@
+{
+    "company": "f30325e9-fed8-4e6a-858a-54fc4bb15293",
+    "name": "North Dedric",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": 7.5,
+    "is_super_branch": false
+}

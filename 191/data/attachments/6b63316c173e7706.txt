@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "37882c08-1353-440c-aef5-28ecac85e444",
+    "name": "auxiliary invoice",
+    "email": "Leilani_Konopelski67@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

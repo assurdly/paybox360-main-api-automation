@@ -1,0 +1,8 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea151",
+    "branch": "c332eb7a-c746-4102-8afa-1e2391f957a9",
+    "name": "Jeanette Jacobi IV",
+    "email": "Eddie_Mraz@mailinator.com",
+    "phone": "08088317269",
+    "address": "107 Nannie Row"
+}

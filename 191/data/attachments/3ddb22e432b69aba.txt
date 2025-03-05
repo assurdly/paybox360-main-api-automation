@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"16dcb5f6-d265-43b2-8acb-5a06544be588","created_at":"2025-03-05T16:59:11.275572+01:00","title":"1080P Tax","rate":0.0,"company":"Hard Drive Plc","branch":"Bulahberg"},"errors":null}

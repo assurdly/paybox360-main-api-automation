@@ -1,0 +1,8 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea15",
+    "customer_id": "f630de5e-6304-4dac-b9f6-e353ac7169f1",
+    "name": "Guy Crooks",
+    "email": "Angelo46@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "6748 Howell Parkway"
+}

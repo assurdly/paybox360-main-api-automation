@@ -1,0 +1,11 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea15",
+    "branch": "37882c08-1353-440c-aef5-28ecac85e444",
+    "name": "primary invoice",
+    "email": "Billy.Renner@mailsac.com",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "state": "",
+    "country": ""
+}

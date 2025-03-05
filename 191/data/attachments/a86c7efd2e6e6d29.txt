@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"142bc74e-ce3a-4784-8a8d-c91706b7ea15","company_name":"hard drive PLC","industry":"BANKING AND FINANCE","size":10}}

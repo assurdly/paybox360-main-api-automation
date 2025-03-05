@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"8716248a-e621-427a-8e12-efb20d055c6d","created_at":"2025-03-05T16:59:10.529164+01:00","title":"Wireless1904 Tax","rate":1.5,"company":"Hard Drive Plc","branch":"Bulahberg"},"errors":null}

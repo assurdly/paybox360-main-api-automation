@@ -1,0 +1,8 @@
+{
+    "company": "142bc74e-ce3a-4784-8a8d-c91706b7ea15",
+    "branch": "c332eb7a-c746-4102-8afa-1e2391f957a9",
+    "name": "Hubert Langworth",
+    "email": "Frankie_Flatley",
+    "phone": "08052732456",
+    "address": "9050 Darrel Ports"
+}
