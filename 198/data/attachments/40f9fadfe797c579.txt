@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Janiya", 
+            "last_name": "Renner", 
+            "business_name": "I'll compress the haptic HDD array, that should sensor the SDD pixel! Ltd",
+            "business_email": "Amara@mailinator.com",
+            "address": "649 Kling Plains",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Rita", 
+            "last_name": "Langosh", 
+            "business_name": "We need to hack the auxiliary SDD system! Ltd",
+            "business_email": "Jennings@mailinator.com",
+            "address": "638 Abbie Inlet",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Katelynn", 
+            "last_name": "Rosenbaum", 
+            "business_name": "You can't reboot the circuit without bypassing the wireless JSON bus! Ltd",
+            "business_email": "Hettie@mailinator.com",
+            "address": "808 Deangelo Lodge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Keshawn", 
+            "last_name": "Becker", 
+            "business_name": "We need to override the optical HTTP application! Ltd",
+            "business_email": "Lewis@mailinator.com",
+            "address": "70257 Arvel Ridges",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

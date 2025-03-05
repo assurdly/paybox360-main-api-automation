@@ -1,1 +1,0 @@
-{"new_items":[{"category_id":["This field is required."]}],"branch":["“67708974-401d-4d88-97eb-67261a5ebaa41” is not a valid UUID."],"invoice":["“null” is not a valid UUID."]}

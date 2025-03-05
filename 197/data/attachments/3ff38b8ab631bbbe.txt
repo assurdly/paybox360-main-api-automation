@@ -1,7 +1,0 @@
-{
-    "name": "Nettie Connelly",
-    "email": "Gayle.Legros79@mailinator.com",
-    "phone_number": "08023123184",
-    "address": "Idumota, Lagos",
-    "company": "cf7291e9-d91b-4223-8a21-9d006c601b577"
-}

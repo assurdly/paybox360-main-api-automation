@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"2925e8c5-d67b-4830-b39b-875b31b6608f","company_name":"Stehr - Hegmann","industry":"BANKING AND FINANCE","size":5}}

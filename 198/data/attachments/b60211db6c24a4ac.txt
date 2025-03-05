@@ -1,0 +1,8 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "customer_id": "302568b6-45bd-4970-b3c5-111cc7d3ea5b",
+    "name": "Francisco Abshire",
+    "email": "Ricardo.Cremin50@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "835 Catherine Walks"
+}

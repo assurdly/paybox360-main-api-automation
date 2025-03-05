@@ -1,0 +1,42 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Refined Rubber Keyboard",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Concrete Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/longlivemyword_128.jpg",    
+                    "item": "Ergonomic Rubber Mouse",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"984d7bee-6250-4d2b-b7ae-b7130751cbc5","created_at":"2025-03-05T19:36:07.866132+01:00","name":"Captain Category","has_products":false,"company":"2925e8c5-d67b-4830-b39b-875b31b6608f","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Stehr - Hegmann","stock_count":0},"errors":null}

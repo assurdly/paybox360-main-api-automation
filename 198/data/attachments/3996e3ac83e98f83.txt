@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "branch": "ade5c877-271e-463a-8e13-3ea70940c5fc",
+    "name": "wireless invoice",
+    "email": "Marge_White60@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

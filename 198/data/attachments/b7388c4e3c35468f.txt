@@ -1,0 +1,5 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "branch": "ae6b88d1-b482-4bad-857d-7ecb7a2c271",
+    "name": "Waelchi, Kessler and Quitzon"
+}

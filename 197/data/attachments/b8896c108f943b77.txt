@@ -1,8 +1,0 @@
-{
-    "company": "cf7291e9-d91b-4223-8a21-9d006c601b571",
-    "customer_id": "2d50caad-71cf-4502-bf06-4323bfefc0a8",
-    "name": "Dr. Margie Kassulke",
-    "email": "Austyn87@mailinator.com",
-    "phone": "08001787483",
-    "address": "2024 Wintheiser Isle"
-}

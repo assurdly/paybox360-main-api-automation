@@ -1,0 +1,11 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "branch": "",
+    "name": "solid state invoice",
+    "email": "Odessa.Franecki20@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

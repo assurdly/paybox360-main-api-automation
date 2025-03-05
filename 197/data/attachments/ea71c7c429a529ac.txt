@@ -1,8 +1,0 @@
-{
-    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
-    "customer_id": "2d50caad-71cf-4502-bf06-4323bfefc0a8",
-    "name": "Lynn Hegmann",
-    "email": "Romaine52@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "318 Jermaine Light"
-}

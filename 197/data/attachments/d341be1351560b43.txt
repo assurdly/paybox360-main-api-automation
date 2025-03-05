@@ -1,1 +1,0 @@
-{"message":["Company name: HARD DRIVE PLC already exists"]}

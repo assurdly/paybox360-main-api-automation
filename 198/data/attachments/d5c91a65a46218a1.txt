@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"f5150482-077f-4113-83a4-26e3bbfc83c3","created_at":"2025-03-05T19:38:25.231416+01:00","title":"Bluetooth Tax","rate":0.0,"company":"Stehr - Hegmann","branch":"New Kassandraburgh"},"errors":null}

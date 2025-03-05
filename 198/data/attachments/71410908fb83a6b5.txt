@@ -1,0 +1,7 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "branch": "5dea2291-2006-43eb-b252-96eaaeafc03d",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": "jdcjayu",
+    "email": "Audreanne8@mailinator.com"
+}

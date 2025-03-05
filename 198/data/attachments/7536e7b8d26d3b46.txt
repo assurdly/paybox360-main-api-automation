@@ -1,0 +1,7 @@
+{
+    "name": "Erin Collins",
+    "email": "Lamar_Donnelly",
+    "phone_number": "08086973550",
+    "address": "Idumota, Lagos",
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f"
+}

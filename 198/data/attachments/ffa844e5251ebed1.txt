@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"b24b8add-d831-44d6-b32c-f5ede7e5a4a4","name":"Ergonomic rubber mouse"}]},"errors":null}

@@ -1,7 +1,0 @@
-{
-    "company": "cf7291e9-d91b-4223-8a21-9d006c601b571",
-    "branch": "8f050f92-56ce-4d9a-80ef-a6bbb61a7e6f",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Christophe_Ward@mailinator.com"
-}

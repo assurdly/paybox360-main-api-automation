@@ -1,0 +1,42 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Small Rubber Mouse",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Frozen Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/antjanus_128.jpg",    
+                    "item": "Rustic Frozen Sausages",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

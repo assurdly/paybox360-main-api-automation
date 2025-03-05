@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "9af060d7-37da-4d89-9466-05f35c01136e",
-    "city": "South Ryannhaven",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

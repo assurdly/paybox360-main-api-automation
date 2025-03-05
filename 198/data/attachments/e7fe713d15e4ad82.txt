@@ -1,0 +1,45 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f2",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/yayteejay_128.jpg", 
+                    "item": "Sleek Concrete Towels",
+                    "quantity": 150, 
+                    "stock_price": 925.59, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Wooden Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/pifagor_128.jpg",    
+                    "item": "Unbranded Soft Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

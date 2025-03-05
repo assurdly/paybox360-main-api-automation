@@ -1,0 +1,29 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "branch": "ade5c877-271e-463a-8e13-3ea70940c5fc", 
+    "items": [
+        {
+            "item_description": "item program",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop bus",
+            "unit_price": "",
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "7e8db269-c74f-4d14-8832-6afefdf9942f",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

@@ -1,7 +1,0 @@
-{
-    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
-    "branch": "67708974-401d-4d88-97eb-67261a5ebaa4",
-    "batch_id": "20240710-UXOXuvhL",
-    "amount": -3898,
-    "email": "Davonte16@mailinator.com"
-}

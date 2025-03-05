@@ -1,0 +1,24 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "branch": "5dea2291-2006-43eb-b252-96eaaeafc03d",
+    "customer": "302568b6-45bd-4970-b3c5-111cc7d3ea5b",
+    "invoice": "null",
+    "choice": "SWAP",
+    "reason": "OTHERS",
+    "additional_info": "The items are not compatible and doesn't meet the description.",
+    "restock": "NOoooo",
+    "old_items": [
+        {
+            "item": "4da9d987-0160-402f-b8f4-afe3b25c814a",
+            "quantity": 1,
+            "unit_price": 1750
+        }
+    ],
+    "new_items": [
+        {
+            "item_id": "6ffbfdc2-72bf-45b8-8f13-ffdeb2d62971",
+            "quantity": 1,
+            "amount": 1750
+        }
+    ]
+}

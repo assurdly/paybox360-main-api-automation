@@ -1,0 +1,7 @@
+{
+    "name": "Rene Cormier",
+    "email": "Deon33@mailinator.com",
+    "phone_number": "08072840526erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f"
+}

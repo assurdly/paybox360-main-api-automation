@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-03-05T19:31:18.373927+01:00","reference":"INV-MAR-95xqfukr","company":"Steuber And Sons","branch":"Clintonshire","customer":null,"amount":-20096.8,"due_date":"2024-12-31","status":"PENDING"}},"errors":null}

@@ -1,0 +1,42 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Fresh Sausages",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Steel Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/jeremiespoken_128.jpg",    
+                    "item": "Awesome Steel Shirt",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

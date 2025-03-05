@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "b4b91c25-f316-4bbe-9595-0a69b24c300b",
+    "city": "Dooleymouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

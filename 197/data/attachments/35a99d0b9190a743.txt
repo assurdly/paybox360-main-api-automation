@@ -1,8 +1,0 @@
-{
-    "company": "cf7291e9-d91b-4223-8a21-9d006c601b571",
-    "branch": "67708974-401d-4d88-97eb-67261a5ebaa4",
-    "name": "Sherri Volkman",
-    "email": "Teagan43@mailinator.com",
-    "phone": "08057609781",
-    "address": "51242 Tremaine Plains"
-}

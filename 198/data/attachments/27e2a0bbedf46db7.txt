@@ -1,0 +1,6 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "branch": "beans", 
+    "title": "primary1908 tax",
+    "rate": 1.5
+}

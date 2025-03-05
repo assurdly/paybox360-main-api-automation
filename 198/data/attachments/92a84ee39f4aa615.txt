@@ -1,0 +1,7 @@
+{
+    "company": "2925e8c5-d67b-4830-b39b-875b31b6608f",
+    "customer_id": "b4b91c25-f316-4bbe-9595-0a69b24c300bbeans",
+    "city": "Armstrongborough",
+    "state": "Abuja",
+    "country": "Nigeria"
+}
