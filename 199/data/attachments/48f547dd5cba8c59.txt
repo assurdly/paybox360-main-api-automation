@@ -1,0 +1,8 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "customer_id": "656b5558-32dd-4245-8e1c-7d4584631cf4",
+    "name": "Wesley Swaniawski PhD",
+    "email": "Rachel3",
+    "phone": "08005958440",
+    "address": "05050 Pfannerstill Land"
+}

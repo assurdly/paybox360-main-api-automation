@@ -1,0 +1,11 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e051377071",
+    "categories": [
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        }
+    ]
+}

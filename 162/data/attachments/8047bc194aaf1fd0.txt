@@ -1,7 +1,0 @@
-{
-    "name": "Miss Angel Krajcik",
-    "email": "Braxton.Kilback99@mailinator.com",
-    "phone_number": "08024063932erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8"
-}

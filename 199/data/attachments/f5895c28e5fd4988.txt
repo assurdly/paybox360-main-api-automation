@@ -1,0 +1,8 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "551d8a4b-a8b5-44cf-a0f4-d9c4866812a1",
+    "name": "Roland Boehm",
+    "email": "Shannon.Kihn67@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "73700 Barrows Valleys"
+}

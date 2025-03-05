@@ -1,0 +1,7 @@
+{
+    "name": "Mrs. Andre Marquardt",
+    "email": "Garth.Pfeffer@mailinator.com",
+    "phone_number": "08050466399",
+    "address": "Idumota, Lagos",
+    "company": "db2f3cab-c0e8-4cde-b45b-031e051377077"
+}

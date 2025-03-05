@@ -1,0 +1,8 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e051377071",
+    "customer_id": "656b5558-32dd-4245-8e1c-7d4584631cf4",
+    "name": "Lee Balistreri",
+    "email": "Cleveland.Bartell4@mailinator.com",
+    "phone": "08019756859",
+    "address": "37114 Ebert Forges"
+}

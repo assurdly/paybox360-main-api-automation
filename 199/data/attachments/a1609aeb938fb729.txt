@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"9bec0940-8352-4d9c-bfbb-0523c07f785e","created_at":"2025-03-05T20:57:54.981635+01:00","title":"Bluetooth1907 Tax","rate":1.5,"company":"O'Connell Inc","branch":""},"errors":null}

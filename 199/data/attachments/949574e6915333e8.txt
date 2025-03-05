@@ -1,0 +1,45 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e051377072",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/geneseleznev_128.jpg", 
+                    "item": "Tasty Metal Hat",
+                    "quantity": 150, 
+                    "stock_price": 7002.71, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Practical Concrete Sausages"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/byryan_128.jpg",    
+                    "item": "Practical Metal Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

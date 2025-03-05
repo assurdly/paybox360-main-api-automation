@@ -1,8 +1,0 @@
-{
-    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f81",
-    "customer_id": "b5b07023-1f1a-4937-9292-1b7b03741bbe",
-    "name": "Jean Kovacek",
-    "email": "Isom20@mailinator.com",
-    "phone": "08095404674",
-    "address": "36663 Madisen Centers"
-}

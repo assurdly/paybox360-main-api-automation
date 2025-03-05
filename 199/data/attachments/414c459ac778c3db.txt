@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"0f57338d-d821-414f-b288-b3773114695a","created_at":"2025-03-05T20:57:55.367549+01:00","title":"Redundant Tax","rate":0.0,"company":"O'Connell Inc","branch":"Huntington Park"},"errors":null}

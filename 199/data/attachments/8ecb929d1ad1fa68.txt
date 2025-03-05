@@ -1,0 +1,17 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "supplier": "1073b281-e534-431a-b3c4-0fe97d266119",
+    "orders": [
+        {
+            "category": "",
+            "item": "",
+            "quantity": 10
+        },
+        {
+            "category": "",
+            "item": "",
+            "quantity": 25
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"id":"6602f1ac-6d11-42bb-ad36-14692110ef2e","name":"Captain Category"},{"id":"a909047b-14e6-4314-b331-5c652f28a5f4","name":"Salad"},{"id":"bdad266f-43c2-41e0-a908-7d9f8daab905","name":"Sausages"}],"count":3,"total_categories":3},"errors":null}

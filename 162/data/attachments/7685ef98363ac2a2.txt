@@ -1,8 +1,0 @@
-{
-    "company": "5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8",
-    "branch": "f8036d82-0c62-43a3-8687-caed5ec9aa221",
-    "name": "Lorena Johns",
-    "email": "Nyah52@mailinator.com",
-    "phone": "08079267149",
-    "address": "07772 Schowalter Run"
-}

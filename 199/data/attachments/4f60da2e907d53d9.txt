@@ -1,0 +1,11 @@
+{
+    "company": "",
+    "categories": [
+        {
+            "name": "bdad266f-43c2-41e0-a908-7d9f8daab905"
+        },
+        {
+            "name": "Salad"
+        }
+    ]
+}

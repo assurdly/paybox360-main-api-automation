@@ -1,0 +1,29 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "bb95bbeb-f525-4a24-ac5a-4219c6a545ff", 
+    "items": [
+        {
+            "item_description": "item alarm",
+            "unit_price": 999.99,
+            "quantity": 20,
+            "discount": 1 
+        },
+        {
+            "item_description": "laptop card",
+            "unit_price": 599,
+            "quantity": 15,
+            "discount": 10 
+        },
+        {
+            "item_description": "MacBook Pro 2022",
+            "unit_price": 1299.99,
+            "quantity": 20,
+            "discount": 1 
+        }
+    ],
+    "due_date": "2029-12-31", 
+    "tax": "e8c69ad8-f9c7-4b82-abae-d234ce9932d0",
+    "received_part_payment": true, 
+    "amount_recieved": 1000, 
+    "logo": "" 
+}

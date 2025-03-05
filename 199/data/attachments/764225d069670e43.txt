@@ -1,0 +1,6 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "bb95bbeb-f525-4a24-ac5a-4219c6a545ff",
+    "batch_id": "20240617-uG5zz5Ud",
+    "action_type": "CANCELLED"
+}

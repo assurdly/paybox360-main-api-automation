@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "b8a49780-0653-4b81-b69b-ee6da23f339a",
+    "city": "West Dandreside",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

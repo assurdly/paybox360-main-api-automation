@@ -1,0 +1,18 @@
+{
+    "company_id": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch_id": "551d8a4b-a8b5-44cf-a0f4-d9c4866812a1",
+    "team_name": "Mrs. Melissa Stamm",
+    "team_type": "SALES",
+    "members": [
+        {
+            "email": "augustine@gmail.com",
+            "phone_no": "",
+            "role": "SUPERVISOR"
+        },
+        {
+            "email": "segun@gmail.com",
+            "phone_no": "",
+            "role": "MEMBER"
+        }
+    ]
+}

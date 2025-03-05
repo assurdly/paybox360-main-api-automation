@@ -1,0 +1,42 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Practical Cotton Shirt",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Metal Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ariil_128.jpg",    
+                    "item": "Intelligent Wooden Computer",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

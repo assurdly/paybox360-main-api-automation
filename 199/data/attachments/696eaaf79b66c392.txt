@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"fab11178-918b-4422-9ba6-c3db0ca6b6f2","created_at":"2025-03-05T20:57:55.509806+01:00","title":"Primary Tax","rate":-10.0,"company":"O'Connell Inc","branch":"Huntington Park"},"errors":null}

@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Armstrong - Conn Business",
+            "business_email": "Kacey_Gleason@yopmail.com"
+        }, 
+        {
+            "business_name": "Torphy LLC inc.", 
+            "business_email": "Andreane.Welch@mailinator.com"
+        }
+    ]
+}

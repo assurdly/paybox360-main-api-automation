@@ -1,0 +1,42 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Fantastic Plastic Tuna",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Metal Chicken"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rachelreveley_128.jpg",    
+                    "item": "Rustic Plastic Pizza",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

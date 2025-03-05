@@ -1,0 +1,7 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707beans",
+    "customer_id": "b8a49780-0653-4b81-b69b-ee6da23f339a",
+    "city": "Novato",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

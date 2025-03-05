@@ -1,0 +1,8 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e051377071",
+    "branch": "551d8a4b-a8b5-44cf-a0f4-d9c4866812a1",
+    "name": "Sadie Cassin",
+    "email": "Judd_Rutherford0@mailinator.com",
+    "phone": "08003139733",
+    "address": "8661 Matt Freeway"
+}

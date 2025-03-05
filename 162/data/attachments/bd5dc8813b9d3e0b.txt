@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"5c8f2a1f-d1a7-41c8-8750-c7dc76e572f8","company_name":"Parisian Inc","industry":"BANKING AND FINANCE","size":5}}

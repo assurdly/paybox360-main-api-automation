@@ -1,0 +1,6 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "beans", 
+    "title": "mobile1908 tax",
+    "rate": 1.5
+}

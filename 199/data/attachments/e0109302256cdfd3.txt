@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"supplier has no history.","supplier":{"name":"Mrs. Salvador Casper","email":"Hiram52@mailinator.com","phone_number":"08058084015","categories_supplied":0,"products_supplied":0},"supply_history":[],"count":0,"total_history":0},"errors":null}

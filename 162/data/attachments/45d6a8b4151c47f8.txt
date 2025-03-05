@@ -1,3 +1,0 @@
-{
-    "order_ids": ["7df135b3-c668-4ca5-8451-aef0ad7cab8e1"]
-}

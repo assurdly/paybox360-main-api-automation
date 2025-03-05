@@ -1,0 +1,7 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "551d8a4b-a8b5-44cf-a0f4-d9c4866812a1",
+    "batch_id": "20240213-vO3RC26o",
+    "amount": 500000,
+    "email": "Hans.Hudson@mailinator.com"
+}

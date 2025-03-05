@@ -1,0 +1,20 @@
+{
+    "tables": [
+        {
+            "name": "bus",
+            "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+            "branch": "bb95bbeb-f525-4a24-ac5a-4219c6a545ff",
+            "no_of_seats": 4,
+            "categories": ["6602f1ac-6d11-42bb-ad36-14692110ef2e"],
+            "all_categories": "False"
+        },
+        {
+            "name": "n",
+            "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+            "branch": "bb95bbeb-f525-4a24-ac5a-4219c6a545ff",
+            "no_of_seats": 6,
+            "categories": ["6602f1ac-6d11-42bb-ad36-14692110ef2e"],
+            "all_categories": "True"
+        }
+    ]
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"6efa19e4-ce3a-44f0-901c-5752aa3ed76f","name":"Ergonomic steel car"}]},"errors":null}

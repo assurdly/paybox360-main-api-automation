@@ -1,0 +1,7 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "name": "Koelpinchester",
+    "address": "105, Broad Street, Lagos, Nigeria",
+    "vat": "agshkkw",
+    "is_super_branch": false
+}

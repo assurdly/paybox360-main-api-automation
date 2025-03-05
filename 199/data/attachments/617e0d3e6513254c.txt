@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Dylan", 
+            "last_name": "Bashirian", 
+            "business_name": "I'll copy the optical CSS protocol, that should microchip the XML sensor! Ltd",
+            "business_email": "Kenyatta@mailinator.com",
+            "address": "97761 Rodrick Road",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Orion", 
+            "last_name": "Jenkins", 
+            "business_name": "Try to hack the SAS program, maybe it will index the multi-byte transmitter! Ltd",
+            "business_email": "Romaine@mailinator.com",
+            "address": "606 Vidal Curve",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Tommie", 
+            "last_name": "O'Keefe", 
+            "business_name": "We need to transmit the digital FTP port! Ltd",
+            "business_email": "Rosemarie@mailinator.com",
+            "address": "683 Medhurst Vista",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Gerardo", 
+            "last_name": "Schmidt", 
+            "business_name": "Try to transmit the PNG interface, maybe it will reboot the auxiliary bus! Ltd",
+            "business_email": "Christiana@mailinator.com",
+            "address": "104 Rossie Course",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

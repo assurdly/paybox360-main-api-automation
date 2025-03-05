@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Mabel King","email":"Jules_Hoeger65@mailinator.com","phone":"08003102150","branch":"Huntington Park","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

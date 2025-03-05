@@ -1,0 +1,11 @@
+{
+    "company": "db2f3cab-c0e8-4cde-b45b-031e05137707",
+    "branch": "bb95bbeb-f525-4a24-ac5a-4219c6a545ff",
+    "name": "auxiliary invoice",
+    "email": "Eleonore.Treutel42@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

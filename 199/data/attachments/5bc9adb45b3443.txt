@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"db2f3cab-c0e8-4cde-b45b-031e05137707","company_name":"O'Connell Inc","industry":"BANKING AND FINANCE","size":5}}
