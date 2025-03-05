@@ -1,7 +1,0 @@
-{
-    "name": "Betty Rowe",
-    "email": "Carlie_Pacocha15@mailinator.com",
-    "phone_number": "08006978299erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "2c342249-f4ee-4b40-923c-469af2fc9df8"
-}

@@ -1,0 +1,8 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "branch": "67708974-401d-4d88-97eb-67261a5ebaa4",
+    "name": "Terrence Von",
+    "email": "Jaiden.Hodkiewicz",
+    "phone": "08085838599",
+    "address": "7229 Nienow Pike"
+}

@@ -1,1 +1,0 @@
-{"status":"success","data":{"team_name":"Team Beta","team_id":"d7b54562-cec6-48a3-84a6-a4bcd637063c","company_id":null,"members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"}],"branch_id":null,"invited_members":[]}}

@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Angelina", 
+            "last_name": "Altenwerth", 
+            "business_name": "The JSON application is down, generate the haptic protocol so we can quantify the XML capacitor! Ltd",
+            "business_email": "Sasha@mailinator.com",
+            "address": "3530 Axel Common",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Colt", 
+            "last_name": "Okuneva", 
+            "business_name": "If we reboot the microchip, we can get to the RAM circuit through the virtual RAM card! Ltd",
+            "business_email": "Scottie@mailinator.com",
+            "address": "185 Thora Wells",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Floy", 
+            "last_name": "Kling", 
+            "business_name": "The RSS monitor is down, hack the cross-platform application so we can input the TCP hard drive! Ltd",
+            "business_email": "Kurtis@mailinator.com",
+            "address": "3816 Reilly Field",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Preston", 
+            "last_name": "Kuhn", 
+            "business_name": "navigating the array won't do anything, we need to synthesize the neural IB circuit! Ltd",
+            "business_email": "Ashtyn@mailinator.com",
+            "address": "978 Buckridge Forks",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

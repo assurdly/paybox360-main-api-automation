@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"id":"72b6ad46-51c3-4357-a3c3-de9e60697437","created_at":"2025-02-26T08:28:33.411339+01:00","name":"Captain Category","has_products":false,"company":"c34b90be-d257-4a02-b69c-4424b251e432","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Monitor Plc","stock_count":0},"errors":null}

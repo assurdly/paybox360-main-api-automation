@@ -1,8 +1,0 @@
-{
-    "company": "e87a7855-0477-42db-becc-132a2c828f90",
-    "customer_id": "de3c37a4-5a50-4fa7-95dd-893bf1920ed8",
-    "name": "Muriel Dach",
-    "email": "Alexander19@mailinator.com",
-    "phone": "uhuhcaua",
-    "address": "0382 Hammes Park"
-}

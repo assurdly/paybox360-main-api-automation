@@ -1,0 +1,45 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/vinciarts_128.jpg", 
+                    "item": "Handcrafted Concrete Ball",
+                    "quantity": 150, 
+                    "stock_price": 7009.73, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Granite Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/afusinatto_128.jpg",    
+                    "item": "Awesome Steel Hat",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

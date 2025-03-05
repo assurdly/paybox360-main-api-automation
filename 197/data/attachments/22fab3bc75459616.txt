@@ -1,0 +1,8 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "branch": "67708974-401d-4d88-97eb-67261a5ebaa41",
+    "name": "Grady Satterfield",
+    "email": "Claire70@mailinator.com",
+    "phone": "08022946101",
+    "address": "36044 Bauch Rapids"
+}

@@ -1,0 +1,42 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Intelligent Steel Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Handcrafted Cotton Fish"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/iduuck_128.jpg",    
+                    "item": "Tasty Cotton Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

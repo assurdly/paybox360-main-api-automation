@@ -1,0 +1,42 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Cotton Table",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Rubber Pants"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/BillSKenney_128.jpg",    
+                    "item": "Fantastic Soft Bacon",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

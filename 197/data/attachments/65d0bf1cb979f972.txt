@@ -1,0 +1,45 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b572",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/flexrs_128.jpg", 
+                    "item": "Handmade Rubber Salad",
+                    "quantity": 150, 
+                    "stock_price": 7009.73, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Cotton Tuna"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/mikemai2awesome_128.jpg",    
+                    "item": "Intelligent Fresh Shoes",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Ullrich, Schaden and Lockman Business",
+            "business_email": "Paolo.Dickens@yopmail.com"
+        }, 
+        {
+            "business_name": "Lehner - Wilkinson inc.", 
+            "business_email": "Hettie.Willms91@mailinator.com"
+        }
+    ]
+}

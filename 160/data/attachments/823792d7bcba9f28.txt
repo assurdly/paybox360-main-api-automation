@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "d52a0258-a85e-4ef2-9a09-9860a1bcedc5",
-    "city": "Hoover",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

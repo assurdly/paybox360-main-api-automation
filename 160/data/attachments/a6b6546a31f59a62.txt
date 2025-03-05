@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"successfully fetched categories.","categories":[{"company":"c34b90be-d257-4a02-b69c-4424b251e432","company_name":"Monitor Plc","id":"04a20877-6155-498c-a5e0-cabcb7a78310","name":"Computer Accessories","subcategories":[]}],"count":1,"total_categories":1},"errors":null}

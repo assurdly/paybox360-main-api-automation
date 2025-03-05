@@ -1,0 +1,11 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "branch": "",
+    "name": "online invoice",
+    "email": "Darius.Walter18@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

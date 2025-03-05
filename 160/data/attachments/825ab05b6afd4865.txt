@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"2c342249-f4ee-4b40-923c-469af2fc9df8","company_name":"Lowe LLC","industry":"BANKING AND FINANCE","size":5}}

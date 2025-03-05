@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"e87a7855-0477-42db-becc-132a2c828f90","company_name":"interface PLC","industry":"BANKING AND FINANCE","size":10}}

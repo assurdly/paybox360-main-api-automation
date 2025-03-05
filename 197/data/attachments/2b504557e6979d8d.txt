@@ -1,0 +1,11 @@
+{
+    "company": "cf7291e9-d91b-4223-8a21-9d006c601b57",
+    "branch": "8f050f92-56ce-4d9a-80ef-a6bbb61a7e6f",
+    "name": "auxiliary invoice",
+    "email": "Sylvia_Little82@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

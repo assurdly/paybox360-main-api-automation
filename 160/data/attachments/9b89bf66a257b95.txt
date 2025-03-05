@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-02-26T08:32:12.371210+01:00","reference":"INV-FEB-MGim2DAp","company":"Interface Plc","branch":"Lake Reneebury","customer":null,"amount":-20096.8,"due_date":"2024-12-31","status":"PENDING"}},"errors":null}

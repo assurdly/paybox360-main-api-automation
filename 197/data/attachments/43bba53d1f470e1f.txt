@@ -1,0 +1,207 @@
+{
+    "name": "Future Goal",
+    "period_name": "Q-1",
+    "period_start_date": "2025-02-05",
+    "period_end_date": "2025-11-12",
+    "key_results": [
+        {
+            "name": "key 1",
+            "check_in_frequency": ["575b2250-c70f-4937-9ec4-5e2da47a4f27"],
+            "tasks": [
+                {
+                  "name": "always n forever",
+                  "assign_to": [1318]
+                }
+                
+                
+                
+                
+            ],
+            "kpi_type": "IN_BETWEEN",
+            "period_start_date": "2025-02-05",
+            "period_end_date": "2025-05-30",
+            "kpi_category": "84c3d103-7a17-4652-b9d5-571d38f6f2a1",
+            "upper_limit": 3,
+            "lower_limit": 2,
+            "owner": [
+                {"id": "1318", "type": "employee"}
+                
+                
+                
+            ]
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

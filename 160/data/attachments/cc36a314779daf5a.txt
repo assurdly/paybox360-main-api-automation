@@ -1,1 +1,0 @@
-{"status":"Success","data":{"team_name":"Team + bandwidth","company_id":"2c342249-f4ee-4b40-923c-469af2fc9df8","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"825d8d06-3938-4566-b3e3-4115915c1b90"}}

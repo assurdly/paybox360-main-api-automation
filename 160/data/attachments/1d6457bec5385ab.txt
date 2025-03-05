@@ -1,6 +1,0 @@
-{
-    "company": "e87a7855-0477-42db-becc-132a2c828f90",
-    "branch": "e68e0842-c0f1-46b6-814d-f7427f212397", 
-    "title": "neural tax",
-    "rate": 0
-}
