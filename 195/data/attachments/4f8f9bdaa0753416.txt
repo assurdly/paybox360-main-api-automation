@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"649ca2bb-4118-47f7-a2db-a52e00ff0817","created_at":"2025-03-05T17:51:28.152588+01:00","title":"Mobile Tax","rate":0.0,"company":"Mills, Hilll And Jast","branch":"Duanetown"},"errors":null}

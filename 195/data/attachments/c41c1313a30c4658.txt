@@ -1,0 +1,7 @@
+{
+    "name": "Van Durgan",
+    "email": "Ibrahim40@mailinator.com",
+    "phone_number": "08050622963erdggjghg",
+    "address": "Idumota, Lagos",
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8"
+}

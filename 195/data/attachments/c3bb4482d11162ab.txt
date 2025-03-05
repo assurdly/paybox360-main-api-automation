@@ -1,0 +1,7 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "customer_id": "",
+    "city": "West Leoneport",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

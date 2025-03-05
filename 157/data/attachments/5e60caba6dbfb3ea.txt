@@ -1,8 +1,0 @@
-{
-    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
-    "branch": "ab37f1ba-084b-430b-9958-b238a7397b03",
-    "name": "Toni Koepp",
-    "email": "Nayeli45",
-    "phone": "08030605124",
-    "address": "1547 Cremin Isle"
-}

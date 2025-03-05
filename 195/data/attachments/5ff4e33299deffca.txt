@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Doyle", 
+            "last_name": "Boyle", 
+            "business_name": "Use the cross-platform SMTP application, then you can input the primary driver! Ltd",
+            "business_email": "Fred@mailinator.com",
+            "address": "98282 Sadie Radial",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Florence", 
+            "last_name": "Treutel", 
+            "business_name": "You can't parse the hard drive without connecting the 1080p GB alarm! Ltd",
+            "business_email": "Keshaun@mailinator.com",
+            "address": "17267 Cade Mountain",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Elissa", 
+            "last_name": "Lang", 
+            "business_name": "We need to reboot the wireless AGP sensor! Ltd",
+            "business_email": "Kelsi@mailinator.com",
+            "address": "8265 Volkman Harbor",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Genoveva", 
+            "last_name": "Goodwin", 
+            "business_name": "The FTP protocol is down, parse the virtual driver so we can override the THX circuit! Ltd",
+            "business_email": "Mona@mailinator.com",
+            "address": "9225 Mills Tunnel",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

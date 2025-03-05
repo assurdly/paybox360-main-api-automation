@@ -1,7 +1,0 @@
-{
-    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
-    "customer_id": "db514198-4bed-4caf-8ff5-694005666ac6",
-    "city": "Marvinberg",
-    "state": "Bozeman",
-    "country": ""
-}

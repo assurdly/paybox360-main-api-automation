@@ -1,0 +1,42 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Licensed Steel Chair",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Frozen Shoes"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/judzhin_miles_128.jpg",    
+                    "item": "Tasty Fresh Towels",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

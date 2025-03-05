@@ -1,8 +1,0 @@
-{
-    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4",
-    "customer_id": "a5ab9529-67e2-4a7d-b06c-2b1ab9f028b4",
-    "name": "Allan Lueilwitz",
-    "email": "Ashtyn_Ruecker92@mailinator.com",
-    "phone": "08044627653",
-    "address": "02420 Thompson Courts"
-}

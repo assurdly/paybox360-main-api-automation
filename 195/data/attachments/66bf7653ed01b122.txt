@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"db0d923a-7c43-438f-a3ee-5d8aa062b124","created_at":"2025-03-05T17:51:27.921283+01:00","title":"Haptic1907 Tax","rate":1.5,"company":"Mills, Hilll And Jast","branch":""},"errors":null}

@@ -1,0 +1,42 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Concrete Salad",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Granite Table"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/andresdjasso_128.jpg",    
+                    "item": "Ergonomic Plastic Pizza",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

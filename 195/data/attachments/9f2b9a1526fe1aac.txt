@@ -1,0 +1,8 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "branch": "31f8deb0-0f40-4c59-af40-f1cb3d059ddc",
+    "name": "Phyllis Botsford",
+    "email": "naima1905@gmail.com",
+    "phone": "08014017531",
+    "address": "62663 Dietrich Turnpike"
+}

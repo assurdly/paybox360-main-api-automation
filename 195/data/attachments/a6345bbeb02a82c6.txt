@@ -1,0 +1,8 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "branch": "7898e9c4-c87d-4f08-8979-f02b6f0f25ef",
+    "name": "Kevin King",
+    "email": "Rickey43@mailinator.com",
+    "phone": "fyghuhrsexcn",
+    "address": "155 Haley Glen"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"f833ba19-ef69-43cd-b275-ec5508189b1a","created_at":"2025-03-05T17:51:28.237746+01:00","title":"Bluetooth Tax","rate":-10.0,"company":"Mills, Hilll And Jast","branch":"Duanetown"},"errors":null}

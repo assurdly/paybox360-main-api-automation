@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"wallet_balance":0.0,"account_name":"Mills, Hilll And Jast - Duanetown","bank":"Wema Bank Plc","nuban":"8420256900","payments":[],"count":0,"total_payments":0},"errors":null}

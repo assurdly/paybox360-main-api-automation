@@ -1,1 +1,0 @@
-{"new_items":[{"category_id":["This field is required."]}],"choice":["\"SWAPppp\" is not a valid choice."],"branch":["Invalid pk \"ab37f1ba-084b-430b-9958-b238a7397b03\" - object does not exist."],"invoice":["“null” is not a valid UUID."]}

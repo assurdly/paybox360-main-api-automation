@@ -1,0 +1,7 @@
+{
+    "name": "Armando Conroy",
+    "email": "Salma.Steuber58",
+    "phone_number": "08059126135",
+    "address": "Idumota, Lagos",
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8"
+}

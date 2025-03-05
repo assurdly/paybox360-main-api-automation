@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"25f7621a-5f3c-4309-bc99-fa7039afaae9","name":"Fantastic granite ball"}]},"errors":null}

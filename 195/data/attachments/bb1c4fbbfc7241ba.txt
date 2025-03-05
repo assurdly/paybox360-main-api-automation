@@ -1,0 +1,42 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Handcrafted Soft Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Refined Concrete Car"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/nomidesigns_128.jpg",    
+                    "item": "Practical Wooden Pizza",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

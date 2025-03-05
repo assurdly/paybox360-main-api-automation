@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "db514198-4bed-4caf-8ff5-694005666ac6",
-    "city": "East Opaltown",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

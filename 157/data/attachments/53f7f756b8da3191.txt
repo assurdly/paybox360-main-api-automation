@@ -1,7 +1,0 @@
-{
-    "name": "Miss Jake Huels",
-    "email": "Liana35",
-    "phone_number": "08059785473",
-    "address": "Idumota, Lagos",
-    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe4"
-}

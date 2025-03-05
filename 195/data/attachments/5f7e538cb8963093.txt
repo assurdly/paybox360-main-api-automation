@@ -1,0 +1,6 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "branch": "beans", 
+    "title": "bluetooth1908 tax",
+    "rate": 1.5
+}

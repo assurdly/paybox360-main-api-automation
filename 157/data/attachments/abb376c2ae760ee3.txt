@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Allan Lueilwitz","email":"Ashtyn_Ruecker92@mailinator.com","phone":"08044627653","branch":"Lianaton","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

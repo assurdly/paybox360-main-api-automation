@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"8199202a-d102-476b-bca4-bb0c15364ce8","company_name":"Mills, Hilll and Jast","industry":"BANKING AND FINANCE","size":5}}

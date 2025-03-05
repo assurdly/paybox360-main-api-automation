@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"202e585e-3eb7-4606-ae72-5aa474db8fe4","company_name":"Padberg Group","industry":"BANKING AND FINANCE","size":5}}

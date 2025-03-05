@@ -1,0 +1,45 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce82",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/91bilal_128.jpg", 
+                    "item": "Sleek Frozen Chips",
+                    "quantity": 150, 
+                    "stock_price": 5338.00, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Generic Soft Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/sergeyalmone_128.jpg",    
+                    "item": "Handmade Wooden Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,7 +1,0 @@
-{
-    "company": "202e585e-3eb7-4606-ae72-5aa474db8fe41",
-    "branch": "1cbf8a58-fc03-40bc-a03a-cd075ac07846",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Holly.Raynor18@mailinator.com"
-}

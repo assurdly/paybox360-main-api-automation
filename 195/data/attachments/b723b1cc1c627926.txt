@@ -1,0 +1,8 @@
+{
+    "company": "8199202a-d102-476b-bca4-bb0c15364ce8",
+    "customer_id": "88565d37-251a-466f-b7be-80f1a77198d8",
+    "name": "Juanita Ortiz",
+    "email": "Ernestina_Rath94@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "596 Johnston Falls"
+}
