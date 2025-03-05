@@ -1,7 +1,0 @@
-{
-    "name": "Verna Hilpert",
-    "email": "Julien0@mailinator.com",
-    "phone_number": "08076116244",
-    "address": "Idumota, Lagos",
-    "company": "5f59f25b-eb86-4d06-b73a-373d3f1f5a147"
-}

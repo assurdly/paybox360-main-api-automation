@@ -1,0 +1,45 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/dawidwu_128.jpg", 
+                    "item": "Licensed Soft Gloves",
+                    "quantity": 150, 
+                    "stock_price": 2598.09, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Intelligent Steel Gloves"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/kirangopal_128.jpg",    
+                    "item": "Unbranded Soft Keyboard",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

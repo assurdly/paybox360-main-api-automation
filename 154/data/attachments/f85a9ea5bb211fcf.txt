@@ -1,8 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
-    "customer_id": "407cd7c1-b456-4520-a424-ef172b322a75",
-    "name": "Miss Wendy Bergnaum",
-    "email": "Cara.Price31",
-    "phone": "08017917697",
-    "address": "39899 Camren Plaza"
-}

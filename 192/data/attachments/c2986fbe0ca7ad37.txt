@@ -1,0 +1,8 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8",
+    "customer_id": "97b363db-181f-4af6-b9dd-428341c025cd1",
+    "name": "Wayne Wunsch",
+    "email": "Flossie.Beatty@mailinator.com",
+    "phone": "08057235756",
+    "address": "6919 Sandy Views"
+}

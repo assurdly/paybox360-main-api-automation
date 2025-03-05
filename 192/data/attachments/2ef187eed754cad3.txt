@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Kellen", 
+            "last_name": "Bartoletti", 
+            "business_name": "Use the optical TCP matrix, then you can connect the multi-byte system! Ltd",
+            "business_email": "Dawson@mailinator.com",
+            "address": "090 Cremin Hollow",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Maribel", 
+            "last_name": "Feil", 
+            "business_name": "The IB alarm is down, hack the neural program so we can transmit the PCI array! Ltd",
+            "business_email": "Sadye@mailinator.com",
+            "address": "5851 Pete Vista",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Sigurd", 
+            "last_name": "Haley", 
+            "business_name": "We need to back up the optical JSON hard drive! Ltd",
+            "business_email": "Meagan@mailinator.com",
+            "address": "5904 Korbin Lodge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Dorcas", 
+            "last_name": "Wehner", 
+            "business_name": "We need to synthesize the wireless PCI sensor! Ltd",
+            "business_email": "Larissa@mailinator.com",
+            "address": "5261 Hailee Expressway",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

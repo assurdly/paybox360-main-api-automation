@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"5f59f25b-eb86-4d06-b73a-373d3f1f5a14","company_name":"Donnelly, Williamson and Marks","industry":"BANKING AND FINANCE","size":5}}

@@ -1,7 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da790967beans",
-    "customer_id": "1c1d4cd0-a3ac-4359-a7a5-399021a9e4f9",
-    "city": "Westminster",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

@@ -1,0 +1,7 @@
+{
+    "company": "",
+    "customer_id": "3a1fc33a-9b22-4342-a9df-f128adccaf99",
+    "city": "Susanmouth",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

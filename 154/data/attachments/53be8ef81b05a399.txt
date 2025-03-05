@@ -1,8 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da7909671",
-    "customer_id": "407cd7c1-b456-4520-a424-ef172b322a75",
-    "name": "Wilson Hermiston",
-    "email": "Madelyn86@mailinator.com",
-    "phone": "08050616931",
-    "address": "6786 Keebler Lights"
-}

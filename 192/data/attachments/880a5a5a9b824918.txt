@@ -1,0 +1,14 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "INVITE", 
+    "suppliers_invite": [
+        {
+            "business_name": "Green, Torphy and Sporer Business",
+            "business_email": "Jordon.Boyle@yopmail.com"
+        }, 
+        {
+            "business_name": "Sporer - Weber inc.", 
+            "business_email": "Lavada_Ondricka@mailinator.com"
+        }
+    ]
+}

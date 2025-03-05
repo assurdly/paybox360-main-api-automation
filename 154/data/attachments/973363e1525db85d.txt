@@ -1,8 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da7909671",
-    "branch": "34dc5b98-8ac3-4e52-abd8-6d98a5feaba2",
-    "name": "Santiago Lakin",
-    "email": "Hyman62@mailinator.com",
-    "phone": "08042580155",
-    "address": "319 Sporer Greens"
-}

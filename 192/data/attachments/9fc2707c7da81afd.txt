@@ -1,0 +1,45 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da82",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/rohixx_128.jpg", 
+                    "item": "Sleek Frozen Cheese",
+                    "quantity": 150, 
+                    "stock_price": 2598.09, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Ergonomic Granite Cheese"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/swooshycueb_128.jpg",    
+                    "item": "Awesome Frozen Chips",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

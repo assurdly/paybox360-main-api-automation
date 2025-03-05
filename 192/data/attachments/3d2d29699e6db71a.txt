@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"489e7fc3-cf20-4879-a3dd-b7f20d402da8","company_name":"Ratke - Barton","industry":"BANKING AND FINANCE","size":5}}

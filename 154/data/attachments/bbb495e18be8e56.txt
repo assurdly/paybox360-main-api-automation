@@ -1,7 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
-    "branch": "34dc5b98-8ac3-4e52-abd8-6d98a5feaba21",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Eugene.Kertzmann@mailinator.com"
-}

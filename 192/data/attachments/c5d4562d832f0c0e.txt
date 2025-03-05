@@ -1,0 +1,11 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8",
+    "categories": [
+        {
+            "name": "Chair"
+        },
+        {
+            "name": "Salad"
+        }
+    ]
+}

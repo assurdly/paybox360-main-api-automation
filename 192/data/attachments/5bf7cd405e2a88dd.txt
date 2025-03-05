@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"id":"15dd8284-b049-46aa-afd6-b4337c8965ef","created_at":"2025-03-05T17:41:21.153657+01:00","name":"Captain Category","has_products":false,"company":"489e7fc3-cf20-4879-a3dd-b7f20d402da8","created_by":"Gambo Usman","updated_by":"Gambo Usman","company_name":"Ratke - Barton","stock_count":0},"errors":null}

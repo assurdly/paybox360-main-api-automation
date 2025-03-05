@@ -1,0 +1,1 @@
+{"status":"success","status_code":200,"data":{"message":"success","customer":{"name":"Brenda Weissnat","email":"Griffin_Schinner@mailinator.com","phone":"08020779137","branch":"Chadburgh","status":"INACTIVE"},"transactions":[],"count":0,"total_transactions":0},"errors":null}

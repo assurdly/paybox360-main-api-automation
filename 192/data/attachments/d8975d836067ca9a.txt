@@ -1,0 +1,7 @@
+{
+    "name": "Wilbert Hegmann",
+    "email": "Isac86@mailinator.com",
+    "phone_number": "08019674710",
+    "address": "Idumota, Lagos",
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da87"
+}

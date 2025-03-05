@@ -1,8 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
-    "branch": "34dc5b98-8ac3-4e52-abd8-6d98a5feaba21",
-    "name": "Sarah Wisoky I",
-    "email": "Coralie19@mailinator.com",
-    "phone": "08009436786",
-    "address": "8718 Rogahn Course"
-}

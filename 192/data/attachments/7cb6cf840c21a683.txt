@@ -1,0 +1,8 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da81",
+    "customer_id": "97b363db-181f-4af6-b9dd-428341c025cd",
+    "name": "Charles Johnston",
+    "email": "Mandy50@mailinator.com",
+    "phone": "08037511190",
+    "address": "28854 Smitham Ford"
+}

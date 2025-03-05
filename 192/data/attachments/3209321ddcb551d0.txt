@@ -1,0 +1,42 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Handcrafted Plastic Ball",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Tasty Metal Bacon"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ehsandiary_128.jpg",    
+                    "item": "Sleek Rubber Pants",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

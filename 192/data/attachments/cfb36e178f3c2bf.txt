@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"4de43952-6be8-45a1-96d1-80b54c0f88b9","name":"Sleek rubber pants"}]},"errors":null}

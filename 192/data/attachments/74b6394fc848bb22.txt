@@ -1,0 +1,7 @@
+{
+    "name": "Faith Satterfield",
+    "email": "Marietta25@mailinator.com",
+    "phone_number": "08034951046",
+    "address": "Idumota, Lagos",
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8"
+}

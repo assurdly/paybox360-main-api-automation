@@ -1,1 +1,0 @@
-{"status":"Success","data":{"id":"912c0d03-ae8d-4243-a11e-d241da790967","company_name":"feed PLC","industry":"BANKING AND FINANCE","size":10}}

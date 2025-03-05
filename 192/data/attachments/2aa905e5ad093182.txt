@@ -1,0 +1,8 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8",
+    "branch": "984258bd-2519-47b5-9715-86450b9ef0101",
+    "name": "Myra Runolfsdottir",
+    "email": "Marcellus_Pfeffer79@mailinator.com",
+    "phone": "08072075307",
+    "address": "7393 Asia Mall"
+}

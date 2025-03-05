@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"0307bab6-5256-4dad-a293-5485e761e05f","created_at":"2025-03-05T17:43:55.570179+01:00","title":"Neural Tax","rate":-10.0,"company":"Ratke - Barton","branch":"Chadburgh"},"errors":null}

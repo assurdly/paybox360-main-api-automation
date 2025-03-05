@@ -1,0 +1,7 @@
+{
+    "company": "489e7fc3-cf20-4879-a3dd-b7f20d402da8",
+    "customer_id": "3a1fc33a-9b22-4342-a9df-f128adccaf99",
+    "city": "New Ayanafurt",
+    "state": "New Doyle",
+    "country": ""
+}

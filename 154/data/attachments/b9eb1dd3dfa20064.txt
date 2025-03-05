@@ -1,8 +1,0 @@
-{
-    "company": "912c0d03-ae8d-4243-a11e-d241da790967",
-    "branch": "83204a49-b2b4-4eb7-9ab7-e368f9bb3327",
-    "name": "Lorenzo Harber",
-    "email": "naima1905@gmail.com",
-    "phone": "08085584240",
-    "address": "639 Joanne Mission"
-}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":200,"data":{"branches":3,"teams":0,"total_invoices":0,"paid_invoices":0,"pending_invoices":0,"due_invoices":0},"errors":null}
