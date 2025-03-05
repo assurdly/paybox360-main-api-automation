@@ -1,0 +1,42 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Metal Fish",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Frozen Ball"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/maiklam_128.jpg",    
+                    "item": "Generic Fresh Gloves",
+                    "quantity": "uwa", 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

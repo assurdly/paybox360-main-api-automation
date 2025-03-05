@@ -1,0 +1,7 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "branch": "7ce310ec-aadd-45dc-a593-ef202658261c",
+    "batch_id": "20240710-UXOXuvhL",
+    "amount": 2000,
+    "email": "Elva_Brown77"
+}

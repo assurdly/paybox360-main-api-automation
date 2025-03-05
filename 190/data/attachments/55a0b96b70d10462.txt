@@ -1,0 +1,42 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Incredible Frozen Bike",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Small Fresh Bike"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/ionuss_128.jpg",    
+                    "item": "Rustic Fresh Chicken",
+                    "quantity": 15, 
+                    "stock_price": "qpl", 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Margarette", 
+            "last_name": "Dickens", 
+            "business_name": "The ADP hard drive is down, synthesize the wireless protocol so we can calculate the FTP hard drive! Ltd",
+            "business_email": "Allie@mailinator.com",
+            "address": "7316 Mellie Ferry",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Asa", 
+            "last_name": "Greenholt", 
+            "business_name": "Try to reboot the SQL program, maybe it will bypass the multi-byte array! Ltd",
+            "business_email": "Bud@mailinator.com",
+            "address": "06603 Lemke Turnpike",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Robb", 
+            "last_name": "Heaney", 
+            "business_name": "Use the online IB alarm, then you can quantify the cross-platform microchip! Ltd",
+            "business_email": "Torey@mailinator.com",
+            "address": "83941 Serena Vista",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        },
+       {
+            "phone_number": "08145677676", 
+            "first_name": "Frieda", 
+            "last_name": "O'Hara", 
+            "business_name": "copying the alarm won't do anything, we need to quantify the multi-byte XML port! Ltd",
+            "business_email": "Freddie@mailinator.com",
+            "address": "95434 Letitia Bridge",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+    ]
+}

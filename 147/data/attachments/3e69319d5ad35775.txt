@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"a2ed0528-c0aa-4665-bd81-0b49dd54a8ef","name":"Practical fresh computer"}]},"errors":null}

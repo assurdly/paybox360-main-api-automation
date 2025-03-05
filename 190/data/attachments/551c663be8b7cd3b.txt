@@ -1,0 +1,15 @@
+{
+    "phone_number": "2348005167925",
+    "username": "Robbie_McClure9321",
+    "first_name": "Hitachi",
+    "last_name": "Ibejih",
+    "email": "nagato21@mailsac.com",
+    "state": "",
+    "lga": "Awoyaya",
+    "nearest_landmark": "Awoyaya",
+    "street": "global gate road,container bus stop, awoyaya Lagos",
+    "type_of_user": "AGENT",
+    "referal_code": "912",
+    "business_name": "Glowtone Integrated Services Ltd",
+    "gender": "Male"
+}

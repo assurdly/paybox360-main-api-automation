@@ -1,0 +1,7 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "customer_id": "",
+    "city": "Lisetteville",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"message":"success.","products":[{"id":"c3fd89b0-a313-4585-bf91-c10ee3e35465","name":"Practical fresh bacon"}]},"errors":null}

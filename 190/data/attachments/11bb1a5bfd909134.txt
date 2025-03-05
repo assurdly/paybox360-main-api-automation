@@ -1,0 +1,7 @@
+{
+    "name": "Misty Weissnat",
+    "email": "Newton_Roob58@mailinator.com",
+    "phone_number": "08010083645",
+    "address": "Idumota, Lagos",
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec67"
+}

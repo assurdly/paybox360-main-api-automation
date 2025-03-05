@@ -1,0 +1,45 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec62",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/necodymiconer_128.jpg", 
+                    "item": "Tasty Soft Bacon",
+                    "quantity": 150, 
+                    "stock_price": 7644.19, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Incredible Cotton Soap"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/quailandquasar_128.jpg",    
+                    "item": "Ergonomic Steel Chair",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

@@ -1,1 +1,0 @@
-{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-02-26T07:45:31.794499+01:00","reference":"INV-FEB-DA7c0u2R","company":"Bandwidth Plc","branch":"New Kirsten","customer":null,"amount":54430.5,"due_date":"2024-12-31","status":"PENDING"}},"errors":null}

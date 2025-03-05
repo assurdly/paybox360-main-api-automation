@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"1810499b-76a5-4722-98da-58c7dd462ec6","company_name":"Schimmel Inc","industry":"BANKING AND FINANCE","size":5}}

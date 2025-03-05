@@ -1,0 +1,7 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931beans",
+    "customer_id": "18985d3d-b0c2-4a66-8008-be649d9fe181",
+    "city": "Lake Shaniafurt",
+    "state": "Abuja",
+    "country": "Nigeria"
+}

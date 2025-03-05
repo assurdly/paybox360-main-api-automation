@@ -1,0 +1,42 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec6",
+    "products": [
+        {
+            "category": "",
+            "stocks": [
+                {
+                    "item": "Sleek Fresh Soap",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Fantastic Cotton Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/joaoedumedeiros_128.jpg",    
+                    "item": "Unbranded Concrete Pizza",
+                    "quantity": 15, 
+                    "stock_price": 1250, 
+                    "selling_price": "ajw"
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

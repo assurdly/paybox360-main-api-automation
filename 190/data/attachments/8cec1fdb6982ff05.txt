@@ -1,0 +1,42 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec6",
+    "products": [
+        {
+            "category": "f724652a-2a65-4334-8028-e78ac32155da",
+            "stocks": [
+                {
+                    "item": "Unbranded Rubber Cheese",
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Rustic Cotton Mouse"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/helderleal_128.jpg",    
+                    "item": "Practical Fresh Bacon",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

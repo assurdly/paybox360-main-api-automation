@@ -1,0 +1,11 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "branch": "",
+    "name": "optical invoice",
+    "email": "Clemmie_Daniel@mailsac.com",
+    "phone": "08093984569",
+    "address": "27, shumboa Street, Sabo",
+    "city": "Yaba",
+    "state": "Lagos",
+    "country": "Nigeria"
+}

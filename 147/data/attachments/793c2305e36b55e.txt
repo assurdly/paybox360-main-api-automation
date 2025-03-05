@@ -1,8 +1,0 @@
-{
-    "company": "f87b0719-18b8-494e-89dc-9e98be9ef6571",
-    "branch": "860d250e-a308-4732-850e-9609b5953c64",
-    "name": "Todd Pouros",
-    "email": "Stacy.Armstrong93@mailinator.com",
-    "phone": "08074841395",
-    "address": "95926 Lehner Grove"
-}

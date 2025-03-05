@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "customer_id": "610c1e31-efed-4045-bf91-ac1dc8ea8f15",
+    "name": "Andrea Spencer MD",
+    "email": "Sonia12",
+    "phone": "08070750159",
+    "address": "24172 Senger Route"
+}

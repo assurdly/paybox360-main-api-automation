@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f9311",
+    "branch": "7ce310ec-aadd-45dc-a593-ef202658261c",
+    "name": "David Steuber",
+    "email": "Adeline73@mailinator.com",
+    "phone": "08021742964",
+    "address": "52979 Madelyn Rest"
+}

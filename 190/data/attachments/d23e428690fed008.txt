@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "branch": "7ce310ec-aadd-45dc-a593-ef202658261c1",
+    "name": "Mrs. Lena Orn",
+    "email": "Lizzie.Purdy6@mailinator.com",
+    "phone": "08062007645",
+    "address": "710 Reyes Ferry"
+}

@@ -1,7 +1,0 @@
-{
-    "company": "",
-    "customer_id": "85e96e48-76aa-4c3d-96c5-3dba28b20de5",
-    "city": "North Cooperfurt",
-    "state": "Abuja",
-    "country": "Nigeria"
-}

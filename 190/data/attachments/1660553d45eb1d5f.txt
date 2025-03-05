@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"525bbbe7-54e5-4406-8783-463746f03c52","created_at":"2025-03-05T15:30:52.458031+01:00","title":"Redundant Tax","rate":-10.0,"company":"System Plc","branch":"Nicolasview"},"errors":null}

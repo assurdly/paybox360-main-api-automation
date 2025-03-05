@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "customer_id": "610c1e31-efed-4045-bf91-ac1dc8ea8f151",
+    "name": "Leslie Zemlak",
+    "email": "Brandi.Bode32@mailinator.com",
+    "phone": "08006284035",
+    "address": "6073 Ariel Place"
+}

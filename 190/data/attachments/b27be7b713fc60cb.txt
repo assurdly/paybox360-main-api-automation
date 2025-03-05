@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "customer_id": "610c1e31-efed-4045-bf91-ac1dc8ea8f15",
+    "name": "Allen Simonis",
+    "email": "Jeramy.Swaniawski15@mailinator.com",
+    "phone": "uhuhcaua",
+    "address": "3263 Corwin Crescent"
+}

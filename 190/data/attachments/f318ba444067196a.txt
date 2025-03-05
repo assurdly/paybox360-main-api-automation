@@ -1,0 +1,1 @@
+{"status":"Success","data":{"id":"906f2ab7-9796-426f-b486-c85e5855f931","company_name":"system PLC","industry":"BANKING AND FINANCE","size":10}}

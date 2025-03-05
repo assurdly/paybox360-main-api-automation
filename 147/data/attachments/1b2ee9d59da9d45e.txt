@@ -1,8 +1,0 @@
-{
-    "company": "f87b0719-18b8-494e-89dc-9e98be9ef657",
-    "branch": "860d250e-a308-4732-850e-9609b5953c641",
-    "name": "Allen Kilback",
-    "email": "Adonis_Spencer@mailinator.com",
-    "phone": "08076342551",
-    "address": "238 Elta Mission"
-}

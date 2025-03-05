@@ -1,0 +1,45 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec6",
+    "products": [
+        {
+            "category": "0",
+            "stocks": [
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/terpimost_128.jpg", 
+                    "item": "Gorgeous Wooden Gloves",
+                    "quantity": 150, 
+                    "stock_price": 7644.19, 
+                    "selling_price": 1500
+                },
+                {
+                    "item": "Sleek Metal Pizza"
+                },
+                {
+                    "image": "https://cdn.fakercloud.com/avatars/adobi_128.jpg",    
+                    "item": "Practical Granite Salad",
+                    "quantity": 100, 
+                    "stock_price": 1250.50, 
+                    "selling_price": 1500
+                }
+            ],
+            "all_branches": true,
+            "selected_branches": []
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

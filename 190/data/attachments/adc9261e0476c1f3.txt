@@ -1,0 +1,14 @@
+{
+    "company": "1810499b-76a5-4722-98da-58c7dd462ec6",
+    "price_lists": [
+        {
+            "category": "",
+            "item": "",
+            "size_or_volume": "1",
+            "price": 500,
+            "selected_branches": [
+                "7ce310ec-aadd-45dc-a593-ef202658261c1"
+            ]
+        }
+    ]
+}

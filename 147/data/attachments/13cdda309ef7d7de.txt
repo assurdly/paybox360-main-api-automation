@@ -1,7 +1,0 @@
-{
-    "name": "John Parker",
-    "email": "Noel_Gutkowski26@mailinator.com",
-    "phone_number": "08063640097",
-    "address": "Idumota, Lagos",
-    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea"
-}

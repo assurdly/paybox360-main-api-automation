@@ -1,7 +1,0 @@
-{
-    "name": "Miss Enrique Dooley",
-    "email": "Solon.Walsh27",
-    "phone_number": "08072880084",
-    "address": "Idumota, Lagos",
-    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea"
-}

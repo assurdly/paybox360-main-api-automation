@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f9311",
+    "customer_id": "610c1e31-efed-4045-bf91-ac1dc8ea8f15",
+    "name": "Ms. Kerry Ledner",
+    "email": "Juliet_Zulauf@mailinator.com",
+    "phone": "08004961974",
+    "address": "99796 Althea Drive"
+}

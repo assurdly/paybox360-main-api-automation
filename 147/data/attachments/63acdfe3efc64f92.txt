@@ -1,7 +1,0 @@
-{
-    "company": "f87b0719-18b8-494e-89dc-9e98be9ef657",
-    "branch": "860d250e-a308-4732-850e-9609b5953c64",
-    "batch_id": "20240213-vO3RC26o",
-    "amount": 500000,
-    "email": "Orlando_Bayer48@mailinator.com"
-}

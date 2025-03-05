@@ -1,7 +1,0 @@
-{
-    "name": "Olga Koch",
-    "email": "Drake.Legros@mailinator.com",
-    "phone_number": "08033817512erdggjghg",
-    "address": "Idumota, Lagos",
-    "company": "8de18bbd-3806-4754-93a7-0e87e5b01dea"
-}

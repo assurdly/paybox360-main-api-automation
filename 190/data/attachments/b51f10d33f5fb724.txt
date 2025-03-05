@@ -1,0 +1,8 @@
+{
+    "company": "906f2ab7-9796-426f-b486-c85e5855f931",
+    "branch": "7ce310ec-aadd-45dc-a593-ef202658261c",
+    "name": "Stella Schiller",
+    "email": "Simeon_Oberbrunner",
+    "phone": "08002524020",
+    "address": "5712 Lemke Plains"
+}

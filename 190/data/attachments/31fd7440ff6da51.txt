@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"id":"23340d42-da73-42cf-8ebf-391c22f783d4","created_at":"2025-03-05T15:30:52.293273+01:00","title":"Neural Tax","rate":0.0,"company":"System Plc","branch":"Nicolasview"},"errors":null}

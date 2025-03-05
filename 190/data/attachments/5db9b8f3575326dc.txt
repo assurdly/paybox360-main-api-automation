@@ -1,0 +1,1 @@
+{"status":"success","status_code":201,"data":{"details":"invoice registered successfully.","invoice":{"created_at":"2025-03-05T15:30:53.047518+01:00","reference":"INV-MAR-Wo2W40JI","company":"System Plc","branch":"Nicolasview","customer":null,"amount":54430.5,"due_date":"2029-12-31","status":"PENDING"}},"errors":null}

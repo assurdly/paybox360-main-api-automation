@@ -1,0 +1,32 @@
+{
+    "company_id": "418aeed0-a884-44fb-977a-e11001145c56",
+    "addition_type": "PREFILL", 
+    "suppliers": [
+        {
+            "phone_number": "08145677676", 
+            "first_name": "Antonia", 
+            "last_name": "Torp", 
+            "business_name": "You can't transmit the pixel without parsing the redundant PCI array! Ltd",
+            "business_email": "Horace@mailinator.com",
+            "address": "176 Royce Fields",
+            "state": "LAGOS",
+            "bank_name": "WEMA",
+            "bank_code": "044",
+            "account_no": "0123456785",
+            "account_name": "LIBERTYNG"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    ]
+}

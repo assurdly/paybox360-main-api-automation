@@ -1,8 +1,0 @@
-{
-    "company": "f87b0719-18b8-494e-89dc-9e98be9ef657",
-    "branch": "860d250e-a308-4732-850e-9609b5953c64",
-    "name": "Jenny Frami",
-    "email": "Crystel.OKon12@mailinator.com",
-    "phone": "fyghuhrsexcn",
-    "address": "24600 Fausto Alley"
-}

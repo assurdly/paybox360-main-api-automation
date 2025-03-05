@@ -1,0 +1,1 @@
+{"status":"Success","data":{"team_name":"Team + capacitor","company_id":"1810499b-76a5-4722-98da-58c7dd462ec6","members":[{"email":"solaiya@gmail.com","phone_no":"+23407034256781","role":"MEMBER"},{"email":"abayomi5991@gmail.com","phone_no":"+2348031814579","role":"ADMIN"}],"invited_members":[],"team_id":"c1c9c5fc-4915-4a59-9b3a-cca42b01828a"}}
